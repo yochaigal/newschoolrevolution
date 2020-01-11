@@ -275,3 +275,6 @@ section #title .credits.right { float: right; }
 @media print, screen and (max-width: 480px) { #header { margin-top: -20px; }
   section { margin-top: 40px; }
   nav { display: none; } }
+footer { display: none !important; }
+
+.btn { display: none !important; }
