@@ -7,7 +7,7 @@
    {% endfor %}
  </ul>
 
- ## Categories
+ ### Categories
  {% for category in site.categories %}
    <h3>{{ category[0] }}</h3>
    <ul>
@@ -17,7 +17,7 @@
    </ul>
  {% endfor %}
 
- ## Tags
+ ### Tags
  {% for tag in site.tags %}
    <h3>{{ tag[0] }}</h3>
    <ul>
