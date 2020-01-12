@@ -1,0 +1,40 @@
+I"�<p>Carte Noire is designed to start each article with an all-white image as a
+thumbnail. These are created by adding a <code class="highlighter-rouge">thumbnail</code> parameter to the article’s
+<a href="http://jekyllrb.com/docs/frontmatter/">YAML frontmatter</a>. This thumbnail parameter is processed in one of two ways,
+images specified in <code class="highlighter-rouge">_data/thumbnails.yml</code> or using <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>.</p>
+
+<h2 id="images">Images</h2>
+
+<p>To use your own custom images as a thumbnail you must upload them to a web available
+location (I use <a href="http://imgur.com/">Imgur</a>) and then you need to add the url to <code class="highlighter-rouge">_data/thumbnail.yml</code>
+with an associated keyword.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll: "http://i.imgur.com/aRQcGSi.png"
+</code></pre></div></div>
+
+<p>You then add a <code class="highlighter-rouge">thumbnail</code> option to the article’s frontmatter and provide the keyword
+for that thumbnail.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>thumbnail: jekyll
+</code></pre></div></div>
+
+<p>This allows you to re-use thumbnails across multiple articles without having to
+specify the url each time.</p>
+
+<h2 id="font-awesome">Font Awesome</h2>
+
+<p>If jekyll can’t find a corresponding image in your <code class="highlighter-rouge">thumbnail.yml</code> file then it
+will assume you want to use a Font Awesome icon instead. You can find the full
+list of Font Awesome icons <a href="http://fortawesome.github.io/Font-Awesome/icons/">here</a>.</p>
+
+<p>So for example if your article is about android and you want to use the <a href="http://fortawesome.github.io/Font-Awesome/icon/android/">android icon</a>
+from font awesome you can just specify the following in your frontmatter.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>thumbnail: android
+</code></pre></div></div>
+
+<p>Then in the future if you decide you want to use your own android icon you can just
+add it to <code class="highlighter-rouge">_data/thumbnails.yml</code> which will override it for all articles using
+the android thumbnail.</p>
+
+:ET
