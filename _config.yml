@@ -8,7 +8,7 @@ title_description: "A dark blog theme for Jekyll focusing on a clear reading exp
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
-github_repository: "https://newschoolrevolution.com"
+github_repository: https://newschoolrevolution.com
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
