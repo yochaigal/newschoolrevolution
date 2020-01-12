@@ -2,7 +2,154 @@
 layout: default
 ---
 
-[Link to posts](./posts).
+{% for post in site.posts %}
+{% if post.pinned %}
+<section class="pinned">
+
+    <article class="hero-unit rounded color3">
+      <header><hgroup>
+        <h1 class='post-title'>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h1>
+      </hgroup></header>
+      <div class="content">
+        {% if post.content contains '<!--more-->' %}
+          {{ post.content | split:'<!--more-->' | first }}
+        {% else %}
+          {{ post.content |truncatehtml | truncatewords: 60 }}
+        {% endif %}
+      </div>
+      <footer>
+        <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-more">more &raquo;</a></p>
+      </footer>
+    </article>
+  </section>
+{% endif %}
+{% endfor %}
+
+<section class="hero">
+  {% for post in site.posts limit:1 %}
+
+  <article class="hero-unit rounded">
+    <header><hgroup>
+      <h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <h4>
+        {% assign wordCount = post.content | number_of_words %}
+        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words,</time>
+
+        {% if post.modified %}
+          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }},</span>
+        {% endif %}
+
+        <time>
+        filed under
+
+        {% for cat in post.categories %}
+
+        <a href="{{ site.baseurl }}/{{ cat | remove: " " }}.html">{{ cat }}{% if forloop.last == false %},{% endif %} </a>
+
+        {% endfor %}
+
+        &amp; tagged
+
+        {% for tag in post.tags %}
+
+        <a href="{{ site.baseurl }}/tags.html#ref-{{ tag | cgi_escape | remove:'%' }}">{{ tag }}{% if forloop.last == false %},{% endif %}</a>
+
+        {% endfor %}
+        </time>
+      </h4>
+    </hgroup></header>
+    <div class="content">
+      {% if post.content contains '<!--more-->' %}
+        {{ post.content | split:'<!--more-->' | first }}
+      {% else %}
+        {{ post.content |truncatehtml | truncatewords: 60 }}
+      {% endif %}
+    </div>
+    <footer>
+      <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-more">more &raquo;</a></p>
+    </footer>
+  </article>
+
+  {% endfor %}
+</section>
+
+<section class="zero">
+
+  {% for post in site.posts offset:1 limit:4 %}
+
+  <article class="zero-unit rounded">
+    <header><hgroup>
+      <h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <h4>
+        {% assign wordCount = post.content | number_of_words %}
+        <time>{{ post.date | date: "%B %d, %Y @ %I:%M %P" }}, {{ wordCount }} words,</time>
+
+        {% if post.modified %}
+          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }},</span>
+        {% endif %}
+
+        <time>
+        filed under
+
+        {% for cat in post.categories %}
+
+        <a href="{{ site.baseurl }}/{{ cat | remove: " " }}.html">{{ cat }}{% if forloop.last == false %},{% endif %} </a>
+
+        {% endfor %}
+
+        &amp; tagged
+
+        {% for tag in post.tags %}
+
+        <a href="{{ site.baseurl }}/tags.html#ref-{{ tag | cgi_escape | remove:'%' }}">{{ tag }}{% if forloop.last == false %},{% endif %}</a>
+
+        {% endfor %}
+        </time>
+      </h4>
+    </hgroup></header>
+    <div class="content">
+      {% if post.content contains '<!--more-->' %}
+        {{ post.content | split:'<!--more-->' | first }}
+      {% else %}
+        {{ post.content | truncatehtml | truncatewords: 60 }}
+      {% endif %}
+    </div>
+    <footer>
+      <p><a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-more">more &raquo;</a></p>
+    </footer>
+  </article>
+
+
+  {% endfor %}
+</section>
+
+<section>
+  <article class="previous-posts-unit rounded inlinelist">
+      <ul>
+        {% for post in site.posts limit:10 offset:5 %}
+        <li>
+          {% assign wordCount = post.content | number_of_words %}
+        <time>{{ post.date | date: "%B %d, %Y" }}</time>
+
+        {% if post.modified %}
+          <span>{{ site.text.post.updated }}: {{ post.update_date | date: site.date_format }}</span>
+        {% endif %}&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+          {% unless forloop.last %}
+          <li>|</li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+  </article>
+</section>
+
+[Old link to posts](./posts).
 
 ## All Posts
  <ul>
