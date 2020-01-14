@@ -7,11 +7,11 @@ baseurl: ""
 url: https://newschoolrevolution.com
 title_description: "A blog about dragons. Or something."
 title_image: "/img/layard_dragon.png"
-google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
+google_analytics:
+disqus_account: yochaigal
 github_repository: https://github.com/yochaigal/newschoolrevolution/tree/gh-pages
-addthis_id: ra-513c6fa83da6ec67
-post_limit: 5
+addthis_id: 
+post_limit: 10
 
 # Social usernames/URLs
 twitter_username: yochaigal1
