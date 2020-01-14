@@ -1,4 +1,7 @@
 My name is Yochai.
-I write about RPGs, and occasionally related works of fantasy and science fiction.
-
+<br/>
+I write about RPGs, and related works of fantasy and science fiction.
+<br/>
+Other ways to contact me can be found below.
+<br/>
 {% include social_links.html %}
