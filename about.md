@@ -1,3 +1,8 @@
+---
+layout:     page
+title:      About Me
+---
+
 My name is Yochai.
 <br/>
 I write about RPGs, and related works of fantasy and science fiction.
