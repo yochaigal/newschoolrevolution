@@ -4,11 +4,11 @@ description: "A blog about dragons. Or something."
 author: yochaigal
 email: yochaigal@gmail.com
 baseurl: ""
-url: 
+url:
 title_description: "A blog about dragons. Or something."
 title_image: "/img/layard_dragon.png"
 google_analytics:
-disqus_account: newschoolrevolution-com.disqus.com
+disqus_account: https-newschoolrevolution-com
 github_repository: https://github.com/yochaigal/newschoolrevolution/tree/gh-pages
 addthis_id:
 post_limit: 10
