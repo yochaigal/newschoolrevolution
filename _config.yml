@@ -1,4 +1,3 @@
-# Site settings
 title: "New School Revolution"
 description: "A blog about dragons. Or something."
 author: yochaigal
@@ -13,16 +12,10 @@ github_repository: https://github.com/yochaigal/newschoolrevolution/tree/gh-page
 addthis_id:
 post_limit: 10
 
-# Social usernames/URLs
 twitter_username: yochaigal1
 github_username: yochaigal
 reddit_username: yochaigal
 
-# Footer
-#footer_left: "Theme created by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-#footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
-
-# Build settings
 markdown: kramdown
 
 kramdown:
