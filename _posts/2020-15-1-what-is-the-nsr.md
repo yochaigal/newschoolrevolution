@@ -1,9 +1,10 @@
 ---
+title: "What is the New School Revolution?"
 layout: post
-title: What is the New School Revolution?
-date: 2020-01-15
+date: 2020-01-14 18:00:00
 categories: post rpg
 tags: osr nsr rpg
+published: true
 ---
 
 What is the New School Revolution?

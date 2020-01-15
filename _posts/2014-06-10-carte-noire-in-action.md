@@ -5,11 +5,7 @@ date:       2014-06-10 12:31:19
 summary:    See what the different elements looks like.
 categories: jekyll
 thumbnail: cogs
-tags:
- - demo
- - action
- - carte
- - noire
+published: false
 ---
 
 **Note** - This article is a derivative of ["See pixyll in action"][1], taken from the lovely jekyll theme [pixyll][4].
