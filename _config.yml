@@ -29,5 +29,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-permalink: /:title
+permalink: /:year/:month/:day/:title
 exclude: [vendor]
