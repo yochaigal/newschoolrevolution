@@ -1,5 +1,5 @@
 ---
-title: "What is the New School Revolution?"
+title: "NSR Defined"
 layout: post
 date: 2020-01-14 18:00:00
 categories: post rpg
