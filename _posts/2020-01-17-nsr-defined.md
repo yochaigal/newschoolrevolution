@@ -2,11 +2,8 @@
 title: "NSR Defined"
 layout: post
 date: 2020-01-14 18:00:00
-categories: ['posts', 'rpg']
-tags: 
- - nsr
- - osr
- - rpg
+categories: posts rpg
+tags: osr nsr rpg
 published: true
 ---
 
