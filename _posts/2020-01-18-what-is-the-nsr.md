@@ -7,18 +7,18 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21nd, [Pandathiest](https://mobile.twitter.com/Pandatheist) published a short, simple entry on his blog [**Bone Box Chant**](https://boneboxchant.wordpress.com) called ["New School Revolution"](https://boneboxchant.wordpress.com/2019/12/21/nsr/). In the post, he creates a new label for a particular kind of play experience.
+On December 21nd, [Pandathiest](https://mobile.twitter.com/Pandatheist) published a short, simple entry on his blog [**Bone Box Chant**](https://boneboxchant.wordpress.com) called ["New School Revolution"](https://boneboxchant.wordpress.com/2019/12/21/nsr/). In the post, he creates a new label for a particular kind of play experience; I've reproduced his original text below:
 
-NSR games have:
-   * A GM
-   * A Weird Setting
-   * A Living World
+**NSR games have:**
+* A GM
+* A Weird Setting
+* A Living World
 
-are:
-   * Rules lite
-   * Deadly
+**are:**
+* Rules lite
+* Deadly
 
-and focus on:
-   * Emergent Narrative
-   * External Interaction
-   * Exploration
+**and focus on:**
+   - Emergent Narrative
+   - External Interaction
+   - Exploration
