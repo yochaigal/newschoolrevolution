@@ -26,3 +26,4 @@ permalink: /:year/:month/:day/:title
 exclude: [vendor]
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
