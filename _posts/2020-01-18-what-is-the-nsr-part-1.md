@@ -7,7 +7,7 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21nd, [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution"](https://boneboxchant.wordpress.com/2019/12/21/nsr/). What I found so inspiring about this post was how accurately he'd been able to describe the exact play style I preferred, without the classic snobbishness you might expect from such a thought-provoking piece. In this series of posts, I hope to expand a bit upon Shane's definitions of this unique style of play. I've reproduced the original description here:
+On December 21nd, [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) What I found so inspiring about this post was how accurately he'd been able to describe the exact play style I preferred, without the classic snobbishness you might expect from such a thought-provoking piece. In this series of posts, I hope to expand a bit upon Shane's definitions of this unique style of play. I've reproduced the original description here:
 
 ---
 <p></p>
@@ -28,7 +28,7 @@ On December 21nd, [Shane Ivey](https://mobile.twitter.com/Pandatheist) published
 
 And that's basically it! Inclusive. No purity tests, no rules requirements, no us vs them, just a brief list of stuff to help find games that match your taste. Think of this(with maybe the exception of the GM requirement) as a series of Venn Diagrams. The more you hit the more people will agree with your categorization.
 
-So what’s the point of this? Games like Mothership, World of Dungeons, Troika, and Into the Odd have almost nothing in common if you just look at the mechanics. But drop someone who enjoys any one of those into a game of the other and they’ll probably have a good time. The games all share a perspective. The term NSR is useful in that it describes a style of play. “If I like game X I will probably like game Y.” or “I don’t love game X as written but I can run it in an NSR style.""
+So what’s the point of this? Games like Mothership, World of Dungeons, Troika, and Into the Odd have almost nothing in common if you just look at the mechanics. But drop someone who enjoys any one of those into a game of the other and they’ll probably have a good time. The games all share a perspective. The term NSR is useful in that it describes a style of play. “If I like game X I will probably like game Y.” or “I don’t love game X as written but I can run it in an NSR style."
 
 I have no interest in introducing yet another term for internecine warfare. But I see a descriptive gap for this style of play. OSR is heavily tied to old school D&D. Artpunk hasn’t really caught on. Sword Dream is mostly an itch.io phenomena. It feels like we need something else. Please use the term NSR if you find it useful. I certainly do.
 
