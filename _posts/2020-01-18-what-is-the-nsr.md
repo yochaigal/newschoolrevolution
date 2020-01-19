@@ -34,7 +34,7 @@ I have no interest in introducing yet another term for internecine warfare. But 
 
 ---
 
-Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having **"A GM"** means, so I'll move right along to **"A Weird Setting"**. To me, _Weird_ in the context of RPGs can mean a couple of things:
+Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having _A GM_ means, so I'll move right along to _A Weird Setting_. To me, _Weird_ in the context of RPGs can mean a couple of things:
 * A subversion of tropes, especially from the Fantasy and Science Fiction genres.
 * The players may sometimes feel _unsettled_ by their interactions with the world.  
 * Mystery and the unknown are major factors in play.
@@ -58,4 +58,4 @@ _"Imagine, if you will, that Douglas Adams and Terry Pratchett have returned fro
 The esteemed David Schirduan wrote an excellent [character generator](https://technicalgrimoire.com/troikagenerator) for Troika! that really conveys the _strangeness_ of the system:
 ![Star Tyrant](/img/star-tyrant.png)
 
-I can start the game with _Bridle of Aeons_? What does that mean? Time to find out!
+I start the game with _Bridle of Aeons_? What does that do? I love the implied build-your-own setting this inspires, albeit aided by brilliant scaffolding.
