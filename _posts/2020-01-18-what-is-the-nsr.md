@@ -14,12 +14,13 @@ I've reproduced the original definition here:
 * A GM
 * A Weird Setting
 * A Living World
-
+<p></p>
 ### are:
 * Rules lite
 * Deadly
-
+<p></p>
 ### and focus on:
    - Emergent Narrative
    - External Interaction
    - Exploration
+<p></p>
