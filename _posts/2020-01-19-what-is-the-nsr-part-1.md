@@ -4,15 +4,13 @@ title: "What is the New School Revolution? Part 1."
 date: 2020-01-19
 categories: ['posts', 'rpg']
 tags: ['osr', 'nsr', 'rpg']
-published: false
+published: true
 ---
 
-On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) A few days after reading it, I went ahead and bought the domain name for this blog (with permission, of course).  
+On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) A few days after reading this post, I went ahead and bought the domain name for this blog (with Shane's permission, of course).  I put a snippet below.
 
-What I found so inspiring about this post was how accurately Shane described the exact play style I enjoy the most, a style without the pretentiousness or snobbery often found in a hyper-niche hobby like rpgs. In this series of posts, I hope to expand upon Shane's initial framework a bit. Any distortions of his original idea are entirely mine.
-
+<p></p>
 ---
-
 (From Shane's [post](https://boneboxchant.wordpress.com/2019/12/21/nsr/))
 <p></p>
 ### NSR games have:
@@ -32,8 +30,12 @@ What I found so inspiring about this post was how accurately Shane described the
 
 ---
 <p></p>
+What I found so inspiring about his post was how accurately Shane had described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon Shane's initial framework a bit. **Any distortions of his original idea are entirely mine.**
+
 ## The Weird
-Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having _A GM_ means, so I'll move right along to _A Weird Setting_. To me, _Weird_ in the context of RPGs can mean a couple of things:
+Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having _A GM_ means, so well move right along to _A Weird Setting_. You may already be familiar with [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction) as a literary movement; authors like H.P. Lovecraft, China Mieville, Jeff Vandermeer, Caitlín R. Kiernan, Clark Ashton Smith, James Triptee, Jr, Mark Z. Danielewski, Tanith Lee, etc. These writers (different as they may be) have a tendency to write about the uncanny, the unexplained and the unknowable. As [described](http://www.hplovecraft.com/writings/texts/essays/nwwf.aspx) by H.P. Lovecraft, "*These stories frequently emphasise the element of horror because fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions. Horror and the unknown or the strange are always closely connected, so that it is hard to create a convincing picture of shattered natural law or cosmic alienage or “outsideness” without laying stress on the emotion of fear.*"  
+
+To me, _The Weird_ in the context of RPGs can mean a couple of things:
 * A subversion of tropes, especially from the Fantasy and Science Fiction genres.
 * The players may sometimes feel _unsettled_ by their interactions with the world.  
 * Mystery and the unknown are major factors in play.
@@ -42,7 +44,7 @@ Let's break this down a bit, starting with the shared properties of these so-cal
 Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to _conquer_ the world, but instead to try and overcome its inherit strangeness. As [The Luminescent Lich
 ](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play.
 
-## Games
+## Weird Games
 Over the past few years, there have been quiet a few game systems & settings released with this sort of play experience in mind. One in particular stands out:
 <br>
 
@@ -55,9 +57,9 @@ Here are a few bullet points describing Troika!, taken from the publisher's webs
 * No huge essays explaining the setting or lore! Everything you need to know is tucked away inside the items, spell, enemies and backgrounds.
 * The freedom to allow and positively encourage every group of players to interact with the setting differently; each game group will be unique.
 * 36 unique player character backgrounds from Ardent Giant of Corda to Zoanthrope​.
+<p></p>
 
 And from the game's rules:
-
 "_Roll randomly to determine your starting Background. Notice that they only touch the edge of specificity: it is up to you to tailor them to the worlds you play in. Rework them or remove them entirely and replace them with your own unique vision of the spheres. Boldy lay claim to the games you play, create content recklessly, and always write in pen._"
 
 These backgrounds really do provide a framework for truly unique and _weird_ play. Want an example? This [character generator](https://technicalgrimoire.com/troikagenerator) by [David Schirduan](https://twitter.com/davidschirduan) has you covered:
