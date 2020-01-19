@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is the New School Revolution? Part 1."
-date: 2020-01-18
+date: 2020-01-19
 categories: ['posts', 'rpg']
 tags: ['osr', 'nsr', 'rpg']
-published: false
+published: true
 ---
 
 On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
@@ -47,7 +47,7 @@ Over the past few years, there have been quiet a few game systems & settings rel
 <br>
 
 ### Troika! Numinous Edition
-There is likely no better example of a _Weird Setting_ than [Troika!](https://www.troikarpg.com/), from [Daniel Sell](https://twitter.com/ignus) & the Melsonian Arts Council. In his [review](https://cannibalhalflinggaming.com/2019/02/27/troika-review/) of Troika!, [Aaron Marks](https://twitter.com/levelonewonk) of [Cannibal Halfing Gaming](https://cannibalhalflinggaming.com/) writes:
+There is likely no better example of _Weird_ than [Troika!](https://www.troikarpg.com/), from [Daniel Sell](https://twitter.com/ignus) & the Melsonian Arts Council. In his [review](https://cannibalhalflinggaming.com/2019/02/27/troika-review/) of Troika!, [Aaron Marks](https://twitter.com/levelonewonk) of [Cannibal Halfing Gaming](https://cannibalhalflinggaming.com/) writes:
 
 _"Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG."_
 
@@ -65,4 +65,6 @@ These backgrounds really do provide a framework for truly unique and _weird_ pla
 <p></p>
 ![Star Tyrant](/img/star-tyrant.png)
 
-The person playing this character would start with something called the _Bridle of Aeons_? What does that do? What does it mean for the world we're building? The character backgrounds, the writing and the absolutely gorgeous art really helps the GM (and the players) lean-in to the _Weird_. I strongly recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is _perfect_ for the setting it encourages.
+The person playing this character would start with something called the _Bridle of Aeons_? What does that do? What does it mean for the world we're building? How do the other characters (rolled similarly) relate to this background? One can easily imagine how a homebrew setting, informed by characters with backgrounds like these, would make for a truly _unique_ play experience.  
+
+This is of course just one aspect of what makes Troika! such a special game; the writing and absolutely gorgeous art also help the GM (and the players) lean-in to the _Weird_. I strongly recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is _perfect_ for the setting it encourages.
