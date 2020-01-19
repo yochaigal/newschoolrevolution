@@ -7,7 +7,11 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21nd, [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) What I found so inspiring about this post was how accurately he'd been able to describe the exact play style I preferred, without the classic snobbishness you might expect from such a thought-provoking piece. In this series of posts, I hope to expand a bit upon Shane's definitions of this unique style of play. I've reproduced the original description here:
+On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
+
+What I found so inspiring about this post was how accurately Shane seemed to describe the exact play style I enjoy the most, without the pretentiousness or snobbery you might expect in such a hyper-niche hobby. In this series of posts, I hope to expand upon Shane's initial framework a bit. Any distortions of his original idea are entirely mine.
+
+I've reproduced the original description below. 
 
 ---
 <p></p>
@@ -26,7 +30,7 @@ On December 21nd, [Shane Ivey](https://mobile.twitter.com/Pandatheist) published
 * Exploration
 <p></p>
 
-And that's basically it! Inclusive. No purity tests, no rules requirements, no us vs them, just a brief list of stuff to help find games that match your taste. Think of this(with maybe the exception of the GM requirement) as a series of Venn Diagrams. The more you hit the more people will agree with your categorization.
+And that's basically it! Inclusive. No purity tests, no rules requirements, no us vs them, just a brief list of stuff to help find games that match your taste. Think of this (with maybe the exception of the GM requirement) as a series of Venn Diagrams. The more you hit the more people will agree with your categorization.
 
 So what’s the point of this? Games like Mothership, World of Dungeons, Troika, and Into the Odd have almost nothing in common if you just look at the mechanics. But drop someone who enjoys any one of those into a game of the other and they’ll probably have a good time. The games all share a perspective. The term NSR is useful in that it describes a style of play. “If I like game X I will probably like game Y.” or “I don’t love game X as written but I can run it in an NSR style."
 
@@ -34,7 +38,7 @@ I have no interest in introducing yet another term for internecine warfare. But 
 
 ---
 <p></p>
-## What this all means (part 1).
+## The Weird
 Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having _A GM_ means, so I'll move right along to _A Weird Setting_. To me, _Weird_ in the context of RPGs can mean a couple of things:
 * A subversion of tropes, especially from the Fantasy and Science Fiction genres.
 * The players may sometimes feel _unsettled_ by their interactions with the world.  
@@ -42,7 +46,10 @@ Let's break this down a bit, starting with the shared properties of these so-cal
 
 <br>
 Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to _conquer_ the world, but instead to try and overcome its inherit strangeness. As [The Luminescent Lich
-](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play. Over the past few years, there have been quiet a few game systems & settings released with this sort of play experience in mind. One in particular stands out:
+](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play.
+
+**Games**
+Over the past few years, there have been quiet a few game systems & settings released with this sort of play experience in mind. One in particular stands out:
 <br>
 
 ### Troika! Numinous Edition
