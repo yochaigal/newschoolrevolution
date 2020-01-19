@@ -42,7 +42,7 @@ Let's break this down a bit, starting with the shared properties of these so-cal
 Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to _conquer_ the world, but instead to try and overcome its inherit strangeness. As [The Luminescent Lich
 ](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play.
 
-**Games**
+## Games
 Over the past few years, there have been quiet a few game systems & settings released with this sort of play experience in mind. One in particular stands out:
 <br>
 
