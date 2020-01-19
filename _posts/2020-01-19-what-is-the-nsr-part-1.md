@@ -7,7 +7,7 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) A few days after reading this post, I went ahead and bought the domain name for this blog (with Shane's permission, of course).  I put a snippet below.
+On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) I put a snippet below.
 
 <p></p>
 ---
