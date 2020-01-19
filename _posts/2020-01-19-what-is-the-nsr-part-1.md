@@ -7,7 +7,7 @@ tags: ['osr', 'nsr', 'rpg']
 published: false
 ---
 
-On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
+On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) A few days after reading it, I went ahead and bought the domain name for this blog (with permission, of course).  
 
 What I found so inspiring about this post was how accurately Shane described the exact play style I enjoy the most, a style without the pretentiousness or snobbery often found in a hyper-niche hobby like rpgs. In this series of posts, I hope to expand upon Shane's initial framework a bit. Any distortions of his original idea are entirely mine.
 
@@ -51,13 +51,12 @@ There is likely no better example of _Weird_ than [Troika!](https://www.troikarp
 
 _"Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG."_
 
-The publisher's website describes Troika!'s as follows (less relevant items left out):
-* A science-fantasy universe in the spirit of works such as Dying Earth, Viriconium, and Book of the New Sun.
+Here are a few bullet points describing Troika!, taken from the publisher's website:
 * No huge essays explaining the setting or lore! Everything you need to know is tucked away inside the items, spell, enemies and backgrounds.
 * The freedom to allow and positively encourage every group of players to interact with the setting differently; each game group will be unique.
 * 36 unique player character backgrounds from Ardent Giant of Corda to Zoanthrope​.
 
-There's a lot to unpack here; as such I'm only going to focus on what I perceive as the core of what makes this game _Weird_: the player character backgrounds. From the game rules:
+And from the game's rules:
 
 "_Roll randomly to determine your starting Background. Notice that they only touch the edge of specificity: it is up to you to tailor them to the worlds you play in. Rework them or remove them entirely and replace them with your own unique vision of the spheres. Boldy lay claim to the games you play, create content recklessly, and always write in pen._"
 
