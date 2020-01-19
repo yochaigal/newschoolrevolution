@@ -64,4 +64,4 @@ The "36 unique player character backgrounds" really make this game, as they prov
 To see what I mean, check out this excellent [character generator](https://technicalgrimoire.com/troikagenerator) for Troika! by the esteemed [David Schirduan](https://twitter.com/davidschirduan):
 ![Star Tyrant](/img/star-tyrant.png)
 
-So, as this character, you would start with something called the "_Bridle of Aeons_"? What does that do? What does it mean for the world we're building, together? I simply love the implied setting that this background inspires!
+As this character, you would start with something called the "_Bridle of Aeons_"? What does that do? What does it mean for the world we're building, together? I simply love the implied setting that this background inspires! And there are _so many more of them_. 
