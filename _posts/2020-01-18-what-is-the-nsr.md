@@ -44,18 +44,22 @@ Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/w
 ](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play.
 <br>
 
-### Troika!
-There is likely no better example of a _Weird Setting_ than [Troika!](https://www.troikarpg.com/), from Melsonian Arts Council. Troika's website describes the game via the following bullet points (relevant items left out):
+### Troika! Numinous Edition
+There is likely no better example of a _Weird Setting_ than [Troika!](https://www.troikarpg.com/), from [Daniel Sell](https://twitter.com/ignus) & the Melsonian Arts Council. In his [review](https://cannibalhalflinggaming.com/2019/02/27/troika-review/) of Troika!, [Aaron Marks](https://twitter.com/levelonewonk) of [Cannibal Halfing Gaming](https://cannibalhalflinggaming.com/) writes:
+
+_"Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG."_
+
+The publisher's website describes Troika!'s as follows (less relevant items left out):
 * A science-fantasy universe in the spirit of works such as Dying Earth, Viriconium, and Book of the New Sun.
 * No huge essays explaining the setting or lore! Everything you need to know is tucked away inside the items, spell, enemies and backgrounds.
 * The freedom to allow and positively encourage every group of players to interact with the setting differently; each game group will be unique.
 * 36 unique player character backgrounds from Ardent Giant of Corda to Zoanthrope​.
 
-In his [review](https://cannibalhalflinggaming.com/2019/02/27/troika-review/) of Troika!, Aaron Marks of [Cannibal Halfing Gaming](https://cannibalhalflinggaming.com/); writes:
+The "36 unique player character backgrounds" really make this game, as they provide a framework for truly _weird_ and original play. From the game rules:
 
-_"Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG."_
+"_Roll randomly to determine your starting Background. Notice that they only touch the edge of specificity: it is up to you to tailor them to the worlds you play in. Rework them or remove them entirely and replace them with your own unique vision of the spheres. Boldy lay claim to the games you play, create content recklessly, and always write in pen._"
 
-The esteemed David Schirduan wrote an excellent [character generator](https://technicalgrimoire.com/troikagenerator) for Troika! that really conveys the _strangeness_ of the system:
+To see what I mean, check out this excellent [character generator](https://technicalgrimoire.com/troikagenerator) for Troika! by the esteemed [David Schirduan](https://twitter.com/davidschirduan):
 ![Star Tyrant](/img/star-tyrant.png)
 
 So, as this character, you would start with something called the "_Bridle of Aeons_"? What does that do? What does it mean for the world we're building, together? I simply love the implied setting that this background inspires!
