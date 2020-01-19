@@ -56,11 +56,11 @@ The publisher's website describes Troika!'s as follows (less relevant items left
 * The freedom to allow and positively encourage every group of players to interact with the setting differently; each game group will be unique.
 * 36 unique player character backgrounds from Ardent Giant of Corda to Zoanthrope​.
 
-The "36 unique player character backgrounds" really make this game, as they provide a framework for truly _weird_ and original play. From the game rules:
+There's a lot to unpack here; as such I'm only going to focus on what I perceive as the core of what makes this game _Weird_: the player character backgrounds. From the game rules:
 
 "_Roll randomly to determine your starting Background. Notice that they only touch the edge of specificity: it is up to you to tailor them to the worlds you play in. Rework them or remove them entirely and replace them with your own unique vision of the spheres. Boldy lay claim to the games you play, create content recklessly, and always write in pen._"
 
-Want an example? This [character generator](https://technicalgrimoire.com/troikagenerator) by [David Schirduan](https://twitter.com/davidschirduan) has you covered:
+These backgrounds really do provide a framework for truly unique and _weird_ play. Want an example? This [character generator](https://technicalgrimoire.com/troikagenerator) by [David Schirduan](https://twitter.com/davidschirduan) has you covered:
 <p></p>
 ![Star Tyrant](/img/star-tyrant.png)
 
