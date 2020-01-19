@@ -65,4 +65,4 @@ Want an example? This [character generator](https://technicalgrimoire.com/troika
 <p></p>
 ![Star Tyrant](/img/star-tyrant.png)
 
-The person playing this character would start with something called the "_Bridle of Aeons_"? What does that do? What does it mean for the world we're building? This character system, coupled with the absolutely gorgeous art really helps the GM (and the players) lean-in to the _Weird_. I strongly recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is _perfect_ for the setting it encourages.
+The person playing this character would start with something called the _Bridle of Aeons_? What does that do? What does it mean for the world we're building? The character backgrounds, the writing and the absolutely gorgeous art really helps the GM (and the players) lean-in to the _Weird_. I strongly recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is _perfect_ for the setting it encourages.
