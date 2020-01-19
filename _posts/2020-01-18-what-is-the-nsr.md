@@ -43,7 +43,7 @@ Let's break this down a bit, starting with the shared properties of these so-cal
 
 <br>
 Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to _conquer_ the world, but instead to try and overcome its inherit strangeness. As [The Luminescent Lich
-](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play.
+](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play. Over the past few years, there have been quiet a few game systems & settings released with this sort of play experience in mind. One in particular stands out:
 <br>
 
 ### Troika! Numinous Edition
@@ -61,7 +61,8 @@ The "36 unique player character backgrounds" really make this game, as they prov
 
 "_Roll randomly to determine your starting Background. Notice that they only touch the edge of specificity: it is up to you to tailor them to the worlds you play in. Rework them or remove them entirely and replace them with your own unique vision of the spheres. Boldy lay claim to the games you play, create content recklessly, and always write in pen._"
 
-To see what I mean, check out this excellent [character generator](https://technicalgrimoire.com/troikagenerator) for Troika! by the esteemed [David Schirduan](https://twitter.com/davidschirduan):
+Want an example? This [character generator](https://technicalgrimoire.com/troikagenerator) by [David Schirduan](https://twitter.com/davidschirduan) has you covered:
+<p></p>
 ![Star Tyrant](/img/star-tyrant.png)
 
-As this character, you would start with something called the "_Bridle of Aeons_"? What does that do? What does it mean for the world we're building, together? I simply love the implied setting that this background inspires! And there are _so many more of them_. 
+The person playing this character would start with something called the "_Bridle of Aeons_"? What does that do? What does it mean for the world we're building? This character system, coupled with the absolutely gorgeous art really helps the GM (and the players) lean-in to the _Weird_. I strongly recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is _perfect_ for the setting it encourages.
