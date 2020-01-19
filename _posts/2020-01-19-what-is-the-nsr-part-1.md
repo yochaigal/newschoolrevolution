@@ -4,7 +4,7 @@ title: "What is the New School Revolution? Part 1."
 date: 2020-01-19
 categories: ['posts', 'rpg']
 tags: ['osr', 'nsr', 'rpg']
-published: true
+published: false
 ---
 
 On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
