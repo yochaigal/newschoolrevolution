@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "What is the New School Revolution?"
+title: "What is the New School Revolution? Part 1."
 date: 2020-01-18
 categories: ['posts', 'rpg']
 tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21nd, [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [**Bone Box Chant**](https://boneboxchant.wordpress.com) called ["New School Revolution"](https://boneboxchant.wordpress.com/2019/12/21/nsr/). What I found so inspiring about this post was how accurately he'd been able to describe the exact play style I preferred, without the classic snobbishness you might expect from such a thought-provoking piece.
-I've reproduced the original description here:
+On December 21nd, [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution"](https://boneboxchant.wordpress.com/2019/12/21/nsr/). What I found so inspiring about this post was how accurately he'd been able to describe the exact play style I preferred, without the classic snobbishness you might expect from such a thought-provoking piece. In this series of posts, I hope to expand a bit upon Shane's definitions of this unique style of play. I've reproduced the original description here:
 
 ---
 <p></p>
@@ -35,7 +34,7 @@ I have no interest in introducing yet another term for internecine warfare. But 
 
 ---
 <p></p>
-## What this all means.
+## What this all means (part 1).
 Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having _A GM_ means, so I'll move right along to _A Weird Setting_. To me, _Weird_ in the context of RPGs can mean a couple of things:
 * A subversion of tropes, especially from the Fantasy and Science Fiction genres.
 * The players may sometimes feel _unsettled_ by their interactions with the world.  
