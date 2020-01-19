@@ -58,4 +58,4 @@ _"Imagine, if you will, that Douglas Adams and Terry Pratchett have returned fro
 The esteemed David Schirduan wrote an excellent [character generator](https://technicalgrimoire.com/troikagenerator) for Troika! that really conveys the _strangeness_ of the system:
 ![Star Tyrant](/img/star-tyrant.png)
 
-I start the game with _Bridle of Aeons_? What does that do? I love the implied build-your-own setting this inspires, albeit aided by brilliant scaffolding.
+So, as this character, you would start with something called the "_Bridle of Aeons_"? What does that do? What does it mean for the world we're building, together? I simply love the implied setting that this background inspires!
