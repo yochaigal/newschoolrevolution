@@ -47,14 +47,15 @@ Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/w
 ### Troika!
 There is likely no better example of a _Weird Setting_ than [Troika!](https://www.troikarpg.com/), from Melsonian Arts Council. Troika's website describes the game via the following bullet points (relevant items left out):
 * A science-fantasy universe in the spirit of works such as Dying Earth, Viriconium, and Book of the New Sun.
-
 * No huge essays explaining the setting or lore! Everything you need to know is tucked away inside the items, spell, enemies and backgrounds.
-
 * The freedom to allow and positively encourage every group of players to interact with the setting differently; each game group will be unique.
-
 * 36 unique player character backgrounds from Ardent Giant of Corda to Zoanthrope​.
-
 
 In his [review](https://cannibalhalflinggaming.com/2019/02/27/troika-review/) of Troika!, Aaron Marks of [Cannibal Halfing Gaming](https://cannibalhalflinggaming.com/); writes:
 
 _"Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG."_
+
+The esteemed David Schirduan wrote an excellent [character generator](https://technicalgrimoire.com/troikagenerator) for Troika! that really conveys the _strangeness_ of the system:
+![Star Tyrant](/img/star-tyrant.png)
+
+I can start the game with _Bridle of Aeons_? What does that mean? Time to find out!
