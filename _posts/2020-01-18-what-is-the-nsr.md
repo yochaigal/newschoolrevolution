@@ -33,6 +33,7 @@ So what’s the point of this? Games like Mothership, World of Dungeons, Troika,
 I have no interest in introducing yet another term for internecine warfare. But I see a descriptive gap for this style of play. OSR is heavily tied to old school D&D. Artpunk hasn’t really caught on. Sword Dream is mostly an itch.io phenomena. It feels like we need something else. Please use the term NSR if you find it useful. I certainly do.
 
 ---
+## What this all means.
 
 Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having _A GM_ means, so I'll move right along to _A Weird Setting_. To me, _Weird_ in the context of RPGs can mean a couple of things:
 * A subversion of tropes, especially from the Fantasy and Science Fiction genres.
