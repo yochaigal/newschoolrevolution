@@ -7,11 +7,10 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
+On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) Excerpt below.
 
 <p></p>
 ---
-(From Shane's [post](https://boneboxchant.wordpress.com/2019/12/21/nsr/))
 <p></p>
 ### NSR games have:
 * A GM
@@ -33,7 +32,7 @@ On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) pub
 What I found so inspiring about his post was how accurately Shane had described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon Shane's initial framework a bit, starting with what a Weird Setting means to me. **Any distortions of his original ideas are entirely mine.**
 
 ## The Weird
-Let's break this down a bit, starting with the shared properties of NSR games. I think we all already know what having _a GM_ means, so let's move right along to _a Weird Setting_.
+Let's break this down a bit, starting with the shared properties of NSR games. For this series, I'm not going to expound on the NSR properties in any particular order; as such, I've decided to start with _a Weird Setting_!
 
 You may already be familiar with [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction) as a literary movement; authors such as  H.P. Lovecraft, China Mieville, Jeff Vandermeer, Caitlín R. Kiernan, Clark Ashton Smith, James Triptee, Jr, Mark Z. Danielewski, Tanith Lee, and so on.
 
@@ -79,3 +78,7 @@ These backgrounds provide a framework for unique and weird play. Want an example
 The person playing this character would start with something called "the Bridle of Aeons". What does that do? What does it mean for the world we're building? How do the other characters, rolled similarly, relate to this background? One can easily imagine how a homebrew setting, informed by characters with backgrounds like these, would make for a truly unique play experience.
 
 This is of course just one aspect of what makes *Troika!* such a special game; the writing and gorgeous art also help the GM and the players lean-in to the _Weird_. I recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is perfect for the setting it encourages.
+
+Obviously there are other _Weird_ games out there (*The Shadow of Yesterday* comes to mind) but I think Troika! takes the cake. I strongly recommend folks check it out; the [art-free version](https://payhip.com/b/EVKN) is PWYW.
+
+That's all for now. Thanks for reading!
