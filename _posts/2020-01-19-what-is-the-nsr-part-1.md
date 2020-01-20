@@ -30,7 +30,7 @@ On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) publ
 
 ---
 <p></p>
-What I found so inspiring about his post was how accurately Shane had described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon Shane's initial framework a bit. **Any distortions of his original idea are entirely mine.**
+What I found so inspiring about his post was how accurately Shane had described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon Shane's initial framework a bit, starting with what a Weird Setting means to me. **Any distortions of his original ideas are entirely mine.**
 
 ## The Weird
 Let's break this down a bit, starting with the shared properties of these so-called NSR games. I think we all already know what having _A GM_ means, so well move right along to _A Weird Setting_. You may already be familiar with [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction) as a literary movement; authors such as  H.P. Lovecraft, China Mieville, Jeff Vandermeer, Caitlín R. Kiernan, Clark Ashton Smith, James Triptee, Jr, Mark Z. Danielewski, Tanith Lee, etc.
@@ -48,7 +48,7 @@ Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/w
 ](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through _the thrill of discovery and the atmosphere of the fantastic_ that the players experience _The Weird_ in play. They start from a place of seeming normality, and venture into the abnormal. In a _Weird_ setting, sentient lion/ostrich hybrids hunting for prey through vast jungles would be unusual, and equally terrifying to the player characters.   
 
 ## Weird Games
-Over the past few years, there have been quiet a few game systems & settings released with this sort of play experience in mind. One in particular stands out:
+Over the past few years, there have been quite a few game systems & settings released with this sort of play experience in mind. One in particular stands out:
 <br>
 
 ### Troika! Numinous Edition
