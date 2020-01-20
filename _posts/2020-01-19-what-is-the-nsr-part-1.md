@@ -7,7 +7,7 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
+On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) published a short entry on his blog [Bone Box Chant](https://boneboxchant.wordpress.com) called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/)
 
 <p></p>
 ---
@@ -33,13 +33,13 @@ On December 21st, 2019 [Shane Ivey](https://mobile.twitter.com/Pandatheist) publ
 What I found so inspiring about his post was how accurately Shane had described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon Shane's initial framework a bit, starting with what a Weird Setting means to me. **Any distortions of his original ideas are entirely mine.**
 
 ## The Weird
-Let's break this down a bit, starting with the shared properties of NSR games. I think we all already know what having _a GM_ means, so let's move right along to _a Weird Setting_. 
+Let's break this down a bit, starting with the shared properties of NSR games. I think we all already know what having _a GM_ means, so let's move right along to _a Weird Setting_.
 
 You may already be familiar with [Weird Fiction](https://en.wikipedia.org/wiki/Weird_fiction) as a literary movement; authors such as  H.P. Lovecraft, China Mieville, Jeff Vandermeer, Caitlín R. Kiernan, Clark Ashton Smith, James Triptee, Jr, Mark Z. Danielewski, Tanith Lee, and so on.
 
-These writers, different as they may be from one another, all wrote about the uncanny, the unexplained and the unknowable. As [described](http://www.hplovecraft.com/writings/texts/essays/nwwf.aspx) by H.P. Lovecraft: 
+These writers, different as they may be from one another, all wrote about the uncanny, the unexplained and the unknowable. As [described](http://www.hplovecraft.com/writings/texts/essays/nwwf.aspx) by H.P. Lovecraft:
 
-> *These stories frequently emphasise the element of horror because fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions. Horror and the unknown or the strange are always closely connected, so that it is hard to create a convincing picture of shattered natural law or cosmic alienage or “outsideness” without laying stress on the emotion of fear.* 
+> *These stories frequently emphasise the element of horror because fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions. Horror and the unknown or the strange are always closely connected, so that it is hard to create a convincing picture of shattered natural law or cosmic alienage or “outsideness” without laying stress on the emotion of fear.*
 
 To me, _The Weird_ in the context of RPGs can mean a couple of things:
 * A subversion of tropes, especially from the Fantasy and Science Fiction genres.
@@ -48,7 +48,7 @@ To me, _The Weird_ in the context of RPGs can mean a couple of things:
 * There is a clear separation between the _weird_ and the _normal_.
 
 <br>
-Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to conquer the world, but instead to try and overcome its inherit strangeness. 
+Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to conquer the world, but instead to try and overcome its inherit strangeness.
 
 As [The Luminescent Lich
 ](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through "the thrill of discovery and the atmosphere of the fantastic" that the players experience _The Weird_ in play. They start from a place of seeming normality, and venture into the abnormal. In a _Weird_ setting, sentient lion/ostrich hybrids hunting for prey through vast jungles would be unusual, and equally terrifying to the player characters.   
