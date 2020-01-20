@@ -29,7 +29,7 @@ On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) pub
 
 ---
 <p></p>
-What I found so inspiring about his post was how accurately Shane had described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon Shane's initial framework a bit, starting with what a Weird Setting means to me. **Any distortions of his original ideas are entirely mine.**
+What I found so inspiring about his post was how accurately it described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon the post's initial framework a bit, starting with what a Weird Setting means to me. **Any distortions of his original ideas are entirely mine.**
 
 ## The Weird
 Let's break this down a bit, starting with the shared properties of NSR games. For this series, I'm not going to expound on the NSR properties in any particular order; as such, I've decided to start with _a Weird Setting_!
