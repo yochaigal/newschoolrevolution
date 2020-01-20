@@ -6,7 +6,7 @@ categories: ['downloads', 'rpg']
 published: true
 ---
 
-Here are some things I've made over the years. Everything is free, and I'm a big fan of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Here is some free stuff that I've made over the years. I'm a big fan of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## PbtA
 
@@ -27,7 +27,7 @@ When I started running Into The Odd, I again found a system with a veritable bou
 ## Minimald6
 
 ### [List of Minimald6 RPGs](https://yochaigal.github.io/minimald6/)
-[Minimald6](https://www.drivethrurpg.com/product/234317/minimald6) minimald6 is a rules-lite generic system that They facilitates quick play and immersion. It's also free.
+[Minimald6](https://www.drivethrurpg.com/product/234317/minimald6) is a rules-lite generic system that They facilitates quick play and immersion. It's also free.
 
-### Generations
+### [Generations](https://drive.google.com/file/d/1DAGO4M8aryGzXVdCHYomsnTkJrF9YJBp/view?usp=sharing) | [Pocketmod](https://drive.google.com/open?id=1TY9jatNzgzH8DYH1rgeSRPzLjAueRo6w)
 A game about a generation ship, and the factions (and subsequent generations) living within.
