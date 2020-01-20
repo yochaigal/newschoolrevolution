@@ -39,7 +39,7 @@ You may already be familiar with [Weird Fiction](https://en.wikipedia.org/wiki/W
 
 These writers, different as they may be from one another, all wrote about the uncanny, the unexplained and the unknowable. As [described](http://www.hplovecraft.com/writings/texts/essays/nwwf.aspx) by H.P. Lovecraft: 
 
->>> *These stories frequently emphasise the element of horror because fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions. Horror and the unknown or the strange are always closely connected, so that it is hard to create a convincing picture of shattered natural law or cosmic alienage or “outsideness” without laying stress on the emotion of fear.* 
+> *These stories frequently emphasise the element of horror because fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions. Horror and the unknown or the strange are always closely connected, so that it is hard to create a convincing picture of shattered natural law or cosmic alienage or “outsideness” without laying stress on the emotion of fear.* 
 
 To me, _The Weird_ in the context of RPGs can mean a couple of things:
 * A subversion of tropes, especially from the Fantasy and Science Fiction genres.
@@ -60,7 +60,7 @@ Over the past few years, there have been quite a few game systems and settings r
 ### Troika! Numinous Edition
 There is likely no better example of _Weird_ than [*Troika!*](https://www.troikarpg.com/), from [Daniel Sell](https://twitter.com/ignus) & the Melsonian Arts Council. In his [review](https://cannibalhalflinggaming.com/2019/02/27/troika-review/) of *Troika!*, [Aaron Marks](https://twitter.com/levelonewonk) of [Cannibal Halfing Gaming](https://cannibalhalflinggaming.com/) writes:
 
->>>*Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG.*
+>*Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG.*
 
 Here are a few bullet points describing Troika!, taken from the publisher's website:
 * No huge essays explaining the setting or lore! Everything you need to know is tucked away inside the items, spell, enemies and backgrounds.
@@ -70,7 +70,7 @@ Here are a few bullet points describing Troika!, taken from the publisher's webs
 
 And from the game's rules:
 
->>>_Roll randomly to determine your starting Background. Notice that they only touch the edge of specificity: it is up to you to tailor them to the worlds you play in. Rework them or remove them entirely and replace them with your own unique vision of the spheres. Boldy lay claim to the games you play, create content recklessly, and always write in pen._
+>_Roll randomly to determine your starting Background. Notice that they only touch the edge of specificity: it is up to you to tailor them to the worlds you play in. Rework them or remove them entirely and replace them with your own unique vision of the spheres. Boldy lay claim to the games you play, create content recklessly, and always write in pen._
 
 These backgrounds provide a framework for unique and weird play. Want an example? This [character generator](https://technicalgrimoire.com/troikagenerator) by [David Schirduan](https://twitter.com/davidschirduan) has you covered:
 <p></p>
