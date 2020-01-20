@@ -79,6 +79,6 @@ The person playing this character would start with something called "the Bridle 
 
 This is of course just one aspect of what makes *Troika!* such a special game; the writing and gorgeous art also help the GM and the players lean-in to the _Weird_. I recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is perfect for the setting it encourages.
 
-Obviously there are other _Weird_ games out there (*The Shadow of Yesterday* comes to mind) but I think Troika! takes the cake. I strongly recommend folks check it out; the [art-free version](https://payhip.com/b/EVKN) is PWYW.
+Obviously there are other _Weird_ games out there (*The Shadow of Yesterday*, *Nightmares Underneath*, & *Best Left Buried* all come to mind) but I think Troika! takes the cake. I strongly recommend folks check it out; the [art-free version](https://payhip.com/b/EVKN) is PWYW.
 
 That's all for now. Thanks for reading!
