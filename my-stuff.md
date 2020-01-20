@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Stuff"
+title: My Stuff
 date: 2020-01-20
 categories: ['downloads', 'rpg']
 published: true
