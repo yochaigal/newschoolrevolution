@@ -1,10 +1,10 @@
 title: "New School Revolution"
 description: "There Are No Pointy-Eared Elves Here."
-author:
-    name: Yochai Gal
-    email: yochaigal@gmail.com
-    picture: /favicons/favicon.favicon
-    rss: http://newschoolrevolution.com/feed.xml
+author: yochaigal
+name: Yochai Gal
+email: yochaigal@gmail.com
+picture: /favicons/favicon.favicon
+rss: http://newschoolrevolution.com/feed.xml
 baseurl: ""
 url: https://newschoolrevolution.com
 title_description: "There Are No Pointy-Eared Elves Here."
