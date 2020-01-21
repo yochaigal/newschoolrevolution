@@ -9,18 +9,21 @@ published: true
 
 On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) published a short entry called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) on his blog [Bone Box Chant](https://boneboxchant.wordpress.com). I've reproduced a bit of it below.
 
-
 ---
 <p></p>
+
 ### NSR games have:
-* A GM
-* A Weird Setting
-* A Living World
+ * A GM
+ * A Weird Setting
+ * A Living World
 <p></p>
+
 ### are:
 * Rules lite
 * Deadly
+
 <p></p>
+
 ### and focus on:
 * Emergent Narrative
 * External Interaction
@@ -28,7 +31,6 @@ On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) pub
 <p></p>
 
 ---
-<p></p>
 What I found so inspiring about his post was how accurately it described the exact play style I enjoy the most (particularly in the last few years). I don't think I was alone in this reaction, either; it seems he hit the nail on the head for a lot of other folks as well! In this series of posts, I hope to expand upon the post's initial framework a bit, starting with what a Weird Setting means to me. **Any distortions of his original ideas are entirely mine.**
 
 ## The Weird
