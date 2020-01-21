@@ -75,7 +75,7 @@ And from the game's rules:
 
 These backgrounds provide a framework for unique and weird play. Want an example? This [character generator](https://technicalgrimoire.com/troikagenerator) by [David Schirduan](https://twitter.com/davidschirduan) has you covered:
 <p></p>
-![Star Tyrant](/img/star-tyrant.png)
+![Star Tyrant](/img/star_tyrant.png)
 
 The person playing this character would start with something called *the Bridle of Aeons*. What does that do? What does it mean for the world we're building? How do the other characters, rolled similarly, relate to this background? One can easily imagine how a homebrew setting, informed by characters with backgrounds like these, would make for a truly unique play experience.
 
