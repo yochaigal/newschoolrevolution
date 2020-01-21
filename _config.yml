@@ -1,18 +1,18 @@
 title: "New School Revolution"
 description: "There Are No Pointy-Eared Elves Here."
+title_description: "There Are No Pointy-Eared Elves Here."
+title_image: "/img/layard_dragon.png"
 author: yochaigal
 name: Yochai Gal
 email: yochaigal@gmail.com
-picture: /favicons/favicon.favicon
-rss: http://newschoolrevolution.com/feed.xml
-baseurl: ""
+picture: /img/layard_dragon.png
 url: https://newschoolrevolution.com
-title_description: "There Are No Pointy-Eared Elves Here."
-title_image: "/img/layard_dragon.png"
-google_analytics:
+baseurl: ""
+rss: http://newschoolrevolution.com/feed.xml
 disqus_account: https-newschoolrevolution-com
 github_repository: https://github.com/yochaigal/newschoolrevolution/tree/gh-pages
 logo: /favicons/favicon.ico
+google_analytics:
 addthis_id:
 post_limit: 10
 twitter_username: yochaigal1
