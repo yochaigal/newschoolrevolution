@@ -32,9 +32,6 @@ An overpowered alternative magic user.
 
 ## Minimald6
 
-### [List of Minimald6 RPGs](https://yochaigal.github.io/minimald6/)
-[Minimald6](https://www.drivethrurpg.com/product/234317/minimald6) is a rules-lite generic system that They facilitates quick play and immersion. It's also free.
-
 ### [Generations](https://drive.google.com/file/d/1DAGO4M8aryGzXVdCHYomsnTkJrF9YJBp/view?usp=sharing) | [Pocketmod](https://drive.google.com/open?id=1TY9jatNzgzH8DYH1rgeSRPzLjAueRo6w)
 A game about a generation ship, and the factions (and subsequent generations) living within.
 
