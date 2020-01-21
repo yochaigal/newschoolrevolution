@@ -75,7 +75,7 @@ These backgrounds provide a framework for unique and weird play. Want an example
 <p></p>
 ![Star Tyrant](/img/star-tyrant.png)
 
-The person playing this character would start with something called *the Bridle of Aeons*_ What does that do? What does it mean for the world we're building? How do the other characters, rolled similarly, relate to this background? One can easily imagine how a homebrew setting, informed by characters with backgrounds like these, would make for a truly unique play experience.
+The person playing this character would start with something called *the Bridle of Aeons*. What does that do? What does it mean for the world we're building? How do the other characters, rolled similarly, relate to this background? One can easily imagine how a homebrew setting, informed by characters with backgrounds like these, would make for a truly unique play experience.
 
 This is of course just one aspect of what makes *Troika!* such a special game; the writing and gorgeous art also help the GM and the players lean-in to the _Weird_. I recommend you check out this [review](https://www.youtube.com/watch?v=QvhtyihMSjI) of the system by [Questing Beast](http://questingblog.com/). The game's art is perfect for the setting it encourages.
 
