@@ -23,6 +23,10 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+author:
+  picture: /img/destroy_internet.png
+  twitter: yochaigal1
+
 permalink: /:year/:month/:day/:title
 exclude: [vendor]
 plugins:
