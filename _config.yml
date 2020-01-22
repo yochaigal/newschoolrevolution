@@ -24,9 +24,8 @@ kramdown:
   syntax_highlighter: rouge
 
 author:
-  picture: /img/destroy_internet.png
-  twitter: yochaigal1
-
+  name: Yochai Gal
+  email: yochaigal@gmail.com
 permalink: /:year/:month/:day/:title
 exclude: [vendor]
 plugins:
