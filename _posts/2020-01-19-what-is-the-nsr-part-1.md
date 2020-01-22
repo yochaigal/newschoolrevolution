@@ -4,6 +4,7 @@ title: "What is the New School Revolution? Part 1."
 date: 2020-01-19
 categories: ['posts', 'rpg']
 tags: ['osr', 'nsr', 'rpg']
+image: /img/star_tyrant.png
 published: true
 ---
 
