@@ -37,5 +37,5 @@ A game about a generation ship, and the factions (and subsequent generations) li
 
 ## Misc
 
-### [Fantasy Worldbuilding](https://docs.google.com/document/d/160M8iXPRF8sGIFhtZGhCX-p4AnfLFMAgIk7Qnw568VI/edit) (WIP)
+### [Collaborative Worldbuilding](https://docs.google.com/document/d/160M8iXPRF8sGIFhtZGhCX-p4AnfLFMAgIk7Qnw568VI/edit) (WIP)
 A guide on collaborative worldbuilding and character generation.
