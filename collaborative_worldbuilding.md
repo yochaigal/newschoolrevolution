@@ -2,7 +2,7 @@
 layout: post
 title: Collaborative Worldbuilding
 date: 2020-02-01
-categories: ['worldbuilding' 'rpg']
+categories: ['posts', 'rpg']
 published: false
 ---
 
