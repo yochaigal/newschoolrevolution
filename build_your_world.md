@@ -10,6 +10,7 @@ published: false
 
 ## The Veil of Ignorance
 
+
 ## The Map Method
 
 ## The Index Card Method
