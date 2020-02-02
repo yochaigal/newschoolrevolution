@@ -4,7 +4,6 @@ title: "What is the New School Revolution? Part 1."
 date: 2020-01-19
 categories: ['posts', 'rpg']
 tags: ['osr', 'nsr', 'rpg']
-image: /img/star_tyrant.png
 published: true
 ---
 
@@ -76,7 +75,7 @@ And from the game's rules:
 
 These backgrounds provide a framework for unique and weird play. Want an example? This [character generator](https://technicalgrimoire.com/troikagenerator) by [David Schirduan](https://twitter.com/davidschirduan) has you covered:
 <p></p>
-![Star Tyrant](/img/star_tyrant.png)
+![Star Tyrant](/img/what-is-the-nsr/star_tyrant.png)
 
 The person playing this character would start with something called *the Bridle of Aeons*. What does that do? What does it mean for the world we're building? How do the other characters, rolled similarly, relate to this background? One can easily imagine how a homebrew setting, informed by characters with backgrounds like these, would make for a truly unique play experience.
 
