@@ -7,10 +7,10 @@ published: false
 
 ---
 <p style="text-align: center; font-size:1.5em;">Introduction </p>
-In this post, I'm going to describe exactly how I create an original, collaborative setting in under 45 minutes. If you're not very interested in the _why_, simply click [here](#the-veil-of-ignorance) and get started!
+In this post, I'm going to describe exactly how I create an original, collaborative setting in under 45 minutes. If you're not very interested in the _why_, simply click [here](#tools-of-the-trade) and get started!
 
 ---
-#### Why Make a World Together?
+#### Why Build a World Together?
 
 A lot of folks start their GMing career by running modules or published adventures for more traditional systems (like D&D 3.5/5e), where the setting was consistent and self-contained, and their authority was total. The suggestion that we might somehow share the imaginary load with our players might therefore seem downright crazy. But fear not! As the GM, you will still be the final judge on what gets into the game setting, and what doesn't. And more importantly, you get to let the players _do your job for you_; your mental bandwidth is thus freed up a bit. It will improve your improvisational skills, and might even find yourself _amazed_ at what your players come up with.
 
@@ -26,16 +26,27 @@ Personally, I find tropes and assumptions (particularly in fantasy gaming) act m
 
 <p style="text-align: center; font-size:2em;">Collaborative Worldbuilding</p>
 
-### The Veil of Ignorance
+#### Tools of the Trade
 
+* A blank sheet of paper. If measurements matter to you, get hex or grid paper.
+* Pencils & Erasers (no pens, please)
+* Index cards (for PC names). I sometimes use standard or hex index cards! See [below](the-hex-or-index-card-method).
+* If you like to live dangerously, you can get a wet-erase board; just don't forget to take pictures first!
 
-### The Line
+The following image is from one of my wet erase boards:
+[![Alt text](/img/build-your-world/isle-of-the-autarchs-map.jpg "click to embiggen"){:height="50%" width="50%"}](/img/build-your-world/isle-of-the-autarchs-map.jpg)
 
-### A Map of The World
+#### The Veil of Ignorance
+
+Ask each player to name one truth about the world; it cannot conflict with a truth another player has already stated. The GM can help shape the answers by asking follow-up questions. Go around twice if you like. GM can also participate.
+Ask basic questions: Is there Magic in this world? What does it look like? How common is it? What about Gods? If they exist, do they walk the lands, and do people know about them? What about technology? How is news passed around? Were there any recent wars or political upheavals? These should be tailored to the answers the GM received earlier; but in general follow the narratives players seem most excited about.
+
+#### A Map of The World
 
 What can be said for worldbuilding also describes collaborative map creation: try to play on available tropes, but leave space for subverting and enhancing any ideas generated during play. As they say in [Dungeon World](https://dungeon-world.com): **Draw Maps, Leave Blanks**. I find that a partially-drawn map helps open up possibilities I might not have considered before. Say the Imperial Highway (which heads East from the Crescent City) splinters into smaller roads after it splits the Great Pass; where does each lead to? What about the one leading to that unusual tower, standing alone in the Whispering Grasses? Who is the most well-traveled among the party? Perhaps they know something unusual about that area? What rumors have they heard?   
 
+#### The Hex or Index Card Method
 
-### Index Cards: An Alternative Method
+#### During Play
 
-### During Play
+#### The Line
