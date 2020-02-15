@@ -6,10 +6,8 @@ categories: ['posts', 'rpg']
 published: false
 
 ---
-<p style="text-align: center; font-size:1.5em;">Introduction </p>
 In this post, I'm going to describe exactly how I create an original, collaborative setting in under 45 minutes. If you're not very interested in the _why_, simply click [here](#tools-of-the-trade) and get started!
 
----
 #### Why Build a World Together?
 
 A lot of folks start their GMing career by running modules or published adventures for more traditional systems (like D&D 3.5/5e), where the setting was consistent and self-contained, and their authority was total. The suggestion that we might somehow share the imaginary load with our players might therefore seem downright crazy. But fear not! As the GM, you will still be the final judge on what gets into the game setting, and what doesn't. And more importantly, you get to let the players _do your job for you_; your mental bandwidth is thus freed up a bit. It will improve your improvisational skills, and might even find yourself _amazed_ at what your players come up with.
@@ -23,6 +21,7 @@ Furthermore, why limit ourselves to the imaginations of others? We may take insp
 Personally, I find tropes and assumptions (particularly in fantasy gaming) act more as a sort of mental roadblock; limiting not only your imagination, but what is possible within the fiction as well. As a GM, I never _name_ monsters when describing them, unless the players (or the player characters) are already familiar with them. For instance, if the PCs have encountered a group of short green-skinned creatures wielding missile weapons and displaying sharpened teeth, I do not tell the players, "Your party comes across a pack of Goblins." If I _name_ the creature, the players (and the GM) automatically assume what may or may not be possible within the fiction; it is very unlikely that the creatures will suddenly sport wings and fly way, for instance. But if the description presented to the players is vague (within reason) as well as useful (perhaps hinting towards something that is about to happen), who knows what may occur? Are the players as likely to concoct a risky scheme if they believe the enemy is fulfilling the trope of a weak, cowardly creature? And if they _do_ take that risk, is it not far more satisfying to reveal their hubris by upending those tropes?
 
 <p></p>
+---
 
 <p style="text-align: center; font-size:2em;">Collaborative Worldbuilding</p>
 
@@ -31,9 +30,9 @@ Personally, I find tropes and assumptions (particularly in fantasy gaming) act m
 * A blank sheet of paper. If measurements matter to you, get hex or grid paper.
 * Pencils & Erasers (no pens, please)
 * Index cards (for PC names). I sometimes use standard or hex index cards! See [below](the-hex-or-index-card-method).
-* If you like to live dangerously, you can get a wet-erase board; just don't forget to take pictures first!
+* If you like to live dangerously, you can get a wet-erase board; just don't forget to take a picture before cleaning!
 
-The following image is from one of my wet erase boards:
+One of my players drew this on a wet erase board:
 [![Alt text](/img/build-your-world/isle-of-the-autarchs-map.jpg "click to embiggen"){:height="50%" width="50%"}](/img/build-your-world/isle-of-the-autarchs-map.jpg)
 
 #### The Veil of Ignorance
