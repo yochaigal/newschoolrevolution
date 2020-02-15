@@ -10,24 +10,19 @@ published: true
 On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) published a short entry called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) on his blog [Bone Box Chant](https://boneboxchant.wordpress.com). I've reproduced a bit of it below.
 
 ---
-<p></p>
-
 ### NSR games have:
- * A GM
- * A Weird Setting
- * A Living World
-<p></p>
+ * #### A GM
+ * #### A Weird Setting
+ * #### A Living World
 
 ### are:
-* Rules lite
-* Deadly
-
-<p></p>
+* #### Rules lite
+* #### Deadly
 
 ### and focus on:
-* Emergent Narrative
-* External Interaction
-* Exploration
+* #### Emergent Narrative
+* #### External Interaction
+* #### Exploration
 <p></p>
 
 ---
@@ -43,10 +38,10 @@ These writers, different as they may be from one another, all wrote about the un
 > *These stories frequently emphasise the element of horror because fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions. Horror and the unknown or the strange are always closely connected, so that it is hard to create a convincing picture of shattered natural law or cosmic alienage or “outsideness” without laying stress on the emotion of fear.*
 
 To me, _The Weird_ in the context of RPGs can mean a couple of things:
-* A subversion of tropes, especially from the Fantasy and Science Fiction genres.
-* The players may sometimes feel _unsettled_ by their interactions with the world.  
-* Mystery and the unknown are major factors in play. The world is irrational at times.
-* There is a clear separation between the _weird_ and the _normal_.
+* #### A subversion of tropes, especially from the Fantasy and Science Fiction genres.
+* #### The players may sometimes feel _unsettled_ by their interactions with the world.  
+* #### Mystery and the unknown are major factors in play. The world is irrational at times.
+* #### There is a clear separation between the _weird_ and the _normal_.
 
 <br>
 Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to conquer the world, but instead to try and overcome its inherit strangeness.
@@ -64,9 +59,10 @@ There is likely no better example of _Weird_ than [*Troika!*](https://www.troika
 >*Imagine, if you will, that Douglas Adams and Terry Pratchett have returned from the dead. They both pile into a Ford Cortina and take a long drive across the American Southwest, pondering the nature of the fantasy genre. Once they arrive in California, they legally acquire several ounces of the finest cannabis sativa and hotbox the Cortina. Then they write an RPG.*
 
 Here are a few bullet points describing Troika!, taken from the publisher's website:
-* No huge essays explaining the setting or lore! Everything you need to know is tucked away inside the items, spell, enemies and backgrounds.
-* The freedom to allow and positively encourage every group of players to interact with the setting differently; each game group will be unique.
-* 36 unique player character backgrounds from Ardent Giant of Corda to Zoanthrope​.
+
+* #### No huge essays explaining the setting or lore! Everything you need to know is tucked away inside the items, spell, enemies and backgrounds.
+* #### The freedom to allow and positively encourage every group of players to interact with the setting differently; each game group will be unique.
+* #### 36 unique player character backgrounds from Ardent Giant of Corda to Zoanthrope​.
 <p></p>
 
 And from the game's rules:
