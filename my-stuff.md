@@ -20,7 +20,7 @@ When I first discovered Dungeon World, I was overwhelmed by the incredible amoun
 
 #### [Keys for Dungeon World](https://docs.google.com/document/d/1TMtedwe7X_CZ6K07rdJfGR904RgamtFJYOXLUaia87E/edit)
 Keys are goals, ties, beliefs, or vows a character has. They are meant to replace Alignment or Drives completely. Shamelessly stolen from better designers.
-<br></br>
+<br>
 
 #### [The Sorcerer Playbook](https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk) ([Dungeon World](https://dungeon-world.com/))
 An alternative spellcasting playbook to the Wizard, that doesn't require spell memorization, and uses CHA as a prime stat. I'm pretty proud of the move titles.
