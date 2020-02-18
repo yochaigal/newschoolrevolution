@@ -22,13 +22,17 @@ Personally, I find tropes and assumptions (particularly in fantasy gaming) act m
 
 <p></p>
 
+### The Line
+
+
 <p style="text-align: center; font-size:2em;">Collaborative Worldbuilding</p>
 
 ### Tools of the Trade
 
 * A blank sheet of paper. If measurements matter to you, get hex or grid paper.
-* Pencils & Erasers (no pens, please)
-* Index cards (for PC names). I sometimes use standard or hex index cards! See [below](#the-hex-or-index-card-method).
+* You can also use index cards instead of paper. See [below](#the-hex-or-index-card-method).
+* If it helps, printed visual aids of various landscapes and terrains.
+* Pencils & erasers. Pens and markers are probably a bad idea.     
 * You can also use a wet-erase board or mat; just don't forget to take a picture before cleaning!
 
 One of my players drew this on a wet erase board during a single session:
@@ -64,14 +68,28 @@ The GM should be peppering the players with follow-up questions throughout the w
 * _How is news passed around? Are legal systems in place?_
 * _Were there any recent wars or political upheavals or wars?_
 
-These should be tailored to previous **Truths**,but in general follow the concepts that players seem the most excited about.
+These questions should be tailored to previous **Truths**, but in general follow the concepts that players seem the most excited about.
 
 ### A Map of The World
 
-What can be said for worldbuilding also describes collaborative map creation: try to play on available tropes, but leave space for subverting and enhancing any ideas generated during play. As they say in [Dungeon World](https://dungeon-world.com) **Draw Maps, Leave Blanks**. I find that a partially-drawn map helps open up possibilities I might not have considered before. Say the Imperial Highway (which heads East from the Crescent City) splinters into smaller roads after it splits the Great Pass; where does each lead to? What about the one leading to that unusual tower, standing alone in the Whispering Grasses? Who is the most well-traveled among the party? Perhaps they know something unusual about that area? What rumors have they heard?   
+The following can happen _before_ or _after_ character creation. First, place a blank sheet of paper (the **Map**) where everyone can see it. Make sure everyone has something to write with, or assign one person to be the mapmaker, and another as note-taker (optional). As you proceed, remember to _name_ everything you write down. See [Naming Things](#naming-things) below. Finally, follow these steps:
+
+1. Create a rough outline of the known world. It could define the border between civilization and the wilds, a zoomed-in map of one locale or territory, or even a wavy circle that encompasses the entire page.
+2. Taking turns, each player should then draw or describe on of the following: a _region_ or a _point of interest_. You may need to move around the table more than once!
+* A _region_ might be defined by political control (a kingdom or dominion) or by its terrain (the seashore, a mountain range, a desert, etc). The regions don't have to be next to each other.
+* A _point of interest_ represents a locale that the player characters may want to visit (or have already visited): an ancient ruin, the lair of an ancient creature, or an township infamous for the unusual merchants that pass through it. Ask the players to say what makes that place special or interesting, and draw icons or small images to represent their answers: crumbling buildings, massive towers, fantastic creatures, etc. Remember to _name things_ as you go!   
+4. Taking Turns, draw _connectors_ such as dirt roads, busy highways, rivers, etc.     
+7. Choose a starting location on the **Map**; this is where the action will begin for the characters. If necessary, you can trace a path from where they've been before, as well.  
+
+<br>
+Remember that you should be _asking questions_ during this entire process. Why does the _Imperial Highway_ (which heads East from the _Crescent City_) splinter into smaller roads just after it splits the _Great Pass_? What about the one leading to that unusual tower, standing alone in the _Whispering Grasses_? What rumors or legends have the people living nearby heard?
+
+If you are building the **Map** _after_ character creation, try asking questions based on the character backgrounds you've already established. A well-traveled ranger (or soldier, whatever) will probably know more about the far-reaches of the known world than a city thief. Perhaps the most learned character could provide a bit of background behind the unfortunate naming of a felled pillar near the starting location, as well as what makes it special.   
+
+In general, it also helps to play on available tropes, but always leave space for subverting and enhancing expectations. But more importantly, remember to _leave gaps_ on the map. As they say in [Dungeon World](https://dungeon-world.com) **Draw Maps, Leave Blanks**. I find that a partially-drawn map helps open up possibilities I might not have considered otherwise.
+
+### Naming Things
 
 ### The Hex or Index Card Method
 
 ### During Play
-
-### The Line
