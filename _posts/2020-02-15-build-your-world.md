@@ -21,7 +21,6 @@ Furthermore, why limit ourselves to the imaginations of others? We should defini
 Personally, I find tropes and assumptions (particularly in fantasy gaming) act more as a sort of mental roadblock; limiting not only your imagination, but what is possible within the fiction as well. As a GM, I never _name_ monsters when describing them, unless the players (or the player characters) are already familiar with them. For instance, if the PCs have encountered a group of short green-skinned creatures wielding missile weapons and displaying sharpened teeth, I do not tell the players, "Your party comes across a pack of Goblins." If I _name_ the creature, the players (and the GM) automatically assume what may or may not be possible within the fiction; it is very unlikely that the creatures will suddenly sport wings and fly way, for instance. But if the description presented to the players is vague (within reason) as well as useful (perhaps hinting towards something that is about to happen), who knows what may occur? Are the players as likely to concoct a risky scheme if they believe the enemy is fulfilling the trope of a weak, cowardly creature? And if they _do_ take that risk, is it not far more satisfying to reveal their hubris by upending those tropes?
 
 <p></p>
----
 
 <p style="text-align: center; font-size:2em;">Collaborative Worldbuilding</p>
 
@@ -42,25 +41,30 @@ Before character creation, I like to begin by asking each player to help me shap
   * Each **Truth** should be specific (e.g. _the world is mostly water_) as well as defining of the setting (_sentient sea creatures rule civilization_).    
  * Each **Truth** cannot conflict with a truth another player has already stated, but players may build on top of what has been said before.
  * The GM can help shape the answers by asking follow-up questions.
- * Go around more than once if it feels necessary! The GM can also participate.  
+ * Go around more than once if it feels necessary! The GM can also participate. <br>
+ <br>
 
 #### Examples:
  * _The landscape is littered with ancient, barely understood technology. Those who have learned to control it are the true rulers of the world._
  * _The starting locale is shrouded in darkness most of the time. The Sun is blamed for most of the nation's woes._
  * _Kingdoms are insular and divided by stark cultural and linguistic differences (name a few)._
  * _There are no non-humanoid peoples, though myths of mutated humanoids abound._
- * _A council of Mages rules the known world; they hold onto power by creating powerful technology only they control._    
+ * _A council of Mages rules the known world; they hold onto power by creating powerful technology only they control._
 
-A final note: it is _extremely important_ that character creation come _after_ the **Truth**-telling. If the players aren't sure of their character's status in society, it'll make for a more interesting session!
+
+A final note: it is _extremely important_ that character creation come _after_ the **Truth**-telling. If the players aren't sure of their character's status within the setting, it makes for a more interesting game!
 
 ### Question Time
-* _Is there Magic in this world?_ _What does it look like?_ _How common is it?_
-* _What about Gods? If they exist, do they walk the lands, and do people know about them?_
-* _What about technology?_
-* _How is news passed around?_
-* _Were there any recent wars or political upheavals?_
+The GM should be peppering the players with follow-up questions throughout the worldbuilding process; and even (if you're up for it) during regular sessions! The early questions can be as general as you like, but remember that their purpose is to draw broad strokes about the world you are going to be playing in. Thus establishing _whether magic exists at all_ is good, but asking if people even know that it exists (as a follow-up) is even better.
 
-These should be tailored to the answers the GM received earlier; but in general follow the narratives that players seem most excited about.
+#### Examples:
+* _Is there Magic in this world? What does it look like? How common is it?_
+* _Do deities exist? If they do, do Gods walk the land, and do people know about them?_
+* _What technological age is it? Do guns exist? How does magic factor in (if at all)?_
+* _How is news passed around? Are legal systems in place?_
+* _Were there any recent wars or political upheavals or wars?_
+
+These should be tailored to previous **Truths**,but in general follow the concepts that players seem the most excited about.
 
 ### A Map of The World
 
