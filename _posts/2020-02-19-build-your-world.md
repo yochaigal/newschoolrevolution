@@ -67,7 +67,7 @@ These questions should be tailored to previous **Truths**, but in general follow
 When asking player's questions, try to keep in mind the GM's role vs the players.**The Line** (as described by [John Harper](https://twitter.com/john_harper)) helps illustrate the level of authorship each participant has; essentially the player should only be able to help describe the world through the lens of _a character_ in the setting, while the GM handles _everything else_. For further reading, I strongly recommend reading [Apocalypse World: Crossing the Line](http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html).
 
 ### A Map of The World
-The following can happen _before_ or _after_ character creation. First, place a blank sheet of paper (the **Map**) where everyone can see it. Make sure everyone has something to write with, or assign one person to be the mapmaker, and another as note-taker (optional). As you proceed, remember to _name_ everything you write down. See [Naming Things](#naming-things) below. Finally, follow these steps:
+The following can happen _before_ or _after_ character creation. First, place a blank sheet of paper (the **Map**) where everyone can see it. Make sure everyone has something to write with, or assign one person to be the mapmaker, and another as note-taker (optional). As you proceed, remember to _name_ everything you write down. See [The Names of Things](#the-names-of-things) below. Finally, follow these steps:
 
 1. Create a rough outline of the known world. It could define the border between civilization and the wilds, a zoomed-in map of one locale or territory, or even a wavy circle that encompasses the entire page.
 2. Taking turns, each player should then draw or describe on of the following: a _region_ or a _point of interest_. You may need to move around the table more than once!
@@ -86,13 +86,15 @@ In general, it also helps to play on available tropes, but always leave space fo
 ### The Hex or Index Card Method
 As an alternative to "static" mapmaking method described above, I also heartily endorse creating _regions_ and _points of interest_ using index or hex cards. Below are a few example maps drawn by my players:
 
-[![Alt text](/img/build-your-world/index_card_map.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/index_card_map.jpg)
+[![Alt text](/img/build-your-world/index_card_map_1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/index_card_map_1.jpg)
 
-[![Alt text](/img/build-your-world/hexmap.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/hexmap.jpg)
+[![Alt text](/img/build-your-world/index_card_map_2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/index_card_map_2.jpg)
+
+[![Alt text](/img/build-your-world/hex_card_map_1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/hex_card_map_1.jpg)
 
 <p style="font-size:1.25em;">Here's what I like about this method:</p>
 
-### The Art
+#### The Art
 Players get to draw, and some of the art they produce is fantastic. Check it out:
 
 [![Alt text](/img/build-your-world/index_card_church.jpg "click to embiggen"){:height="40%" width="40%"}](/img/build-your-world/index_card_church.jpg)
@@ -101,22 +103,34 @@ Players get to draw, and some of the art they produce is fantastic. Check it out
 
 [![Alt text](/img/build-your-world/index_card_tower.jpg "click to embiggen"){:height="40%" width="40%"}](/img/build-your-world/index_card_tower.jpg)
 
-### Flexibility
+#### Flexibility
 The cards can be arranged in any order, and new cards can be added as the game progresses. For instance, if the party is traveling between two distinct points (each represented by an index card) and something _interesting_ happens (a sudden slide into a hidden tunnel, sailing on a flying ship, etc) a new index card can be drawn and inserted between the two original cards.  
 
-### Replayability
+#### Replayability
 After running 100+ one shots over a two-year period, I had amassed quite an array of index/hex card maps. I can now pull out a stack of random index cards and let the players choose what they find the most interesting. Conversely, I can pull from a random stack for inspiration during the session.
 
-### Here's how to do it:
+#### Here's how to do it:
 1. Prepare your stack of index cards and permanent markers. Hand 1 or 2 to each player, then ask each to draw an image. It could be something fantastical (a floating city, a dragon’s den) or mundane (gorges, mountain peaks, lakes), or represent a feature you might see on a fantasy map (ancient ruins, temples, a city on a hill).
 2. Choose two or three of the index cards and lay them down in the middle of the table; leave a little bit of space between. Pick one that you feel is appropriate (an image of a dark forest, the city docks, a mountain cave) and mentally designate it as the starting point of the adventure. Use it to help set the scene: a collapsed crypt, or floating city, careening through the sky.
 3. Finally, you can begin the adventure, building out the map as the players move through the world. If the party needs to cross a treacherous territory on the way to defeat a great evil, place the index card image that best illustrates that danger. It might be a rickety bridge between two mountain peaks, or a dark forest, brimming with creatures of dark intent. But remember, you can always move the existing index cards apart and insert a brand new one between. And don’t feel limited by what you've got on hand! You can always draw new locations as the story progresses.
 
-### Naming Things
-An oft-forgotten (but still impressive) skill a GM must have is in the creation of words, languages, and especially **Names** within a fictional universe. And for good reason: it's _hard_ to do well; almost as difficult as putting on a voice or accent (and perhaps with the same political pitfalls). That said, I think it's important enough to learn to do well.   
+### The Names of Things
+An oft-forgotten (but still impressive) skill a GM must have is in the creation of words, languages, and especially **Names** within a fictional universe. And for good reason: it's _hard_ to do well; almost as difficult as putting on a voice or accent (and perhaps with the same political pitfalls). That said, I think it's important enough to learn to do well. Here's what little I've picked up over the years:
 
+Decide whether you're going to use your primary language, another language, or something made up.
+#### A language you know
+ If you go with your own language, lean in to the strange and fantastic when you can. For every _Royal Highway_ and _Land's End_, there should also be a _Bridge of Two Suns_ or _The Weeping Forest_. Invite the players to suggest names based on what you already know about the fictional world you're creating, as well. If you happen to speak multiple languages, a quick way to create interesting, but still memorable names is to think about the person, place or concept in another language, and use the word that arises as a base. For instance, if I described an important NPC as being continually angry, I might think of the Hebrew word כועס (pronounced "Ko-es"). I could then introduce them as _Ko-es of the Twisting Isles_, and the name will serve as a bit of a reminder of their personality. It doesn't have a ton of meaning to my players, though - so use I try to use this method sparingly.
+
+#### A language you _don't know_
+If you decide pick another language as a base, don't limit yourself to the familiar; take a look at the bounty of interesting African, Polynesian, and Asian languages out there! I also highly recommend the [Story Games Name Project](http://www.lulu.com/us/en/shop/jason-morningstar/story-games-name-project/paperback/product-3594462.html) by [Jason Morningstar](https://twitter.com/jmstar) as a resource to have at the table, as it is organized by language groups with useful tables. After the fact, you can still go to your favorite online generator or translation service and play around with different options until they feel like a good fit. You should let the players know that you'd like the names of the world to be rooted in a particular language, and ask for their help.
+
+#### Just make it up
+Creating words in a made-up language is hard, and not something I've overly familiar with. The only advice I have here is to be consistent! It also helps to think of an _old_ form of a particular word, and what it might look like today. In _Sindarin_ (the language of Elves created by J.R.R. Tolkien) the word for [Elf](https://www.elfdict.com/w/elf) is _elda_, which originates from the word _elen_, meaning star. Literally, "one of the Star folk." Pretty cool.
+
+An important place should have more than one name. In _The Hobbit_, _Erebor_ was the name of the former Dwarven kingdom north of Lake-town, but most knew it as the _Lonely Mountain_ instead. If the party must travel deep into the woods of _Schwarzwald_ to speak with the last surviving member of a now-deceased species, consider giving it a name the locals might call it as well: _The Woods of Forgetting_.
+
+<!-- Some linguistic pitfalls to avoid: -->
 
 ### Bibliography
-* Perilous Wilds
-* Dragonslaying on a timetable
-* -
+* [The Perilous Wilds](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds)
+* [Dragonslaying on a Timetable](https://docs.google.com/document/d/1tf4lalDcwlG6npkFLAsMWYw5ojFUbz1r2OLqKn3C478/edit?pref=2&pli=1)
