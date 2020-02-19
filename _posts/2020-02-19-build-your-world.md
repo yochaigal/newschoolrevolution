@@ -79,6 +79,8 @@ The following can happen _before_ or _after_ character creation. First, place a 
 <br>
 Remember that you should be _asking questions_ during this entire process. Why does the _Imperial Highway_, which heads East from the _Crescent City_, splinter into so many smaller roads just after it splits the _Great Pass_? What about the one leading to that unusual tower, standing alone in the _Whispering Grasses_? What rumors or legends have the people living nearby heard?
 
+When _naming_ things, remember that an important place will often have more than one name. In _The Hobbit_, _Erebor_ was the name of the former Dwarven kingdom north of Lake-town, but most knew it as the _Lonely Mountain_ instead. If the party must travel deep into the woods of _Schwarzwald_ to speak with the last surviving member of a now-deceased species, consider giving it a name the locals might call it as well: _The Woods of Forgetting_.
+
 If you are building the **Map** _after_ character creation, try asking questions based on the character backgrounds you've already established. A well-traveled ranger (or soldier, whatever) will probably know more about the far-reaches of the known world than a city thief. Perhaps the most learned character could provide a bit of background behind the unfortunate naming of a felled pillar near the starting location, as well as what makes it special.   
 
 In general, it also helps to play on available tropes, but always leave space for subverting and enhancing expectations. But more importantly, remember to _leave gaps_ on the map. One of my favorite GM lessons from [Dungeon World](https://dungeon-world.com) is the phrase **Draw Maps, Leave Blanks**. Personally, I find that a partially-drawn map helps open up possibilities I might not have considered otherwise.
@@ -124,10 +126,8 @@ Decide whether you're going to use your primary language, another language, or s
 #### A language you _don't know_
 If you decide pick another language as a base, don't limit yourself to the familiar; take a look at the bounty of interesting African, Polynesian, and Asian languages out there! I also highly recommend the [Story Games Name Project](http://www.lulu.com/us/en/shop/jason-morningstar/story-games-name-project/paperback/product-3594462.html) by [Jason Morningstar](https://twitter.com/jmstar) as a resource to have at the table, as it is organized by language groups with useful tables. After the fact, you can still go to your favorite online generator or translation service and play around with different options until they feel like a good fit. You should let the players know that you'd like the names of the world to be rooted in a particular language, and ask for their help.
 
-#### Just make it up
+#### A language you've made up
 Creating words in a made-up language is hard, and not something I've overly familiar with. The only advice I have here is to be consistent! It also helps to think of an _old_ form of a particular word, and what it might look like today. In _Sindarin_ (the language of Elves created by J.R.R. Tolkien) the word for [Elf](https://www.elfdict.com/w/elf) is _elda_, which originates from the word _elen_, meaning star. Literally, "one of the Star folk." Pretty cool.
-
-An important place should have more than one name. In _The Hobbit_, _Erebor_ was the name of the former Dwarven kingdom north of Lake-town, but most knew it as the _Lonely Mountain_ instead. If the party must travel deep into the woods of _Schwarzwald_ to speak with the last surviving member of a now-deceased species, consider giving it a name the locals might call it as well: _The Woods of Forgetting_.
 
 <!-- Some linguistic pitfalls to avoid: -->
 
