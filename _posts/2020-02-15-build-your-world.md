@@ -9,11 +9,9 @@ published: false
 In this post, I'm going to describe exactly how I create an original, collaborative setting in under 45 minutes. If you're not very interested in the _why_, [skip ahead](#tools-of-the-trade) to get started!
 
 ### Why Build a World Together?
-
 A lot of folks start their GMing career by running modules or published adventures for more traditional systems (like D&D 3.5/5e), where the setting was consistent and self-contained, and their authority was total. The suggestion that we might somehow share the imaginary load with our players might therefore seem downright crazy. But fear not! As the GM, you will still be the final judge on what gets into the game setting, and what doesn't. And more importantly, you get to let the players _do your job for you_; your mental bandwidth is thus freed up a bit. It will improve your improvisational skills, and might even find yourself _amazed_ at what your players come up with.
 
 ### Why an Original Setting?
-
 Over the past decade or so, there has been an absolute explosion of adventure modules and dungeon starters coming out of the indie RPG scene, as well as for old school and traditional systems. Most are free to download (or available for a very low-cost). Why not take advantage of the richness of others' imaginations, and play in a consistent, ordered world? If this works for you: wonderful! Carry on. But if you're anything like me, you take pure joy in trying to create something truly unique: a setting or world unlike anything you (or your players) have experienced before.
 
 Furthermore, why limit ourselves to the imaginations of others? We should definitely take inspiration from what's out there, sure - but let's not limit ourselves to the worlds that others have built! If you (and your players) can create something truly your own, player investment and engagement will be higher. Plus, no more flipping around a setting book, searching for the backstory for that pesky NPC you didn't prep for.
@@ -24,14 +22,14 @@ Personally, I find tropes and assumptions (particularly in fantasy gaming) act m
 <p style="text-align: center; font-size:2em;">Collaborative Worldbuilding</p>
 
 ### Tools of the Trade
-
 * A blank sheet of paper. If measurements matter to you, get hex or grid paper.
 * You can also use index cards instead of paper. See [below](#the-hex-or-index-card-method).
 * If it helps, printed visual aids of various landscapes and terrains.
 * Pencils & erasers. Pens and markers are probably a bad idea.     
 * You can also use a wet-erase board or mat; just don't forget to take a picture before cleaning!
 
-One of my players drew this on a wet erase board during a single session:
+One of my players drew this on a wet erase board during a single session: <br>
+<br>
 [![Alt text](/img/build-your-world/isle-of-the-autarchs-map.jpg "click to embiggen"){:height="50%" width="50%"}](/img/build-your-world/isle-of-the-autarchs-map.jpg)
 
 ### The Veil of Ignorance
@@ -54,7 +52,7 @@ Consider the following guidelines:
 A final note: it is _extremely important_ that character creation come _after_ the **Truth**-telling. If the players aren't sure of their character's status within the setting, it makes for a more interesting game!
 
 ### Question Time
-The GM should be peppering the players with follow-up questions throughout the worldbuilding process; and even (if you're up for it) during regular sessions! The early questions can be as general as you like, but remember that their purpose is to draw broad strokes about the world you are going to be playing in. Thus establishing _whether magic exists at all_ is good, but asking _if people even know that it exists_ (as a follow-up) is even better. If you're going to ask questions after character creation, remember to tailor it towards the player characters with relevant backgrounds.
+The GM should be peppering the players with follow-up questions throughout the worldbuilding process, and even (if you're up for it) during future sessions! Early questions can be as general as you like, as their initial purpose is to draw broad strokes about the world you are going to be playing in. Through the process you'll start to _build_ on those initial concepts, and flesh the setting out in the process, as long as you _keep asking questions_. Establishing _whether magic exists at all_ is good, but asking _if most people even know that it exists_ (as a follow-up) is even better. If you're going to ask questions after character creation, remember to tailor it towards the player characters with relevant backgrounds.
 
 #### Examples:
 * _Is there Magic in this world? What does it look like? How common is it?_
@@ -84,13 +82,38 @@ Remember that you should be _asking questions_ during this entire process. Why d
 
 If you are building the **Map** _after_ character creation, try asking questions based on the character backgrounds you've already established. A well-traveled ranger (or soldier, whatever) will probably know more about the far-reaches of the known world than a city thief. Perhaps the most learned character could provide a bit of background behind the unfortunate naming of a felled pillar near the starting location, as well as what makes it special.   
 
-In general, it also helps to play on available tropes, but always leave space for subverting and enhancing expectations. But more importantly, remember to _leave gaps_ on the map. As they say in [Dungeon World](https://dungeon-world.com) **Draw Maps, Leave Blanks**. I find that a partially-drawn map helps open up possibilities I might not have considered otherwise.
-
-### Naming Things
+In general, it also helps to play on available tropes, but always leave space for subverting and enhancing expectations. But more importantly, remember to _leave gaps_ on the map. As they say in [Dungeon World](https://dungeon-world.com), **Draw Maps, Leave Blanks**. I find that a partially-drawn map helps open up possibilities I might not have considered otherwise.
 
 ### The Hex or Index Card Method
+As an alternative to "static" mapmaking method described above, I also heartily endorse creating _regions_ and _points of interest_ using index or hex cards. Before we being however, let me _show_ you a map drawn by my players, made from index cards (some of these were drawn during the worldbuilding phase, and others as we played through the session): <br>
+<br>
 
-### During Play
+[![Alt text](/img/build-your-world/index_card_map.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/index_card_map.jpg)
+
+<p style="text-align: center; font-size:1.25em;">And this hex map:</p>
+
+[![Alt text](/img/build-your-world/hexmap.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/hexmap.jpg)
+
+<p style="font-size:1.25em;">Here's what I like about this method:</p>
+
+### Art
+Players get to draw, and some of the art they produce is fantastic. Check it out:
+
+[![Alt text](/img/build-your-world/index_card_church.jpg "click to embiggen"){:height="40%" width="40%"}](/img/build-your-world/index_card_church.jpg)
+
+[![Alt text](/img/build-your-world/index_card_jungle.jpg "click to embiggen"){:height="40%" width="40%"}](/img/build-your-world/index_card_jungle.jpg)
+
+[![Alt text](/img/build-your-world/index_card_tower.jpg "click to embiggen"){:height="40%" width="40%"}](/img/build-your-world/index_card_tower.jpg)
+
+### Flexibility
+The cards can be arranged in any order, and new cards can be added as the game progresses. For instance, if the party is traveling between two distinct points (each represented by an index card) and something _interesting_ happens (a sudden slide into a hidden tunnel, sailing on a flying ship, etc) a new index card can be drawn and inserted between the two original cards.  
+
+### Replayability
+After running 100+ one shots over a two-year period, I had amassed quite an array of index/hex card maps. I can now pull out a stack of random index cards and let the players choose what they find the most interesting. Conversely, I can pull from a random stack for inspiration during the session.
+
+### Naming Things
+An oft-forgotten (but still impressive) skill a GM must have is in the creation of words, languages, and especially **Names** within a fictional universe. And for good reason: it's _hard_ to do well; almost as difficult as putting on a voice or accent (and perhaps with the same political pitfalls). That said, I think it's important enough to learn to do well.   
+
 
 ### Bibliography
 * Perilous Wilds
