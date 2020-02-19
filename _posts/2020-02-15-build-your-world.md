@@ -64,8 +64,7 @@ The GM should be peppering the players with follow-up questions throughout the w
 These questions should be tailored to previous **Truths**, but in general follow the concepts that players seem the most excited about.
 
 #### The Line
-When asking player's questions, try to keep in mind the GM's role vs the players."**The Line**" (as described by [John Harper](https://twitter.com/john_harper)) helps illustrate the level of authorship each participant has; essentially the player should only be able to help describe the world through the lens of _a character_ in the setting, while the GM handles _everything else_.   
-For further reading, I strongly recommend reading [Apocalypse World: Crossing the Line](http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html).
+When asking player's questions, try to keep in mind the GM's role vs the players."**The Line**" (as described by [John Harper](https://twitter.com/john_harper)) helps illustrate the level of authorship each participant has; essentially the player should only be able to help describe the world through the lens of _a character_ in the setting, while the GM handles _everything else_. For further reading, I strongly recommend reading [Apocalypse World: Crossing the Line](http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html).
 
 ### A Map of The World
 The following can happen _before_ or _after_ character creation. First, place a blank sheet of paper (the **Map**) where everyone can see it. Make sure everyone has something to write with, or assign one person to be the mapmaker, and another as note-taker (optional). As you proceed, remember to _name_ everything you write down. See [Naming Things](#naming-things) below. Finally, follow these steps:
@@ -82,21 +81,18 @@ Remember that you should be _asking questions_ during this entire process. Why d
 
 If you are building the **Map** _after_ character creation, try asking questions based on the character backgrounds you've already established. A well-traveled ranger (or soldier, whatever) will probably know more about the far-reaches of the known world than a city thief. Perhaps the most learned character could provide a bit of background behind the unfortunate naming of a felled pillar near the starting location, as well as what makes it special.   
 
-In general, it also helps to play on available tropes, but always leave space for subverting and enhancing expectations. But more importantly, remember to _leave gaps_ on the map. As they say in [Dungeon World](https://dungeon-world.com), **Draw Maps, Leave Blanks**. I find that a partially-drawn map helps open up possibilities I might not have considered otherwise.
+In general, it also helps to play on available tropes, but always leave space for subverting and enhancing expectations. But more importantly, remember to _leave gaps_ on the map. One of my favorite GM lessons from [Dungeon World](https://dungeon-world.com) is the phrase **Draw Maps, Leave Blanks**. Personally, I find that a partially-drawn map helps open up possibilities I might not have considered otherwise.
 
 ### The Hex or Index Card Method
-As an alternative to "static" mapmaking method described above, I also heartily endorse creating _regions_ and _points of interest_ using index or hex cards. Before we being however, let me _show_ you a map drawn by my players, made from index cards (some of these were drawn during the worldbuilding phase, and others as we played through the session): <br>
-<br>
+As an alternative to "static" mapmaking method described above, I also heartily endorse creating _regions_ and _points of interest_ using index or hex cards. Below are a few example maps drawn by my players:
 
 [![Alt text](/img/build-your-world/index_card_map.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/index_card_map.jpg)
-
-<p style="text-align: center; font-size:1.25em;">And this hex map:</p>
 
 [![Alt text](/img/build-your-world/hexmap.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/hexmap.jpg)
 
 <p style="font-size:1.25em;">Here's what I like about this method:</p>
 
-### Art
+### The Art
 Players get to draw, and some of the art they produce is fantastic. Check it out:
 
 [![Alt text](/img/build-your-world/index_card_church.jpg "click to embiggen"){:height="40%" width="40%"}](/img/build-your-world/index_card_church.jpg)
@@ -110,6 +106,11 @@ The cards can be arranged in any order, and new cards can be added as the game p
 
 ### Replayability
 After running 100+ one shots over a two-year period, I had amassed quite an array of index/hex card maps. I can now pull out a stack of random index cards and let the players choose what they find the most interesting. Conversely, I can pull from a random stack for inspiration during the session.
+
+### Here's how to do it:
+1. Prepare your stack of index cards and permanent markers. Hand 1 or 2 to each player, then ask each to draw an image. It could be something fantastical (a floating city, a dragon’s den) or mundane (gorges, mountain peaks, lakes), or represent a feature you might see on a fantasy map (ancient ruins, temples, a city on a hill).
+2. Choose two or three of the index cards and lay them down in the middle of the table; leave a little bit of space between. Pick one that you feel is appropriate (an image of a dark forest, the city docks, a mountain cave) and mentally designate it as the starting point of the adventure. Use it to help set the scene: a collapsed crypt, or floating city, careening through the sky.
+3. Finally, you can begin the adventure, building out the map as the players move through the world. If the party needs to cross a treacherous territory on the way to defeat a great evil, place the index card image that best illustrates that danger. It might be a rickety bridge between two mountain peaks, or a dark forest, brimming with creatures of dark intent. But remember, you can always move the existing index cards apart and insert a brand new one between. And don’t feel limited by what you've got on hand! You can always draw new locations as the story progresses.
 
 ### Naming Things
 An oft-forgotten (but still impressive) skill a GM must have is in the creation of words, languages, and especially **Names** within a fictional universe. And for good reason: it's _hard_ to do well; almost as difficult as putting on a voice or accent (and perhaps with the same political pitfalls). That said, I think it's important enough to learn to do well.   
