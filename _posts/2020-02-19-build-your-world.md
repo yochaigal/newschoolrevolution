@@ -90,7 +90,7 @@ In general, it also helps to play on available tropes, but always leave space fo
 ### The Hex or Index Card Method
 As an alternative to "static" mapmaking method described above, I also heartily endorse creating _regions_ and _points of interest_ using index or hex cards. Below are a few example maps drawn by my players:
 
-[![Alt text](/img/build-your-world/index_card_map_1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/index_card_map_1.jpg)
+[![Alt text](/img/build-your-world/index_card_map_1.jpg "click to embiggen"){:height="50%" width="50%"}](/img/build-your-world/index_card_map_1.jpg)
 
 [![Alt text](/img/build-your-world/index_card_map_2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/index_card_map_2.jpg)
 
