@@ -45,5 +45,5 @@ A game about a generation ship, and the factions (and subsequent generations) li
 
 ## Misc
 
-#### [Collaborative Worldbuilding](https://docs.google.com/document/d/160M8iXPRF8sGIFhtZGhCX-p4AnfLFMAgIk7Qnw568VI/edit) (WIP)
+#### [Collaborative Worldbuilding](https://newschoolrevolution.com/2020/02/19/build-your-world)
 A guide on collaborative worldbuilding and character generation.
