@@ -132,7 +132,6 @@ Creating words in a made-up language is hard, and not something I'm overly famil
 
 ### Conclusion
 Collaboratively creating a brand-new setting from scratch is one of my favorite aspects of tabletop roleplaying games. I hope that this guide helps you build fun, original settings with your group. Please let me know if you try out any of these methods, and send me pictures of your creations!
-Thanks for reading.
 
 ### Bibliography
 * [The Perilous Wilds](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds)
