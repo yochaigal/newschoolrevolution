@@ -6,7 +6,7 @@ categories: ['posts', 'rpg']
 published: true
 
 ---
-In this post, I'm going to describe exactly how I create an original, collaborative setting in under 45 minutes. If you're not very interested in the _why_, [skip ahead](#tools-of-the-trade) to get started!
+In this post, I'm going to describe exactly how I create an original, collaborative setting for a roleplaying game. If you're not very interested in the _why_, [skip ahead](#tools-of-the-trade) to get started!
 
 ### Why Build a World Together?
 A lot of folks start their GMing career by running modules or published adventures for more traditional systems (like D&D 3.5/5e), where the setting was consistent and self-contained, and their authority was total. The suggestion that we might somehow share the imaginary load with our players might therefore seem downright crazy. But fear not! As the GM, you will still be the final judge on what gets into the game setting, and what doesn't. And more importantly, you get to let the players _do your job for you_; your mental bandwidth is thus freed up a bit. It will improve your improvisational skills, and you might even find yourself _amazed_ at what your players come up with.
@@ -32,7 +32,7 @@ But if the description presented to the players is vague (within reason) as well
 
 One of my players drew this on a wet erase board during a single session: <br>
 <br>
-[![Alt text](/img/build-your-world/isle-of-the-autarchs-map.jpg "click to embiggen"){:height="50%" width="50%"}](/img/build-your-world/isle-of-the-autarchs-map.jpg)
+[![Alt text](/img/build-your-world/isle-of-the-autarchs-map.jpg "click to embiggen"){:height="75%" width="75%"}](/img/build-your-world/isle-of-the-autarchs-map.jpg)
 
 ### The Veil of Ignorance
 Before character creation, I like to begin by asking each player to help me shape the setting by naming a single **Truth** (no more than one or two sentences) about the world we are going to play in. Although this might feel a bit risky, I strongly encourage you try it out!
@@ -98,7 +98,7 @@ As an alternative to "static" mapmaking method described above, I also heartily 
 
 <p style="font-size:1.25em;">Here's what I like about this method:</p>
 
-#### The Art
+#### Art
 Players get to draw, and some of the art they produce is fantastic. Check it out:
 
 [![Alt text](/img/build-your-world/index_card_church.jpg "click to embiggen"){:height="40%" width="40%"}](/img/build-your-world/index_card_church.jpg)
@@ -119,20 +119,23 @@ After running 100+ one shots over a two-year period, I had amassed quite an arra
 3. Finally, you can begin the adventure, building out the map as the players move through the world. If the party needs to cross a treacherous territory on the way to defeat a great evil, place the index card image that best illustrates that danger. It might be a rickety bridge between two mountain peaks, or a dark forest, brimming with creatures of dark intent. But remember, you can always move the existing index cards apart and insert a brand new one between. And don’t feel limited by what you've got on hand! You can always draw new locations as the story progresses.
 
 ### The Names of Things
-An oft-forgotten (but still impressive) skill a GM must have is in the creation of words, languages, and especially **Names** within a fictional universe. And for good reason: it's _hard_ to do well; almost as difficult as putting on a voice or accent (and perhaps with the same political pitfalls). That said, I think it's important enough to learn to do well. Here's what little I've picked up over the years:
+An oft-forgotten (but still impressive) skill a GM must have is in the creation of words, languages, and especially **Names** within a fictional universe. And for good reason: it's _hard_ to do well; almost as difficult as putting on a voice or accent (and perhaps with the same political pitfalls). That said, I think it's important enough to learn to do well. A lot of naming has to do with how _language_ is used in your setting, which for non-polyglots can be a bit scary! Below I've outlined  a few methods that I've picked up over the years.
 
-Decide whether you're going to use your primary language, another language, or something made up.
-#### A language you know
+#### Using your primary language as a base
  If you go with your own language, lean in to the strange and fantastic when you can. For every _Royal Highway_ and _Land's End_, there should also be a _Bridge of Two Suns_ or _The Weeping Forest_. Invite the players to suggest names based on what you already know about the fictional world you're creating, as well. If you happen to speak multiple languages, a quick way to create interesting, but still memorable names is to think about the person, place or concept in another language, and use the word that arises as a base. For instance, if I described an important NPC as being continually angry, I might think of the Hebrew word כועס (pronounced "Ko-es"). I could then introduce them as _Ko-es of the Twisting Isles_, and the name will serve as a bit of a reminder of their personality. It doesn't have a ton of meaning to my players, though - so use I try to use this method sparingly.
 
-#### A language you _don't know_
+#### Using a foreign language as your base
 If you decide pick another language as a base, don't limit yourself to the familiar; take a look at the bounty of interesting African, Polynesian, and Asian languages out there! I also highly recommend the [Story Games Name Project](http://www.lulu.com/us/en/shop/jason-morningstar/story-games-name-project/paperback/product-3594462.html) by [Jason Morningstar](https://twitter.com/jmstar) as a resource to have at the table, as it is organized by language groups with useful tables. After the fact, you can still go to your favorite online generator or translation service and play around with different options until they feel like a good fit. You should let the players know that you'd like the names of the world to be rooted in a particular language, and ask for their help.
 
-#### A language you've made up
+#### Using a language that you've made up
 Creating words in a made-up language is hard, and not something I'm overly familiar with. My advice is to be consistent if you can! It also helps to think of the _old_ form of a particular word, and what it might look like today. In _Sindarin_ (the language of Elves created by J.R.R. Tolkien) the word for [Elf](https://www.elfdict.com/w/elf) is _elda_, which originates from the word _elen_, meaning star. Literally, "one of the Star folk." Pretty cool.
 
-<!-- Some linguistic pitfalls to avoid: -->
+### Conclusion
+Collaboratively creating a brand-new setting from scratch is one of my favorite aspects of tabletop roleplaying games. I hope that this guide helps you build fun, original settings with your group. Please let me know if you try out any of these methods, and send me pictures of your creations!
+Thanks for reading.
 
 ### Bibliography
 * [The Perilous Wilds](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds)
 * [Dragonslaying on a Timetable](https://docs.google.com/document/d/1tf4lalDcwlG6npkFLAsMWYw5ojFUbz1r2OLqKn3C478/edit?pref=2&pli=1)
+* [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year)
+* [Microscope](http://www.lamemage.com/microscope/)
