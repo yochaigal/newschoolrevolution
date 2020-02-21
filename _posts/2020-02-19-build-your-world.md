@@ -61,7 +61,9 @@ The GM should be peppering the players with follow-up questions throughout the w
 * _Do deities exist? If they do, do Gods walk the land, and do people know about them?_
 * _What technological age is it? Do guns exist? How does magic factor in (if at all)?_
 * _How is news passed around? Are legal systems in place? Who enforces the laws?_
-* _Were there any recent political upheavals or wars? What started them?_
+* _Were there any recent political upheavals or wars? What caused them?_
+* _What resources are missing in the world? Why? How do people cope?_
+
 
 These questions should be tailored to previous **Truths**, but in general follow the concepts that players seem the most excited about.
 
