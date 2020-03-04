@@ -23,7 +23,12 @@ Keys are goals, ties, beliefs, or vows a character has. They are meant to replac
 <br>
 <br>
 
-#### [The Sorcerer Playbook](https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk) ([Dungeon World](https://dungeon-world.com/))
+#### [Alternative Location Rules For Dungeon World](https://docs.google.com/document/d/1rycFBuJc5N52Za6mTr-ehayrk5l2FK6EZKJn9Kpv2WE)
+A fairly concrete method for treating locations as _monsters_.
+<br>
+<br>
+
+#### [The Sorcerer Playbook for Dungeon World](https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk)
 An alternative spellcasting playbook to the Wizard, that doesn't require spell memorization, and uses CHA as a prime stat. I'm pretty proud of the move titles.
 <br>
 
