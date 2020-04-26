@@ -1,0 +1,62 @@
+---
+layout: default
+make-smaller-titles: true
+---
+
+
+<div class="container-fluid index">
+  <div class="row index all-posts">
+
+    <h1 class="header author-header">{{ site.author_name }}</h1>
+    <h2 class="header" itemprop="headline">All posts</h2>
+    <h2 class="header categories" itemprop="headline"><small>grouped by
+
+      <div class="dropdown btn-group">
+        <button class="btn btn-categories dropdown-toggle btn-xs" type="button" data-toggle="dropdown">Tags
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/posts/">Years</a></li>
+          <li><a href="{{ site.baseurl }}/posts-by-categories.html">Categories</a></li>
+        </ul>
+      </div>
+
+    </small></h2>
+
+    {% assign rawtags = "" %}
+      {% for post in site.posts %}
+        {% assign ttags = post.tags | join:'|' | append:'|' %}
+        {% assign rawtags = rawtags | append:ttags %}
+      {% endfor %}
+    {% assign rawtags = rawtags | split:'|' | sort %}
+
+    {% assign tags = "" %}
+    {% for tag in rawtags %}
+      {% if tag != "" %}
+        {% if tags == "" %}
+          {% assign tags = tag | split:'|' %}
+        {% endif %}
+        {% unless tags contains tag %}
+          {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+
+    {% for tag in tags %}
+    <div class="col-md-12 content-panel articles">
+      <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+      <ul>
+      {% for post in site.posts %}
+        {% if post.tags contains tag %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+
+  </div>
+</div>
