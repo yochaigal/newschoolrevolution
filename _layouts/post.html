@@ -81,7 +81,9 @@ layout: default
         <div class="tags">
           <small>
           <i class="fa fa-tags"></i>
-            {{ page.tags | join: ', ' }}
+          {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/posts-by-tags.html#{{tag}}">{{ tag }}{% if forloop.last == false %}, {% endif %}</a>
+          {% endfor %} 
           </small>
         </div>
         {% endif %}

@@ -43,6 +43,7 @@ make-smaller-titles: true
     {% endfor %}
 
     {% for tag in tags %}
+    <a name="tag"></a>
     <div class="col-md-12 content-panel articles">
       <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
       <ul>
