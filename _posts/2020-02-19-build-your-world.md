@@ -2,7 +2,7 @@
 layout: post
 title: Build Your World
 date: 2020-02-19
-categories: ['posts', 'rpg']
+tags: ['posts', 'rpg', 'worldbuilding']
 published: true
 
 ---

@@ -38,8 +38,8 @@ An alternative spellcasting playbook to the Wizard, that doesn't require spell m
 When I started running Into The Odd, I again found a system with a veritable bouquet of excellent tools, hacks, tips & resources, but no single place to keep all of the relevant links! And thus the Into The Odd Syllabus was born.  
 <br>
 
-#### [The Positronic Library](https://drive.google.com/open?id=1cB-J7NT6sp9PkFLxTa5SNeB0kQI3MnIv)
-A simple adventure site for Into The Odd: Electric Bastionland, or similar rules-lite OSR games. 
+#### [The Positronic Library](https://yochaigal.itch.io/the-positronic-library)
+A simple adventure site for Into The Odd: Electric Bastionland, or similar rules-lite OSR games.
 
 #### [The Arcanist](https://docs.google.com/document/d/14Bz9I5HEY8l34YQn_DA0NdqePcJqtL2HuPPA0aVp9WY/edit?usp=sharing) ([Into The Dungeon: Revived](https://github.com/Vladar4/itdr))
 An overpowered alternative magic user.
