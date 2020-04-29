@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the New School Revolution? Part 2.
-date: 2020-02-01
+date: 2020-04-29
 tags: ['osr', 'nsr', 'rpg']
 published: false
 ---
@@ -22,7 +22,6 @@ In general, this means that there will never be a rule for every scenario. Inste
 Finally, these new _rules_ serve to transform the game, by necessity. One table's idea of a game might appear wholly different from another; RAW (rules as written) only matter if they serve to deliver the play experience your group desires. Rule systems are not holy texts, but rather structures for a shared play experience.
 
 ### The GM is an Interpreter
-
 
 
 ### The GM is Principled
