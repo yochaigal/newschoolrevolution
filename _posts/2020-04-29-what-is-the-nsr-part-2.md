@@ -21,20 +21,16 @@ In general, this means that there will never be a rule for every scenario. Inste
 
 Finally, these new _rules_ serve to transform the game, by necessity. One table's idea of a game might appear wholly different from another; RAW (rules as written) only matter if they serve to deliver the play experience your group desires. Rule systems are not holy texts, but rather structures for a shared play experience.
 
-### The GM is an Interpreter
-
-
 ### The GM is Principled
 As this series of posts should (hopefully) demonstrate, NSR games are guided by a set of principles. The reason an NSR GM should facilitate **Deadly** situations is not to kill the characters, but rather to allow them a space to make _informed decisions_ about risk.
 
 Similarly, in order to create an **Emergent Narrative**, the players must feel that they are experiencing a **Living World**, something they actually want to **Explore**. This will all be explored in great detail in the relevant future posts, but in general, that means:
 
-##### Prepare situations, not plots
+* #### Prepare situations, not plots
+* #### Inform players of the risks
+* #### Let the story be an _effect_ of play
+* #### Uphold Logic and consistency
+* #### Reward clever solutions
+<p></p>
 
-##### Inform players of the risks
-
-##### Let the story be an _effect_ of play
-
-##### Uphold Logic and consistency
-
-##### Reward clever solutions
+### The GM is an Interpreter
