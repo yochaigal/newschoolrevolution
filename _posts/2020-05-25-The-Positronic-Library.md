@@ -6,7 +6,7 @@ tags: ['posts', 'rpg', 'dungeons', into-the-odd]
 published: true
 ---
 
-## The Positronic Library: now with vastly superior art!
+## The Positronic Library: new map and cover art!
 
 I have completely remade my Into The Odd dungeon, The [Positronic Library](https://yochaigal.itch.io/the-positronic-library). With the help of [Francesco Zanieri](https://www.instagram.com/licopeoart), I've added a fully illustrated cover, as well as a complete dungeon map of the Library. I've also cleaned up a number of the room descriptions, and added a bit more worldbuilding to boot.
 
