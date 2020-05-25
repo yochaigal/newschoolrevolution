@@ -12,6 +12,6 @@ I have completely remade my Into The Odd dungeon, The [Positronic Library](https
 
 ### Look!
 
-[![Alt text](/img/positronic-library/positronic-map.png "click to embiggen"){:height="60%" width="60%"}](/img/positronic-library/positronic-map.png) [![Alt text](/img/positronic-library/positronic-cover.png "click to embiggen"){:height="60%" width="60%"}](/img/positronic-library/positronic-cover.png)
+[![Alt text](/img/positronic-library/positronic-cover.png "click to embiggen"){:height="60%" width="60%"}](/img/positronic-library/positronic-cover.png) [![Alt text](/img/positronic-library/positronic-map.png "click to embiggen"){:height="60%" width="60%"}](/img/positronic-library/positronic-map.png) 
 
 Let me know your thoughts, and your experience running it. I'm truly proud of what we've done here.
