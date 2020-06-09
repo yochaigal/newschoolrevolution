@@ -11,7 +11,7 @@ You've likely already heard about the [Bundle for Racial Justice and Equality](h
 Below is an ongoing list of interesting tabletop RPG products included in the bundle that usually cost money, and are of at least a passing interest to me.
 
 ### Games
-[https://natetreme.itch.io/itloags](In The Light of a Ghost Star)
+[In The Light of a Ghost Star](https://natetreme.itch.io/itloags)
 
 [In The Light of a Setting Sun: Saddlebag Edition](https://sivads-sanctum.itch.io/in-the-light-of-a-setting-sun-saddlebag-edition)
 
