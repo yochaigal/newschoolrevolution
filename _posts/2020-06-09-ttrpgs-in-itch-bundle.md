@@ -75,4 +75,4 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 
 [Catch The Devil](https://sagelt.itch.io/catch-the-devil)
 
-[One Pgae Lore: Fantasy Folk](https://rexiconjesse.itch.io/one-page-lore-fantasy-folk)
+[One Page Lore: Fantasy Folk](https://rexiconjesse.itch.io/one-page-lore-fantasy-folk)
