@@ -19,7 +19,7 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 
 [Michtim](https://grimogre.itch.io/michtim)
 
-[Ironsworn Delve](https://shawn-tomkin.itch.io/ironsworn-delve)
+[Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve)
 
 [Cage of Sand](https://luciellaes.itch.io/cage-of-sand)
 
