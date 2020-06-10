@@ -3,12 +3,12 @@ layout: post
 title: The Racial Justice Itch Bundle
 date: 2020-06-09
 tags: ['posts', 'rpg']
-published: false
+published: true
 ---
 
 You've likely already heard about the [Bundle for Racial Justice and Equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality) hosted by Itch.io in the wake of mass protests against police brutality and institutional racism. I highly recommend it - there are a whole bunch terrific indie RPGs and indie video games included, and the list keeps growing (at present there are 1,000 items from nearly 800 creators). You can see an in-depth document listing on the games [here](https://docs.google.com/spreadsheets/d/1cbOqO6rq0YYWPKmci8Pgv4YGWcl4NQUX9EAj221Ze30/edit?usp=sharing), I found it very helpful.
 
-Below is an ongoing list of interesting tabletop RPG products included in the bundle that usually cost money, and are of at least a passing interest to me.
+Below is an ongoing list of interesting tabletop RPG products included in the bundle that usually cost money, and are of at least a passing interest to me. I'll try and keep it up to date as this goes on.
 
 ### Games
 [In The Light of a Ghost Star](https://natetreme.itch.io/itloags)
@@ -58,3 +58,21 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 [Troika! Numinous Edition](https://melsonian-arts-council.itch.io/troika-numinous-edition)
 
 [The Boughs (Dungeon World)](https://sandypuggames.itch.io/the-boughs-a-dungeon-world-campaign-setting)
+
+[Apotheosis](https://gmurphy.itch.io/apotheosis)
+
+[To the NPC With A Thousand Faces](https://firgof.itch.io/the-npc-with-a-thousand-faces)
+
+[Godsend](https://ufo-mina.itch.io/godsend)
+
+[Vultures](https://johnbattle.itch.io/vultures)
+
+[Yokai Hunter](https://punkpadour.itch.io/yokai-hunter)
+
+[The Synth Convergence (The Sprawl)](https://lunarshadow.itch.io/synth-convergence)
+
+[For The Dungeon](https://tabletop.itch.io/for-the-dungeon)
+
+[Catch The Devil](https://sagelt.itch.io/catch-the-devil)
+
+[One Pgae Lore: Fantasy Folk](https://rexiconjesse.itch.io/one-page-lore-fantasy-folk)
