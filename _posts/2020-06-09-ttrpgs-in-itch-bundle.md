@@ -98,3 +98,11 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 [The Land of Pán-gǔ 盤古之地](https://kittymaverick.itch.io/project-pangu)
 
 [VIDEOSTORE - A Monster of the Week Double Feature](https://sinisterbeard.itch.io/videostore)
+
+[The Gateshead Engine](https://adnroy.itch.io/the-gateshead-engine)
+
+[The Curse of the House of Rookwood](https://nerdypupgames.itch.io/rookwoodrpg)
+
+[Subway Runners](https://gemroomgames.itch.io/subwayrunners)
+
+[Gourmet Street: Fantasy Food Adventuring](https://theunlawfulneutral.itch.io/gourmet-street-fantasy-food)
