@@ -6,9 +6,9 @@ tags: ['posts', 'rpg']
 published: true
 ---
 
-You've likely already heard about the [Bundle for Racial Justice and Equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality) hosted by Itch.io in the wake of mass protests against police brutality and institutional racism. I highly recommend it - there are a whole bunch terrific indie RPGs and indie video games included, and the list keeps growing (at present there are 1,000 items from nearly 800 creators). [Here](https://docs.google.com/spreadsheets/d/1cbOqO6rq0YYWPKmci8Pgv4YGWcl4NQUX9EAj221Ze30/edit?usp=sharing) is an up-to-date listing of the games; I found it very helpful.
+You've likely already heard about the [Bundle for Racial Justice and Equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality) hosted by Itch.io in the wake of mass protests against police brutality and institutional racism. I highly recommend it - there are a whole bunch terrific indie RPGs and indie video games included, and the list keeps growing (at present there are 1,000 items from nearly 800 creators). [Here](https://docs.google.com/spreadsheets/d/1cbOqO6rq0YYWPKmci8Pgv4YGWcl4NQUX9EAj221Ze30/edit?usp=sharing) is an up-to-date listing of the games; I found it very helpful. I've copied only the Physical Games portion into my [own](https://docs.google.com/spreadsheets/d/1PpdZWcQPfWj3hC6ufXZ-CC6TqNCjyhpk7hrAp6S4X3k), I will try to keep it up to date.
 
-Below is an ongoing list of interesting tabletop RPG products included in the bundle that usually cost money, and are of at least a passing interest to me. I'll try and keep it up to date as this goes on.
+Below is an ongoing list of interesting tabletop RPG products included in the bundle that usually cost money, and are of at least a passing interest to me; some I own already but think you should know about it, too. I'll try and keep it up to date as this goes on.
 
 ### Games
 [In The Light of a Ghost Star](https://natetreme.itch.io/itloags)
@@ -76,3 +76,21 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 [Catch The Devil](https://sagelt.itch.io/catch-the-devil)
 
 [One Page Lore: Fantasy Folk](https://rexiconjesse.itch.io/one-page-lore-fantasy-folk)
+
+[6e](https://s-jared.itch.io/6e)
+
+[Damn the Man, Save the Music!](https://makebigthings.itch.io/damntheman)
+
+[High Fructose Hyperspace](https://axesorcs.itch.io/high-fructose-hyperspace)
+
+[Lowcountry Crawl](https://davidschirduan.itch.io/lowcountry-crawl-1)
+
+[Na Escuridão (In the Darkness)](https://minakie.itch.io/na-escuridao)
+
+[Penicillin Issues 1-3](https://micah-anderson.itch.io/penicillin-issue-1)
+
+[A Warm & Pleasant Hum](https://signalstation.itch.io/a-warm-and-pleasant-hum)
+
+[A Wizard](https://donnyc.itch.io/a-wizard)
+
+[Beneath The Canals](https://michaeltlombardi.itch.io/beneath-the-canals)
