@@ -67,7 +67,7 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 
 [Vultures](https://johnbattle.itch.io/vultures)
 
-[Yokai Hunter](https://punkpadour.itch.io/yokai-hunter)
+[Yokai Hunters Society](https://punkpadour.itch.io/yokai-hunter)
 
 [The Synth Convergence (The Sprawl)](https://lunarshadow.itch.io/synth-convergence)
 
@@ -94,3 +94,7 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 [A Wizard](https://donnyc.itch.io/a-wizard)
 
 [Beneath The Canals](https://michaeltlombardi.itch.io/beneath-the-canals)
+
+[The Land of Pán-gǔ 盤古之地](https://kittymaverick.itch.io/project-pangu)
+
+[VIDEOSTORE - A Monster of the Week Double Feature](https://sinisterbeard.itch.io/videostore)
