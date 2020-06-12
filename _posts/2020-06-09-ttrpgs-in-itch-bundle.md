@@ -6,9 +6,9 @@ tags: ['posts', 'rpg']
 published: true
 ---
 
-You've likely already heard about the [Bundle for Racial Justice and Equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality) hosted by Itch.io in the wake of mass protests against police brutality and institutional racism. I highly recommend it - there are a whole bunch terrific indie RPGs and indie video games included, and the list keeps growing (at present there are 1,000 items from nearly 800 creators). [Here](https://docs.google.com/spreadsheets/d/1cbOqO6rq0YYWPKmci8Pgv4YGWcl4NQUX9EAj221Ze30/edit?usp=sharing) is an up-to-date listing of the games; I found it very helpful.
+You've likely already heard about the [Bundle for Racial Justice and Equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality) hosted by Itch.io in the wake of mass protests against police brutality and institutional racism. I highly recommend it - there are a whole bunch terrific indie RPGs and indie video games included, and the list keeps growing (at present there are 1637+ items from nearly 1000 creators). [Here](https://randombundlegame.com/) is a terrific front-end someone made for the bundle; I found it very helpful.
 
-Below is an ongoing list of interesting tabletop RPG products included in the bundle that usually cost money, and are of at least a passing interest to me; some I own already but think you should know about it, too. I'll try and keep it up to date as this goes on.
+Below is an ongoing list of interesting tabletop RPG products included in the bundle that usually cost money, and are of at least a passing interest to me; some I own already but think you should know about it, too. I'll try and keep it up to date as this goes on (last update: June 12th, 2020).
 
 ### Games
 [In The Light of a Ghost Star](https://natetreme.itch.io/itloags)
@@ -126,3 +126,13 @@ Below is an ongoing list of interesting tabletop RPG products included in the bu
 [SINS](https://firstfallingleaf.itch.io/sins)
 
 [Chiron's Doom](https://ickbat.itch.io/chirons-doom)
+
+[Hardship River](https://dr3amup.itch.io/hardshipriver)
+
+[Our Hero Neighbors](https://jamieoduibhir.itch.io/ourheroneighbors-rpg)
+
+[Two Years of Mini-RPGs by Emojk](https://emojk.itch.io/two-years-of-mini-rpgs)
+
+[Wandering Dreams](https://sleepysasquatch.itch.io/wandering-dreams)
+
+[Haiduc](https://haiduc.itch.io/haiduc)
