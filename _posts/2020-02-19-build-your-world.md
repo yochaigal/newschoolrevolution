@@ -68,7 +68,7 @@ The GM should be peppering the players with follow-up questions throughout the w
 These questions should be tailored to previous **Truths**, but in general follow the concepts that players seem the most excited about.
 
 #### The Line
-When asking player's questions, try to keep in mind the GM's role vs the players.**The Line** (as described by [John Harper](https://twitter.com/john_harper)) helps illustrate the level of authorship each participant has; essentially the player should only be able to help describe the world through the lens of _a character_ in the setting, while the GM handles _everything else_. For further reading, I strongly recommend reading [Apocalypse World: Crossing the Line](http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html).
+When asking player's questions, try to keep in mind the GM's role vs the players. **The Line** (as described by [John Harper](https://twitter.com/john_harper)) helps illustrate the level of authorship each participant has; essentially the player should only be able to help describe the world through the lens of _a character_ in the setting, while the GM handles _everything else_. For further reading, I strongly recommend reading [Apocalypse World: Crossing the Line](http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html).
 
 ### A Map of The World
 The following can happen _before_ or _after_ character creation. First, place a blank sheet of paper (the **Map**) where everyone can see it. Make sure everyone has something to write with, or assign one person to be the mapmaker, and another as note-taker (optional). As you proceed, remember to _name_ everything you write down. See [The Names of Things](#the-names-of-things) below. Finally, follow these steps:
