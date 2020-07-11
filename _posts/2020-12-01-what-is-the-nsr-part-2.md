@@ -1,14 +1,14 @@
 ---
 layout: post
 title: What is the New School Revolution? Part 2.
-date: 2020-04-29
+date: 2020-12-01
 tags: ['osr', 'nsr', 'rpg']
 published: false
 ---
 
 Welcome to Part 2 of my [What Is The NSR](https://newschoolrevolution.com/posts-by-tags.html#nsr) series of posts. Today, I'd like to talk about the role of the GM in NSR games. This is sure to be a very subjective take, of course, but as the NSR label is still in a bit of flux, I think we're all allowed a little bit of license.
 
-As you may recall, the [strict definition](https://boneboxchant.wordpress.com/2019/12/21/nsr/) of **New School** games is that they must have _a_ GM (or Referee, or Judge, or Conductor. The list goes on). For contrast, this means that games which have multiple GMs, or rotating GMs, or are GMless (like my personal favorite, _Microscope_) are not by definition NSR games.
+As you may recall, the [strict definition](https://boneboxchant.wordpress.com/2019/12/21/nsr/) of **New School** games is that they must have _a_ GM (or Referee, or Judge, or Conductor, etc). For contrast, this means that games which have multiple GMs, or rotating GMs, or are GMless (like my personal favorite, _Microscope_) are not by definition NSR games.
 
 ***Sidebar***: this is _not_ to say that NSR games cannot bring players into the worldbuilding process! I have personally experienced great pleasure in _asking questions_ and _using the answers_, as Dungeon World and other PbtA games [suggest](https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504). The most important thing here I think is to ensure that the _players are not authors of their character's adversity, as well as its solution_, as [Paul Czege](https://en.wikipedia.org/wiki/Paul_Czege) would say. I could elaborate on this quite a bit, actually; fodder for a future post, perhaps.
 
