@@ -24,10 +24,10 @@ Our month-long [Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) 
 ### NPCs & Encounters
 
 |--|--|
-| [Fifty Bastionards](https://roqueromero.itch.io/50bastionards) | [The Last Jousting Tournament](https://kingtaran.itch.io/thelastjoustingtornament) |  |  |  |
-| [All About Gum](https://gmcactus.itch.io/allaboutgum) | [Itinerant Travellers](https://blackpowderchef.itch.io/itineranttravellers) |  |  |  |
-| [Three For Bastionland](https://cosmicorrery.itch.io/threeforbastionland) | [Odd Beings](https://cosmicorrery.itch.io/oddbeings)  |  |  |  |
-| [d6 Machines](https://technoskald.itch.io/d6machines) |  |  |  |  |
+| [Fifty Bastionards](https://roque-romero.itch.io/50-bastionards) | [The Last Jousting Tournament](https://king-taran.itch.io/the-last-jousting-tornament) |  |  |  |
+| [All About Gum](https://gm-cactus.itch.io/all-about-gum) | [Itinerant Travellers](https://blackpowderchef.itch.io/itinerant-travellers) |  |  |  |
+| [Three For Bastionland](https://cosmicorrery.itch.io/three-for-bastionland) | [Odd Beings](https://cosmicorrery.itch.io/odd-beings)  |  |  |  |
+| [d6 Machines](https://technoskald.itch.io/d6-machines) |  |  |  |  |
 
 <br>
 ### Adventures & Boroughs
