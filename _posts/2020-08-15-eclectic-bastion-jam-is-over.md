@@ -11,14 +11,14 @@ Our month-long [Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) 
 ### Failed Careers & Play Aids
 
 |--|--|
-| [Electric Wizards](https://awkwardturtle.itch.io/electricwizards) | [Beneath The Living Stars](https://poetryalpastor.itch.io/beneaththelivingstars) |
-| [Wages For The Dead](https://radmad.itch.io/wagesforthedead) | [MILLIAMP](https://olobosk.itch.io/milliamp) |
-| [Bird Wizard](https://cosmicorrery.itch.io/birdwizard) | [English Bastionland](https://quietude.itch.io/englishbastionland) |
+| [Electric Wizards](https://awkwardturtle.itch.io/electric-wizards) | [Beneath The Living Stars](https://poetryalpastor.itch.io/beneath-the-living-stars) |
+| [Wages For The Dead](https://radmad.itch.io/wages-for-the-dead) | [MILLIAMP](https://olobosk.itch.io/milliamp) |
+| [Bird Wizard](https://cosmicorrery.itch.io/bird-wizard) | [English Bastionland](https://quietude.itch.io/english-bastionland) |
 | [I Remember True Light](https://wiegraf.itch.io/iremembertruelight) | [Scatomancer](https://tyrannoeil.itch.io/scatomancien) |
-| [Commercial Muralist](https://luislogic.itch.io/commercialmuralist) | [Light Housekeeper](https://maxkaemmerer.itch.io/lighthousekeeper) |
-| [Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugsguildjourneyman) | [ExCarpet Seller](https://cosmicorrery.itch.io/excarpetseller) |
-| [Lightning Conductor](https://cosmicorrery.itch.io/lightningconductor) | [Ghost Impersonator](https://jamiltron.itch.io/ghostimpersonator) |
-| [Deep Sea Diver](https://cosmicorrery.itch.io/entrappeddiver) |  |  |  |  |
+| [Commercial Muralist](https://luislogic.itch.io/commercial-muralist) | [Light Housekeeper](https://maxkaemmerer.itch.io/light-housekeeper) |
+| [Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman) | [ExCarpet Seller](https://cosmicorrery.itch.io/excarpet-seller) |
+| [Lightning Conductor](https://cosmicorrery.itch.io/lightningconductor) | [Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator) |
+| [Deep Sea Diver](https://cosmicorrery.itch.io/entrapped-diver) |  |  |  |  |
 
 <br>
 ### NPCs & Encounters
