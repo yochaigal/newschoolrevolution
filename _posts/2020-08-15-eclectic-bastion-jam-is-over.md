@@ -17,7 +17,7 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 
 [Wages For The Dead](https://radmad.itch.io/wages-for-the-dead)
 
-[MILLIAMP | A micro hack for Electric Bastionland](https://olobosk.itch.io/milliamp)
+[MILLIAMP: A micro hack for Electric Bastionland](https://olobosk.itch.io/milliamp)
 
 [Bird Wizard](https://cosmicorrery.itch.io/bird-wizard)
 
