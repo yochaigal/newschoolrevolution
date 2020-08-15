@@ -11,35 +11,21 @@ Our month-long [  Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam
 The Jam was a resounding success, with 61 entries in total (though I'm aware of a few submissions that didn't make the deadline). We had everything from short (but sweet) **Failed Careers**, to completely original games filling more than 80 pages! There are far too many excellent submissions for me cover here, but I have taken the liberty of organizing the entries into their respective categories.
 
 ### Failed Careers & Play Aids
-[Electric Wizards](https://awkwardturtle.itch.io/electric-wizards)
 
-[Beneath The Living Stars](https://poetryalpastor.itch.io/beneath-the-living-stars)
+|   |   |
+|---|---|
+|  [Electric Wizards](https://awkwardturtle.itch.io/electric-wizards) | [Beneath The Living Stars](https://poetryalpastor.itch.io/beneath-the-living-stars)  |
+|  [Wages For The Dead](https://radmad.itch.io/wages-for-the-dead) |  [MILLIAMP](https://olobosk.itch.io/milliamp) |
+|  [Bird Wizard](https://cosmicorrery.itch.io/bird-wizard) | [English Bastionland](https://quietude.itch.io/english-bastionland)  |
+| [I Remember True Light](https://wiegraf.itch.io/i-remember-true-light)  |  [Scatomancer](https://tyrannoeil.itch.io/scatomancien) |
+| [Commercial Muralist](https://luis-logic.itch.io/commercial-muralist)  |   [Light Housekeeper](https://maxkaemmerer.itch.io/light-housekeeper) |
+| [Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman)  |  [Ex-Carpet Seller](https://cosmicorrery.itch.io/ex-carpet-seller) |
+| [Lightning Conductor](https://cosmicorrery.itch.io/lightning-conductor)  |  [Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator) |
+| [Deep Sea Diver](https://cosmicorrery.itch.io/entrapped-diver)  |   |
+|   |   |
+|   |   |
 
-[Wages For The Dead](https://radmad.itch.io/wages-for-the-dead)
 
-[MILLIAMP](https://olobosk.itch.io/milliamp)
-
-[Bird Wizard](https://cosmicorrery.itch.io/bird-wizard)
-
-[English Bastionland](https://quietude.itch.io/english-bastionland)
-
-[I Remember True Light](https://wiegraf.itch.io/i-remember-true-light)
-
-[Scatomancer](https://tyrannoeil.itch.io/scatomancien)
-
-[Commercial Muralist](https://luis-logic.itch.io/commercial-muralist)
-
-[Light Housekeeper](https://maxkaemmerer.itch.io/light-housekeeper)
-
-[Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman)
-
-[Ex-Carpet Seller](https://cosmicorrery.itch.io/ex-carpet-seller)
-
-[Lightning Conductor](https://cosmicorrery.itch.io/lightning-conductor)
-
-[Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator)
-
-[Deep Sea Diver](https://cosmicorrery.itch.io/entrapped-diver)
 
 
 ### NPCs & Encounters
