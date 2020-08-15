@@ -14,9 +14,9 @@ Our month-long [Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) 
 | [Electric Wizards](https://awkwardturtle.itch.io/electric-wizards) | [Beneath The Living Stars](https://poetryalpastor.itch.io/beneath-the-living-stars) |
 | [Wages For The Dead](https://radmad.itch.io/wages-for-the-dead) | [MILLIAMP](https://olobosk.itch.io/milliamp) |
 | [Bird Wizard](https://cosmicorrery.itch.io/bird-wizard) | [English Bastionland](https://quietude.itch.io/english-bastionland) |
-| [I Remember True Light](https://wiegraf.itch.io/iremembertruelight) | [Scatomancer](https://tyrannoeil.itch.io/scatomancien) |
-| [Commercial Muralist](https://luislogic.itch.io/commercial-muralist) | [Light Housekeeper](https://maxkaemmerer.itch.io/light-housekeeper) |
-| [Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman) | [ExCarpet Seller](https://cosmicorrery.itch.io/ex-carpet-seller) |
+| [I Remember True Light](https://wiegraf.itch.io/i-remember-true-light) | [Scatomancer](https://tyrannoeil.itch.io/scatomancien) |
+| [Commercial Muralist](https://luis-logic.itch.io/commercial-muralist) | [Light Housekeeper](https://maxkaemmerer.itch.io/light-housekeeper) |
+| [Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman) | [Ex-Carpet Seller](https://cosmicorrery.itch.io/ex-carpet-seller) |
 | [Lightning Conductor](https://cosmicorrery.itch.io/lightning-conductor) | [Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator) |
 | [Deep Sea Diver](https://cosmicorrery.itch.io/entrapped-diver) |  |  |  |  |
 
