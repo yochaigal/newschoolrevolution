@@ -16,8 +16,8 @@ Our month-long [Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) 
 | [Bird Wizard](https://cosmicorrery.itch.io/bird-wizard) | [English Bastionland](https://quietude.itch.io/english-bastionland) |
 | [I Remember True Light](https://wiegraf.itch.io/iremembertruelight) | [Scatomancer](https://tyrannoeil.itch.io/scatomancien) |
 | [Commercial Muralist](https://luislogic.itch.io/commercial-muralist) | [Light Housekeeper](https://maxkaemmerer.itch.io/light-housekeeper) |
-| [Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman) | [ExCarpet Seller](https://cosmicorrery.itch.io/excarpet-seller) |
-| [Lightning Conductor](https://cosmicorrery.itch.io/lightningconductor) | [Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator) |
+| [Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman) | [ExCarpet Seller](https://cosmicorrery.itch.io/ex-carpet-seller) |
+| [Lightning Conductor](https://cosmicorrery.itch.io/lightning-conductor) | [Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator) |
 | [Deep Sea Diver](https://cosmicorrery.itch.io/entrapped-diver) |  |  |  |  |
 
 <br>
