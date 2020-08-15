@@ -10,16 +10,38 @@ Our month-long [Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) 
 
 The Jam was a resounding success, with 61 entries in total (though I'm aware of a few submissions that didn't make the deadline). We had everything from short (but sweet) Failed Careers to 80+ page total hacks. There are far too many excellent submissions for me cover here, but I have taken the liberty of organizing the entries into their respective categories.
 
-### Failed Careers
+### Failed Careers & Play Aids
 [Electric Wizards](https://awkwardturtle.itch.io/electric-wizards)
 
 [Beneath The Living Stars](https://poetryalpastor.itch.io/beneath-the-living-stars)
 
 [Wages For The Dead](https://radmad.itch.io/wages-for-the-dead)
 
-[]
+[MILLIAMP | A micro hack for Electric Bastionland](https://olobosk.itch.io/milliamp)
 
-[]
+[Bird Wizard](https://cosmicorrery.itch.io/bird-wizard)
+
+[English Bastionland](https://quietude.itch.io/english-bastionland)
+
+[I Remember True Light](https://wiegraf.itch.io/i-remember-true-light)
+
+[Scatomancer](https://tyrannoeil.itch.io/scatomancien)
+
+[Commercial Muralist](https://luis-logic.itch.io/commercial-muralist)
+
+[Light Housekeeper](https://maxkaemmerer.itch.io/light-housekeeper)
+
+[Thugs Guild Journeyman](https://cosmicorrery.itch.io/thugs-guild-journeyman)
+
+[Ex-Carpet Seller](https://cosmicorrery.itch.io/ex-carpet-seller)
+
+[Lightning Conductor](https://cosmicorrery.itch.io/lightning-conductor)
+
+[Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator)
+
+[Deep Sea Diver](https://cosmicorrery.itch.io/entrapped-diver)
+
+
 
 ### NPCs & Encounters
 [Fifty Bastionards](https://roque-romero.itch.io/50-bastionards)
@@ -32,7 +54,11 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 
 [Itinerant Travellers](https://blackpowderchef.itch.io/itinerant-travellers)
 
-[]
+[Odd Beings](https://cosmicorrery.itch.io/odd-beings)
+
+[Three For Bastionland](https://cosmicorrery.itch.io/three-for-bastionland)
+
+[d6 Machines](https://technoskald.itch.io/d6-machines)
 
 ### Adventures & Boroughs
 [The Clay Shelf](https://yochaigal.itch.io/the-clay-shelf)
@@ -47,14 +73,37 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 
 [Cities Of The New Weird Rise Up!](https://notrueindian.itch.io/cities-of-the-new-weird-rise-up)
 
-### Add-ons & Alternate Settings
+[Labour Exchange](https://robotfrancis.itch.io/labour-exchange)
+
+[Faremont](https://luis-logic.itch.io/faremont-borough)
+
+[Last Quarter: Electric Bastionland](https://triceranuke.itch.io/last-quarter-electric-bastionland-borough)
+
+[The Brothers Compote ](https://the-bearded-belgian.itch.io/the-brothers-compote)
+
+[The UrCarnival](https://willzo.itch.io/the-urcarnival)
+
+[Hidden Shrine of Setebos](https://vagabundork.itch.io/hidden-shrine-of-setebos)
+
+[The Waste Forest](https://tchom.itch.io/the-waste-forest)
+
+
+### Items & Alternate Settings
 [Crawling Bastions](https://maxver.itch.io/crawling-bastions)
 
 [Metroplex](https://reptilianesoterica.itch.io/metroplex)
 
 [Bastion, a Friendly Guide to the most Electric City](https://jbfh.itch.io/a-guide-to-bastion)
 
-### Full Hacks
+[Deepest Country](https://svonrader.itch.io/deepest-country)
+
+[Bastion Swap Meet](https://twocalf.itch.io/bastion-swap-meet)
+
+[Papa Pendleton’s Patented Pork-Pimenton Jam Product](https://bordercholly.itch.io/papa-pendletons-patented-pork-pimenton-jam-product)
+
+
+
+### Games
 [Weird North](https://classless-kobolds.itch.io/weird-north)
 
 [ANNA-X66](https://scablandspress.itch.io/anna-x66)
@@ -86,3 +135,9 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 [Squires Errant](https://flyrefi.itch.io/squires-errant)
 
 [Sky Whalers of Jupiter](https://cosmicorrery.itch.io/sky-whalers-of-jupiter)
+
+[Cormorant](https://seanfsmith.itch.io/cormorant-rpg)
+
+[Into The Chopper](https://unspeakable-games.itch.io/into-the-chopper)
+
+[Trash Goblins](https://rmossie.itch.io/trash-goblins)
