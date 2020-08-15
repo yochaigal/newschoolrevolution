@@ -3,12 +3,12 @@ layout: post
 title: Eclectic Bastion Jam Is Over!
 date: 2020-08-15
 tags: ['posts', 'rpg', 'into-the-odd']
-published: false
+published: true
 ---
 
 Our month-long [Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) is finally over!  
 
-The Jam was a resounding success, with 61 entries in total (though I'm aware of a few submissions that didn't make the deadline). We had everything from short (but sweet) Failed Careers to 80+ page total hacks. There are far too many excellent submissions for me cover here, but I have taken the liberty of organizing the entries into their respective categories.
+The Jam was a resounding success, with 61 entries in total (though I'm aware of a few submissions that didn't make the deadline). We had everything from short (but sweet) Failed Careers to full-on hacks of more than 80 pages! There are far too many excellent submissions for me cover here, but I have taken the liberty of organizing the entries into their respective categories.
 
 ### Failed Careers & Play Aids
 [Electric Wizards](https://awkwardturtle.itch.io/electric-wizards)
@@ -40,7 +40,6 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 [Ghost Impersonator](https://jamiltron.itch.io/ghost-impersonator)
 
 [Deep Sea Diver](https://cosmicorrery.itch.io/entrapped-diver)
-
 
 
 ### NPCs & Encounters
@@ -87,7 +86,6 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 
 [The Waste Forest](https://tchom.itch.io/the-waste-forest)
 
-
 ### Items & Alternate Settings
 [Crawling Bastions](https://maxver.itch.io/crawling-bastions)
 
@@ -101,9 +99,7 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 
 [Papa Pendleton’s Patented Pork-Pimenton Jam Product](https://bordercholly.itch.io/papa-pendletons-patented-pork-pimenton-jam-product)
 
-
-
-### Games
+### Games & Hacks
 [Weird North](https://classless-kobolds.itch.io/weird-north)
 
 [ANNA-X66](https://scablandspress.itch.io/anna-x66)
