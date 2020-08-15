@@ -6,7 +6,7 @@ tags: ['posts', 'rpg', 'into-the-odd']
 published: true
 ---
 
-Our month-long [Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) is finally over!  
+Our month-long [  Eclectic Bastion Jam](https://itch.io/jam/eclectic-bastion-jam) is finally over!  
 
 The Jam was a resounding success, with 61 entries in total (though I'm aware of a few submissions that didn't make the deadline). We had everything from short (but sweet) **Failed Careers**, to completely original games filling more than 80 pages! There are far too many excellent submissions for me cover here, but I have taken the liberty of organizing the entries into their respective categories.
 
@@ -17,7 +17,7 @@ The Jam was a resounding success, with 61 entries in total (though I'm aware of 
 
 [Wages For The Dead](https://radmad.itch.io/wages-for-the-dead)
 
-[MILLIAMP: A micro hack for Electric Bastionland](https://olobosk.itch.io/milliamp)
+[MILLIAMP](https://olobosk.itch.io/milliamp)
 
 [Bird Wizard](https://cosmicorrery.itch.io/bird-wizard)
 
