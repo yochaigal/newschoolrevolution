@@ -27,8 +27,12 @@ An alternative spellcasting playbook to the Wizard, that doesn't require spell m
 <br>
 
 ## OSR
+#### [The Clay Shelf](https://yochaigal.itch.io/the-clay-shelf)
+
+An adventure for [Into The Odd: Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), set in the **Deep Country**, far from the civilized domains of **Bastion**.
+
 #### [The Positronic Library](https://yochaigal.itch.io/the-positronic-library)
-A simple adventure site for Into The Odd: Electric Bastionland, or similar rules-lite OSR games.
+A simple adventure site for [Into The Odd: Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), or similar rules-lite OSR games.
 
 #### [Into The Odd Syllabus](https://docs.google.com/document/d/1ipMsbNE5EH6-1_d58o_JfneF2XA4yWqfr5XxJInSzqI/edit)
 When I started running Into The Odd, I again found a system with a veritable bouquet of excellent tools, hacks, tips & resources, but no single place to keep all of the relevant links! And thus the Syllabus was born.  
