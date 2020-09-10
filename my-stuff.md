@@ -37,6 +37,9 @@ A simple adventure site for [Into The Odd: Electric Bastionland](https://chrismc
 #### [Into The Odd Syllabus](https://docs.google.com/document/d/1ipMsbNE5EH6-1_d58o_JfneF2XA4yWqfr5XxJInSzqI/edit)
 When I started running Into The Odd, I again found a system with a veritable bouquet of excellent tools, hacks, tips & resources, but no single place to keep all of the relevant links! And thus the Syllabus was born.  
 
+#### [Into The Odd Content](https://yochaigal.github.io/intotheodd/)
+A massive list of oddities, careers, monsters and hacks for Into The Odd.
+
 #### [The Arcanist](https://docs.google.com/document/d/14Bz9I5HEY8l34YQn_DA0NdqePcJqtL2HuPPA0aVp9WY/edit?usp=sharing) ([Into The Dungeon: Revived](https://github.com/Vladar4/itdr))
 An overpowered alternative magic user.
 <br>
