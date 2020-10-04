@@ -9,6 +9,26 @@ published: true
 Here is some free stuff that I've made over the years. I'm a big fan of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 <br>
 
+## OSR
+#### [Cairn](https://yochaigal.itch.io/cairn)
+A mash-up of Knave and Into the Odd-style games for play in fantastical forests. Designed in such a way to plug-and-play B/X materials (as much as I liked, anyway) while relying on a simpler mechanical system without difficulty in conversion.
+
+#### [The Clay Shelf](https://yochaigal.itch.io/the-clay-shelf)
+An adventure for [Into The Odd: Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), set in the **Deep Country**, far from the civilized domains of **Bastion**.
+
+#### [The Positronic Library](https://yochaigal.itch.io/the-positronic-library)
+A simple adventure site for [Into The Odd: Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), or similar rules-lite OSR games.
+
+#### [Into The Odd Syllabus](https://docs.google.com/document/d/1ipMsbNE5EH6-1_d58o_JfneF2XA4yWqfr5XxJInSzqI/edit)
+When I started running Into The Odd, I again found a system with a veritable bouquet of excellent tools, hacks, tips & resources, but no single place to keep all of the relevant links! And thus the Syllabus was born.  
+
+#### [Into The Odd Content](https://yochaigal.github.io/intotheodd/)
+A massive list of oddities, careers, monsters and hacks for Into The Odd.
+
+#### [The Arcanist](https://docs.google.com/document/d/14Bz9I5HEY8l34YQn_DA0NdqePcJqtL2HuPPA0aVp9WY/edit?usp=sharing) ([Into The Dungeon: Revived](https://github.com/Vladar4/itdr))
+An overpowered alternative magic user.
+<br>
+
 ## PbtA
 #### [One Shot World](https://yochaigal.itch.io/oneshotworld)
 One Shot World is a hack of Dungeon World that removes most of the long-form mechanics and replaces them with simple rules designed to facilitate one-shots and short campaigns. There are also some useful tools in the GM Booklet (session starters, worldbuilding tips, etc) that would work for other systems, as well.  
@@ -24,24 +44,6 @@ A fairly concrete method for treating locations as _monsters_.
 
 #### [The Sorcerer Playbook for Dungeon World](https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk)
 An alternative spellcasting playbook to the Wizard, that doesn't require spell memorization, and uses CHA as a prime stat. I'm pretty proud of the move titles.
-<br>
-
-## OSR
-#### [The Clay Shelf](https://yochaigal.itch.io/the-clay-shelf)
-
-An adventure for [Into The Odd: Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), set in the **Deep Country**, far from the civilized domains of **Bastion**.
-
-#### [The Positronic Library](https://yochaigal.itch.io/the-positronic-library)
-A simple adventure site for [Into The Odd: Electric Bastionland](https://chrismcdee.itch.io/electric-bastionland), or similar rules-lite OSR games.
-
-#### [Into The Odd Syllabus](https://docs.google.com/document/d/1ipMsbNE5EH6-1_d58o_JfneF2XA4yWqfr5XxJInSzqI/edit)
-When I started running Into The Odd, I again found a system with a veritable bouquet of excellent tools, hacks, tips & resources, but no single place to keep all of the relevant links! And thus the Syllabus was born.  
-
-#### [Into The Odd Content](https://yochaigal.github.io/intotheodd/)
-A massive list of oddities, careers, monsters and hacks for Into The Odd.
-
-#### [The Arcanist](https://docs.google.com/document/d/14Bz9I5HEY8l34YQn_DA0NdqePcJqtL2HuPPA0aVp9WY/edit?usp=sharing) ([Into The Dungeon: Revived](https://github.com/Vladar4/itdr))
-An overpowered alternative magic user.
 <br>
 
 ## Minimald6
