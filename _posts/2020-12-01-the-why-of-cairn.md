@@ -3,14 +3,14 @@ layout: post
 title: The Why Of Cairn
 date: 2020-12-01
 tags: ['posts', 'rpg', 'theory','cairn']
-published: false
+published: true
 ---
 
 In a recent Twitter thread, I spelled out some of my thinking behind designing [Cairn](https://yochaigal.itch.io/cairn), prompted by a misreading of a comment by [wereoctopus](https://twitter.com/wereoctopus/status/1333661093630152704). I decided to clean it up a bit and republish that diatribe here.
 
 ## In The Beginning
 
-I started playing indie RPGs about five years ago, after an intense carrier running more traditional games like D&D 5e. As such, a lot of my design sensibilities came out of the [PbtA](https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse) world, where Principles, Agendas and Moves helped not only to guide particular playstyle, but also to reinforce the overarching themes of the game. I think principles and guidelines help play, because they set the expectations (just like safety tools). One could argue that OSR games do this as well, but I think is is less explicit. In short, PbtA games feel like they _have more rules_, but those rules tend to be focused on _enforcing a playstyle_. I think the most exemplary example of this is the game [Monsterhearts 2](https://buriedwithoutceremony.com/monsterhearts) by Avery Alder. From a design point of view I think it's brilliant, although it isn't really a game that speaks to me.
+I started playing indie RPGs about five years ago, after a few years running more traditional games like D&D 5e. As such, a lot of my design sensibilities came out of the [PbtA](https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse) world, where Principles, Agendas and Moves helped not only to guide particular playstyle, but also to reinforce the overarching themes of the game. I think principles and guidelines help play, because they set the expectations (just like safety tools). One could argue that OSR games do this as well, but I think is is less explicit. In short, PbtA games feel like they _have more rules_, but those rules tend to be focused on _enforcing a playstyle_. I think the most exemplary example of this is the game [Monsterhearts 2](https://buriedwithoutceremony.com/monsterhearts) by Avery Alder. From a design point of view I think it's brilliant, although it isn't really a game that speaks to me.
 
 After a few years, I discovered that the enforced playstyle common to most PbtA games was stifling for the type of experience I preferred; namely **problem solving**, **critical thinking**, **exploration**, and an **emergent narrative**. Obviously many of those goals can be achieved in almost any system, but personally I felt that most PbtA games, and especially Dungeon World, did not work for me in this regard.
 
@@ -22,7 +22,7 @@ I remember reading about [Into The Odd](https://www.drivethrurpg.com/product/145
 
 When Into The Odd's successor, [Electric Bastionland](https://bastionlandpress.com/) came out, it was like finding a room in my head that I didn't realize had been there all along; a light had been switched on, and the cobwebs dusted away. The _Failed Careers_ alone are worth the price of admission; I could stare at the book's glorious art all day. As an aside, if I could remake Cairn, I'd probably do something akin to [this](https://aboleth-overlords.com/?s=backgrounds) excellent series of EB-inspired Backgrounds taken from Knave. Ah, well.
 
-Putting aside the beauty of the game's character generation (I could write a whole post just about that), the advice found in the GM section was like a lightning rod to my brain. Chris delivered answers to questions that had plagued me for years, and did so in his succinct, matter-of-fact way. "Wow much information should I give the players?", I might wonder.
+Putting aside the beauty of the game's character generation (I could write a whole post just about that), the advice found in the GM section was like a lightning rod to my brain. Chris delivered answers to questions that had plagued me for years, and did so in his succinct, matter-of-fact way. "How much information should I give the players?", I might wonder.
 
 And he'd say, "_What do secrets really give us? Aren't we better off without them? If these kinds of games are meant to be about choice, how can one truly choose freely without maximal information?_"
 
@@ -65,5 +65,6 @@ I then tweaked the Knave tables, borrowed inventory from [The Scones Alone](http
 
 Since I was planning on running a lot of Dolmenwood with it, I settled on the theme: Forest Fantasy. That made it easier to hone in on the kind of play experience I was trying to create. Unwittingly, I also gave it a name that was already being used in _another_ mouse-based RPG: Cairn. Ah, so it goes.
 
-...And there it was. A rules-lite, Into The Odd + Knave mashup, with a magic system I'm quite fond of.
-And that is the story of Cairn.
+...And And that is the story of Cairn. A rules-lite, Into The Odd + Knave mashup, with a magic system I'm frankly quite proud of. I was super fortunate to have had [CosmicOrrery's](https://cosmicorrery.itch.io/) help getting the cover worked out (what an amazing choice on their part, my gosh). We quickly put together a character sheet and tokens, and published it. Then Stephen Mariano Cabrera put together a [FoundryVTT](https://github.com/smcabrera/Cairn-FoundryVTT) adaptation, and I (with a LOT of help from [Nakade](https://nakade.itch.io/)) made this nifty [character generator](https://yochaigal.github.io/cairn-character-generator/). Next I'll be publishing a new character sheet by [Francesco Zanieri](https://www.instagram.com/licopeoart/), a bestiary, and finally an adventure!
+
+Thanks for reading.
