@@ -233,37 +233,32 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Character Traits (d10)
 
+<p></p>
+
 #### Physique
 
-| | |
-|------|-----------|
-|1      | Athletic |
-|2      | Brawny   |
-|3      |Flabby    |
-|4      |Lanky     |
-|5      |Rugged    |
-|6      |Scrawny   |
-|7      |Short     |
-|8      |Statuesque |
-|9      |Stout    |
-|10       |Towering |
+|||||
+|------|-----------|-----------|-----------|
+|1      | Athletic |6      |Scrawny   |
+|2      | Brawny   |7      |Short     |
+|3      |Flabby    |8      |Statuesque |
+|4      |Lanky     |9      |Stout    |
+|5      |Rugged    |10       |Towering |
+
 
 <p></p>
 
 #### Skin
 
-|| |
-|------|-----------|
-|1     |Birthmark  |
-|2     |Dark       |
-|3     |Elongated  |
-|4     |Pockmarked |
-|5     |Rosy       |
-|6     |Round      |
-|7     |Soft       |
-|8     |Tanned     |
-|9     |Tattooed   |
-|10    |Weathered  |
+||||
+|------|-----------|-----------|
+|1     |Birthmark  |6     |Round      |
+|2     |Dark       |7     |Soft       |
+|3     |Elongated  |8     |Tanned     |
+|4     |Pockmarked |9     |Tattooed   |
+|5     |Rosy       |10    |Weathered  |
+
+
 
 <p></p>
 
