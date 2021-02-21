@@ -6,132 +6,143 @@ categories: ['cairn', 'rpg']
 published: true
 ---
 
-**Cairn** is an adventure game for one facilitator (the **Warden** ) and at least one other player. Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Licensed under CC-BY-SA 4.0. All art is public domain.
-
-I&#39;d like to thank the following people:
-- **Chris McDowall** , for _Into The Odd_.  
-- **Ben Milton** , for _Knave_.  
-- **Jim Parkin** , for _Weird North_.  
-- **CosmicOrrery** , for the cover design.  
-- **Tam H.**, for being a layout savior.  
-- **Licopeo** , for the character sheet.  
-- **Lucas MacClure** , for the idea.  
-
-And **Sarah**. She knows why.
+**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player. Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Licensed under CC-BY-SA 4.0.
 
 ## Overview
 
 **Cairn** was written with the following design philosophies in mind:
 
-**Neutrality**
+### Neutrality  
 The Warden&#39;s role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+<p></p>
 
-**Classless**
+### Classless  
 A character&#39;s role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+<p></p>
 
-**Death**
+### Death
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner,but it is never random or without warning.
+<p></p>
 
-**Fiction First**
+### Fiction First  
 Dice do not always reflect an obstacle&#39;s difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in- world elements.
+<p></p>
 
-**Growth**
+### Growth  
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+<p></p>
 
-**Player Choice**
+### Player Choice  
 Players should always understand the reasons behind the choices they&#39;ve made, and information about potential risks should be provided freely and frequently.
+<p></p>
 
-**Principles**
+### Principles  
 The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+<p></p>
 
-**Shared Objectives**
+### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+<p></p>
 
 ## Principles for Wardens
 
-**Information** :
+### Information
 - Provide useful information about the game world as the characters explore it.
 - Players do not need to roll dice to learn about their circumstances.
 - Be helpful and direct with your answers to their questions.
-- Respond honestly,describe consistently, and always let them know they can keep asking questions.
+- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+<p></p>
 
-**Difficulty** :
+### Difficulty
 - Default to context and realism rather than numbers and mechanics.
 - If something the players want to do is sincerely impossible, no roll will allow them to do it.
 - Is what the player describes and how they leverage the situation sensible? Let it happen.
 - Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+<p></p>
 
-**Preparation** :
+### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
 - Use random tables and generators to develop situations, not stories or plots.
 - NPCs remember what the PCs say and do,and how they affect the world.
 - NPCs don&#39;t want to die. Infuse their own self-interest and will to live into every personality.
+<p></p>
 
-**Narrative Focus** :
+### Narrative Focus  
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
 - Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+<p></p>
 
-**Danger** :
+### Danger  
 - The game world produces real risk of pain and death for the player characters.
 - Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
 - Put traps in plain sight and let the players take time to figure out a solution.
 - Give players opportunities to solve problems and interact with the world.
+<p></p>
 
-**Treasure** :
+### Treasure  
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
 - Treasure is highly valuable, almost always bulky,and rarely useful beyond its worth and prestige.
 - Relics are not Treasure,though they are useful and interesting.
 - Use **Treasure** as a lure to exotic locations under the protection of intimidating foes.
 
-**Choice** :
+### Choice  
 - Give players a solid choice to force outcomes when the situation  lulls.
 - Use binary&quot; so, A or B?&quot; responses when their intentions are vague.
 - Work together with this conversational progress to keep the game moving.
 - Ensure that the player character&#39;s actions leave their mark on the game world.
+<p></p>
 
-**Die of Fate:**
+### Die of Fate  
 - Occasionally you will want an element of randomness (e.g. the weather,unique character knowledge,etc.).
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+<p></p>
 
 ## Principles for Players
 
-**Agency** :
+### Agency
 - Attributes and related saves do not define your character.They are tools.
-- Don&#39;task only what your character would do, ask what you would do,too.
+- Don&#39;t ask only what your character would do, ask what you would do,too.
 - Be creative with your intuition, items, and connections.
+<p></p>
 
-**Teamwork** :
+### Teamwork
 - Seek consensus from the other players before barreling forward.
 - Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+<p></p>
 
-**Exploration** :
+### Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
 - Take the Warden&#39;s description without suspicion, but don&#39;t shy away from seeking more information.
 - There is no single correct way forward.
+<p></p>
 
-**Talking** :
+### Talking
 - Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
 - You&#39;ll find that most people are interesting and will want to talk things through before getting violent.
+<p></p>
 
-**Caution** :
+### Caution
 - Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
 - Try to stack the odds in your favor and retreat when things seem unfavorable.
+<p></p>
 
-**Planning** :
+### Planning
 - Think of ways to avoid your obstacles through reconnaissance,subtlety,and fact-finding.
 - Do some research and ask around about your objectives.
+<p></p>
 
-**Ambition** :
+### Ambition
 - Set goals and use your meager means to take steps forward.
 - Expect nothing. Earn your reputation.
 - Keep things moving forward and play to see what happens.
+<p></p>
 
 ## Character Generation
 
 **Name, Background &amp; Traits**  
-First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background** , which informs their knowledge and potential skills.
+First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background**, which informs their knowledge and potential skills.
 
 Next, roll for the rest of your character&#39;s **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the **Character Traits** tables.
 
@@ -171,54 +182,50 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Name &amp; Background (d20)
 
-**Female Names**
-
-|||||||||
-|------------|----------|-----------|-----------|----------|---------|------|----------|
+|Female Names||||||||
+|------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2           |Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
 |3           |Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
 |4           |Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5           |Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-**Male Names**
+<p></p>
 
-|||||||||
-|------------|----------|-----------|-----------|----------|---------|------|----------|
+|Male Names||||||||
+|------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
 |3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
+<p></p>
 
-**Surnames**
-
-|||||||||
-|------------|----------|-----------|-----------|----------|---------|------|----------|
+|Surnames||||||||
+|------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
 |3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-**Background**
+<p></p>
 
-|||||||||
-|------------|----------|-----------|-----------|----------|---------|------|----------|
+|Background||||||||
+|------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
 |3           |Butcher   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
 |4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
 
+<p></p>
 
 ## Character Traits (d10)
 
-**Physique**
-
-| | |
-|------------|----------|
+|Physique | |
+|------|-----------|
 |1      | Athletic |
 |2      | Brawny   |
 |3      |Flabby    |
@@ -230,10 +237,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9      |Stout    |
 |10       |Towering |
 
-**Skin**
+<p></p>
 
-| | |
-|------------|----------|
+|Skin| |
+|------|-----------|
 |1     |Birthmark  |
 |2     |Dark       |
 |3     |Elongated  |
@@ -245,10 +252,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Tattooed   |
 |10    |Weathered  |
 
-**Hair**
+<p></p>
 
-| | |
-|------------|----------|
+|Hair | |
+|------|-----------|
 |1     |Bald       |
 |2     |Braided    |
 |3     |Curly      |
@@ -260,11 +267,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Wavy       |
 |10    |Wispy      |
 
+<p></p>
 
-**Face**
-
-| | |
-|------------|----------|
+|Face | |
+|------|-----------|
 |1     |Bony       |
 |2     |Broken     |
 |3     |Chiseled   |
@@ -276,11 +282,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Square     |
 |10    |Sunken     |
 
+<p></p>
 
-**Speech**
-
-| | |
-|------------|----------|
+|Speech | |
+|------|-----------|
 |1     |Blunt      |
 |2     |Booming    |
 |3     |Cryptic    |
@@ -292,10 +297,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Stuttering |
 |10    |Whispery   |
 
-**Clothing**
+<p></p>
 
-| | |
-|------------|----------|
+|Clothing | |
+|------|-----------|
 |1     |Antique    |
 |2     |Bloody     |
 |3     |Elegant    |
@@ -307,10 +312,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Rancid     |
 |10    |Soiled     |
 
-**Virtue**
+<p></p>
 
-| | |
-|------------|----------|
+|Virtue | |
+|------|-----------|
 |1     |Ambitious  |
 |2     |Cautious   |
 |3     |Courageous |
@@ -322,10 +327,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Serene     |
 |10    |Tolerant   |
 
-**Vice**
+<p></p>
 
-| | |
-|------------|----------|
+|Vice | |
+|------|-----------|
 |1     |Aggressive |
 |2     |Bitter     |
 |3     |Craven     |
@@ -337,11 +342,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Vain       |
 |10    |Vengeful   |
 
+<p></p>
 
-**Reputation**
-
-| | |
-|------------|----------|
+|Reputation | |
+|------|-----------|
 |1     |Ambitious  |
 |2     |Boor       |
 |3     |Dangerous  |
@@ -353,11 +357,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Respected  |
 10     |Wise       |
 
+<p></p>
 
-**Misfortunes**
-
-| | |
-|------------|----------|
+|Misfortunes | |
+|------------|---------|
 |1     |Abandoned  |
 |2     |Addicted   |
 |3     |Blackmailed|
@@ -370,34 +373,35 @@ If you would like something closer to traditional classes, refer to the list of 
 |10    |Exiled     |
 
 
+<p></p>
+
 ## Starting Gear (d20)
 
-**Armor**
-
-|||||
+|Armor||||
 |------|-----------|------|-----------|
 |1-3                  |4-14                                                                        |15-19                               |20                            |      |
 |None                 |Brigandine                                                                  |Chainmail                           |Plate                         |      |
 |                     |                                                                            |                                    |                              |      |
 
+<p></p>
 
-**Helmets and Shields**
-
-|||||
+|Helmets and Shields||||
 |------|-----------|------|-----------|
 |1-13                 |14-16                                                                       |17-19                               |20                            |      |
 |None                 |Helmet                                                                      |             Shield                 |Helmet & Shield                                                                                           |                                    |                              |      |
 
-**Weapons**
 
-|||||
+<p></p>
+
+|Weapons||||
 |------|-----------|------|-----------|
 |1-5                  |6-14                                                                        |15-19                               |20                            |      |
 |Dagger, Cudgel, Staff|Sword, Mace, Axe                                                            |Longbow, Crossbow, Sling            |Halberd, War Hammer, Battleaxe|      |
 
-**Expeditionary Gear**
 
-|||||
+<p></p>
+
+|Expeditionary Gear||||
 |------|-----------|------|-----------|
 |1  |Air Bladder|6  |Fire Oil   |11 |Manacles    |16 |Rope (25ft)|
 |2  |Antitoxin  |7  |Grappling Hook |12 |Pick        |17 |Spirit Ward|
@@ -405,9 +409,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chain (10ft) |9  |Large Trap |14 |Pulley      |19 |Tinderbox  |
 |5  |Dowsing Rod|10 |Lockpicks  |15 |Repellent   |20 |Wolfsbane  |
 
-**Tools**
+<p></p>
 
-|||||
+|Tools||||
 |------|-----------|------|-----------|
 |1  |Bellows    |6  |Cook Pots  |11 |Grease      |16 |Net        |
 |2  |Bucket     |7  |Crowbar    |12 |Hammer      |17 |Saw        |
@@ -415,9 +419,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chalk      |9  |FishingRod |14 |Metal File  |19 |Shovel     |
 |5  |Chisel     |10 |Glue       |15 |Nails       |20 |Tongs      |
 
-**Trinkets**
+<p></p>
 
-|||||
+|Trinkets||||
 |------|-----------|------|-----------|
 |1  |Bottle     |6  |Horn       |11 |Mirror      |16 |Soap       |
 |2  |Card Deck  |7  |Incense    |12 |Perfume     |17 |Sponge     |
@@ -425,18 +429,18 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Face Paint |9  |Lens       |14 |Salt Pack   |19 |Twine      |
 |5  |Fake Jewels|10 |Marbles    |15 |Small Bell  |20 |Whistle    |
 
-**Bonus Item (roll on table indicated)**
+<p></p>
 
-|||  |  |
+|Bonus Item (roll on table indicated)||  |  |
 |-|||-----------|
 |1-5     |6-13  |14-17    | 18-20 |
 |Tool or  Trinket  |Expeditionary Gear   |Armor or Weapon  |  Spellbook|
 
+<p></p>
+
 ## Equipment List (Prices in Gold Pieces)  
 
-**Armor**
-
-||     |
+|Armor|     |
 |--------------------------------------------------------------|-----|
 |Shield (+1 Armor)                                             |10   |
 |Helmet(+1 Armor)                                              |10   |
@@ -445,10 +449,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Chainmail(2 Armor, bulky)                                     |40   |
 |Plate (3 Armor, bulky)                                        |60   |  
 
+<p></p>
 
-**Weapons**
-
-|                                                  |     |
+|Weapons  |     |
 |--------------------------------------------------------------|-----|
 |Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
@@ -457,10 +460,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Bow  (d6  damage,bulky)                                       |20   |
 |Crossbow (d8  damage, bulky)                                  |30   |
 
+<p></p>
 
-**Gear & Tools**
-
-| |     |
+|Gear & Tools |     |
 |------------------------|-----|
 |Air  Bladder            |5    |
 |Bellows                 |10   |
@@ -519,6 +521,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Wagon (+8  slots, slow) |200  |
 |Wolfsbane               |10   |
 
+<p></p>
 
 ## Optional Gear Packages  
 
