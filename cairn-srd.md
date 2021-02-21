@@ -47,8 +47,6 @@ The Warden and the players each have guidelines that help foster a specific play
 **Shared Objectives**
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
-# Principles
-
 ## Principles for Wardens
 
 **Information** :
@@ -140,7 +138,8 @@ Next, roll for the rest of your character&#39;s **traits** (appearance, speech, 
 Finally, roll for their **age** (2d20+10).
 
 ### Ability Scores  
-Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
+Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.   
+When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
 
 **Example:**   
 Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides toswap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
@@ -172,9 +171,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Name &amp; Background (d20)
 
-### Female Names
+**Female Names**
 
-||    |     |     |    |   ||    |
+|||||||||
 |------------|----------|-----------|-----------|----------|---------|------|----------|
 |1           |Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2           |Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
@@ -182,10 +181,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5           |Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
+**Male Names**
 
-### Male Names
-
-||    |     |     |    |   ||    |
+|||||||||
 |------------|----------|-----------|-----------|----------|---------|------|----------|
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
@@ -194,9 +192,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
 
-### Surnames
+**Surnames**
 
-||    |     |     |    |   ||    |
+|||||||||
 |------------|----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
@@ -204,9 +202,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-### Background
+**Background**
 
-||    |     |     |    |   ||    |
+|||||||||
 |------------|----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
@@ -216,25 +214,26 @@ If you would like something closer to traditional classes, refer to the list of 
 
 
 ## Character Traits (d10)
-### Physique
 
-|||
-|------|-----------|
-|1     |Athletic   |
-|2     |Brawny     |
-|3     |Flabby     |
-|4     |Lanky      |
-|5     |Rugged     |
-|6     |Scrawny    |
-|7     |Short      |
-|8     |Statuesque |
-|9     |Stout      |
-|10    |Towering   |
+**Physique**
 
-### Skin
+| | |
+|------------|----------|
+|1      | Athletic |
+|2      | Brawny   |
+|3      |Flabby    |
+|4      |Lanky     |
+|5      |Rugged    |
+|6      |Scrawny   |
+|7      |Short     |
+|8      |Statuesque |
+|9      |Stout    |
+|10       |Towering |
 
-|||
-|------|-----------|
+**Skin**
+
+| | |
+|------------|----------|
 |1     |Birthmark  |
 |2     |Dark       |
 |3     |Elongated  |
@@ -246,10 +245,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Tattooed   |
 |10    |Weathered  |
 
-### Hair
+**Hair**
 
-|||
-|------|-----------|
+| | |
+|------------|----------|
 |1     |Bald       |
 |2     |Braided    |
 |3     |Curly      |
@@ -261,10 +260,11 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Wavy       |
 |10    |Wispy      |
 
-### Face    
 
-|||
-|------|-----------|
+**Face**
+
+| | |
+|------------|----------|
 |1     |Bony       |
 |2     |Broken     |
 |3     |Chiseled   |
@@ -277,10 +277,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |10    |Sunken     |
 
 
-### Speech
+**Speech**
 
-|||
-|------|-----------|
+| | |
+|------------|----------|
 |1     |Blunt      |
 |2     |Booming    |
 |3     |Cryptic    |
@@ -292,10 +292,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Stuttering |
 |10    |Whispery   |
 
-### Clothing
+**Clothing**
 
-|||
-|------|-----------|
+| | |
+|------------|----------|
 |1     |Antique    |
 |2     |Bloody     |
 |3     |Elegant    |
@@ -307,10 +307,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Rancid     |
 |10    |Soiled     |
 
-### Virtue
+**Virtue**
 
-|||
-|------|-----------|
+| | |
+|------------|----------|
 |1     |Ambitious  |
 |2     |Cautious   |
 |3     |Courageous |
@@ -322,10 +322,10 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Serene     |
 |10    |Tolerant   |
 
-### Vice
+**Vice**
 
-|||
-|------|-----------|
+| | |
+|------------|----------|
 |1     |Aggressive |
 |2     |Bitter     |
 |3     |Craven     |
@@ -337,10 +337,11 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Vain       |
 |10    |Vengeful   |
 
-### Reputation
 
-|||
-|------|-----------|
+**Reputation**
+
+| | |
+|------------|----------|
 |1     |Ambitious  |
 |2     |Boor       |
 |3     |Dangerous  |
@@ -353,10 +354,10 @@ If you would like something closer to traditional classes, refer to the list of 
 10     |Wise       |
 
 
-### Misfortunes
+**Misfortunes**
 
-|||
-|------|-----------|
+| | |
+|------------|----------|
 |1     |Abandoned  |
 |2     |Addicted   |
 |3     |Blackmailed|
@@ -371,13 +372,30 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Starting Gear (d20)
 
-### Armor
+**Armor**
 
-### Helmets & Shields
+|||||
+|------|-----------|------|-----------|
+|1-3                  |4-14                                                                        |15-19                               |20                            |      |
+|None                 |Brigandine                                                                  |Chainmail                           |Plate                         |      |
+|                     |                                                                            |                                    |                              |      |
 
-### Weapons
 
-### Expeditionary Gear
+**Helmets and Shields**
+
+|||||
+|------|-----------|------|-----------|
+|1-13                 |14-16                                                                       |17-19                               |20                            |      |
+|None                 |Helmet                                                                      |             Shield                 |Helmet & Shield                                                                                           |                                    |                              |      |
+
+**Weapons**
+
+|||||
+|------|-----------|------|-----------|
+|1-5                  |6-14                                                                        |15-19                               |20                            |      |
+|Dagger, Cudgel, Staff|Sword, Mace, Axe                                                            |Longbow, Crossbow, Sling            |Halberd, War Hammer, Battleaxe|      |
+
+**Expeditionary Gear**
 
 |||||
 |------|-----------|------|-----------|
@@ -387,7 +405,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chain (10ft) |9  |Large Trap |14 |Pulley      |19 |Tinderbox  |
 |5  |Dowsing Rod|10 |Lockpicks  |15 |Repellent   |20 |Wolfsbane  |
 
-### Tools
+**Tools**
 
 |||||
 |------|-----------|------|-----------|
@@ -397,7 +415,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chalk      |9  |FishingRod |14 |Metal File  |19 |Shovel     |
 |5  |Chisel     |10 |Glue       |15 |Nails       |20 |Tongs      |
 
-### Trinkets
+**Trinkets**
 
 |||||
 |------|-----------|------|-----------|
@@ -407,11 +425,100 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Face Paint |9  |Lens       |14 |Salt Pack   |19 |Twine      |
 |5  |Fake Jewels|10 |Marbles    |15 |Small Bell  |20 |Whistle    |
 
+**Bonus Item (roll on table indicated)**
 
-### Bonus Item (roll on table indicated)
-
+|||  |  |
+|-|||-----------|
+|1-5     |6-13  |14-17    | 18-20 |
+|Tool or  Trinket  |Expeditionary Gear   |Armor or Weapon  |  Spellbook|
 
 ## Equipment List (Prices in Gold Pieces)  
+
+**Armor**
+
+||     |
+|--------------------------------------------------------------|-----|
+|Shield (+1 Armor)                                             |10   |
+|Helmet(+1 Armor)                                              |10   |
+|Gambeson(1 Armor)                                             |15   |
+|Brigandine(1 Armor, bulky)                                    |20   |
+|Chainmail(2 Armor, bulky)                                     |40   |
+|Plate (3 Armor, bulky)                                        |60   |  
+
+
+**Weapons**
+
+|                                                  |     |
+|--------------------------------------------------------------|-----|
+|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
+|Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
+|Halberd, War Hammer, Long  Sword , etc. (d10 damage, bulky)   |20   |
+|Sling (d4  damage)                                            |5    |
+|Bow  (d6  damage,bulky)                                       |20   |
+|Crossbow (d8  damage, bulky)                                  |30   |
+
+
+**Gear & Tools**
+
+| |     |
+|------------------------|-----|
+|Air  Bladder            |5    |
+|Bellows                 |10   |
+|Bedroll                 |5    |
+|Book                    |50   |
+|Bucket                  |5    |
+|Caltrops                |10   |
+|Cart (+4  slots, bulky) |30   |
+|Chain (10ft)            |10   |
+|Chalk                   |1    |
+|Chisel                  |5    |
+|Cook Pots               |10   |
+|Crowbar                 |10   |
+|Drill  (Manual)         |10   |
+|Face  Paint             |10   |
+|Fire Oil                |10   |
+|Fishing Rod             |10   |
+|Glass Marbles           |5    |
+|Glue                    |5    |
+|Grease                  |10   |
+|Grappling Hook          |25   |
+|Hammer                  |5    |
+|Holy  Water             |25   |
+|Horn                    |10   |
+|Horse (+4  slots)       |75   |
+|Hourglass               |50   |
+|Incense                 |10   |
+|Ladder (bulky,  10ft)   |10   |
+|Lantern &  Oil          |10   |
+|Large Trap              |20   |
+|Large Sponge            |5    |
+|Lens                    |10   |
+|Lockpicks               |25   |
+|Manacles                |10   |
+|Metal File              |5    |
+|Mirror                  |5    |
+|Mule (+6  slots, slow)  |30   |
+|Net                     |10   |
+|Oilskin Bag             |5    |
+|Pick                    |10   |
+|Pulley                  |10   |
+|Pole (10ft)             |5    |
+|Quill  &  Ink           |10   |
+|Rations (three day's worth)     |10   |
+|Rope (25ft)             |5    |
+|Saw                     |5    |
+|Sack                    |5    |
+|Shovel                  |5    |
+|Soap                    |1    |
+|Spike                   |1    |
+|Spiked Boots            |5    |
+|Spyglass                |40   |
+|Tar                     |10   |
+|Tent (fits 2  people, bulky)  |20   |
+|Torch                   |1    |
+|Wagon (+8  slots, slow) |200  |
+|Wolfsbane               |10   |
+
 
 ## Optional Gear Packages  
 
