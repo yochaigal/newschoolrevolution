@@ -170,98 +170,250 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages**.
 
-**Name &amp; Background (d20)**
+## Name &amp; Background (d20)
 
-# CHARGEN TABLES
+### Female Names
 
-**Backgrounds**
+||    |     |     |    |   ||    |
+|------------|----------|-----------|-----------|----------|---------|------|----------|
+|1           |Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
+|2           |Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
+|3           |Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
+|4           |Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
+|5           |Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
 
-**Surnames**
+### Male Names
+
+||    |     |     |    |   ||    |
+|------------|----------|-----------|-----------|----------|---------|------|----------|
+|1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
+|2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
+|3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
+|4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
+|5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
 
-**Male Names**
+### Surnames
+
+||    |     |     |    |   ||    |
+|------------|----------|-----------|-----------|----------|---------|------|----------|
+|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
+|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
+|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
+|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
+|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
+
+### Background
+
+||    |     |     |    |   ||    |
+|------------|----------|-----------|-----------|----------|---------|------|----------|
+|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
+|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
+|3           |Butcher   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
+|4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
+|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
 
 
-**Female Names**
+## Character Traits (d10)
+### Physique
 
-**Character Traits (d10)**
+|||
+|------|-----------|
+|1     |Athletic   |
+|2     |Brawny     |
+|3     |Flabby     |
+|4     |Lanky      |
+|5     |Rugged     |
+|6     |Scrawny    |
+|7     |Short      |
+|8     |Statuesque |
+|9     |Stout      |
+|10    |Towering   |
 
-**10. Misfortunes**
+### Skin
 
-**5. Speech**
+|||
+|------|-----------|
+|1     |Birthmark  |
+|2     |Dark       |
+|3     |Elongated  |
+|4     |Pockmarked |
+|5     |Rosy       |
+|6     |Round      |
+|7     |Soft       |
+|8     |Tanned     |
+|9     |Tattooed   |
+|10    |Weathered  |
 
-**9. Reputation**
+### Hair
 
-**4. Face**
+|||
+|------|-----------|
+|1     |Bald       |
+|2     |Braided    |
+|3     |Curly      |
+|4     |Filthy     |
+|5     |Frizzy     |
+|6     |Long       |
+|7     |Luxurious  |
+|8     |Oily       |
+|9     |Wavy       |
+|10    |Wispy      |
 
-**8. Vice**
+### Face    
 
-**3. Hair**
+|||
+|------|-----------|
+|1     |Bony       |
+|2     |Broken     |
+|3     |Chiseled   |
+|4     |Elongated  |
+|5     |Pale       |
+|6     |Perfect    |
+|7     |Rat-like   |
+|8     |Sharp      |
+|9     |Square     |
+|10    |Sunken     |
 
-**7. Virtue**
 
-**2. Skin**
+### Speech
 
-**6. Clothing**
+|||
+|------|-----------|
+|1     |Blunt      |
+|2     |Booming    |
+|3     |Cryptic    |
+|4     |Droning    |
+|5     |Formal     |
+|6     |Gravelly   |
+|7     |Precise    |
+|8     |Squeaky    |
+|9     |Stuttering |
+|10    |Whispery   |
 
-**1. Physique**
+### Clothing
 
-**Starting Gear (d20)**
+|||
+|------|-----------|
+|1     |Antique    |
+|2     |Bloody     |
+|3     |Elegant    |
+|4     |Filthy     |
+|5     |Foreign    |
+|6     |Frayed     |
+|7     |Frumpy     |
+|8     |Livery     |
+|9     |Rancid     |
+|10    |Soiled     |
 
-**1-3**
+### Virtue
 
-**4-14**
+|||
+|------|-----------|
+|1     |Ambitious  |
+|2     |Cautious   |
+|3     |Courageous |
+|4     |Disciplined|
+|5     |Gregarious |
+|6     |Honorable  |
+|7     |Humble     |
+|8     |Merciful   |
+|9     |Serene     |
+|10    |Tolerant   |
 
-**15- 19**
+### Vice
 
-**20**
+|||
+|------|-----------|
+|1     |Aggressive |
+|2     |Bitter     |
+|3     |Craven     |
+|4     |Deceitful  |
+|5     |Greedy     |
+|6     |Lazy       |
+|7     |Nervous    |
+|8     |Rude       |
+|9     |Vain       |
+|10    |Vengeful   |
 
-**1- 13**
+### Reputation
 
-**14-16**
+|||
+|------|-----------|
+|1     |Ambitious  |
+|2     |Boor       |
+|3     |Dangerous  |
+|4     |Entertainer|
+|5     |Honest     |
+|6     |Loafer     |
+|7     |Oddball    |
+|8     |Repulsive  |
+|9     |Respected  |
+10     |Wise       |
 
-**17- 19**
 
-**20**
+### Misfortunes
 
-**1-5**
+|||
+|------|-----------|
+|1     |Abandoned  |
+|2     |Addicted   |
+|3     |Blackmailed|
+|4     |Condemned  |
+|5     |Cursed     |
+|6     |Defrauded  |
+|7     |Demoted    |
+|8     |Discredited|
+|9     |Disowned   |
+|10    |Exiled     |
 
-**6-14**
 
-**15- 19**
+## Starting Gear (d20)
 
-**20**
+### Armor
 
-**Expeditionary Gear**
+### Helmets & Shields
 
-**1-5**
+### Weapons
 
-**6-13**
+### Expeditionary Gear
 
-**14-17**
+|||||
+|------|-----------|------|-----------|
+|1  |Air Bladder|6  |Fire Oil   |11 |Manacles    |16 |Rope (25ft)|
+|2  |Antitoxin  |7  |Grappling Hook |12 |Pick        |17 |Spirit Ward|
+|3  |Cart (+4 slots, bulky) |8  |Large Sack |13 |Pole (10ft) |18 |Spyglass   |
+|4  |Chain (10ft) |9  |Large Trap |14 |Pulley      |19 |Tinderbox  |
+|5  |Dowsing Rod|10 |Lockpicks  |15 |Repellent   |20 |Wolfsbane  |
 
-**18-20**
+### Tools
 
-**7**
+|||||
+|------|-----------|------|-----------|
+|1  |Bellows    |6  |Cook Pots  |11 |Grease      |16 |Net        |
+|2  |Bucket     |7  |Crowbar    |12 |Hammer      |17 |Saw        |
+|3  |Caltrops   |8  |Drill (Manual)|13 |Hourglass   |18 |Sealant    |
+|4  |Chalk      |9  |FishingRod |14 |Metal File  |19 |Shovel     |
+|5  |Chisel     |10 |Glue       |15 |Nails       |20 |Tongs      |
 
-**Bonus Item (roll on table indicated)**
+### Trinkets
 
-**Trinkets**
+|||||
+|------|-----------|------|-----------|
+|1  |Bottle     |6  |Horn       |11 |Mirror      |16 |Soap       |
+|2  |Card Deck  |7  |Incense    |12 |Perfume     |17 |Sponge     |
+|3  |Dice Set   |8  |Instrument |13 |Quill &  Ink|18 |Tar Pot    |
+|4  |Face Paint |9  |Lens       |14 |Salt Pack   |19 |Twine      |
+|5  |Fake Jewels|10 |Marbles    |15 |Small Bell  |20 |Whistle    |
 
-**Tools**
 
-**Weapons**
+### Bonus Item (roll on table indicated)
 
-**Helmets and Shields**
 
-**Armor**
+## Equipment List (Prices in Gold Pieces)  
 
-**Spellbooks (d100)**
-
-## Equipment List (Prices in Gold Pieces)
-
-## Optional Gear Packages
+## Optional Gear Packages  
 
 **Cleric**
 
