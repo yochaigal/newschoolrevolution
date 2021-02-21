@@ -146,12 +146,9 @@ Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexter
 Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides toswap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
 
 ### Hit Protection  
-Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**).
+Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table.
 
-If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table.
-
-**Inventory**
-
+**Inventory**  
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden&#39;s discretion.
@@ -488,26 +485,19 @@ Weapon (dX, special items, qualities)
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
 
-**General Principles**
+**General Principles**  
+Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
+- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
+- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
+- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
+- Remember that HP is **Hit Protection** , not Hit Points. It&#39;s a measure of resilience, luck, and gumption - not health.
 
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-
-Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-
-Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-
-Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-
-Remember that HP is **Hit Protection** , not Hit Points. It&#39;s a measure of resilience, luck, and gumption - not health.
-
-**Converting from OSR Games**
-
+**Converting from OSR Games**  
 - Give 1 HP per HD for most creatures.
 - Most humanoids have at least 4HP.
 - **Morale** can also be used as a baseline.
 
-Some pointers:
-
+Some pointers:  
 - Is it good at avoiding a hit? Give it HP.
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high STR.
@@ -537,14 +527,11 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **DEX:** Dodging, sneaking &amp; reflexes.   
 **WIL:**  Persuasion, intimidation &amp; magic.
 
-**SAVES**
+**SAVES**  
+- Roll a d20 equal to or under an ability.
+- 1 is always a success, 20 is always a failure.
 
-Roll a d20 equal to or under an ability.
-
-1 is always a success, 20 is always a failure.
-
-**HIT PROTECTION**
-
+**HIT PROTECTION**  
 **HP** indicates a PC&#39;s ability to avoid getting hurt. It is lost during combat &amp; recovered after a few moment&#39;s rest.
 
 **INVENTORY**  
