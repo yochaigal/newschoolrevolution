@@ -130,31 +130,23 @@ Players trust one another to engage with the shared setting, character goals, an
 - Expect nothing. Earn your reputation.
 - Keep things moving forward and play to see what happens.
 
-# Character Generation
+## Character Generation
 
-**Name, Background &amp; Traits**
-
+**Name, Background &amp; Traits**  
 First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background** , which informs their knowledge and potential skills.
 
 Next, roll for the rest of your character&#39;s **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the **Character Traits** tables.
 
 Finally, roll for their **age** (2d20+10).
 
-### Ability Scores
-
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.
-
-When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
+### Ability Scores  
+Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
 
 **Example:**   
 Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides toswap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
 
-### Hit Protection
-
-Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
-
-HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**).
+### Hit Protection  
+Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**).
 
 If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table.
 
@@ -166,10 +158,9 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0HP.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
 
-**Starting Gear**
-
+**Starting Gear**  
 All PCs begin with:
 
 - Three days&#39; rations (one slot)
@@ -556,28 +547,23 @@ Roll a d20 equal to or under an ability.
 
 **HP** indicates a PC&#39;s ability to avoid getting hurt. It is lost during combat &amp; recovered after a few moment&#39;s rest.
 
-**INVENTORY**
-
+**INVENTORY**  
 PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
 Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts &amp; horses may provide an increase in slots.
 
-**DEPRIVATION**
-
+**DEPRIVATION**  
 **Deprived** PCs cannot recover HP.If deprived for more than a day,they add a **Fatigue** to inventory.Fatigue occupies one slot and lasts until they can recover insafety.This effect is cumulative.
 
-**HEALING**
-
+**HEALING**  
 A moment&#39;s rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week&#39;s rest and the aid of a skilled healer.
 
 **SPELLBOOKS**
-
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in_both hands_and reading its contents aloud. Casting a spell adds **Fatigue** to the PC&#39;s inventory.
 
 Given time and safety,PCs can_enhance_a spell without any additional cost. If they are_deprived_or in danger, a WIL save may be required to avoid terrible consequences.
 
-**COMBAT**
-
+**COMBAT**  
 The attacker rolls their weapon die and subtracts the target&#39;s Armor, then deals the remaining total to their opponent&#39;s HP.
 
 Before calculating damage to HP, subtract the target&#39;s **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
@@ -589,8 +575,7 @@ same foe, roll all damaged ice and keep the single highest result. If attacking 
 
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced** , the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
-**DAMAGE**
-
+**DAMAGE**  
 If an attack takes a PC&#39;s HP exactly to 0, the player rolls on the **Scars** table.
 
 Damage that reduces a target&#39;s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
