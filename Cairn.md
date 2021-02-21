@@ -548,7 +548,7 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 
 **STR:** Brawn, prowess &amp; resistance.   
 **DEX:** Dodging, sneaking &amp; reflexes.   
-**WIL:** Persuasion, intimidation &amp; magic.
+**WIL:**  Persuasion, intimidation &amp; magic.
 
 **SAVES**
 
