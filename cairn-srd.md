@@ -181,18 +181,23 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages**.
 
 ## Name &amp; Background (d20)
+<p></p>
 
-|Female Names||||||||
+#### Female Names
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
-|2           |Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
-|3           |Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
-|4           |Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
-|5           |Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
+|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
+|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
+|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
+|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
+|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
 <p></p>
 
-|Male Names||||||||
+#### Male Names
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
@@ -202,7 +207,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Surnames||||||||
+#### Surnames
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
@@ -212,7 +219,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Background||||||||
+#### Background
+
+|||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
@@ -224,7 +233,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Character Traits (d10)
 
-|Physique | |
+#### Physique
+
+| | |
 |------|-----------|
 |1      | Athletic |
 |2      | Brawny   |
@@ -239,7 +250,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Skin| |
+#### Skin
+
+|| |
 |------|-----------|
 |1     |Birthmark  |
 |2     |Dark       |
@@ -254,7 +267,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Hair | |
+#### Hair
+
+| | |
 |------|-----------|
 |1     |Bald       |
 |2     |Braided    |
@@ -269,7 +284,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Face | |
+#### Face
+
+| | |
 |------|-----------|
 |1     |Bony       |
 |2     |Broken     |
@@ -284,7 +301,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Speech | |
+#### Speech
+
+| | |
 |------|-----------|
 |1     |Blunt      |
 |2     |Booming    |
@@ -299,7 +318,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Clothing | |
+#### Clothing
+
+| | |
 |------|-----------|
 |1     |Antique    |
 |2     |Bloody     |
@@ -314,7 +335,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Virtue | |
+#### Virtue
+
+| | |
 |------|-----------|
 |1     |Ambitious  |
 |2     |Cautious   |
@@ -329,7 +352,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Vice | |
+#### Vice
+
+| | |
 |------|-----------|
 |1     |Aggressive |
 |2     |Bitter     |
@@ -344,7 +369,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Reputation | |
+#### Reputation
+
+| | |
 |------|-----------|
 |1     |Ambitious  |
 |2     |Boor       |
@@ -359,7 +386,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Misfortunes | |
+#### Misfortunes
+
+| | |
 |------------|---------|
 |1     |Abandoned  |
 |2     |Addicted   |
@@ -376,32 +405,39 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Starting Gear (d20)
+<p></p>
 
-|Armor||||
-|------|-----------|------|-----------|
-|1-3                  |4-14                                                                        |15-19                               |20                            |      |
-|None                 |Brigandine                                                                  |Chainmail                           |Plate                         |      |
-|                     |                                                                            |                                    |                              |      |
+#### Armor
+
+||||
+|:----:|:----:|:----:
+|1-3                  |4-14          |15-19                |20         |
+|None                 |Brigandine    |Chainmail            |Plate      |      
 
 <p></p>
 
-|Helmets and Shields||||
-|------|-----------|------|-----------|
-|1-13                 |14-16                                                                       |17-19                               |20                            |      |
-|None                 |Helmet                                                                      |             Shield                 |Helmet & Shield                                                                                           |                                    |                              |      |
+#### Helmets and Shields
 
-
-<p></p>
-
-|Weapons||||
-|------|-----------|------|-----------|
-|1-5                  |6-14                                                                        |15-19                               |20                            |      |
-|Dagger, Cudgel, Staff|Sword, Mace, Axe                                                            |Longbow, Crossbow, Sling            |Halberd, War Hammer, Battleaxe|      |
+||||
+|:----:|:----:|:----:
+|1-13                 |14-16      |17-19     |20  |
+|None                 |Helmet   |  Shield                 |Helmet & Shield |
 
 
 <p></p>
 
-|Expeditionary Gear||||
+#### Weapons
+
+|||||
+|:----:|:----:|:----:|:----:|
+|1-5                  |6-14   |15-19           |20
+|Dagger, Cudgel, Staff|Sword, Mace, Axe  |Longbow, Crossbow, Sling     |Halberd, War Hammer, Battleaxe|   
+
+<p></p>
+
+#### Expeditionary Gear
+
+|||||
 |------|-----------|------|-----------|
 |1  |Air Bladder|6  |Fire Oil   |11 |Manacles    |16 |Rope (25ft)|
 |2  |Antitoxin  |7  |Grappling Hook |12 |Pick        |17 |Spirit Ward|
@@ -411,7 +447,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Tools||||
+#### Tools
+
+|||||
 |------|-----------|------|-----------|
 |1  |Bellows    |6  |Cook Pots  |11 |Grease      |16 |Net        |
 |2  |Bucket     |7  |Crowbar    |12 |Hammer      |17 |Saw        |
@@ -421,7 +459,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Trinkets||||
+#### Trinkets
+
+|||||
 |------|-----------|------|-----------|
 |1  |Bottle     |6  |Horn       |11 |Mirror      |16 |Soap       |
 |2  |Card Deck  |7  |Incense    |12 |Perfume     |17 |Sponge     |
@@ -431,8 +471,10 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Bonus Item (roll on table indicated)||  |  |
-|-|||-----------|
+#### Bonus Item (roll on table indicated)
+
+|||  |  |
+|:----:|:----:|:----:|:----:|
 |1-5     |6-13  |14-17    | 18-20 |
 |Tool or  Trinket  |Expeditionary Gear   |Armor or Weapon  |  Spellbook|
 
@@ -440,7 +482,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Equipment List (Prices in Gold Pieces)  
 
-|Armor|     |
+#### Armor
+
+||     |
 |--------------------------------------------------------------|-----|
 |Shield (+1 Armor)                                             |10   |
 |Helmet(+1 Armor)                                              |10   |
@@ -451,7 +495,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Weapons  |     |
+#### Weapons
+
+|  |     |
 |--------------------------------------------------------------|-----|
 |Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
@@ -462,7 +508,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-|Gear & Tools |     |
+#### Gear & Tools
+
+| |     |
 |------------------------|-----|
 |Air  Bladder            |5    |
 |Bellows                 |10   |
