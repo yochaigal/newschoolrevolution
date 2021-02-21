@@ -132,9 +132,9 @@ Players trust one another to engage with the shared setting, character goals, an
 
 **Name, Background &amp; Traits**
 
-First, choose or roll a **name** for your character from the **Name &amp; Background** tables on page **5** , then their **background** , which informs their knowledge and potential skills.
+First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background** , which informs their knowledge and potential skills.
 
-Next, roll for the rest of your character&#39;s **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the **Character Traits** tables on page **6**.
+Next, roll for the rest of your character&#39;s **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the **Character Traits** tables.
 
 Finally, roll for their **age** (2d20+10).
 
@@ -152,9 +152,9 @@ Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a
 
 Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
 
-HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing** on page**11)**.
+HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**).
 
-If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table (page **14** ).
+If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table.
 
 **Inventory**
 
@@ -164,9 +164,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0HP.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** (page
-
-1. can also be paid to carry equipment.
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
 
 **Starting Gear**
 
@@ -176,11 +174,11 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll on the **Starting Gear** tables on page **7** to determine your PC&#39;s armor,weapons, tools, and equipment. If indicated, roll on the **Spellbooks** table on page **8** with a d100 (or roll 2d10, using one die as the ones place,and one as the tens place).
+Roll on the **Starting Gear** tables to determine your PC&#39;s armor,weapons, tools, and equipment. If indicated, roll on the **Spellbooks** table with a d100 (or roll 2d10, using one die as the ones place,and one as the tens place).
 
-See the **Equipment List** on page 9 for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
-If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages** on page **10**.
+If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages**.
 
 **Name &amp; Background (d20)**
 
@@ -255,8 +253,6 @@ If you would like something closer to traditional classes, refer to the list of 
 
 **18-20**
 
-(page **8** )
-
 **7**
 
 **Bonus Item (roll on table indicated)**
@@ -272,8 +268,6 @@ If you would like something closer to traditional classes, refer to the list of 
 **Armor**
 
 **Spellbooks (d100)**
-
-**Spell Descriptions: Pages 16-18**
 
 ## Equipment List (Prices in Gold Pieces)
 
@@ -429,7 +423,7 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
 **Scars**  
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the **Scars** table on the following page for more.
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the **Scars** for more.
 
 **Critical Damage**  
 Damage that reduces a target&#39;s HP below zero decreases a target&#39;s STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
@@ -578,7 +572,7 @@ A moment&#39;s rest and a swig of water will restore lost HP, but may leave the 
 
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in_both hands_and reading its contents aloud. Casting a spell adds **Fatigue** to the PC&#39;s inventory.
 
-Given time andsafety,PCs can_enhance_a spell without any additional cost. If they are_deprived_or indanger,a WIL save may be required to avoid terribleconsequences.
+Given time and safety,PCs can_enhance_a spell without any additional cost. If they are_deprived_or in danger, a WIL save may be required to avoid terrible consequences.
 
 **COMBAT**
 
@@ -595,7 +589,7 @@ If an attack is **impaired** , the damage die is reduced to 1d4, regardless of w
 
 **DAMAGE**
 
-If an attack takes a PC&#39;s HP exactly to 0, the player rolls on the **Scars** table (page **14** ).
+If an attack takes a PC&#39;s HP exactly to 0, the player rolls on the **Scars** table.
 
 Damage that reduces a target&#39;s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
 
