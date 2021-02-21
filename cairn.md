@@ -1,4 +1,11 @@
-# Cairn
+---
+layout: post
+title: Cairn SRD
+date: 2021-02-21
+categories: ['cairn', 'rpg']
+published: false
+
+# Cairn SRD
 
 **Cairn** is an adventure game for one facilitator (the **Warden** ) and at least one other player.
 
