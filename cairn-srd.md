@@ -3,15 +3,10 @@ layout: post
 title: Cairn SRD
 date: 2021-02-21
 categories: ['cairn', 'rpg']
-published: false
+published: true
+---
 
-# Cairn SRD
-
-**Cairn** is an adventure game for one facilitator (the **Warden** ) and at least one other player.
-
-Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
-
-Licensed under CC-BY-SA 4.0. All art is public domain.
+**Cairn** is an adventure game for one facilitator (the **Warden** ) and at least one other player. Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Licensed under CC-BY-SA 4.0. All art is public domain.
 
 I&#39;d like to thank the following people:
 - **Chris McDowall** , for _Into The Odd_.  

@@ -45,8 +45,7 @@ To me, _The Weird_ in the context of RPGs can mean a couple of things:
 <br>
 Not to be confused with [_Gonzo_](https://dungeonspossums.blogspot.com/2019/02/what-does-gonzo-mean-to-you.html) settings, the _Weird_ features characters trying to make sense of an increasingly confusing, abnormal, or terrifying world. Players are not expected to conquer the world, but instead to try and overcome its inherit strangeness.
 
-As [The Luminescent Lich
-](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through "the thrill of discovery and the atmosphere of the fantastic" that the players experience _The Weird_ in play. They start from a place of seeming normality, and venture into the abnormal. In a _Weird_ setting, sentient lion/ostrich hybrids hunting for prey through vast jungles would be unusual, and equally terrifying to the player characters.   
+As [The Luminescent Lich](http://luminescentlich.blogspot.com/2017/06/the-gonzo-vs-weird.html) writes, it is through "the thrill of discovery and the atmosphere of the fantastic" that the players experience _The Weird_ in play. They start from a place of seeming normality, and venture into the abnormal. In a _Weird_ setting, sentient lion/ostrich hybrids hunting for prey through vast jungles would be unusual, and equally terrifying to the player characters.   
 
 ## Weird Games
 Over the past few years, there have been quite a few game systems and settings released with this sort of play experience in mind. One in particular stands out:
