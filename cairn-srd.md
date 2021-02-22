@@ -569,7 +569,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 | Knight                     |
 | -------------------------- |
-| Longsword (d8, bulky)      |
+| Long Sword (d10, bulky)      |
 | Chainmail (2 Armor, bulky) |
 | Helmet (+1  Armor)         |
 | Heraldic Cape              |
