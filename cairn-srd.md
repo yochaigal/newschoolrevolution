@@ -400,35 +400,34 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Starting Gear (d20)
-<p></p>
+
 
 #### Armor
 
 ||||
-|:----:|:----:|:----:
+|:----:|:----:|:----:|
 |1-3                  |4-14          |15-19                |20         |
-|None                 |Brigandine    |Chainmail            |Plate      |      
+|None                 |Brigandine    |Chainmail            |Plate      |
 
 <p></p>
 
 #### Helmets and Shields
 
 ||||
-|:----:|:----:|:----:
+|:----:|:----:|:----:|
 |1-13                 |14-16      |17-19     |20  |
 |None                 |Helmet   |  Shield                 |Helmet & Shield |
 
 
-<p></p>
 
 #### Weapons
 
-|||||
-|:----:|:----:|:----:|:----:|
-|1-5                  |6-14   |15-19           |20
-|Dagger, Cudgel, Staff|Sword, Mace, Axe  |Longbow, Crossbow, Sling     |Halberd, War Hammer, Battleaxe|   
+|                       |                  |                          |                                |
+| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
+|          1-5          |       6-14       |          15-19           |               20               |
+| Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
-<p></p>
+####
 
 #### Expeditionary Gear
 
@@ -486,7 +485,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Gambeson(1 Armor)                                             |15   |
 |Brigandine(1 Armor, bulky)                                    |20   |
 |Chainmail(2 Armor, bulky)                                     |40   |
-|Plate (3 Armor, bulky)                                        |60   |  
+|Plate (3 Armor, bulky)                                        |60   |
 
 <p></p>
 
