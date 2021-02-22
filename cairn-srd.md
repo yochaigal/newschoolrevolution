@@ -481,6 +481,39 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
+## Spellbooks (d100)
+
+||||||||||
+|---|-----------------|---|----------------|---|---------------|---|---------------|
+|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
+|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
+|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
+|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
+|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
+|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
+|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
+|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
+|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
+|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
+|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
+|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
+|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
+|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
+|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
+|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
+|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
+|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
+|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
+|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
+|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
+|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
+|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
+|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
+|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+
+<p></p>
+
+
 ## Equipment List (Prices in Gold Pieces)  
 <p></p>
 
@@ -848,9 +881,47 @@ Attacks against individuals by detachments are enhanced and deal blast damage.
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
 **Scars**  
-When an attack reduces a PC&#39;s HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the_total_damage taken:
+When an attack reduces a PC&#39;s HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
-SCARS TABLE
+### Scars
+
+|||||||||||||||
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|------|------|------|------|------|-------|-------|-------|-------|-------|
+| | | | | | | | | | | | | | |
+|1 |Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|2 |Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|3 |Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|4 |Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|5 |Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|6 |Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|7 |Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|8 |Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|9 |Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|10 |Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|11 |Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+|12 |Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result.| | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+
 
 ## Bestiary
 
@@ -919,35 +990,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 ### 100 Spells
 
-||||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
 
-<p></p>
 
 ## Rules Summary
 
