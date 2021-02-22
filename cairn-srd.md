@@ -1,7 +1,7 @@
 
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player. 
-Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. 
+**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 Licensed under CC-BY-SA 4.0.
 
 ## Overview
@@ -600,7 +600,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |Hatchet (d6)                    |
 |Padded Leathers (1  Armor)      |
 |Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX |
+|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
 |Thundering Horn                 |
 
 <p></p>
