@@ -245,20 +245,22 @@ If you would like something closer to traditional classes, refer to the list of 
 |4      |Lanky     |9      |Stout    |
 |5      |Rugged    |10       |Towering |
 
-
 <p></p>
 
 #### Skin
 
-||||
-|------|-----------|-----------|
-|1     |Birthmark  |6     |Round      |
-|2     |Dark       |7     |Soft       |
-|3     |Elongated  |8     |Tanned     |
-|4     |Pockmarked |9     |Tattooed   |
-|5     |Rosy       |10    |Weathered  |
-
-
+|||
+|------|-----------|
+|1     |Birthmark |
+|2     |Dark      |
+|3     |Elongated |
+|4     |Pockmarked |
+|5     |Rosy       |
+|6     |Round      |
+| 7     |Soft       |
+| 8     |Tanned     |
+| 9     |Tattooed   |
+| 10    |Weathered  |
 
 <p></p>
 
@@ -415,8 +417,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ||||
 |:----:|:----:|:----:|
-|1-13                 |14-16      |17-19     |20  |
-|None                 |Helmet   |  Shield                 |Helmet & Shield |
+|1-13                 |14-16      |17-19     |20                |
+|None                 |Helmet   |  Shield    |  Helmet & Shield |
 
 
 
@@ -427,7 +429,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
-####
 
 #### Expeditionary Gear
 
