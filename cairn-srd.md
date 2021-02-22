@@ -1,12 +1,8 @@
----
-layout: post
-title: Cairn SRD
-date: 2021-02-21
-categories: ['cairn', 'rpg']
-published: true
----
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player. Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Licensed under CC-BY-SA 4.0.
+
+**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player. 
+Players act as hardened adventurers exploring a dark &amp; mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. 
+Licensed under CC-BY-SA 4.0.
 
 ## Overview
 
@@ -14,32 +10,18 @@ published: true
 
 ### Neutrality  
 The Warden&#39;s role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
-<p></p>
-
 ### Classless  
 A character&#39;s role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
-<p></p>
-
 ### Death
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner,but it is never random or without warning.
-<p></p>
-
 ### Fiction First  
 Dice do not always reflect an obstacle&#39;s difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in- world elements.
-<p></p>
-
 ### Growth  
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
-<p></p>
-
 ### Player Choice  
 Players should always understand the reasons behind the choices they&#39;ve made, and information about potential risks should be provided freely and frequently.
-<p></p>
-
 ### Principles  
 The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
-<p></p>
-
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 <p></p>
@@ -51,35 +33,25 @@ Players trust one another to engage with the shared setting, character goals, an
 - Players do not need to roll dice to learn about their circumstances.
 - Be helpful and direct with your answers to their questions.
 - Respond honestly, describe consistently, and always let them know they can keep asking questions.
-<p></p>
-
 ### Difficulty
 - Default to context and realism rather than numbers and mechanics.
 - If something the players want to do is sincerely impossible, no roll will allow them to do it.
 - Is what the player describes and how they leverage the situation sensible? Let it happen.
 - Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
-<p></p>
-
 ### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
 - Use random tables and generators to develop situations, not stories or plots.
 - NPCs remember what the PCs say and do,and how they affect the world.
 - NPCs don&#39;t want to die. Infuse their own self-interest and will to live into every personality.
-<p></p>
-
 ### Narrative Focus  
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
 - Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
-<p></p>
-
 ### Danger  
 - The game world produces real risk of pain and death for the player characters.
 - Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
 - Put traps in plain sight and let the players take time to figure out a solution.
 - Give players opportunities to solve problems and interact with the world.
-<p></p>
-
 ### Treasure  
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
 - Treasure is highly valuable, almost always bulky,and rarely useful beyond its worth and prestige.
@@ -91,8 +63,6 @@ Players trust one another to engage with the shared setting, character goals, an
 - Use binary&quot; so, A or B?&quot; responses when their intentions are vague.
 - Work together with this conversational progress to keep the game moving.
 - Ensure that the player character&#39;s actions leave their mark on the game world.
-<p></p>
-
 ### Die of Fate  
 - Occasionally you will want an element of randomness (e.g. the weather,unique character knowledge,etc.).
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
@@ -105,34 +75,22 @@ Players trust one another to engage with the shared setting, character goals, an
 - Attributes and related saves do not define your character.They are tools.
 - Don&#39;t ask only what your character would do, ask what you would do,too.
 - Be creative with your intuition, items, and connections.
-<p></p>
-
 ### Teamwork
 - Seek consensus from the other players before barreling forward.
 - Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
-<p></p>
-
 ### Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
 - Take the Warden&#39;s description without suspicion, but don&#39;t shy away from seeking more information.
 - There is no single correct way forward.
-<p></p>
-
 ### Talking
 - Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
 - You&#39;ll find that most people are interesting and will want to talk things through before getting violent.
-<p></p>
-
 ### Caution
 - Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
 - Try to stack the odds in your favor and retreat when things seem unfavorable.
-<p></p>
-
 ### Planning
 - Think of ways to avoid your obstacles through reconnaissance,subtlety,and fact-finding.
 - Do some research and ask around about your objectives.
-<p></p>
-
 ### Ambition
 - Set goals and use your meager means to take steps forward.
 - Expect nothing. Earn your reputation.
@@ -142,6 +100,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Character Generation
 
 **Name, Background &amp; Traits**  
+
 First, choose or roll a **name** for your character from the **Name &amp; Background** tables, then their **background**, which informs their knowledge and potential skills.
 
 Next, roll for the rest of your character&#39;s **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the **Character Traits** tables.
@@ -153,6 +112,7 @@ Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexter
 When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
 
 **Example:**   
+
 Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides toswap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
 
 ### Hit Protection  
@@ -180,8 +140,9 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 If you would like something closer to traditional classes, refer to the list of **Optional Gear Packages**.
 
+
+
 ## Name &amp; Background (d20)
-<p></p>
 
 #### Female Names
 
@@ -193,8 +154,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-<p></p>
-
 #### Male Names
 
 |||||||||
@@ -204,8 +163,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
-
-<p></p>
 
 #### Surnames
 
@@ -217,8 +174,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-<p></p>
-
 #### Background
 
 |||||||||
@@ -229,11 +184,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
 
-<p></p>
+
 
 ## Character Traits (d10)
-
-<p></p>
 
 #### Physique
 
@@ -248,9 +201,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |7      |Short     |
 |8      |Statuesque |
 |9      |Stout    |
-|10       |Towering |
-
-<p></p>
+|10     |Towering |
 
 #### Skin
 
@@ -267,8 +218,6 @@ If you would like something closer to traditional classes, refer to the list of 
 | 9     |Tattooed   |
 | 10    |Weathered  |
 
-<p></p>
-
 #### Hair
 
 | | |
@@ -283,8 +232,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |8     |Oily       |
 |9     |Wavy       |
 |10    |Wispy      |
-
-<p></p>
 
 #### Face
 
@@ -301,8 +248,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Square     |
 |10    |Sunken     |
 
-<p></p>
-
 #### Speech
 
 | | |
@@ -317,8 +262,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |8     |Squeaky    |
 |9     |Stuttering |
 |10    |Whispery   |
-
-<p></p>
 
 #### Clothing
 
@@ -335,8 +278,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Rancid     |
 |10    |Soiled     |
 
-<p></p>
-
 #### Virtue
 
 | | |
@@ -351,8 +292,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |8     |Merciful   |
 |9     |Serene     |
 |10    |Tolerant   |
-
-<p></p>
 
 #### Vice
 
@@ -369,8 +308,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |9     |Vain       |
 |10    |Vengeful   |
 
-<p></p>
-
 #### Reputation
 
 | | |
@@ -384,8 +321,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |7     |Oddball    |
 |8     |Repulsive  |
 |9     |Respected  |
-10     |Wise       |
-
+|10 |Wise |
 <p></p>
 
 #### Misfortunes
@@ -416,8 +352,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |1-3                  |4-14          |15-19          |20         |
 |None                 |Brigandine    |Chainmail      |Plate      |
 
-<p></p>
-
 #### Helmets and Shields
 
 ||||
@@ -425,16 +359,12 @@ If you would like something closer to traditional classes, refer to the list of 
 |1-13                 |14-16      |17-19     |20                |
 |None                 |Helmet   |  Shield    |  Helmet & Shield |
 
-<p></p>
-
 #### Weapons
 
 |                       |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
-
-<p></p>
 
 #### Expeditionary Gear
 
@@ -446,8 +376,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Chain (10ft) |9  |Large Trap |14 |Pulley      |19 |Tinderbox  |
 |5  |Dowsing Rod|10 |Lockpicks  |15 |Repellent   |20 |Wolfsbane  |
 
-<p></p>
-
 #### Tools
 
 |||||
@@ -457,8 +385,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |3  |Caltrops   |8  |Drill (Manual)|13 |Hourglass   |18 |Sealant    |
 |4  |Chalk      |9  |FishingRod |14 |Metal File  |19 |Shovel     |
 |5  |Chisel     |10 |Glue       |15 |Nails       |20 |Tongs      |
-
-<p></p>
 
 #### Trinkets
 
@@ -470,20 +396,17 @@ If you would like something closer to traditional classes, refer to the list of 
 |4  |Face Paint |9  |Lens       |14 |Salt Pack   |19 |Twine      |
 |5  |Fake Jewels|10 |Marbles    |15 |Small Bell  |20 |Whistle    |
 
-<p></p>
-
 #### Bonus Item (roll on table indicated)
 
-|||  |  |
-|:----:|:----:|:----:|:----:|
 |1-5     |6-13  |14-17    | 18-20 |
+|:----:|:----:|:----:|:----:|
 |Tool or  Trinket  |Expeditionary Gear   |Armor or Weapon  |  Spellbook|
 
 <p></p>
 
 ## Spellbooks (d100)
 
-||||||||||
+|||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
 |1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
 |2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
@@ -515,8 +438,6 @@ If you would like something closer to traditional classes, refer to the list of 
 
 
 ## Equipment List (Prices in Gold Pieces)  
-<p></p>
-
 #### Armor
 
 ||     |
@@ -528,8 +449,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |Chainmail(2 Armor, bulky)   |40   |
 |Plate (3 Armor, bulky)      |60   |
 
-<p></p>
-
 #### Weapons
 
 |  |     |
@@ -540,8 +459,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |Sling (d4  damage)                                            |5    |
 |Bow  (d6  damage,bulky)                                       |20   |
 |Crossbow (d8  damage, bulky)                                  |30   |
-
-<p></p>
 
 #### Gear & Tools
 
@@ -608,113 +525,77 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Optional Gear Packages  
 
-<p></p>
+|Dowser|
+|-----------------------------------------|
+|Sickle (d6)                              |
+|Patchwork doublet (+1  Armor)            |
+|Dowsing Rod                              |
+|Eyestone (Sense if placed in fresh water)|
+|Worn Map                                 |
+|Spyglass                                 |
 
-#### Dowser
+|Dwarf|
+|-----------------------------------------|
+|Prickly Root (d6)                        |
+|Pinecone Lattice (1 Armor) Trowel        |
+|Jar of Forest Ants                       |
+|Poisonous mushroom                       |
+|Hand Drill                               |
 
-||||
-|-----------------------------------------|---------------------|------|
-|Sickle (d6)                              |                     |      |
-|Patchwork doublet (+1  Armor)            |                     |      |
-|Dowsing Rod                              |                     |      |
-|Eyestone (Sense if placed in fresh water)|                     |      |
-|Worn Map                                 |                     |      |
-|Spyglass                                 |                     |      |
+|Elf|
+|-----------------------------------------|
+|Elegant Sword (d8) Recurve Bow (d8)      |
+|Gilt Clothing (1 Armor)                  |
+|Spellbook (Charm or Detect               |
+|Golden Flute                             |
+|Air Bladder                              |
 
-<p></p>
-
-#### Dwarf   
-
-||||
-|-----------------------------------------|---------------------|------|
-|Prickly Root (d6)                        |                     |      |
-|Pinecone Lattice (1 Armor) Trowel        |                     |      |
-|Jar of Forest Ants                       |                     |      |
-|Poisonous mushroom                       |                     |      |
-|Hand Drill                               |                     |      |
-
-<p></p>
-
-#### Elf                                     
-
-||||
-|-----------------------------------------|---------------------|------|
-|Elegant Sword (d8) Recurve Bow (d8)      |                     |      |
-|Gilt Clothing (1 Armor)                  |                     |      |
-|Spellbook (Charm or Detect               |                     |      |
-|Golden Flute                             |                     |      |
-|Air Bladder                              |                     |      |
-
-<p></p>
-
-#### Fighter                                
-
-||||
-|-----------------------------------------|---------------------|------|
+|Fighter|
+|-----------------------------------------|
 |Glaive (d10, bulky) Scimitar (d8)      |
-|Shortsword (d6)                        |                     
-|Shortsword (d6)                        |                  
-|Tobacco Pouch & Pipe                   |               
-|Dice Set                               |                 
+|Shortsword (d6)                        |
+|Shortsword (d6)                        |
+|Tobacco Pouch & Pipe                   |
+|Dice Set                               |
 
-<p></p>
+|Friar|
+|-----------------------------------------|
+|Scepter (d6)                    |
+|Deceptive Robes (+1 Armor)      |
+|Censer &  Holy  Water           |
+|Jug of Honey Wine               |
+|Folk Songbook                   |
+|Cart (+4  slots, bulky)         |
 
-#### Friar    
+| Knight                     |
+| -------------------------- |
+| Longsword (d8, bulky)      |
+| Chainmail (2 Armor, bulky) |
+| Helmet (+1  Armor)         |
+| Heraldic Cape              |
+| Manacles                   |
+| Fine Rope                  |
 
-||||
-|-----------------------------------------|---------------------|------|
-|Scepter (d6)                    |                   
-|Deceptive Robes (+1 Armor)      |                  
-|Censer &  Holy  Water           |                   
-|Jug of Honey Wine               |                    
-|Folk Songbook                   |                    
-|Cart (+4  slots, bulky)         |   
-
-<p></p>
-
-#### Knight                                 
-
-||||
-|-----------------------------------------|---------------------|------|
-|Longsword (d8, bulky)            
-|Chainmail (2 Armor, bulky)           
-|Helmet (+1  Armor)   |                  
-|Heraldic Cape        |                  
-|Manacles             |                  
-|Fine Rope            |                 
-
-<p></p>
-
-#### Magic User
-
-||||
-|-----------------------------------------|---------------------|------|
+|Magic User|
+|-----------------------------------------|
 |Fizzled Staff (d8, bulky) |
-|Dagger (d6)  |      
-|Spellbook (random spell)                 |          
-|Spellbook (random spell)                 |          
-|Ragged clothing (hidden pockets)         |          
-|Leycap (x2, see Relics)         |     
+|Dagger (d6)  |
+|Spellbook (random spell)                 |
+|Spellbook (random spell)                 |
+|Ragged clothing (hidden pockets)         |
+|Leycap (x2, see Relics)         |
 
-<p></p>
+|Thief|
+|-----------------------------------------|
+|Two daggers (d6+d6)                      |
+|Hooded Jerkin (1 Armor)                  |
+|Lockpicks                                |
+|Caltrops                                 |
+|Grappling Hook                           |
+|Metal File                               |
 
-#### Thief                                   
-
-||||
-|-----------------------------------------|---------------------|------|
-|Two daggers (d6+d6)                      |                     
-|Hooded Jerkin (1 Armor)                  |                     
-|Lockpicks                                |                     
-|Caltrops                                 |                   
-|Grappling Hook                           |                   
-|Metal File                               |                   
-
-<p></p>
-
-#### Ranger         
-
-||||
-|-----------------------------------------|---------------------|------|                   
+|Ranger|
+|-----------------------------------------|
 |Longbow (d8, bulky)             |
 |Hatchet (d6)                    |
 |Padded Leathers (1  Armor)      |
@@ -725,8 +606,6 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Rules
-<p></p>
-
 **Abilities**
 
 Each of the three **abilities** are used in different circumstances (see **saves** , below).
@@ -764,11 +643,14 @@ Shields, gauntlets, and helms may provide additional benefits according to their
 **Reactions**
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
-INSERT TABLE: Hostile Wary Curious Kind Helpful
+
+|    2    | 3-5  |   6-8   | 9-11 | 12      |
+| :-----: | :--: | :-----: | :--: | ------- |
+| Hostile | Wary | Curious | Kind | Helpful |
 
 **Morale**
 
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their_leader&#39;s WIL in place of their own. Lone foes must save when they&#39;re reduced to 0HP. Morale does not affect PCs.
+Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader&#39;s WIL in place of their own. Lone foes must save when they&#39;re reduced to 0HP. Morale does not affect PCs.
 
 **Wealth &amp; Treasure**
 
@@ -780,9 +662,7 @@ Villages,strongholds, and ports of call barter and trade based on the local rari
 
 **Hirelings**
 
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6),
-
-then roll on the **Character Creation** tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 **Spellbooks &amp; Scrolls**
 
@@ -800,13 +680,7 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 
 **Casting Spells**
 
-<p></p>
-
-Anyone can cast a spell by holding a Spellbook in_both hands_and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot.
-
-Given time and safety, PCs can_enhance_a spell (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost.
-
-If the PC is_deprived_or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can_enhance_a spell (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
 **Relics**
 
@@ -883,44 +757,21 @@ Running away from a dire situation always requires a successful DEX save, as wel
 **Scars**  
 When an attack reduces a PC&#39;s HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
-### Scars
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
+| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
+| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
+| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
+| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
+| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
+| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
+| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
+| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
+| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
+| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
+| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-|||||||||||||||
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|------|------|------|------|------|-------|-------|-------|-------|-------|
-| | | | | | | | | | | | | | |
-|1 |Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|2 |Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|3 |Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|4 |Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|5 |Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|6 |Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|7 |Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|8 |Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|9 |Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|10 |Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|11 |Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
-|12 |Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result.| | | | | | | | | | | | |
-| | | | | | | | | | | | | | |
 
 
 ## Bestiary
@@ -990,7 +841,108 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 ### 100 Spells
 
-
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+| 1    | Adhere An object is covered in extremely sticky slime.       |
+| 2    | Anchor A strong wire sprouts from your arms, affixing itself to two points within ft on each side. |
+| 3    | Animate Object An object obeys your commands as best it can. |
+| 4    | Anthropomorphize An animal either gains human intelligence or human appearance for one day. |
+| 5    | Arcane Eye You can see through a magical floating eyeball that flies around at your command. |
+| 6    | Astral Prison An object is frozen in time and space within an invulnerable crystal shell. |
+| 7    | Attract Two objects are strongly magnetically attracted to each other if they come within feet. |
+| 8    | Auditory Illusion You create illusory sounds that seem to come from a direction of your choice. |
+| 9    | Babble A creature must loudly and clearly repeat everything you think It is otherwise mute. |
+| 10   | Bait Flower A plant sprouts from the ground that emanates the smell of decaying flesh. |
+| 11   | Beast Form You and your possessions transform into a mundane animal. |
+| 12   | Befuddle A creature of your choice is unable to form new short-term memories for the duration of the spell. |
+| 13   | Body Swap You switch bodies with a creature you touch If one body dies, the other dies as well. |
+| 14   | Charm A creature you can see treats you as a friend.         |
+| 15   | Comprehend You become fluent in all languages for a short while. |
+| 16   | Command A target obeys a single three-word command that does not cause it harm. |
+| 17   | Cone of Foam Dense foam sprays from your hand, coating the target. |
+| 18   | Control Plants Nearby plants and trees obey you and gain the ability to move at a slow pace. |
+| 19   | Control Weather You may alter the type of weather at will, but you do not otherwise control it. |
+| 20   | Cure Wounds Restore d STR per day to a creature you can touch. |
+| 21   | Deafen All nearby creatures are deafened.                    |
+| 22   | Detect Magic You can see or hear nearby magical auras.       |
+| 23   | Disassemble Any of your body parts may be detached and reattached at will, without causing pain or damage You can still control them. |
+| 24   | Disguise You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |
+| 25   | Displace An object appears to be up to ft from its actual position. |
+| 26   | Earthquake The ground begins shaking violently Structures may be damaged or collapse. |
+| 27   | Elasticity Your body can stretch up to ft.                   |
+| 28   | Elemental Wall A straight wall of ice or fire ft long and ft high rises from the ground. |
+| 29   | Filch A visible item teleports to your hands.                |
+| 30   | Flare A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
+| 31   | Fog Cloud A dense fog spreads out from you.                  |
+| 32   | Frenzy A nearby creature erupts in a frenzy of violence.     |
+| 33   | Gate A portal to a random plane opens.                       |
+| 34   | Gravity Shift You can change the direction of gravity, but only for yourself. |
+| 35   | Greed A creature develops the overwhelming urge to possess a visible item of your choice. |
+| 36   | Haste Your movement speed is tripled.                        |
+| 37   | Hatred A creature develops a deep hatred of another creature or group and wishes to destroy them. |
+| 38   | Hear Whispers You can hear faint sounds clearly.             |
+| 39   | Hover An object hovers, frictionless, ft above the ground It can hold up to one humanoid. |
+| 40   | Hypnotize A creature enters a trance and will truthfully answer one yes or no questions you ask it. |
+| 41   | Icy Touch A thick ice layer spreads across a touched surface, up to ft in radius. |
+| 42   | Identify Owner Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
+| 43   | Illuminate A floating light moves as you command.            |
+| 44   | Invisible Tether Two objects within ft of each other cannot be moved more than ft apart. |
+| 45   | Knock A nearby mundane or magical lock unlocks loudly.       |
+| 46   | Leap You jump up to ft high, once.                           |
+| 47   | Liquid Air The air around you becomes swimmable .            |
+| 48   | Magic Dampener All nearby magical effects have their effectiveness halved. |
+| 49   | Manse A sturdy, furnished cottage appears for hours You can permit and forbid entry to it at will. |
+| 50   | Marble Craze Your pockets are full of marbles, and will refill every seconds. |
+| 51   | Masquerade A characters appearance and voice becomes identical to those of a character you touch. |
+| 52   | Miniaturize A creature you touch is shrunk down to the size of a mouse. |
+| 53   | Mirror Image An illusory duplicate of yourself appears and is under your control. |
+| 54   | Mirrorwalk A mirror becomes a gateway to another mirror that you looked into today. |
+| 55   | Multiarm You temporarily gain an extra arm.                  |
+| 56   | Night Sphere A ft wide sphere of darkness displaying the night sky appears before you. |
+| 57   | Objectify You become any inanimate object between the size of a grand piano and an apple. |
+| 58   | Ooze Form You become a living jelly.                         |
+| 59   | Pacify A creature near you has an aversion to violence.      |
+| 60   | Phobia A nearby creature becomes terrified of an object of your choice. |
+| 61   | Pit A pit ft wide and ft deep opens in the ground .          |
+| 62   | Primal Surge An creature rapidly evolves into a future version of its species. |
+| 63   | Push/Pull An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
+| 64   | Raise Dead A skeleton rises from the ground to serve you They are incredibly stupid and can only obey simple orders. |
+| 65   | Raise Spirit The spirit of a nearby corpse manifests and will answer question. |
+| 66   | Read Mind You can hear the surface thoughts of nearby creatures. |
+| 67   | Repel Two objects are strongly magnetically repelled from each other within feet. |
+| 68   | Scry You can see through the eyes of a creature you touched earlier today. |
+| 69   | Sculpt Elements Inanimate material behaves like clay in your hands. |
+| 70   | Sense Choose one kind of object (key, gold, arrow, jug, etc) You can sense the nearest example. |
+| 71   | Shield A creature you touch is protected from mundane attacks for one minute. |
+| 72   | Shroud A creature you touch is invisible until they move.    |
+| 73   | Shuffle Two creatures you can see instantly switch places.   |
+| 74   | Sleep A creature you can see falls into a light sleep.       |
+| 75   | Slick Every surface in a ft radius becomes extremely slippery. |
+| 76   | Smoke Form Your body becomes a living smoke that you can control. |
+| 77   | Sniff You can smell even the faintest traces of scents.      |
+| 78   | Snuff The source of any mundane light you can see is instantly snuffed out. |
+| 79   | Sort Inanimate items sort themselves according to categories you set. |
+| 80   | Spectacle A clearly false but impressive illusion of your choice appears, under your control It may be up to the size of a palace and has full motion and sound. |
+| 81   | Spellsaw A whirling blade flies from your chest, clearing any plant material in its way It is otherwise harmless. |
+| 82   | Spider Climb You can climb surfaces like a spider    .       |
+| 83   | Summon Cube Once per second you may summon or banish a -foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
+| 84   | Swarm You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
+| 85   | Telekinesis You may mentally move item under lbs     .       |
+| 86   | Telepathy Two creatures can hear each others thoughts, no matter how far apart. |
+| 87   | Teleport An object or person you can see is transported from one place to another in a ft radius. |
+| 88   | Target Lure An object you touch becomes the target of any nearby spell. |
+| 89   | Thicket A thicket of trees and dense brush up to ft wide suddenly sprouts up. |
+| 90   | Summon Idol A carved stone statue the size of a mule rises from the ground. |
+| 91   | Time Control Time in a ft bubble slows down or increases by % for seconds. |
+| 92   | True Sight You see through all nearby illusions      .       |
+| 93   | Upwell A spring of seawater appears                  .       |
+| 94   | Vision You completely control what a creature sees   .       |
+| 95   | Visual Illusion A silent, immobile, room-sized illusion of your choice appears. |
+| 96   | Ward A silver circle ft across appears on the ground Choose one species that cannot cross it. |
+| 97   | Web Your wrists shoot thick webbing                  .       |
+| 98   | Widget A primitive version of a drawn tool or item appears before you and disappears after a short time. |
+| 99   | Wizard Mark Your finger can shoot a stream of ulfire-colored paint This paint is only visible to you and can be seen at any distance, even through solid objects. |
+| 100  | X-Ray Vision You can see through walls, dirt, clothing, etc. |
 
 ## Rules Summary
 
