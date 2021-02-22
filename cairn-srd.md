@@ -148,7 +148,7 @@ Next, roll for the rest of your character&#39;s **traits** (appearance, speech, 
 
 Finally, roll for their **age** (2d20+10).
 
-### Ability Scores  
+#### Ability Scores  
 Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**.   
 When creating a PC, the player should roll 3d6 for each of their character&#39;s ability scores, in order. They may then swap any two of the results.
 
@@ -158,7 +158,7 @@ Ines rolls for her character&#39;s **STR**, resulting in a **2**, a **4**, and a
 ### Hit Protection  
 Roll 1d6 to determine your PC&#39;s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character&#39;s health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC&#39;s HP exactly to 0, the player must roll on the **Scars** table.
 
-**Inventory**  
+#### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden&#39;s discretion.
@@ -167,7 +167,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
 
-**Starting Gear**  
+#### Starting Gear
 All PCs begin with:
 
 - Three days&#39; rations (one slot)
@@ -237,13 +237,18 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Physique
 
-|||||
-|------|-----------|-----------|-----------|
-|1      | Athletic |6      |Scrawny   |
-|2      | Brawny   |7      |Short     |
-|3      |Flabby    |8      |Statuesque |
-|4      |Lanky     |9      |Stout    |
-|5      |Rugged    |10       |Towering |
+|||
+|------|-----------|
+|1      | Athletic |
+|2      | Brawny   |
+|3      |Flabby   |
+|4      |Lanky    |
+|5      |Rugged   |
+|6      |Scrawny   |
+|7      |Short     |
+|8      |Statuesque |
+|9      |Stout    |
+|10       |Towering |
 
 <p></p>
 
@@ -408,8 +413,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ||||
 |:----:|:----:|:----:|
-|1-3                  |4-14          |15-19                |20         |
-|None                 |Brigandine    |Chainmail            |Plate      |
+|1-3                  |4-14          |15-19          |20         |
+|None                 |Brigandine    |Chainmail      |Plate      |
 
 <p></p>
 
@@ -420,7 +425,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |1-13                 |14-16      |17-19     |20                |
 |None                 |Helmet   |  Shield    |  Helmet & Shield |
 
-
+<p></p>
 
 #### Weapons
 
@@ -429,6 +434,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
+<p></p>
 
 #### Expeditionary Gear
 
@@ -476,17 +482,18 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Equipment List (Prices in Gold Pieces)  
+<p></p>
 
 #### Armor
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)                                             |10   |
-|Helmet(+1 Armor)                                              |10   |
-|Gambeson(1 Armor)                                             |15   |
-|Brigandine(1 Armor, bulky)                                    |20   |
-|Chainmail(2 Armor, bulky)                                     |40   |
-|Plate (3 Armor, bulky)                                        |60   |
+|Shield (+1 Armor)   |10   |
+|Helmet(+1 Armor)    |10   |
+|Gambeson(1 Armor)   |15   |
+|Brigandine(1 Armor, bulky)  |20   |
+|Chainmail(2 Armor, bulky)   |40   |
+|Plate (3 Armor, bulky)      |60   |
 
 <p></p>
 
@@ -568,27 +575,124 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Optional Gear Packages  
 
-**Cleric**
+<p></p>
 
-**Friar**
+#### Dowser
 
-**Dowser**
+||||
+|-----------------------------------------|---------------------|------|
+|Sickle (d6)                              |                     |      |
+|Patchwork doublet (+1  Armor)            |                     |      |
+|Dowsing Rod                              |                     |      |
+|Eyestone (Sense if placed in fresh water)|                     |      |
+|Worn Map                                 |                     |      |
+|Spyglass                                 |                     |      |
 
-**Knight**
+<p></p>
 
-**Dwarf**
+#### Dwarf   
 
-**Magic User**
+||||
+|-----------------------------------------|---------------------|------|
+|Prickly Root (d6)                        |                     |      |
+|Pinecone Lattice (1 Armor) Trowel        |                     |      |
+|Jar of Forest Ants                       |                     |      |
+|Poisonous mushroom                       |                     |      |
+|Hand Drill                               |                     |      |
 
-**Elf**
+<p></p>
 
-**Ranger**
+#### Elf                                     
 
-**Fighter**
+||||
+|-----------------------------------------|---------------------|------|
+|Elegant Sword (d8) Recurve Bow (d8)      |                     |      |
+|Gilt Clothing (1 Armor)                  |                     |      |
+|Spellbook (Charm or Detect               |                     |      |
+|Golden Flute                             |                     |      |
+|Air Bladder                              |                     |      |
 
-**Thief**
+<p></p>
+
+#### Fighter                                
+
+||||
+|-----------------------------------------|---------------------|------|
+|Glaive (d10, bulky) Scimitar (d8)      |
+|Shortsword (d6)                        |                     
+|Shortsword (d6)                        |                  
+|Tobacco Pouch & Pipe                   |               
+|Dice Set                               |                 
+
+<p></p>
+
+#### Friar    
+
+||||
+|-----------------------------------------|---------------------|------|
+|Scepter (d6)                    |                   
+|Deceptive Robes (+1 Armor)      |                  
+|Censer &  Holy  Water           |                   
+|Jug of Honey Wine               |                    
+|Folk Songbook                   |                    
+|Cart (+4  slots, bulky)         |   
+
+<p></p>
+
+#### Knight                                 
+
+||||
+|-----------------------------------------|---------------------|------|
+|Longsword (d8, bulky)            
+|Chainmail (2 Armor, bulky)           
+|Helmet (+1  Armor)   |                  
+|Heraldic Cape        |                  
+|Manacles             |                  
+|Fine Rope            |                 
+
+<p></p>
+
+#### Magic User
+
+||||
+|-----------------------------------------|---------------------|------|
+|Fizzled Staff (d8, bulky) |
+|Dagger (d6)  |      
+|Spellbook (random spell)                 |          
+|Spellbook (random spell)                 |          
+|Ragged clothing (hidden pockets)         |          
+|Leycap (x2, see Relics)         |     
+
+<p></p>
+
+#### Thief                                   
+
+||||
+|-----------------------------------------|---------------------|------|
+|Two daggers (d6+d6)                      |                     
+|Hooded Jerkin (1 Armor)                  |                     
+|Lockpicks                                |                     
+|Caltrops                                 |                   
+|Grappling Hook                           |                   
+|Metal File                               |                   
+
+<p></p>
+
+#### Ranger         
+
+||||
+|-----------------------------------------|---------------------|------|                   
+|Longbow (d8, bulky)             |
+|Hatchet (d6)                    |
+|Padded Leathers (1  Armor)      |
+|Large Trap                      |
+|Bloodhound &#124; 2 HP, 12  DEX |
+|Thundering Horn                 |
+
+<p></p>
 
 ## Rules
+<p></p>
 
 **Abilities**
 
@@ -662,6 +766,8 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - They disappear after one use.
 
 **Casting Spells**
+
+<p></p>
 
 Anyone can cast a spell by holding a Spellbook in_both hands_and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot.
 
@@ -750,7 +856,7 @@ SCARS TABLE
 
 **Root Goblin**  
 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greaternumbers).
+- Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
 - Prize Spellbooks; willing to trade.
 
@@ -761,23 +867,23 @@ SCARS TABLE
 
 **Cobblehounds**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs orartifacts.
-- Unaffected by mundane persuasion techniques - but do love a goodbone.
+- Immobile constructs typically used as guardians to great tombs or artifacts.
+- Unaffected by mundane persuasion techniques - but do love a goodb one.
 
 **Wood Troll**   
 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lostHP.
-- Critical damage: moss and twigs begin growing out of target&#39;swounds.
+- As an action, can recover lost HP.
+- Critical damage: moss and twigs begin growing out of target&#39;s wounds.
 
 **Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one:_Sleep, Teleport, Detect Magic)_
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
 - Beautiful, amoral, andlong-lived.
 - Resistant to most forms ofmagic.
 
 **Boggart**  
 3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minornuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade forcoin.
+- A wild, hairy trickster that takes pleasure in being a minor nuisance.
+- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
 - Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
 
 ### Creating Monsters
@@ -811,14 +917,41 @@ Some pointers:
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
-**15**
+### 100 Spells
 
-**100 Spells**
+||||||||||
+|---|-----------------|---|----------------|---|---------------|---|---------------|
+|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
+|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
+|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
+|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
+|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
+|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
+|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
+|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
+|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
+|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
+|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
+|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
+|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
+|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
+|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
+|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
+|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
+|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
+|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
+|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
+|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
+|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
+|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
+|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
+|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
 
-[SPELLS DESCRIPTIONS]
+<p></p>
 
+## Rules Summary
 
-# Rules Summary
+<p></p>
 
 **ACTIONS**
 
