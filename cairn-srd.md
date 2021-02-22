@@ -968,7 +968,7 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **HP** indicates a PC&#39;s ability to avoid getting hurt. It is lost during combat &amp; recovered after a few moment&#39;s rest.
 
 **INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
 Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts &amp; horses may provide an increase in slots.
 
