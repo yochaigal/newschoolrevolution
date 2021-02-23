@@ -10,7 +10,7 @@ Here is some free stuff that I've made over the years. I'm a big fan of [CC BY-S
 <br>
 
 ## OSR
-#### [Cairn](https://yochaigal.itch.io/cairn)
+#### [Cairn](https://yochaigal.github.io/cairn/)
 A mash-up of Knave and Into the Odd-style games for play in fantastical forests. Designed in such a way to plug-and-play B/X materials (as much as I liked, anyway) while relying on a simpler mechanical system without difficulty in conversion.
 
 #### [The Clay Shelf](https://yochaigal.itch.io/the-clay-shelf)
