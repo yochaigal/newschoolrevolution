@@ -9,7 +9,8 @@ published: true
 # Public Domain Art
 
 I've collected a lot of public domain art links in my time.  
-[Here](https://drive.google.com/drive/folders/1ECkPSwpsQG7FgNOtnoJUgmJrKdy57G_b?usp=sharing) is my "trove" of collected public domain art. It's not very well organized or tagged. Maybe one day.
+[Here](https://drive.google.com/drive/folders/1ECkPSwpsQG7FgNOtnoJUgmJrKdy57G_b?usp=sharing) is my "trove" of collected public domain art. It's not very well organized or tagged.  
+Maybe one day.
 
 ## Sources
 - [British Public Library](https://www.bl.uk/collection-guides?subject=Visual%20arts)
@@ -35,7 +36,7 @@ I've collected a lot of public domain art links in my time.
 - [From Old Books](https://www.fromoldbooks.org)
 - [New York Public Library Digital Collection](https://digitalcollections.nypl.org/)
 
-## Other
+## Miscellaneous Links
 - [Flickr: The British Library](https://www.flickr.com/photos/britishlibrary/)
 - [Flickr: Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
 - [Flickr: Subject: Fantasy](https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectFantasy)
@@ -53,4 +54,4 @@ I've collected a lot of public domain art links in my time.
 - [Open Source Illustration](https://www.flickr.com/photos/8542318@N07/galleries/72157716015091097/)
 - [Portraits from the british library](https://www.flickr.com/search/?user_id=12403504%40N02&view_all=1&text=portrait)
 - [SCRAP PRINCESS CURATION](https://www.flickr.com/photos/182996516@N07/galleries/72157717249528072/)
-- [Fuck Yeah Vintage Illustraionts](https://fuckyeahvintageillustration.tumblr.com/)
+- [Fuck Yeah Vintage Illustrations](https://fuckyeahvintageillustration.tumblr.com/)
