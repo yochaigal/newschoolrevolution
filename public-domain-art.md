@@ -48,7 +48,6 @@ Maybe one day.
 - [Search: bookcollectionbiodiversity](https://www.flickr.com/search/?tags=bookcollectionbiodiversity)
 - [Search: booksubjectFantasy](https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectFantasy)
 - [Old Books for Children](https://www.flickr.com/photos/slavomiravladimirova/galleries/72157676407471851/?rb=1)
-- [Dungeons & Dragons](https://www.flickr.com/photos/randar/sets/72157676261716731)
 - [Open Source Illustration](https://www.flickr.com/photos/8542318@N07/galleries/72157716015091097/)
 - [Portraits from the british library](https://www.flickr.com/search/?user_id=12403504%40N02&view_all=1&text=portrait)
 - [SCRAP PRINCESS CURATION](https://www.flickr.com/photos/182996516@N07/galleries/72157717249528072/)
