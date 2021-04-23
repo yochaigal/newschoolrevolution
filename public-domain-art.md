@@ -40,7 +40,6 @@ Maybe one day.
 - [Public Domain Files](http://www.publicdomainfiles.com)
 
 
-
 ## Miscellaneous Links
 - [Wikipedia:Public Domain](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
 - [Flickr: The British Library](https://www.flickr.com/photos/britishlibrary/)
@@ -62,3 +61,4 @@ Maybe one day.
 - [Fuck Yeah Vintage Illustrations](https://fuckyeahvintageillustration.tumblr.com/)
 - [1 Million Free Pictures](https://www.1millionfreepictures.com/2015/08/gallery-of-downloadable-1-million-free.html)
 - [Libreshot](https://libreshot.com/)
+- [WebMuseum](http://www.ibiblio.org/wm/paint/)
