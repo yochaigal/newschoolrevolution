@@ -37,6 +37,8 @@ Maybe one day.
 - [National Archives Catalog](https://catalog.archives.gov/)
 - [Library of Congress](https://www.loc.gov/pictures/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- [Public Domain Files](http://www.publicdomainfiles.com)
+
 
 
 ## Miscellaneous Links
@@ -58,3 +60,5 @@ Maybe one day.
 - [Portraits from the british library](https://www.flickr.com/search/?user_id=12403504%40N02&view_all=1&text=portrait)
 - [SCRAP PRINCESS CURATION](https://www.flickr.com/photos/182996516@N07/galleries/72157717249528072/)
 - [Fuck Yeah Vintage Illustrations](https://fuckyeahvintageillustration.tumblr.com/)
+- [1 Million Free Pictures](https://www.1millionfreepictures.com/2015/08/gallery-of-downloadable-1-million-free.html)
+- [Libreshot](https://libreshot.com/)
