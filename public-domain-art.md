@@ -34,9 +34,13 @@ Maybe one day.
 - [From Old Books](https://www.fromoldbooks.org)
 - [New York Public Library Digital Collection](https://digitalcollections.nypl.org/)
 - [RawPixel Public Domain Art](https://www.rawpixel.com/category/53/public-domain)
-0 [National Archives Catalog](https://catalog.archives.gov/)
+- [National Archives Catalog](https://catalog.archives.gov/)
+- [Library of Congress](https://www.loc.gov/pictures/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
 
 ## Miscellaneous Links
+- [Wikipedia:Public Domain](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
 - [Flickr: The British Library](https://www.flickr.com/photos/britishlibrary/)
 - [Flickr: Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
 - [Flickr: Subject: Fantasy](https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectFantasy)
