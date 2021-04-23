@@ -21,7 +21,7 @@ I've collected a lot of public domain art links in my time.
 - [National Gallery of Art](https://images.nga.gov/en/page/show_home_page.html)
 - [OpenClipArt](https://openclipart.org/)
 - [Unsplash](https://unsplash.com/)
-- [ClipArt Etc[](https://etc.usf.edu/clipart)
+- [ClipArt Etc](https://etc.usf.edu/clipart)
 - [Game-Icons](https://game-icons.net)
 - [Smithsonian Institution](https://collections.si.edu/search/)
 - [Visual Haggard](http://www.visualhaggard.org/)
