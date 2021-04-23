@@ -2,11 +2,9 @@
 layout: post
 title: Public Domain Art
 date: 2021-04-22
-tags: ['art']
+categories: ['art']
 published: true
 ---
-
-# Public Domain Art
 
 I've collected a lot of public domain art links in my time.  
 [Here](https://drive.google.com/drive/folders/1ECkPSwpsQG7FgNOtnoJUgmJrKdy57G_b?usp=sharing) is my "trove" of collected public domain art. It's not very well organized or tagged.  
