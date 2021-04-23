@@ -32,6 +32,8 @@ I've collected a lot of public domain art links in my time.
 - [Creative Commons Search](https://search.creativecommons.org/)
 - [Heritage Library](https://www.heritagetype.com/pages/free-vintage-illustrations)
 - [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
+- [https://www.fromoldbooks.org/](From Old Books)
+- [New York Public Library Digital Collection](https://digitalcollections.nypl.org/)
 
 ## Other
 - [Flickr: The British Library](https://www.flickr.com/photos/britishlibrary/)
