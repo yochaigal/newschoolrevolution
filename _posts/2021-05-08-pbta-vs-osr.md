@@ -6,7 +6,9 @@ tags: ['osr', 'nsr', 'pbta', 'rpg']
 published: false
 ---
 
-For GMs:
+# PbtA vs OSR
+
+## OSR Principles from according to the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html).
 
 The "Cardinal" Principle: **Your Table is Yours**
 
@@ -48,7 +50,7 @@ The "Cardinal" Principle: **Your Table is Yours**
 • Keep The World Alive
 
 
-----
+## Dungeon World (example)
 
 **Agenda**
 • Make the world fantastic
@@ -75,6 +77,7 @@ To start from the top.
 • Rulings Over Rules
 This is a tricky one. PbtA is very much designed to "collapse" gracefully. That's great for making "rulings" at the table. However, _many_ of the rules are are necessary to enforce the genre model, which in play leads to a culture of _not_ making rules. The Moves and Triggers are the scaffold of play, and the GM is rarely encouraged to forget them. New moves can be created, but those are also contained within the same framework.
 ---
+
 • Divest Yourself of Their Fate
 This is a doozy. In Dungeon World, you are instructed to "Be a fan of the characters" and "Address the characters, not the players", both of which yield a gameplay experience that reinforces a core PbtA trope: the character's story is the most important thing. The Dungeon World rules themselves reinforce this again; moves like "Last Breath" make it pretty hard to kill a PC (or TPK for that matter). And 24 HP for a Fighter at Level 1 is pretty crazy!
 
