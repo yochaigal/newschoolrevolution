@@ -58,3 +58,4 @@ A game about a generation ship, and the factions (and subsequent generations) li
 A guide on collaborative worldbuilding and character generation.
 
 #### [Public Domain Art Sources](/public-domain-art)
+A list of great public domain art sources, with a link to public domain art folder.
