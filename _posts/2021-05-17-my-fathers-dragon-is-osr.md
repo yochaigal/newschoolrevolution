@@ -8,7 +8,7 @@ published: true
 
 # My Father's Dragon is OSR
 
-Recently I've been reading a book series to my son each night before bed. The book is "My Father's Dragon" by Ruth Stiles Gannett (with illustrations by her mother-in-law, Ruth Chrisman Gannett).
+Recently I've been reading a book series to my son each night before bed. The book is []"My Father's Dragon"](https://www.amazon.com/gp/product/0486837491) by Ruth Stiles Gannett (with illustrations by her mother-in-law, Ruth Chrisman Gannett).  
 The books are _totally_ aligned with OSR Principles as according to the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html).
 
 First let's start with the map:
@@ -31,10 +31,9 @@ At one point, Elmer is surrounded by seven tigers, all of whom wish to kill him.
 
 After that, he drinks water from a special pool controlled by a rhino, who then informs Elmer that his death shall come for his actions. But the boy talks to the rhino, who opens up about how sad he is on account of his horn being super dirty and old. The boy shows him how to use toothpaste and a toothbrush to clean it up and make it white. He then escapes.
 
-The best part is when he finally finds the river but the dragon is on the other side. He tricks 17 alligator to create a bridge for him by giving each a lollipop (tied to their tails via a rubber band) and having them bite the tail of the alligator in front of him.
+The best part is when he finally finds the river but the dragon is on the other side. He tricks 17 alligator to create a bridge for him by giving each a lollipop (tied to their tails via a rubber band) and having them bite the tail of the alligator in front of them.
 
-When Elmer gets to the other side, the animals follow him across the "bridge". He isn't able to cut through the dragon's rope quickly enough, so he tells the dragon, "Don't worry, if they come over here we'll fly across, leaving them on this side. Then, I'll finish cutting the rope!"  
-That doesn't end up happening but I love that he considered all options.
+When Elmer gets to the other side, the animals try to follow him across the "bridge". He realizes that he might not be able to cut through the dragon's rope quickly enough so he tells the dragon, "Don't worry, if they come over here we'll fly across, leaving them on this side. Then, I'll finish cutting the rope!" That doesn't end up happening but I love that he considered all options.
 
 In the second book, he digs up a treasure chest (after learning of its location from King Can, king of the canaries) and uses the dragon's tail to hoist it out. Here is the page describing its contents:  
 
