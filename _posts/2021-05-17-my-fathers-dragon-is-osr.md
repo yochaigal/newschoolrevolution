@@ -3,7 +3,7 @@ layout: post
 title: My Father's Dragon is OSR
 date: 2021-05-17
 tags: ['osr', 'nsr', 'rpg']
-published: false
+published: true
 ---
 
 # My Father's Dragon is OSR
@@ -16,14 +16,15 @@ First let's start with the map:
 [![Alt text](/img/my-fathers-dragon/wild_island.png "click to embiggen"){:height="75%" width="75%"}](/img/my-fathers-dragon/wild_island.png)
 
 ## Story Summary:
-The book is about a boy who travels to an island to free an enslaved baby dragon. The dragon is being used to ferry animals across a river (see map). The boy lands on the West side, getting to the island by climbing across rocks (and a sleeping whale). The protagonist (Elmer Elevator) is quite savvy, however. He came prepared, with a filled knapsack. Every creature on the island can speak. They also _really_ want to kill Elmer. They explicitly list what he has in his inventory multiple times during the story.
+The book is about a boy who travels to an island to free an enslaved baby dragon. The dragon is being used to ferry animals across a river (see map), being held captive by cruel and intelligent animals. The protagonist (Elmer Elevator) is quite savvy, though! He came to the island prepared, his knapsack stuffed with items. The book explicitly list what he has in his inventory multiple times during the story, each of which are used in some clever way.
 
-These items come into heavy use through the story.
-He doesn't have a map of the island! He also doesn't know exactly where the dragon is, but he knows it's near the river, and that the river meets the sea.
+Here's the cool thing about the island: Every creature living there can speak. Also, they seem to _really_ want to kill Elmer.
 
-So what does he do? He travels south along the beach, till he meets the place where the river meets the sea . Of course he doesn't get that far, because along the way he encounters a bunch of animals, all of whom want to kill him. He's stealthy, but he makes one serious mistake: He leaves behind food scraps (tangerine peels), which the animals know means there is an "invader" on the island. Then they begin hunting him.
+The boy lands on the West side, getting to the island by climbing across rocks (and a sleeping whale). He doesn't have a map of the island, nor does he know exactly where the dragon is, but he knows it's near the river, and that the river meets the sea.
 
-As he encounters each creature, he tries to avoid direct engagement each time. Instead, he hides or distracts them. At one point he impersonates a monkey, though this didn't quite work out for him. When he finally is forced to directly engage, he uses intelligence and cunning, along with all his inventory items to find clever solutions.
+So what does he do? He travels south along the beach, looking for the river mouth. Along the way he encounters a bunch of animals, most of whom want to kill him. He's stealthy, but he makes one serious mistake: He leaves behind food scraps (tangerine peels), which the animals know means there is an "invader" on the island. Then they begin hunting him.
+
+As he encounters each creature, he tries to avoid direct engagement each time. Instead, he hides, deceives, or distracts them. When he is finally is forced to directly engage, he uses intelligence and cunning, along with all his inventory items to find clever solutions.
 
 ## A Few Examples:
 At one point, Elmer is surrounded by seven tigers, all of whom wish to kill him. He offers them all gum, but they argue that they can just kill him and take his gum. But then he tells them that this gum is special, if you eat it for a long time it turns green, at which point it can be planted, making gum trees grow. This is all lies. He gets the tigers to stare into each other's mouths, trying to see if their gum has turned green yet. While they are distracted, he escapes.
