@@ -32,8 +32,7 @@ He doesn't have a map of the island! He also doesn't know exactly where the drag
 
 So what does he do? He travels south along the beach, till he meets the place where the river meets the sea . Of course he doesn't get that far, because along the way he encounters a bunch of animals, all of whom want to kill him. He's stealthy, but he makes one serious mistake: He leaves behind food scraps (tangerine peels), which the animals know means there is an "invader" on the island. Then they begin hunting him.
 
-As he encounters each creature, he tries to avoid direct engagement each time. Instead, he hides or distracts them. At one point he impersonates a monkey, though this didn't quite work out for him.
-When he finally is forced to directly engage, he uses intelligence and cunning, along with all his inventory items to find clever solutions.
+As he encounters each creature, he tries to avoid direct engagement each time. Instead, he hides or distracts them. At one point he impersonates a monkey, though this didn't quite work out for him. When he finally is forced to directly engage, he uses intelligence and cunning, along with all his inventory items to find clever solutions.
 
 ## A few examples:
 He is surrounded by seven tigers, all of whom wish to kill him. He offers them all gum, but they argue that they can just kill him and take his gum. But then he tells them that this gum is special, if you eat it for a long time it turns green, at which point it can be planted, making gum trees grow. This is all lies. He gets the tigers to stare into each other's mouths, trying to see if their gum has turned green yet. While they are distracted, he escapes.
