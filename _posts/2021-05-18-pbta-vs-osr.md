@@ -3,14 +3,14 @@ layout: post
 title: DW vs OSR
 date: 2021-05-18
 tags: ['osr', 'nsr', 'pbta', 'rpg']
-published: true
+published: false
 ---
 
 # Dungeon World vs OSR
 
-Over the past month or so I've been fielding a number of questions about GMing Dungeon World and how that differs from most OSR games. The answer is actually fairly simple, as the explicit principles and rules of Dungeon World make things pretty clear. Although the "OSR" as a movement doesn't have explicit principles, there have been a few attempts over the years so that's what I'll compare them to. I'm not going to belabor over _all_ of the differences, either - I think some are quite compatible, in fact. Let's begin.
+Over the past month or so I've been fielding a number of questions about GMing Dungeon World and how that differs from most OSR games. The answer is actually fairly simple, as the explicit principles and rules of Dungeon World make things pretty clear. Although the "OSR" as a movement doesn't have explicit principles, there have been a few attempts over the years so that's what I'll compare them to. I'm not going to belabor over _all_ of the differences, either - I think some are quite compatible, in fact. Let's begin
 
-## OSR Principles from according to the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html).
+First, take a look at the Principles of the OSR from the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html).
 
 The "Cardinal" Principle: **Your Table is Yours**
 
@@ -72,6 +72,8 @@ The "Cardinal" Principle: **Your Table is Yours**
 - Begin and end with the fiction
 - Think offscreen, too
 
+<br>
+
 Let's start from the top.
 
 ## Rulings Over Rules
@@ -83,7 +85,7 @@ This is a doozy. In Dungeon World, you are instructed to "Be a fan of the charac
 ## Player Ingenuity Over Character Ability
 This is an example where OSR games directly contradict basic PbtA conventions, particularly in Dungeon World. In most OSR games, Wisdom is a stat, and perception checks still exist. Recent bleeding-edge OSR games (like Into The Odd) totally eschew this concept, which I'm a huge fan of! However, even in games that use Wisdom as a perception mechanic, the information fed to the players about what their characters can perceive is not based on dice rolls. OSR games tend to provide clues to puzzles, traps and mysterious in a way that encourages player engagement, not a reliance on the PC's perception stats. The same goes for knowledge/lore rolls. OSR games prefer Luck? Die of Fate rolls and similar methods for determining what a PC "knows."
 
-In Dungeon World, **Discern Realities** depends entirely on the PC's Wisdom stat (much like in some OSR games). However, the success of the roll determines the FACTS THE PLAYER WILL LEARN.  
+In Dungeon World, Discern Realities depends entirely on the PC's Wisdom stat (much like in some OSR games). However, the success of the roll determines the FACTS THE PLAYER WILL LEARN.  
 Things like:
 - What happened here recently?
 - What is about to happen?
@@ -92,18 +94,19 @@ Things like:
 - Who’s really in control here?
 - What here is not what it appears to be?
 
-And look at **Spout Lore**:  
+And look at Spout Lore:  
 - On a 10+, the GM will tell you something interesting and useful about the subject relevant to your situation.
 - On a 7–9, the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
 
 There is no player skill over character skill happening, there.
 
-I like collaborative worldbuilding, of course. But some PbtA games (not Dungeon World, at least beyond Session Zero) have you directly contribute to the worldbuilding. To me that violates the Czege Principle, which I do happen to agree with for these types of games.
-
-The rules and principles _make killing players hard_.
-And that means violence - or rather, the avoidance of violence - is not a good way to encourage critical thinking.
-OSR games use _violence_ to force creative problem solving. They also use the rules-lite (e.g. no Moves are Rules) to assist with out of the box thinking.
+I like collaborative worldbuilding, of course. But some PbtA games (not Dungeon World, at least beyond Session Zero) have you directly contribute to the worldbuilding. To me that violates the [Czege Principle](https://rpgmuseum.fandom.com/wiki/Czege_Principle), which I do happen to agree with for these types of games.
 
 ## TL; DR:
+- The rules and principles _make killing players hard_.
+- That means violence - or rather, the avoidance of violence - is not a good way to encourage critical thinking.
+- OSR games use _violence_ to force creative problem solving.
+- PbtA-style Moves (or Rules, really) can act as walls against player agency.
+
 In my opinion, if you value critical thinking, problem solving, exploration etc in a game, PbtA will have a hard time delivering.
-How does a player think critically, when your PC is doing it for you? How satisfying is exploration, when you are simply "told" the discovery through dice rolls?
+How does a player think critically, when your PC is doing the thinking for them? How satisfying is exploration, when they are the authors of its wonders?
