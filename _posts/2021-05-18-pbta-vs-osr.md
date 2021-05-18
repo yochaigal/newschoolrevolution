@@ -103,10 +103,24 @@ There is no player skill over character skill happening, there.
 I like collaborative worldbuilding, of course. But some PbtA games (not Dungeon World, at least beyond Session Zero) have you directly contribute to the worldbuilding. To me that violates the [Czege Principle](https://rpgmuseum.fandom.com/wiki/Czege_Principle), which I do happen to agree with for these types of games.
 
 ## TL; DR:
-- The rules and principles _make killing players hard_.
+- The rules and principles of Dungeon World _make killing players hard_.
 - That means violence - or rather, the avoidance of violence - is not a good way to encourage critical thinking.
 - OSR games use _violence_ to force creative problem solving.
 - PbtA-style Moves (or Rules, really) can act as walls against player agency.
 
-In my opinion, if you value critical thinking, problem solving, exploration etc in a game, PbtA will have a hard time delivering.
+In my opinion, if you value critical thinking, problem solving, exploration etc in a game, Dungeon World will have a hard time delivering.  
+
 How does a player think critically, when your PC is doing the thinking for them? How satisfying is exploration, when they are the authors of its wonders?
+
+## The Dice & Prep
+All PbtA games use 2 six-sided dice to trigger moves, and Dungeon World is no exception. That means a result is either 6-, 7-9, or 10+.
+
+This is great (and slightly favors the players) but makes prepping really hard. You are no longer looking at a binary situation. Instead, you must constantly consider the three tiers (and how they relate to each move specifically).
+
+Take a look at any DW adventure starter or even "module" (if you can call them that). Imagine you are rolling Defy Danger to pick a lock without triggering an alarm. The player gets an 8.
+
+Now you have to consider: what does that mean? Does that mean the lockpick breaks, but the door opens? Or does it mean that the door opens, but the alarm goes off anyway, after a moment?
+
+What about a 6-? Does the alarm go off, but a poison dart trap fire out (assuming this was logical)?
+
+These are quick examples so perhaps not perfect, but you get my meaning. Each time a player triggers a move (and in DW they each have different trigger conditions and at least 2 result descriptions) you have to account for the "partial success" and total failure scenarios, instead of a binary pass/fail.
