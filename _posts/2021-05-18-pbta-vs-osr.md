@@ -104,7 +104,6 @@ The rules and principles _make killing players hard_.
 And that means violence - or rather, the avoidance of violence - is not a good way to encourage critical thinking.
 OSR games use _violence_ to force creative problem solving. They also use the rules-lite (e.g. no Moves are Rules) to assist with out of the box thinking.
 
-
-General summary:
+## TL; DR:
 In my opinion, if you value critical thinking, problem solving, exploration etc in a game, PbtA will have a hard time delivering.
 How does a player think critically, when your PC is doing it for you? How satisfying is exploration, when you are simply "told" the discovery through dice rolls?
