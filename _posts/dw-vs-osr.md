@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dungeon World vs OSR
-date: 2021-05-18
+date: 
 tags: ['osr', 'nsr', 'pbta', 'rpg']
 published: true
 draft: true
