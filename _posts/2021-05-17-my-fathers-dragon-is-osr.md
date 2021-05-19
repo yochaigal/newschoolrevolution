@@ -8,10 +8,9 @@ published: true
 
 # My Father's Dragon is OSR
 
-Recently I've been reading a book series to my son each night before bed. The book is ["My Father's Dragon"](https://www.amazon.com/gp/product/0486837491) by Ruth Stiles Gannett (with illustrations by her mother-in-law, Ruth Chrisman Gannett).  
-The books are _totally_ aligned with OSR Principles as according to the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html).
+I've recently been reading ["My Father's Dragon"](https://www.amazon.com/gp/product/0486837491) by Ruth Stiles Gannett (with illustrations by her mother-in-law, Ruth Chrisman Gannett).  
 
-First let's start with the map (made into a sweet woodcut by a friend of mine):
+The books are _totally_ aligned with OSR Principles as according to the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). First let's start with the map (made into a sweet woodcut by a friend):
 
 [![Alt text](/img/my-fathers-dragon/wild_island.png "click to embiggen"){:height="75%" width="75%"}](/img/my-fathers-dragon/wild_island.png)
 
