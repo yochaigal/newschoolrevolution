@@ -23,6 +23,7 @@ Maybe one day.
 - [ClipArt Etc](https://etc.usf.edu/clipart)
 - [Game-Icons](https://game-icons.net)
 - [Smithsonian Institution](https://collections.si.edu/search/)
+- [Artvee](https://artvee.com)
 - [Visual Haggard](http://www.visualhaggard.org/)
 - [Karens Whimsy](http://karenswhimsy.com/public-domain-images/)
 - [Open Game Art](https://opengameart.org)
