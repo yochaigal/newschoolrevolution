@@ -14,7 +14,7 @@ Over the past month I have been "seeding" [Little Free Libraries](https://little
 
 ### But, Why?
 
-First, let me makes something plain: I'm not endorsing the LFL website/nonprofit, I'm simply taking advantage of their existence. FWIW, 90% of the little libraries around my town are _not_ affiliated with the organization. There are folks with [real](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.4099293/toronto-librarian-makes-her-case-against-little-free-libraries-1.4099601) beef about these things, and that's fine.
+First, let me makes something plain: I'm not endorsing the LFL website/nonprofit, I'm simply taking advantage of their existence. FWIW, 90% of the little libraries around my town are _not_ affiliated with the organization. There are folks with [real](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.4099293/toronto-librarian-makes-her-case-against-little-free-libraries-1.4099601) beef about these things, and that's fine. I will suggest that you reach out to the original authors of whatever games/adventures you distribute and make sure they're cool with it.
 
 This was of course, not my idea. I think I first heard about it from [this](https://twitter.com/CavernsOfHeresy/status/1381273447909720067) CavernsOfHeresy tweet, using the **#IRLCommunityCopies** hashtag. Then I saw that [Roz](https://twitter.com/AllThingsTruly/status/1409201450090123267) had done it at least [twice](https://twitter.com/AllThingsTruly/status/1409881430977617930). Encouraged by their efforts, I reached out to CavernsOfHeresy (our games are friends since birth) and a deal was struck: I would send a "stack" of Cairns in exchange for a pile 'o Roguelands.
 
