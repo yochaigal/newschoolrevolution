@@ -29,9 +29,6 @@ I ordered [these](https://www.amazon.com/dp/B01476QV14) dice (20 bags for $30) a
 
 [![Alt text](/img/little-free-libraries/little_free_library3.jpg "click to embiggen"){:height="75%" width="75%"}](/img/little-free-libraries/little_free_library3.jpg)
 
-#### Along with some adventures:  
-[![Alt text](/img/little-free-libraries/little_free_library5.jpg "click to embiggen"){:height="75%" width="75%"}](/img/little-free-libraries/little_free_library5.jpg)
-
 #### I've also been including these "explainers" along with each dice bag:  
 [![Alt text](/img/little-free-libraries/dice_explanations.jpg "click to embiggen"){:height="50%" width="50%"}](/img/little-free-libraries/dice_explanations.jpg)
 
