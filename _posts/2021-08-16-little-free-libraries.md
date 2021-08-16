@@ -3,7 +3,7 @@ layout: post
 title: Little Free Libraries
 date: 2021-08-16
 tags: ['osr', 'rpg', 'community']
-published: false
+published: true
 ---
 
 # Little Free Libraries
@@ -14,7 +14,7 @@ Over the past month I have been "seeding" [Little Free Libraries](https://little
 
 ### But, Why?
 
-This was of course, not my idea. I think I first heard about it from [this](https://twitter.com/CavernsOfHeresy/status/1381273447909720067) CavernsOfHeresy tweet. Then I saw that [Roz](https://twitter.com/AllThingsTruly/status/1409201450090123267) had done it at least [twice](https://twitter.com/AllThingsTruly/status/1409881430977617930). Encouraged by their efforts, I reached out to CavernsOfHeresy (our games are friends since birth) and a deal was struck: I would send a "stack" of Cairns in exchange for a pile 'o Roguelands.
+This was of course, not my idea. I think I first heard about it from [this](https://twitter.com/CavernsOfHeresy/status/1381273447909720067) CavernsOfHeresy tweet, using the **#IRLCommunityCopies** hashtag. Then I saw that [Roz](https://twitter.com/AllThingsTruly/status/1409201450090123267) had done it at least [twice](https://twitter.com/AllThingsTruly/status/1409881430977617930). Encouraged by their efforts, I reached out to CavernsOfHeresy (our games are friends since birth) and a deal was struck: I would send a "stack" of Cairns in exchange for a pile 'o Roguelands.
 
 I then began the hunt. Although there is a semi-functional [website](https://littlefreelibrary.org/ourmap/) that lists local Little Free Libraries in my area, (just _waiting_ for me to pay a visit) I found that it was sorely out of date and difficult to use. Instead, I began to take note of their locations while driving, biking and walking about town. I also asked other locals (fun!) and had a hilarious conversation with Fiona (my NPC-Quest-Giver in this scenario) about their various hidden locations. Finally, I had a list of 14 locations in my town alone (so far)!
 
@@ -31,8 +31,11 @@ I ordered [these](https://www.amazon.com/dp/B01476QV14) dice (20 bags for $30) a
 [![Alt text](/img/little-free-libraries/little_free_library5.jpg "click to embiggen"){:height="75%" width="75%"}](/img/little-free-libraries/little_free_library5.jpg)
 
 #### I've also been including these "explainers" along with each dice bag:  
-[![Alt text](/img/little-free-libraries/dice_explainations.jpg "click to embiggen"){:height="50%" width="50%"}](/img/little-free-libraries/dice_explainations.jpg)
+[![Alt text](/img/little-free-libraries/dice_explanations.jpg "click to embiggen"){:height="50%" width="50%"}](/img/little-free-libraries/dice_explanations.jpg)
 
+### You can do it, too!
 Thus far, I've given away about 14 "deluxe" copies of Cairn, along with 5 generously donated high-quality copies of Rogueland, as well as a couple of Maze Rats, Knave and Tunnel Goons I've printed myself. I plan on donating about 5 a month going forward, and (if possible) will give some to the local library (assuming they let me).
 
 I highly recommend anyone give this sort of thing a shot, it's quite rewarding and interesting. And nothing beats that feeling of sneakily checking to see if someone has picked your game out of all the books! I mean, who wouldn't be drawn to a bag of dice, right?
+
+If you do happen to try this out, please let me know! With pics!
