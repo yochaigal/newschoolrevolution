@@ -10,7 +10,7 @@ published: true
 
 [![Alt text](/img/little-free-libraries/little_free_library4.jpg "click to embiggen"){:height="75%" width="75%"}](/img/little-free-libraries/little_free_library4.jpg)
 
-Over the past month I have been "seeding" [Little Free Libraries](https://littlefreelibrary.org) all over town with RPGs, character sheets, dice and adventures. I've mostly been giving out [Cairn](https://cairnrpg.com) and [Rogueland](https://www.cavernsofheresy.com/product/rogueland). I'm prepping Maze Rats and Knave as well, likely to bundled with one page adventures.  
+Over the past month I have been "seeding" [Little Free Libraries](https://littlefreelibrary.org) all over town with RPGs, character sheets, dice and adventures. I've mostly been giving out [Cairn](https://cairnrpg.com) and [Rogueland](https://www.cavernsofheresy.com/product/rogueland).
 
 ### But, Why?
 
@@ -33,7 +33,7 @@ I ordered [these](https://www.amazon.com/dp/B01476QV14) dice (20 bags for $30) a
 [![Alt text](/img/little-free-libraries/dice_explanations.jpg "click to embiggen"){:height="50%" width="50%"}](/img/little-free-libraries/dice_explanations.jpg)
 
 ### You can do it, too!
-Thus far, I've given away about 14 "deluxe" copies of Cairn, along with 5 generously donated high-quality copies of Rogueland, as well as a couple of Maze Rats, Knave and Tunnel Goons I've printed myself. I plan on donating about 5 a month going forward, and (if possible) will give some to the local library (assuming they let me).
+Thus far, I've given away about 14 "deluxe" copies of Cairn, along with 5 generously donated high-quality copies of Rogueland. I plan on donating about 5 a month going forward, and (if possible) will give some to the local library (assuming they let me). I plan on distributing a bunch of adventures (with permission) in the near future as well.
 
 I highly recommend anyone give this sort of thing a shot, it's quite rewarding and interesting. And nothing beats that feeling of sneakily checking to see if someone has picked your game out of all the books! I mean, who wouldn't be drawn to a bag of dice, right?
 
