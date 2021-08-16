@@ -14,6 +14,8 @@ Over the past month I have been "seeding" [Little Free Libraries](https://little
 
 ### But, Why?
 
+First, let me makes something plain: I'm not endorsing the LFL website/nonprofit, I'm simply taking advantage of their existence. FWIW, 90% of the little libraries around my town are _not_ affiliated with the organization. There are folks with [real](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.4099293/toronto-librarian-makes-her-case-against-little-free-libraries-1.4099601) beef about these things, and that's fine.
+
 This was of course, not my idea. I think I first heard about it from [this](https://twitter.com/CavernsOfHeresy/status/1381273447909720067) CavernsOfHeresy tweet, using the **#IRLCommunityCopies** hashtag. Then I saw that [Roz](https://twitter.com/AllThingsTruly/status/1409201450090123267) had done it at least [twice](https://twitter.com/AllThingsTruly/status/1409881430977617930). Encouraged by their efforts, I reached out to CavernsOfHeresy (our games are friends since birth) and a deal was struck: I would send a "stack" of Cairns in exchange for a pile 'o Roguelands.
 
 I then began the hunt. Although there is a semi-functional [website](https://littlefreelibrary.org/ourmap/) that lists local Little Free Libraries in my area, (just _waiting_ for me to pay a visit) I found that it was sorely out of date and difficult to use. Instead, I began to take note of their locations while driving, biking and walking about town. I also asked other locals (fun!) and had a hilarious conversation with Fiona (my NPC-Quest-Giver in this scenario) about their various hidden locations. Finally, I had a list of 14 locations in my town alone (so far)!
