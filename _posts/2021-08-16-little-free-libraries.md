@@ -23,7 +23,7 @@ I then began the hunt. Although there is a semi-functional [website](https://lit
 #### In process...
 [![Alt text](/img/little-free-libraries/little_free_library1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/little-free-libraries/little_free_library1.jpg)
 
-I ordered [these](https://www.amazon.com/dp/B01476QV14) dice (20 bags for $30) as well as [these](https://www.amazon.com/gp/product/B07XTDF6T8) bags (both the 6 x 9 and 8 x 10) varieties. In the end, I think I spent around $50, though I use the latter for sales of other products so it was no big deal. I printed out some nice character sheets, dropped the game and dice in a bag and:
+I ordered [these](https://www.amazon.com/dp/B01476QV14) dice (20 bags for $30) as well as [these](https://www.amazon.com/gp/product/B07XTDF6T8) bags (both the 6 x 9 and 8 x 10 varieties). In the end, I think I spent around $50, though I use the latter for sales of other products so it was no big deal. I printed out some nice character sheets, dropped the game and dice in a bag and:
 
 #### Ready to deliver!
 [![Alt text](/img/little-free-libraries/little_free_library3.jpg "click to embiggen"){:height="75%" width="75%"}](/img/little-free-libraries/little_free_library3.jpg)
