@@ -6,8 +6,6 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-# My Father's Dragon is OSR
-
 I've recently been reading ["My Father's Dragon"](https://www.amazon.com/gp/product/0486837491) by Ruth Stiles Gannett (with illustrations by her mother-in-law, Ruth Chrisman Gannett).  
 
 The books are _totally_ aligned with OSR Principles as according to the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). First let's start with the map (made into a sweet woodcut by a friend):

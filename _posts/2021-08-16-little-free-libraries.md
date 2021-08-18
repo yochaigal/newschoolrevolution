@@ -6,8 +6,6 @@ tags: ['osr', 'rpg', 'community']
 published: true
 ---
 
-# Little Free Libraries
-
 [![Alt text](/img/little-free-libraries/little_free_library4.jpg "click to embiggen"){:height="75%" width="75%"}](/img/little-free-libraries/little_free_library4.jpg)
 
 Over the past month I have been "seeding" [Little Free Libraries](https://littlefreelibrary.org) all over town with RPGs, character sheets, dice and adventures. I've been giving out both [Cairn](https://cairnrpg.com) and [Rogueland](https://www.cavernsofheresy.com/product/rogueland) (the same versions you'd get from a store).
