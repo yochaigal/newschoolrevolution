@@ -7,6 +7,8 @@ published: true
 ---
 
 # The Demon tree
+_The following is my retelling of a Jewish folktale, told to me via a Jewish lens (though I understand it has manifested in many cultures over the years)._
+
 There was once a tree, and within lived a demon. It stretched itself over the Rab's house, and often the Rab's son would play nearby. One day the boy saw a finger poking out of the tree, and thinking that one of his friends was playing a trick on him, he fished a ring from his pocket and placed it on the finger. Suddenly a face appeared beneath the bark of the tree, a great smile upon it. He ran away from it, screaming.
 
 The boy eventually forgot the event and grew up, himself becoming a Rab as well. He wed a respectable and wealthy woman, then settled into his father's house. One day a branch from the tree slammed into his new bride, killing her instantly. Although the new Rab had not cared deeply for this woman, he still grieved for over a year before again agreeing to wed _another_ woman of means. She too was struck by a branch from the tree and was killed instantly.
