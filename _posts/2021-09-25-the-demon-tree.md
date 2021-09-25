@@ -17,6 +17,6 @@ The demon within tree then revealed itself and replied, "Because we were wed lon
 
 The woman admitted that the demon was right: her husband belonged to the demon, as was law. A deal was then struck: the demon would abstain from harming her, provided that the woman brought it an offering each day of its favorite food: smoke captured in a pot. A deal was struck, and thereafter each morning the woman would return to the tree and find a pot resting there. She would light a piece of wood within it and close the pot. And so it went.
 
-A few years later the wife became pregnant. Knowing that the demon would likely harm her child, or worse claim it as its own, the woman returned once more to treat with the demon. A new deal was struck: in exchange for her family's safety, the demon could have her husband every Saturday for one hour. The demon agreed, and a new deal was struck.
+A few years later the wife became pregnant. Knowing that the demon would likely harm her child, or worse claim it as its own, the woman returned once more to treat with the demon. A new deal was struck: in exchange for her family's safety, the demon could have her husband every Saturday for one hour.
 
 And so it went for seven years. The child was healthy and the family happy. The demon wife even came to the family's aid at times. Finally one Saturday evening when the husband came to the demon's tree he found the pot sitting there before it. Within was a familiar gold ring, and he knew that now the demon was gone.
