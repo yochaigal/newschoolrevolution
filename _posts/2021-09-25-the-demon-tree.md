@@ -7,7 +7,7 @@ published: true
 ---
 
 # The Demon tree
-_The following is my retelling of a Jewish folktale, told to me via a Jewish lens (though I understand it has manifested in many cultures over the years). I have always loved this story, but it has grown and shifted in my mind over the years into something quite different._
+_The following is my retelling of a folktale, told to me via a Jewish lens (though I understand it has manifested in many cultures over the years). I have always loved this story, but it has grown and shifted in my mind over the years into something quite different._
 
 There was once a tree, and within lived a demon. It stretched itself over the Rab's house, and often the Rab's son would play nearby. One day the boy saw a finger poking out of the tree, and thinking that one of his friends was playing a trick on him, he fished a ring from his pocket and placed it on the finger. Suddenly a face appeared beneath the bark of the tree, a great smile upon it. He ran away from it, screaming.
 
