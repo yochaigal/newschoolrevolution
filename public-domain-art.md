@@ -39,6 +39,8 @@ Maybe one day.
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 - [Public Domain Files](http://www.publicdomainfiles.com)
 - [Cleveland Museum of Art Open Access](https://www.clevelandart.org/open-access)
+- [HatI Trust Digital Library](https://catalog.hathitrust.org/)
+- [Library of Congress](https://www.loc.gov/books/)
 
 
 ## Miscellaneous Links
