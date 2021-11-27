@@ -67,6 +67,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [The Chaotic Caves](https://www.lulu.com/en/us/shop/jd-neal/the-chaotic-caves-saddle-stitch/paperback/product-1j9vv56d.html)
 - [The Castle that Fell from the Sky](https://www.lulu.com/en/us/shop/jimm-johnson-and-steve-robertson/the-castle-that-fell-from-the-sky/paperback/product-1wr8567n.html)
 - [The Forest of the Treelords](https://www.lulu.com/en/us/shop/scott-malthouse/the-forest-of-the-treelords/ebook/product-1nq8vrpk.html)
+- [Demonspore](https://www.lulu.com/en/us/shop/matthew-finch/demonspore/paperback/product-1vk6nydd.html?page=1&pageSize=4)
 
 ## Game Tools
 - [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
@@ -78,13 +79,19 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [A Guide to Thieves' Guilds](https://www.lulu.com/en/us/shop/todd-leback/a-guide-to-thieves-guilds/paperback/product-n54n8r.html?page=1&pageSize=4)
 - [Deadly Dungeons](https://www.lulu.com/en/us/shop/nick-ls-whelan/deadly-dungeons/paperback/product-1jqvr8yp.html)
 - [The Metamorphica Revised](https://www.lulu.com/en/us/shop/johnstone-metzger/the-metamorphica-revised/hardcover/product-1wem9vdd.html)
+- [Filling in the Blanks](https://www.lulu.com/en/us/shop/todd-leback/filling-in-the-blanks/paperback/product-j8r6w8.html?page=1&pageSize=4)
 - [Story Games Names Project](https://www.lulu.com/en/us/shop/jason-morningstar/story-games-name-project/paperback/product-1qz67dg.html)
 - [Play Unsafe](https://www.lulu.com/en/us/shop/graham-walmsley/play-unsafe/ebook/product-1wzm6pkp.html)
 
 
-### Zines & Settings
+### RPG Periodicals/Zines
 - [Nod](https://www.lulu.com/search?adult_audience_rating=00&contributor=John+Stater&page=1&pageSize=100&project_type=PRINTED_BOOK&q=NOD&sortBy=PUBLICATION_DATE_ASC)
+- [Gongfarmer's Almanac](https://www.lulu.com/search?adult_audience_rating=00&contributor=The+Gongfarmer%27s+Almanac+Community&page=1&pageSize=10)
+- [Knockspell Magazine](https://www.lulu.com/search?adult_audience_rating=00&contributor=Matthew%20Finch&page=1&pageSize=10&q=Knockspell)
+- [Fight On!](https://www.lulu.com/search?adult_audience_rating=00&contributor=Ignatius%20Umlaut&page=1&pageSize=10&q=fight%20on)
 - Planarch Codex: [Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html) & [Dark Heart](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-dark-heart/paperback/product-1ynm4jve.html)
+
+### Settings
 - [Planet Eris Gazeteer](https://www.lulu.com/en/us/shop/jimm-johnson/planet-eris-gazetteer/paperback/product-1vgrdwzj.html)
 - [Eilean Dubh: The Black Isle Gazetteer](https://www.lulu.com/en/us/shop/luka-rejec-and-chris-wellings-and-benjamin-wenham-and-alex-welk/eilean-dubh-the-black-isle-gazetteer/paperback/product-1g2kjeg4.html)
 - [Into The Wild](https://www.lulu.com/en/us/shop/todd-leback/into-the-wild/paperback/product-w8mw95.html?page=1&pageSize=4)
