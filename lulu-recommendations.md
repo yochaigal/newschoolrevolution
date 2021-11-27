@@ -39,7 +39,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Pocket-Sized Fantasy](https://www.lulu.com/en/us/shop/richard-sembera/pocket-size-fantasy/paperback/product-1jwd6p4e.html)
 - [Yokai Hunter's Society](https://www.lulu.com/en/us/shop/chema-gonz%C3%A1lez/yokai-hunters-society/paperback/product-yr799y.html)
 
-## Adventures
+## Adventures & Settings
 - [Fire on the Velvet Horizon](https://www.lulu.com/en/us/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-1g24vgqj.html)
 - [Anomalous Subsurface Environment](https://www.lulu.com/en/us/shop/patrick-wetmore/ase1-anomalous-subsurface-environment-paperback/paperback/product-159nvjkz.html) (also [2/3](https://www.lulu.com/en/us/shop/patrick-wetmore/ase2-3-anomalous-subsurface-environment-paperback/paperback/product-15gvkgm2.html))
 - [The Blackapple Brugh](https://www.lulu.com/en/us/shop/kyle-hettinger-and-vasily-ermolaev/the-blackapple-brugh/paperback/product-v7qm8y.html)
@@ -64,6 +64,14 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [The Forest of the Treelords](https://www.lulu.com/en/us/shop/scott-malthouse/the-forest-of-the-treelords/ebook/product-1nq8vrpk.html)
 - [Demonspore](https://www.lulu.com/en/us/shop/matthew-finch/demonspore/paperback/product-1vk6nydd.html)
 - [Ruins of the Undercity](https://www.lulu.com/en/us/shop/kabuki-kaiser/ruins-of-the-undercity/paperback/product-1e84vw2r.html)
+- [Planet Eris Gazeteer](https://www.lulu.com/en/us/shop/jimm-johnson/planet-eris-gazetteer/paperback/product-1vgrdwzj.html)
+- [Eilean Dubh: The Black Isle Gazetteer](https://www.lulu.com/en/us/shop/luka-rejec-and-chris-wellings-and-benjamin-wenham-and-alex-welk/eilean-dubh-the-black-isle-gazetteer/paperback/product-1g2kjeg4.html)
+- [Into The Wild](https://www.lulu.com/en/us/shop/todd-leback/into-the-wild/paperback/product-w8mw95.html?page=1&pageSize=4)
+- [Basilisk Hills Ultimate Hexcrawl](https://www.lulu.com/en/us/shop/todd-leback/basilisk-hills-ultimate-hexcrawl/hardcover/product-6e2jrj.html?page=1&pageSize=4)
+- [The Blasphemous Roster Guilds of Infinigrad and their Machinations](https://www.lulu.com/en/us/shop/michael-raston/the-blasphemous-roster-guilds-of-infinigrad-and-their-machinations/paperback/product-17enz57e.html)
+- [Towers of Krshal](https://www.lulu.com/en/us/shop/albert-rakowski/towers-of-krshal/paperback/product-15ggzdyr.html)
+
+
 
 ## Game Tools
 - [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
@@ -87,11 +95,3 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Knockspell Magazine](https://www.lulu.com/search?adult_audience_rating=00&contributor=Matthew%20Finch&page=1&pageSize=10&q=Knockspell)
 - [Fight On!](https://www.lulu.com/search?adult_audience_rating=00&contributor=Ignatius%20Umlaut&page=1&pageSize=10&q=fight%20on)
 - Planarch Codex: [Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html) & [Dark Heart](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-dark-heart/paperback/product-1ynm4jve.html)
-
-### Settings
-- [Planet Eris Gazeteer](https://www.lulu.com/en/us/shop/jimm-johnson/planet-eris-gazetteer/paperback/product-1vgrdwzj.html)
-- [Eilean Dubh: The Black Isle Gazetteer](https://www.lulu.com/en/us/shop/luka-rejec-and-chris-wellings-and-benjamin-wenham-and-alex-welk/eilean-dubh-the-black-isle-gazetteer/paperback/product-1g2kjeg4.html)
-- [Into The Wild](https://www.lulu.com/en/us/shop/todd-leback/into-the-wild/paperback/product-w8mw95.html?page=1&pageSize=4)
-- [Basilisk Hills Ultimate Hexcrawl](https://www.lulu.com/en/us/shop/todd-leback/basilisk-hills-ultimate-hexcrawl/hardcover/product-6e2jrj.html?page=1&pageSize=4)
-- [The Blasphemous Roster Guilds of Infinigrad and their Machinations](https://www.lulu.com/en/us/shop/michael-raston/the-blasphemous-roster-guilds-of-infinigrad-and-their-machinations/paperback/product-17enz57e.html)
-- [Towers of Krshal](https://www.lulu.com/en/us/shop/albert-rakowski/towers-of-krshal/paperback/product-15ggzdyr.html)
