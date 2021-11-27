@@ -38,6 +38,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [The Deep Dark](https://www.lulu.com/en/us/shop/s-john-bateman/the-deep-dark/paperback/product-1dz7k5wg.html)
 - [Pocket-Sized Fantasy](https://www.lulu.com/en/us/shop/richard-sembera/pocket-size-fantasy/paperback/product-1jwd6p4e.html)
 - [Yokai Hunter's Society](https://www.lulu.com/en/us/shop/chema-gonz%C3%A1lez/yokai-hunters-society/paperback/product-yr799y.html)
+- Star Dogs [Referee's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-referees-handbook/paperback/product-1vgq94ve.html), [Player's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-players-handbook/paperback/product-1vgj6p8g.html)
 
 ## Adventures & Settings
 - [Fire on the Velvet Horizon](https://www.lulu.com/en/us/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-1g24vgqj.html)
