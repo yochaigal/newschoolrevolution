@@ -64,6 +64,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [The Chaotic Caves](https://www.lulu.com/en/us/shop/jd-neal/the-chaotic-caves-saddle-stitch/paperback/product-1j9vv56d.html)
 - [The Castle that Fell from the Sky](https://www.lulu.com/en/us/shop/jimm-johnson-and-steve-robertson/the-castle-that-fell-from-the-sky/paperback/product-1wr8567n.html)
 - [The Forest of the Treelords](https://www.lulu.com/en/us/shop/scott-malthouse/the-forest-of-the-treelords/ebook/product-1nq8vrpk.html)
+- [Descent Into The Caves of the Unknown](https://www.lulu.com/en/us/shop/rc-pinnell/descent-into-the-caves-of-the-unknown/ebook/product-23582600.html?page=1&pageSize=4)
 - [Demonspore](https://www.lulu.com/en/us/shop/matthew-finch/demonspore/paperback/product-1vk6nydd.html)
 - [Ruins of the Undercity](https://www.lulu.com/en/us/shop/kabuki-kaiser/ruins-of-the-undercity/paperback/product-1e84vw2r.html)
 - [Planet Eris Gazeteer](https://www.lulu.com/en/us/shop/jimm-johnson/planet-eris-gazetteer/paperback/product-1vgrdwzj.html)
