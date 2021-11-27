@@ -19,6 +19,11 @@ A list of great public domain art sources, with a link to public domain art fold
 #### [Lulu Book Recommendations](/lulu-recommendations)
 A list of great print-on-demand books from Lulu.
 
+### RSS Feeds
+- [My Inoreader Profile](https://www.inoreader.com/u/yochaigal)
+- [My RPG Folder RSS](https://www.inoreader.com/stream/user/1006254761/tag/RPGs) & [JSON](https://www.inoreader.com/stream/user/1006254761/tag/RPGs/view/json)
+- [My RPG Bundle](https://www.inoreader.com/bundle/0014cd63d612) ([OPML](https://www.inoreader.com/reader/api/0/bundle/opml/0014cd63d612))
+
 ## OSR
 #### [Cairn](https://cairnrpg.com)
 A mash-up of Knave and Into the Odd-style games for play in fantastical forests. Designed in such a way to plug-and-play B/X materials (as much as I liked, anyway) while relying on a simpler mechanical system without difficulty in conversion.
