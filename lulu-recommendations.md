@@ -70,8 +70,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Basilisk Hills Ultimate Hexcrawl](https://www.lulu.com/en/us/shop/todd-leback/basilisk-hills-ultimate-hexcrawl/hardcover/product-6e2jrj.html?page=1&pageSize=4)
 - [The Blasphemous Roster Guilds of Infinigrad and their Machinations](https://www.lulu.com/en/us/shop/michael-raston/the-blasphemous-roster-guilds-of-infinigrad-and-their-machinations/paperback/product-17enz57e.html)
 - [Towers of Krshal](https://www.lulu.com/en/us/shop/albert-rakowski/towers-of-krshal/paperback/product-15ggzdyr.html)
-
-
+- Planarch Codex: [Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html) & [Dark Heart](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-dark-heart/paperback/product-1ynm4jve.html)
 
 ## Game Tools
 - [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
@@ -88,10 +87,8 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Story Games Names Project](https://www.lulu.com/en/us/shop/jason-morningstar/story-games-name-project/paperback/product-1qz67dg.html)
 - [Play Unsafe](https://www.lulu.com/en/us/shop/graham-walmsley/play-unsafe/ebook/product-1wzm6pkp.html)
 
-
 ### RPG Periodicals/Zines
 - [Nod](https://www.lulu.com/search?adult_audience_rating=00&contributor=John+Stater&page=1&pageSize=100&project_type=PRINTED_BOOK&q=NOD&sortBy=PUBLICATION_DATE_ASC)
 - [Gongfarmer's Almanac](https://www.lulu.com/search?adult_audience_rating=00&contributor=The+Gongfarmer%27s+Almanac+Community&page=1&pageSize=10)
 - [Knockspell Magazine](https://www.lulu.com/search?adult_audience_rating=00&contributor=Matthew%20Finch&page=1&pageSize=10&q=Knockspell)
 - [Fight On!](https://www.lulu.com/search?adult_audience_rating=00&contributor=Ignatius%20Umlaut&page=1&pageSize=10&q=fight%20on)
-- Planarch Codex: [Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html) & [Dark Heart](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-dark-heart/paperback/product-1ynm4jve.html)
