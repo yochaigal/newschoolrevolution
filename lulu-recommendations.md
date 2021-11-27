@@ -42,6 +42,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Pocket-Sized Fantasy](https://www.lulu.com/en/us/shop/richard-sembera/pocket-size-fantasy/paperback/product-1jwd6p4e.html)
 - [Yokai Hunter's Society](https://www.lulu.com/en/us/shop/chema-gonz%C3%A1lez/yokai-hunters-society/paperback/product-yr799y.html)
 - Star Dogs [Referee's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-referees-handbook/paperback/product-1vgq94ve.html), [Player's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-players-handbook/paperback/product-1vgj6p8g.html)
+- [Adventures in the Hundred Kingdoms](https://www.lulu.com/en/us/shop/s-john-bateman/adventures-in-the-hundred-kingdoms/paperback/product-1jwndy75.html?page=1&pageSize=4)
 
 ## Adventures & Settings
 - [Fire on the Velvet Horizon](https://www.lulu.com/en/us/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-1g24vgqj.html)
@@ -106,3 +107,4 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Knockspell Magazine](https://www.lulu.com/search?adult_audience_rating=00&contributor=Matthew%20Finch&page=1&pageSize=10&q=Knockspell)
 - [Fight On!](https://www.lulu.com/search?adult_audience_rating=00&contributor=Ignatius%20Umlaut&page=1&pageSize=10&q=fight%20on)
 - [The Quaranzine](https://www.lulu.com/en/us/shop/will-mitchell-and-robin-fj%C3%A4rem-and-raphael-falk-and-mark-d-slabinski/the-quaranzine/paperback/product-5n5g66.html)
+- [Oubliette](https://www.lulu.com/search?adult_audience_rating=00&contributor=Peter%20Regan&page=1&pageSize=10&q=Oubliette)
