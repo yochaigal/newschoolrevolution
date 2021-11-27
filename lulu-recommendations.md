@@ -22,12 +22,14 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Bloody Basic](https://www.lulu.com/en/us/shop/john-stater/bloody-basic-contemporary-edition/paperback/product-18r4kpqq.html)
 - [Blood & Treasure](https://www.lulu.com/en/us/shop/john-stater/blood-treasure-second-edition-rulebook/hardcover/product-1km2ed4d.html)
 - [Barbarians of Lemuria](https://www.lulu.com/en/us/shop/simon-washbourne/barbarians-of-lemuria-legendary-edition/paperback/product-19z6p8ep.html)
+- [Vieja Escuela](https://www.lulu.com/en/us/shop/javier-garc%C3%ADa/vieja-escuela-the-role-playing-game/paperback/product-19e4gznp.html)
 - [Dark Places & Demogorgons](https://www.lulu.com/en/us/shop/josh-palmer-and-eric-bloat/dark-places-and-demogorgons-soft-cover/paperback/product-1rv86v5j.html)
 - [Rad-Hack](https://www.lulu.com/en/us/shop/karl-stjernberg/rad-hack/paperback/product-1er2y5pw.html)
 - [Low Fantasy Gaming](https://www.lulu.com/en/us/shop/stephen-j-grodzicki/low-fantasy-gaming/hardcover/product-1erzpwvw.html)
 - [Stay Frosty](https://www.lulu.com/en/us/shop/casey-garske/stay-frosty/paperback/product-16y56dne.html)
 - [The Nightmares Underneath](https://www.lulu.com/en/us/shop/johnstone-metzger/the-nightmares-underneath/hardcover/product-ejejy6.html)
 - [Warrior, Rogue, Mage](https://www.lulu.com/en/us/shop/michael-wolf/warrior-rogue-mage/paperback/product-1dnzr77j.html)
+- [Relics & Ruins](https://www.lulu.com/en/us/shop/jon-aspeheim/relics-ruins/paperback/product-12q7k66g.html)
 - [3d6 In Order](https://www.lulu.com/en/us/shop/richard-tongue/3d6-in-order/paperback/product-1rgnz488.html)
 - [Romance of the Perilous Land](https://www.lulu.com/en/us/shop/scott-malthouse/romance-of-the-perilous-land/paperback/product-1erg5vjm.html)
 - [Ordure Fantasy](https://www.lulu.com/en/us/shop/michael-raston/ordure-fantasy-d6-rpg/paperback/product-2dw589.html)
@@ -42,7 +44,9 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Pocket-Sized Fantasy](https://www.lulu.com/en/us/shop/richard-sembera/pocket-size-fantasy/paperback/product-1jwd6p4e.html)
 - [Yokai Hunter's Society](https://www.lulu.com/en/us/shop/chema-gonz%C3%A1lez/yokai-hunters-society/paperback/product-yr799y.html)
 - Star Dogs [Referee's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-referees-handbook/paperback/product-1vgq94ve.html), [Player's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-players-handbook/paperback/product-1vgj6p8g.html)
-- [Adventures in the Hundred Kingdoms](https://www.lulu.com/en/us/shop/s-john-bateman/adventures-in-the-hundred-kingdoms/paperback/product-1jwndy75.html?page=1&pageSize=4)
+- [Adventures in the Hundred Kingdoms](https://www.lulu.com/en/us/shop/s-john-bateman/adventures-in-the-hundred-kingdoms/paperback/product-1jwndy75.html)
+- [Untold Adventures](https://www.lulu.com/en/us/shop/james-spahn/untold-adventures-minimalist-fantasy-roleplaying/paperback/product-23703714.html)
+- [Kuf](https://www.lulu.com/en/us/shop/wilhelm-person/kuf-english/paperback/product-176qk27r.html)
 
 ## Adventures & Settings
 - [Fire on the Velvet Horizon](https://www.lulu.com/en/us/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-1g24vgqj.html)
@@ -58,6 +62,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Morgansfort: The Western Lands Campaign](https://www.lulu.com/en/us/shop/chris-gonnerman/morgansfort-the-western-lands-campaign-perfect-bound/paperback/product-16q5524k.html)
 - [Adventure Anthology 1](https://www.lulu.com/en/us/shop/chris-gonnerman/adventure-anthology-1-perfect-bound/paperback/product-1k925r9e.html) & [2](https://www.lulu.com/en/us/shop/chris-gonnerman-and-james-lemon/adventure-anthology-2-perfect-bound/paperback/product-196zem6p.html)
 - [Crypt of the Lilac High Priest](https://www.lulu.com/en/us/shop/geoffrey-mckinney/crypt-of-the-lilac-high-priest/paperback/product-14qmgvm8.html)
+- [A Blaze in the Northern Sky](https://www.lulu.com/en/us/shop/scott-myers/a-blaze-in-the-northern-sky/paperback/product-q88zzj.html)
 - [Monkey Isle ](https://www.lulu.com/en/us/shop/j-d-neal/monkey-isle-perfect-bound/paperback/product-1zk72rpy.html)
 - [Old School Adventures Module TM1: The Ogress of Anubis](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-module-tm1-the-ogress-of-anubis/paperback/product-1629ekpr.html)
 - [Advanced Adventures Compendium 1](https://www.lulu.com/en/us/shop/suzi-yee-and-joseph-browning-and-andrew-hind-and-alphonso-warden/advanced-adventures-compendium-1/hardcover/product-16qmkykj.html)
@@ -80,6 +85,8 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Towers of Krshal](https://www.lulu.com/en/us/shop/albert-rakowski/towers-of-krshal/paperback/product-15ggzdyr.html)
 - Planarch Codex: [Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html) & [Dark Heart](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-dark-heart/paperback/product-1ynm4jve.html)
 - [Hubris: A World of Visceral Adventure](https://www.lulu.com/en/us/shop/mike-evans/hubris-a-world-of-visceral-adventure/paperback/product-15er2mg7.html)
+- [Starter Adventures](https://www.lulu.com/en/us/shop/tim-shorts/starter-adventures/paperback/product-1k9pey62.html)
+- [The Nameless City](https://www.lulu.com/en/us/shop/alphonso-warden/the-nameless-city-whitebox-rules-softcover/paperback/product-19qwnk6r.html)
 
 ## Game Tools
 - [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
@@ -108,3 +115,5 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Fight On!](https://www.lulu.com/search?adult_audience_rating=00&contributor=Ignatius%20Umlaut&page=1&pageSize=10&q=fight%20on)
 - [The Quaranzine](https://www.lulu.com/en/us/shop/will-mitchell-and-robin-fj%C3%A4rem-and-raphael-falk-and-mark-d-slabinski/the-quaranzine/paperback/product-5n5g66.html)
 - [Oubliette](https://www.lulu.com/search?adult_audience_rating=00&contributor=Peter%20Regan&page=1&pageSize=10&q=Oubliette)
+- [The Manor](https://www.lulu.com/search?adult_audience_rating=00&contributor=Tim%20Shorts&page=1&pageSize=10&q=the%20manor)
+- [The Pit Zine](https://www.lulu.com/en/us/shop/osr-pit-forum-members/pit-zine-issue-1-winter-2020/paperback/product-g9r62k.html)
