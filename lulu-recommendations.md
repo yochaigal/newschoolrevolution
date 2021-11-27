@@ -47,6 +47,8 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Adventures in the Hundred Kingdoms](https://www.lulu.com/en/us/shop/s-john-bateman/adventures-in-the-hundred-kingdoms/paperback/product-1jwndy75.html)
 - [Untold Adventures](https://www.lulu.com/en/us/shop/james-spahn/untold-adventures-minimalist-fantasy-roleplaying/paperback/product-23703714.html)
 - [Kuf](https://www.lulu.com/en/us/shop/wilhelm-person/kuf-english/paperback/product-176qk27r.html)
+- [Veil 2020](https://www.lulu.com/en/us/shop/fraser-simons/veil-2020/paperback/product-rjg6q9.html)
+- [Retropunk](https://www.lulu.com/en/us/shop/fraser-simons/retropunk/paperback/product-wkrj5e.html)
 
 ## Adventures & Settings
 - [Fire on the Velvet Horizon](https://www.lulu.com/en/us/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-1g24vgqj.html)
