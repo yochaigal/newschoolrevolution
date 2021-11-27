@@ -11,12 +11,12 @@ published: true
 Lulu is a terrific self-publishing website that makes it easy to create print to order books. The following is an ever-growing list of recommendations.  
 
 ## Systems
-- Whitehack: ([Hardcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html), [Softcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-softcover/paperback/product-gpw2pg.html), [Notebook](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-notebook/hardcover/product-k6pvkj.html), [Landscape](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-landscape-notebook/hardcover/product-q8zmy5.html)).
 - [Labyrinth Lord](https://www.lulu.com/en/us/shop/daniel-proctor/labyrinth-lord-revised-edition-hard-cover/hardcover/product-1yvpzyzj.html)
-- Basic Fantasy: ([Project Page](https://www.lulu.com/spotlight/basicfantasy/))
+- [Basic Fantasy Project](https://www.lulu.com/spotlight/basicfantasy/))
 - [White Box](https://www.lulu.com/en/us/shop/charlie-mason/white-box-fantastic-medieval-adventure-game/paperback/product-1g2jrv7v.html)
 - [Swords & Wizardy](https://www.lulu.com/en/us/shop/matthew-finch/swords-wizardry-core-rules-hardcover/hardcover/product-184d7zp9.html)
 - [Bluehack](https://www.lulu.com/en/us/shop/michael-thomas/bluehack/paperback/product-15v58ed2.html)
+- Whitehack: ([Hardcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html), [Softcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-softcover/paperback/product-gpw2pg.html)
 - [Solar Blades & Cosmic Spells](https://www.lulu.com/en/us/shop/diogo-nogueira/solar-blades-cosmic-spells/hardcover/product-r4dnv4.html)
 - [Dark Streets & Darker Secrets](https://www.lulu.com/en/us/shop/diogo-nogueira/dark-streets-darker-secrets/hardcover/product-q4z7j9.html)
 - [Bloody Basic](https://www.lulu.com/en/us/shop/john-stater/bloody-basic-contemporary-edition/paperback/product-18r4kpqq.html)
@@ -76,7 +76,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Deadly Dungeons](https://www.lulu.com/en/us/shop/nick-ls-whelan/deadly-dungeons/paperback/product-1jqvr8yp.html)
 - [The Metamorphica Revised](https://www.lulu.com/en/us/shop/johnstone-metzger/the-metamorphica-revised/hardcover/product-1wem9vdd.html)
 - [Filling in the Blanks](https://www.lulu.com/en/us/shop/todd-leback/filling-in-the-blanks/paperback/product-j8r6w8.html?page=1&pageSize=4)
-- Dyson's Delves [1]](https://www.lulu.com/en/us/shop/dyson-logos/dysons-delves-i-revised/paperback/product-18kg9d48.html) & [2](https://www.lulu.com/en/us/shop/dyson-logos/dysons-delves-ii-revised/paperback/product-1yn48rg6.html)
+- Dyson's Delves [1](https://www.lulu.com/en/us/shop/dyson-logos/dysons-delves-i-revised/paperback/product-18kg9d48.html) & [2](https://www.lulu.com/en/us/shop/dyson-logos/dysons-delves-ii-revised/paperback/product-1yn48rg6.html)
 - [Story Games Names Project](https://www.lulu.com/en/us/shop/jason-morningstar/story-games-name-project/paperback/product-1qz67dg.html)
 - [Play Unsafe](https://www.lulu.com/en/us/shop/graham-walmsley/play-unsafe/ebook/product-1wzm6pkp.html)
 
