@@ -54,7 +54,7 @@ A game about a generation ship, and the factions (and subsequent generations) li
 
 ## Misc
 
-#### [Collaborative Worldbuilding](/_posts/build-your-world)
+#### [Collaborative Worldbuilding](/2020/02/19/build-your-world)
 A guide on collaborative worldbuilding and character generation.
 
 #### [Public Domain Art Sources](/public-domain-art)
