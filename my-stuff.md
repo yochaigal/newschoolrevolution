@@ -10,7 +10,7 @@ Here is some free stuff that I've made over the years. I'm a big fan of [CC BY-S
 <br>
 
 ## OSR
-#### [Cairn](https://yochaigal.github.io/cairn/)
+#### [Cairn](https://cairnrpg.com)
 A mash-up of Knave and Into the Odd-style games for play in fantastical forests. Designed in such a way to plug-and-play B/X materials (as much as I liked, anyway) while relying on a simpler mechanical system without difficulty in conversion.
 
 #### [The Clay Shelf](https://yochaigal.itch.io/the-clay-shelf)
@@ -54,10 +54,11 @@ A game about a generation ship, and the factions (and subsequent generations) li
 
 ## Misc
 
-#### [Collaborative Worldbuilding](https://newschoolrevolution.com/2020/02/19/build-your-world)
+#### [Collaborative Worldbuilding](/_posts/build-your-world)
 A guide on collaborative worldbuilding and character generation.
 
 #### [Public Domain Art Sources](/public-domain-art)
 A list of great public domain art sources, with a link to public domain art folder.
 
 #### [Lulu Book Recommendations](/lulu-recommendations)
+A list of great print-on-demand books from Lulu.
