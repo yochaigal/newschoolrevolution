@@ -9,6 +9,16 @@ published: true
 Here is some free stuff that I've made over the years. I'm a big fan of [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 <br>
 
+## Posts
+#### [Collaborative Worldbuilding](/2020/02/19/build-your-world)
+A guide on collaborative worldbuilding and character generation.
+
+#### [Public Domain Art Sources](/public-domain-art)
+A list of great public domain art sources, with a link to public domain art folder.
+
+#### [Lulu Book Recommendations](/lulu-recommendations)
+A list of great print-on-demand books from Lulu.
+
 ## OSR
 #### [Cairn](https://cairnrpg.com)
 A mash-up of Knave and Into the Odd-style games for play in fantastical forests. Designed in such a way to plug-and-play B/X materials (as much as I liked, anyway) while relying on a simpler mechanical system without difficulty in conversion.
@@ -51,14 +61,3 @@ An alternative spellcasting playbook to the Wizard, that doesn't require spell m
 #### [Generations](https://drive.google.com/file/d/1DAGO4M8aryGzXVdCHYomsnTkJrF9YJBp/view?usp=sharing) | [Pocketmod](https://drive.google.com/open?id=1TY9jatNzgzH8DYH1rgeSRPzLjAueRo6w)
 A game about a generation ship, and the factions (and subsequent generations) living within.
 <br>
-
-## Misc
-
-#### [Collaborative Worldbuilding](/2020/02/19/build-your-world)
-A guide on collaborative worldbuilding and character generation.
-
-#### [Public Domain Art Sources](/public-domain-art)
-A list of great public domain art sources, with a link to public domain art folder.
-
-#### [Lulu Book Recommendations](/lulu-recommendations)
-A list of great print-on-demand books from Lulu.
