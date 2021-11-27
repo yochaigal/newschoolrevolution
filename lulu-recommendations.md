@@ -16,7 +16,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [White Box](https://www.lulu.com/en/us/shop/charlie-mason/white-box-fantastic-medieval-adventure-game/paperback/product-1g2jrv7v.html)
 - [Swords & Wizardy](https://www.lulu.com/en/us/shop/matthew-finch/swords-wizardry-core-rules-hardcover/hardcover/product-184d7zp9.html)
 - [Bluehack](https://www.lulu.com/en/us/shop/michael-thomas/bluehack/paperback/product-15v58ed2.html)
-- Whitehack: ([Hardcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html), [Softcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-softcover/paperback/product-gpw2pg.html)
+- Whitehack ([Hardcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html), [Softcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-softcover/paperback/product-gpw2pg.html)
 - [Solar Blades & Cosmic Spells](https://www.lulu.com/en/us/shop/diogo-nogueira/solar-blades-cosmic-spells/hardcover/product-r4dnv4.html)
 - [Dark Streets & Darker Secrets](https://www.lulu.com/en/us/shop/diogo-nogueira/dark-streets-darker-secrets/hardcover/product-q4z7j9.html)
 - [Bloody Basic](https://www.lulu.com/en/us/shop/john-stater/bloody-basic-contemporary-edition/paperback/product-18r4kpqq.html)
