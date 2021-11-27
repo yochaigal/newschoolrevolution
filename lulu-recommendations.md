@@ -43,33 +43,32 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 
 
 ## Adventures
-- Fire on the Velvet Horizon
-- Anomalous Subsurface Environment (1, 2/3)
-- The Blackapple Brugh
-- The Knight Wolf Inn
-- Times That Fry Men's Souls
-- Spores of the Sad Shroom
-- The Vanilla Adventure
-- The Greydeep Marches
-- Stonehell
-- The Hyqueous Vaults
-- Adventure Anthology 1 (perfect bound)
-- Adventure Anthology 2 (Perfect Bound)
-- Crypt of the Lilac High Priest
-- Monkey Isle (perfect bound)
-- Old School Adventures Module TM1: The Ogress of Anubis
-- Advanced Adventures Compendium 1
-- The Wilderness Alphabet
-- The Ruined Hamlet/ Terror in the Gloaming
-- Tomb of the Sea Kings
-- Desolation of the Black Terror
-- HS2 The Forsaken Burial Vaults
-- The Chaotic Caves
-- The Castle that Fell from the Sky
+- [Fire on the Velvet Horizon](https://www.lulu.com/en/us/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-1g24vgqj.html)
+- [Anomalous Subsurface Environment](https://www.lulu.com/en/us/shop/patrick-wetmore/ase1-anomalous-subsurface-environment-paperback/paperback/product-159nvjkz.html) (also [2/3](https://www.lulu.com/en/us/shop/patrick-wetmore/ase2-3-anomalous-subsurface-environment-paperback/paperback/product-15gvkgm2.html))
+- [The Blackapple Brugh](https://www.lulu.com/en/us/shop/kyle-hettinger-and-vasily-ermolaev/the-blackapple-brugh/paperback/product-v7qm8y.html)
+- [The Knight Wolf Inn](https://www.lulu.com/en/us/shop/anthony-huso/the-night-wolf-inn/paperback/product-1jz4r2k8.html)
+- [Times That Fry Men's Souls](https://www.lulu.com/en/us/shop/seann-mcanally/times-that-fry-mens-souls/paperback/product-1kww2r25.html)
+- [Spores of the Sad Shroom](https://www.lulu.com/en/us/shop/karl-stjernberg/spores-of-the-sad-shroom/paperback/product-1vjwkdv4.html)
+- [The Vanilla Adventure](https://www.lulu.com/en/us/shop/wind-lothamer/the-vanilla-adventure/paperback/product-16y4m448.html)
+- [The Greydeep Marches](https://www.lulu.com/en/us/shop/peter-schweighofer/the-greydeep-marches/paperback/product-189med8m.html)
+- [Stonehell: Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
+- [The Hyqueous Vaults](https://www.lulu.com/en/us/shop/alex-zisch-and-matthew-riedel-and-jimm-johnson-and-allan-grohe/the-hyqueous-vaults/paperback/product-1z9zn5mg.html)
+- [Adventure Anthology 1](https://www.lulu.com/en/us/shop/chris-gonnerman/adventure-anthology-1-perfect-bound/paperback/product-1k925r9e.html) & [2](https://www.lulu.com/en/us/shop/chris-gonnerman-and-james-lemon/adventure-anthology-2-perfect-bound/paperback/product-196zem6p.html)
+- [Crypt of the Lilac High Priest](https://www.lulu.com/en/us/shop/geoffrey-mckinney/crypt-of-the-lilac-high-priest/paperback/product-14qmgvm8.html)
+- [Monkey Isle ](https://www.lulu.com/en/us/shop/j-d-neal/monkey-isle-perfect-bound/paperback/product-1zk72rpy.html)
+- [Old School Adventures Module TM1: The Ogress of Anubis](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-module-tm1-the-ogress-of-anubis/paperback/product-1629ekpr.html)
+- [Advanced Adventures Compendium 1](https://www.lulu.com/en/us/shop/suzi-yee-and-joseph-browning-and-andrew-hind-and-alphonso-warden/advanced-adventures-compendium-1/hardcover/product-16qmkykj.html)
+- [The Ruined Hamlet / Terror in the Gloaming](https://www.lulu.com/en/us/shop/barrataria-games/the-ruined-hamlet-terror-in-the-gloaming/paperback/product-1qep2eq.html)
+- [Tomb of the Sea Kings](https://www.lulu.com/en/us/shop/lawson-bennett-and-jimm-johnson/tomb-of-the-sea-kings/ebook/product-14mep7pn.html)
+- [Desolation of the Black Terror](https://www.lulu.com/en/us/shop/geoffrey-mckinney/desolation-of-the-black-terror/paperback/product-15v7mrww.html)
+- [HS2 The Forsaken Burial Vaults](https://www.lulu.com/en/us/shop/jeremy-reaban/hs2-the-forsaken-burial-vaults/paperback/product-1kmvm7wq.html)
+- [The Chaotic Caves](https://www.lulu.com/en/us/shop/jd-neal/the-chaotic-caves-saddle-stitch/paperback/product-1j9vv56d.html)
+- [The Castle that Fell from the Sky](https://www.lulu.com/en/us/shop/jimm-johnson-and-steve-robertson/the-castle-that-fell-from-the-sky/paperback/product-1wr8567n.html)
 - [The Forest of the Treelords](https://www.lulu.com/en/us/shop/scott-malthouse/the-forest-of-the-treelords/ebook/product-1nq8vrpk.html)
 
 ## Game Tools
-- Old School Adventures Accessory CC1: Creature Compendium
+- [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
+- [The Wilderness Alphabet](https://www.lulu.com/en/us/shop/james-pacek/the-wilderness-alphabet/paperback/product-48v8gm.html)
 - Beasties
 - Kefitzat Haderech
 - The Dungeon Dozen
