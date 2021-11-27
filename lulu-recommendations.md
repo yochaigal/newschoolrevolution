@@ -3,7 +3,7 @@ layout: post
 title: Lulu Recommendations
 date: 2021-11-21
 categories: ['rpg']
-published: false
+published: true
 ---
 
 
@@ -12,9 +12,9 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 
 ## Systems
 ### Retroclones
-- Whitehack ([Hardcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html), [Softcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-softcover/paperback/product-gpw2pg.html), [Notebook](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-notebook/hardcover/product-k6pvkj.html), [Landscape](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-landscape-notebook/hardcover/product-q8zmy5.html)).
+- Whitehack: ([Hardcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html), [Softcover](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-softcover/paperback/product-gpw2pg.html), [Notebook](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-notebook/hardcover/product-k6pvkj.html), [Landscape](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition-landscape-notebook/hardcover/product-q8zmy5.html)).
 - [Labyrinth Lord](https://www.lulu.com/en/us/shop/daniel-proctor/labyrinth-lord-revised-edition-hard-cover/hardcover/product-1yvpzyzj.html)
-- Basic Fantasy ([Project Page](https://www.lulu.com/spotlight/basicfantasy/))
+- Basic Fantasy: ([Project Page](https://www.lulu.com/spotlight/basicfantasy/))
 - [White Box](https://www.lulu.com/en/us/shop/charlie-mason/white-box-fantastic-medieval-adventure-game/paperback/product-1g2jrv7v.html)
 - [Swords & Wizardy](https://www.lulu.com/en/us/shop/matthew-finch/swords-wizardry-core-rules-hardcover/hardcover/product-184d7zp9.html)
 - [Bluehack](https://www.lulu.com/en/us/shop/michael-thomas/bluehack/paperback/product-15v58ed2.html)
@@ -30,6 +30,8 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Warrior, Rogue, Mage](https://www.lulu.com/en/us/shop/michael-wolf/warrior-rogue-mage/paperback/product-1dnzr77j.html)
 - [3d6 In Order](https://www.lulu.com/en/us/shop/richard-tongue/3d6-in-order/paperback/product-1rgnz488.html)
 - [Romance of the Perilous Land](https://www.lulu.com/en/us/shop/scott-malthouse/romance-of-the-perilous-land/paperback/product-1erg5vjm.html)
+- [Cairn](https://www.lulu.com/en/us/shop/yochai-gal-and-cosmic-orrery-and-jim-parkin/cairn/paperback/product-q7jgg7.html)
+- [Ordure Fantasy](https://www.lulu.com/en/us/shop/michael-raston/ordure-fantasy-d6-rpg/paperback/product-2dw589.html)
 
 ### Other Systems
 - [Rats in the Walls](https://www.lulu.com/en/us/shop/-kobayashi/rats-in-the-walls/paperback/product-19evr272.html)
@@ -51,7 +53,7 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 - [Spores of the Sad Shroom](https://www.lulu.com/en/us/shop/karl-stjernberg/spores-of-the-sad-shroom/paperback/product-1vjwkdv4.html)
 - [The Vanilla Adventure](https://www.lulu.com/en/us/shop/wind-lothamer/the-vanilla-adventure/paperback/product-16y4m448.html)
 - [The Greydeep Marches](https://www.lulu.com/en/us/shop/peter-schweighofer/the-greydeep-marches/paperback/product-189med8m.html)
-- [Stonehell: Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
+- Stonehell: [Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
 - [The Hyqueous Vaults](https://www.lulu.com/en/us/shop/alex-zisch-and-matthew-riedel-and-jimm-johnson-and-allan-grohe/the-hyqueous-vaults/paperback/product-1z9zn5mg.html)
 - [Adventure Anthology 1](https://www.lulu.com/en/us/shop/chris-gonnerman/adventure-anthology-1-perfect-bound/paperback/product-1k925r9e.html) & [2](https://www.lulu.com/en/us/shop/chris-gonnerman-and-james-lemon/adventure-anthology-2-perfect-bound/paperback/product-196zem6p.html)
 - [Crypt of the Lilac High Priest](https://www.lulu.com/en/us/shop/geoffrey-mckinney/crypt-of-the-lilac-high-priest/paperback/product-14qmgvm8.html)
@@ -68,21 +70,23 @@ Lulu is a terrific self-publishing website that makes it easy to create print to
 
 ## Game Tools
 - [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
+- Beasties: [1](https://www.lulu.com/en/us/shop/thomas-denmark/beasties/paperback/product-1mqe8982.html) & [2](https://www.lulu.com/en/us/shop/thomas-denmark/beasties-2/paperback/product-1y8mr8yg.html)
 - [The Wilderness Alphabet](https://www.lulu.com/en/us/shop/james-pacek/the-wilderness-alphabet/paperback/product-48v8gm.html)
-- Beasties
-- Kefitzat Haderech
-- The Dungeon Dozen
-- Burgs & Baliffs
-- Deadly Dungeons
-- The Metamorphica Revised
-- Story Games Names Project
-- Play Unsafe
+- [Kefitzat Haderech](https://www.lulu.com/en/us/shop/paolo-greco/kefitzat-haderech-incunabulum-of-the-uncanny-gates-and-portals/paperback/product-1re6km94.html)
+- [The Dungeon Dozen](https://www.lulu.com/en/us/shop/jason-sholtis/the-dungeon-dozen-hardcover/hardcover/product-179dvm7d.html)
+- [Burgs & Bailiffs](https://www.lulu.com/en/us/shop/paolo-greco/burgs-bailiffs/paperback/product-1zky7yez.html)
+- [A Guide to Thieves' Guilds](https://www.lulu.com/en/us/shop/todd-leback/a-guide-to-thieves-guilds/paperback/product-n54n8r.html?page=1&pageSize=4)
+- [Deadly Dungeons](https://www.lulu.com/en/us/shop/nick-ls-whelan/deadly-dungeons/paperback/product-1jqvr8yp.html)
+- [The Metamorphica Revised](https://www.lulu.com/en/us/shop/johnstone-metzger/the-metamorphica-revised/hardcover/product-1wem9vdd.html)
+- [Story Games Names Project](https://www.lulu.com/en/us/shop/jason-morningstar/story-games-name-project/paperback/product-1qz67dg.html)
+- [Play Unsafe](https://www.lulu.com/en/us/shop/graham-walmsley/play-unsafe/ebook/product-1wzm6pkp.html)
 
 
 ### Zines & Settings
 - [Nod](https://www.lulu.com/search?adult_audience_rating=00&contributor=John+Stater&page=1&pageSize=100&project_type=PRINTED_BOOK&q=NOD&sortBy=PUBLICATION_DATE_ASC)
-- Planarch Codex
-- Planet Eris Gazeteer
-- Eilean Dubh: The Black Isle Gazetteer
-- Into The Wild
-- The Blasphemous Roster Guilds of Infinigrad and their Machinations
+- Planarch Codex: [Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html) & [Dark Heart](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-dark-heart/paperback/product-1ynm4jve.html)
+- [Planet Eris Gazeteer](https://www.lulu.com/en/us/shop/jimm-johnson/planet-eris-gazetteer/paperback/product-1vgrdwzj.html)
+- [Eilean Dubh: The Black Isle Gazetteer](https://www.lulu.com/en/us/shop/luka-rejec-and-chris-wellings-and-benjamin-wenham-and-alex-welk/eilean-dubh-the-black-isle-gazetteer/paperback/product-1g2kjeg4.html)
+- [Into The Wild](https://www.lulu.com/en/us/shop/todd-leback/into-the-wild/paperback/product-w8mw95.html?page=1&pageSize=4)
+- [Basilisk Hills Ultimate Hexcrawl](https://www.lulu.com/en/us/shop/todd-leback/basilisk-hills-ultimate-hexcrawl/hardcover/product-6e2jrj.html?page=1&pageSize=4)
+- [The Blasphemous Roster Guilds of Infinigrad and their Machinations](https://www.lulu.com/en/us/shop/michael-raston/the-blasphemous-roster-guilds-of-infinigrad-and-their-machinations/paperback/product-17enz57e.html)
