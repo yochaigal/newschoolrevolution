@@ -30,6 +30,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Stay Frosty](https://www.lulu.com/en/us/shop/casey-garske/stay-frosty/paperback/product-16y56dne.html)
 - [The Nightmares Underneath](https://www.lulu.com/en/us/shop/johnstone-metzger/the-nightmares-underneath/hardcover/product-ejejy6.html)
 - [Warrior, Rogue, Mage](https://www.lulu.com/en/us/shop/michael-wolf/warrior-rogue-mage/paperback/product-1dnzr77j.html)
+- [OSRIC](https://www.lulu.com/en/us/shop/stuart-marshall/osric-a5/paperback/product-12vyvgdm.html)
 - [Relics & Ruins](https://www.lulu.com/en/us/shop/jon-aspeheim/relics-ruins/paperback/product-12q7k66g.html)
 - [3d6 In Order](https://www.lulu.com/en/us/shop/richard-tongue/3d6-in-order/paperback/product-1rgnz488.html)
 - [Romance of the Perilous Land](https://www.lulu.com/en/us/shop/scott-malthouse/romance-of-the-perilous-land/paperback/product-1erg5vjm.html)
@@ -56,7 +57,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Deep Carbon Observatory](https://www.lulu.com/en/us/shop/patrick-stuart-and-scrap-princess/deep-carbon-observatory/paperback/product-14rvwz2w.html) (first edition)
 - [Anomalous Subsurface Environment](https://www.lulu.com/en/us/shop/patrick-wetmore/ase1-anomalous-subsurface-environment-paperback/paperback/product-159nvjkz.html) (also [2/3](https://www.lulu.com/en/us/shop/patrick-wetmore/ase2-3-anomalous-subsurface-environment-paperback/paperback/product-15gvkgm2.html))
 - [The Blackapple Brugh](https://www.lulu.com/en/us/shop/kyle-hettinger-and-vasily-ermolaev/the-blackapple-brugh/paperback/product-v7qm8y.html)
-- [The Knight Wolf Inn](https://www.lulu.com/en/us/shop/anthony-huso/the-night-wolf-inn/paperback/product-1jz4r2k8.html)
+- [The Night Wolf Inn](https://www.lulu.com/en/us/shop/anthony-huso/the-night-wolf-inn/paperback/product-1jz4r2k8.html)
 - [Times That Fry Men's Souls](https://www.lulu.com/en/us/shop/seann-mcanally/times-that-fry-mens-souls/paperback/product-1kww2r25.html)
 - [Spores of the Sad Shroom](https://www.lulu.com/en/us/shop/karl-stjernberg/spores-of-the-sad-shroom/paperback/product-1vjwkdv4.html)
 - [The Vanilla Adventure](https://www.lulu.com/en/us/shop/wind-lothamer/the-vanilla-adventure/paperback/product-16y4m448.html)
@@ -93,6 +94,8 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [The Nameless City](https://www.lulu.com/en/us/shop/alphonso-warden/the-nameless-city-whitebox-rules-softcover/paperback/product-19qwnk6r.html)
 - [Geir Loe Cyn-crul](https://www.lulu.com/en/us/shop/anthony-huso/geir-loe-cyn-crul/paperback/product-1vgkme84.html)
 - [Valley of the Five Fires](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-module-va1-valley-of-the-five-fires/paperback/product-1qnkwjyk.html)
+- [Secrets of the Wyrdwoode](https://www.lulu.com/en/us/shop/luigi-castellani/secrets-of-the-wyrwoode-softcover/paperback/product-1q5r6eyw.html)
+- [The Mortuary Temple of Esma](https://www.lulu.com/en/us/shop/anthony-huso/the-mortuary-temple-of-esma/paperback/product-1p74j569.html)
 
 ## Game Tools
 - [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
