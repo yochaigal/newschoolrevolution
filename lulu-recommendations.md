@@ -113,6 +113,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [The Kontext Spiel Collection](https://www.lulu.com/en/us/shop/michael-raston/the-kontext-spiel-collection/paperback/product-8q77ye.html)
 - [Story Games Names Project](https://www.lulu.com/en/us/shop/jason-morningstar/story-games-name-project/paperback/product-1qz67dg.html)
 - [Play Unsafe](https://www.lulu.com/en/us/shop/graham-walmsley/play-unsafe/ebook/product-1wzm6pkp.html)
+- [The Lazy Dungeon Master](https://www.lulu.com/en/us/shop/michael-shea/the-lazy-dungeon-master/paperback/product-179q2jw9.html)
 
 ### RPG Periodicals/Zines
 - [Nod](https://www.lulu.com/search?adult_audience_rating=00&contributor=John+Stater&page=1&pageSize=100&project_type=PRINTED_BOOK&q=NOD&sortBy=PUBLICATION_DATE_ASC)
