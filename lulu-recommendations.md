@@ -8,7 +8,7 @@ published: true
 
 
 # Lulu Recommendations
-Lulu is a terrific self-publishing website that makes it easy to create print to order books. The following is an ever-growing list of recommendations.  
+[Lulu.com](https://www.lulu.com/search?adult_audience_rating=00&category=Games&language=eng&page=1&pageSize=100&project_type=PRINTED_BOOK&q=&sortBy=RELEVANCE) is a terrific self-publishing website that makes it easy to create print to order books. The following is an ever-growing list of recommendations. I'll try to keep it up-to-date going forward, but please let me know if I've missed anything!  
 
 ## Systems
 - [Labyrinth Lord](https://www.lulu.com/en/us/shop/daniel-proctor/labyrinth-lord-revised-edition-hard-cover/hardcover/product-1yvpzyzj.html)
