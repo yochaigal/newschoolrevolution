@@ -53,6 +53,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 
 ## Adventures & Settings
 - [Fire on the Velvet Horizon](https://www.lulu.com/en/us/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-1g24vgqj.html)
+- [Deep Carbon Observatory](https://www.lulu.com/en/us/shop/patrick-stuart-and-scrap-princess/deep-carbon-observatory/paperback/product-14rvwz2w.html) (first edition)
 - [Anomalous Subsurface Environment](https://www.lulu.com/en/us/shop/patrick-wetmore/ase1-anomalous-subsurface-environment-paperback/paperback/product-159nvjkz.html) (also [2/3](https://www.lulu.com/en/us/shop/patrick-wetmore/ase2-3-anomalous-subsurface-environment-paperback/paperback/product-15gvkgm2.html))
 - [The Blackapple Brugh](https://www.lulu.com/en/us/shop/kyle-hettinger-and-vasily-ermolaev/the-blackapple-brugh/paperback/product-v7qm8y.html)
 - [The Knight Wolf Inn](https://www.lulu.com/en/us/shop/anthony-huso/the-night-wolf-inn/paperback/product-1jz4r2k8.html)
