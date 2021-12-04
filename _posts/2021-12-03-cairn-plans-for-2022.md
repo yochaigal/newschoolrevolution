@@ -28,6 +28,7 @@ We've built quite an amazing community around Cairn (especially thanks to the NS
 - One shot
 
 ### Website Changes
+- Backgrounds Hack
 
 ### Third party
 - Zines
