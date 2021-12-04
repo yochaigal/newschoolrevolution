@@ -34,3 +34,9 @@ We've built quite an amazing community around Cairn (especially thanks to the NS
 - Zines
 - Translations
 - Hacks
+
+### Community
+- Jim Parkin: Convert complete Wormskin bestiary, adventure area about wood god avatars, covertly guarding a Bad Thing™️ from escaping.
+- Matthew Morris: Supplement where the PCs are 18th century sailors and engage in oversea "hexploration"; also a couple more issues of Caers & Crannogs
+- Adam Hensley: Working on a science fantasy hack
+- David Lombardo: Finish [Meteor Corp](https://discourse.rpgcauldron.com/t/meteor-corp-corporate-sci-fi-cairn-hack-ashcan/519); "Cairn at the Ren Faire" adventure
