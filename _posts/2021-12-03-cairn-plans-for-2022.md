@@ -14,21 +14,49 @@ We've built quite an amazing community around Cairn (especially thanks to the NS
 
 ## Cairn
 ### Cairn Jam
-- Seeing the incredible success of the [DURF Jam](https://itch.io/jam/durfjam) and others, I'd love to do one as well.
+- Seeing the incredible success of the [DURF Jam](https://itch.io/jam/durfjam) and others, I'd love to do one as well, with an emphasis on adventures and settings!
 
-### Module Release
-#### The Dawn Plague (working title)
-- The big one.
+### Module: The Dawn Plague (working title)
+An overland adventure and dungeon. Thematically built around themes like:
+- Kabbalah
+- Jewish Folk tales
+- The pre-Shoah Eastern Europe
+- Belonging
+- Prejudice & Xenophobia
+- Survivor Syndrome
 
-### Something Big
-- Little Books
-- Box Set?
 
-### Smaller Adventures
-- One shot
+It will also have critical thinking and problem solving and all that.
 
-### Website Changes
-- Backgrounds Hack
+I've got an overland/travel map, a bunch of locations, and a dungeon modeled after the Sefirot (if you're familiar). I actually think it's gonna be AWESOME.
+I have found two artists I want to work with (both Jews... I don't know how that happened) and they both have given terms.
+
+### "Little Black Books"
+- A set of books for ease of use at the table.
+- Easy to pass around; cheap options to get multiple copies of the player's guide.
+- I actually haven't decided if these should be two books or three! I could combine the Warden's Manual with the Explorer's Guide, but not everyone will need the content there...
+
+#### An Adventurer's Guide
+- Game Rules
+- Expanded Player Principles & Advice.
+- Character creation: "Backgrounds" done in the style of _Failed Careers_ from Electric Bastionland.
+- Character creation: Massively expanded random tables (double each?)
+- Try to make it cheap so 3-4 players can make their PCs at the same time.
+
+#### The Warden's Manual
+- General Advice for running the game
+- Example session
+- Advice on conversion from OSR modules
+- Optional Rules for expanded domains, common rulings, etc
+- How to make a pointcrawl
+- How to make a dungeon
+
+#### Explorer's Compendium
+- General worldbuilding advice
+- Setting generation tables
+- Example adventure
+- Bestiary
+- Relics & Spells
 
 ### Third party
 - Zines
