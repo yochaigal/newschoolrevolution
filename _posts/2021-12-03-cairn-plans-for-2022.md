@@ -25,7 +25,6 @@ An overland adventure and dungeon. Thematically built around themes like:
 - Prejudice & Xenophobia
 - Survivor Syndrome
 
-
 It will also have critical thinking and problem solving and all that.
 
 I've got an overland/travel map, a bunch of locations, and a dungeon modeled after the Sefirot (if you're familiar). I actually think it's gonna be AWESOME.
@@ -34,29 +33,34 @@ I have found two artists I want to work with (both Jews... I don't know how that
 ### "Little Black Books"
 - A set of books for ease of use at the table.
 - Easy to pass around; cheap options to get multiple copies of the player's guide.
-- I actually haven't decided if these should be two books or three! I could combine the Warden's Manual with the Explorer's Guide, but not everyone will need the content there...
+- The **Adventure's Guide** would be for at-the-table character creation and rules reference
+- The **Warden's Manual** is more for general advice but would have tools for ease-of-use at the table as well. I have considered splitting it up into a third "tables" book that's more table-friendly.
 
 #### An Adventurer's Guide
 - Game Rules
 - Expanded Player Principles & Advice.
 - Character creation: "Backgrounds" done in the style of _Failed Careers_ from Electric Bastionland.
-- Character creation: Massively expanded random tables (double each?)
+- Character creation: Massively expanded random tables (double each?).
 - Try to make it cheap so 3-4 players can make their PCs at the same time.
 
 #### The Warden's Manual
 - General Advice for running the game
-- Example session
-- Advice on conversion from OSR modules
+- Rewritten rules based around the FAQ
+- Example of play
 - Optional Rules for expanded domains, common rulings, etc
 - How to make a pointcrawl
 - How to make a dungeon
-
-#### Explorer's Compendium
-- General worldbuilding advice
+- Worldbuilding advice
 - Setting generation tables
-- Example adventure
-- Bestiary
-- Relics & Spells
+- Advice on conversion from OSR modules
+- A Bestiary
+- A Reliquary
+- MOAR SPELLS FOR THE SPELL GOD
+
+#### Example adventure
+- A basic starting adventure/hexcrawl/dungeon for new players
+- An original Setting
+- A "teaching" dungeon with commentary
 
 ### Third party
 - Zines
