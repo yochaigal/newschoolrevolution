@@ -8,7 +8,7 @@ published: false
 
 # Cairn Plans For 2022
 
-We've built quite an amazing community around Cairn (especially thanks to the NSR Discord). I am deeply humbled by this, you guys ROCK. We have [adventures](https://cairnrpg.com/resources/adventures), [hacks](https://cairnrpg.com/hacks/third-party/) and [translations](https://cairnrpg.com/localizations). We now have a [ton](https://cairnrpg.com/resources/adventure-conversions/) conversions of many great OSR products; checkout what's coming in the [future](https://cairnrpg.com/resources/adventure-conversions/future-conversions/)!  
+We've built quite an amazing community around Cairn (especially thanks to the NSR Discord). I am deeply humbled by this, you guys ROCK. We have [adventures](https://cairnrpg.com/resources/adventures), [hacks](https://cairnrpg.com/hacks/third-party/) and [translations](https://cairnrpg.com/localizations). We now have a [ton](https://cairnrpg.com/resources/adventure-conversions/) of conversions available of many great OSR products; checkout what's coming in the [future](https://cairnrpg.com/resources/adventure-conversions/future-conversions/)!  
 
 ## Cairn
 ### Cairn Jam
