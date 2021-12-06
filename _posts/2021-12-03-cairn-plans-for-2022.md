@@ -69,7 +69,8 @@ Here is the basic idea:
 - Should include a "teaching" dungeon with designer commentary.
 
 ### Community
-- Jim Parkin: Convert the complete Wormskin bestiary, write adventure area about wood god avatars (covertly guarding a Bad Thing™️ from escaping).
-- Matthew Morris: Supplement where the PCs are 18th century sailors and engage in oversea "hexploration"; also a couple more issues of Caers & Crannogs
-- Adam Hensley: Working on a science fantasy hack.
-- David Lombardo: Finish [Meteor Corp](https://discourse.rpgcauldron.com/t/meteor-corp-corporate-sci-fi-cairn-hack-ashcan/519); also an adventure called "Cairn at the Ren Faire" which is apparently 80% finished.
+I've collected a few of the projects folks have told me about; I'm sure I've forgotten some.
+- [Jim Parkin](https://classless-kobolds.itch.io/): Convert the complete Wormskin bestiary, write adventure area about wood god avatars (covertly guarding a Bad Thing™️ from escaping).
+- [Matthew Morris](https://manarampmatt.itch.io/): Supplement where the PCs are 18th century sailors and engage in oversea "hexploration"; also a couple more issues of Caers & Crannogs
+- [Adam Hensley](https://adamhensley.itch.io/): Working on a science fantasy hack.
+- [David Lombardo](https://awkwardturtle.itch.io/): Finish [Meteor Corp](https://discourse.rpgcauldron.com/t/meteor-corp-corporate-sci-fi-cairn-hack-ashcan/519); also an adventure called "Cairn at the Ren Faire" which is apparently 80% finished.
