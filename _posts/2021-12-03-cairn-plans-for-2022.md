@@ -3,7 +3,7 @@ layout: post
 title: Cairn Plans For 2022
 date: 2021-12-03
 tags: ['rpg', 'cairn', 'updates']
-published: false
+published: true
 ---
 
 # Cairn Plans For 2022
