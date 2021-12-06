@@ -39,7 +39,7 @@ Here is the basic idea:
 #### The Adventurer's Guide
 - Game Rules (including default spells)
 - Expanded Player Principles & Advice.
-- Character creation will be radically changed: _Backgrounds_ will be done in the style of _Failed Careers_ from _Electric Bastionland_. For instance, rolling an **Herbalist** would result in a specific set of starting gear, plus some fun tables on top of that. A "shared debt" style mechanism to help new parties figure out how they all know each other, and why they're risking their lives. If you'd like to see an example of what this might look like, see [here](https://cairnrpg.com/more-content/backgrounds/alchemist).
+- Character creation will be radically changed: _Backgrounds_ will be done in the style of _Failed Careers_ from _Electric Bastionland_. For instance, rolling an **Herbalist** would result in a specific set of starting gear, plus some fun tables on top of that. A "shared debt" style mechanism to help new parties figure out how they all know each other, and why they're risking their lives. If you'd like to see an example of what this might look like, see [here](https://cairnrpg.com/more-content/backgrounds/herbalist).
 - Of course, you will still be able to roll a random character & starting equipment (the current way).
 - I will of course include the optional gear packages (also called [fantasy loadouts](https://cairnrpg.com/more-content/fantasy-loadouts/))!
 - Advancement options & ideas. We're talking "[Foreground Growth](https://www.bastionland.com/2016/05/foreground-growth-and-becoming-odd.html)" if you're familiar.
