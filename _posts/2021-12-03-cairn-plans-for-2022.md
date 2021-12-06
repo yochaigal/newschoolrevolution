@@ -30,11 +30,12 @@ In terms of design, I'm focusing critical thinking, problem solving and player a
 - I'm all for ideas here, people.
 
 ### Little Black Books
-I'm very excited about this. It isn't exactly Cairn 2e (the rules are exactly the same) but it is definitely a grown-up version of the original game, much the same as Electric Bastionland was to Into The Odd. I'm not trying to make a box set, but I'm also _not not_ going to make a box set. Don't quote me on that!   
+I'm very excited about this. It isn't exactly Cairn 2e (the rules are exactly the same) but it is definitely a grown-up version of the original game, much the same as Electric Bastionland was to Into The Odd. I'm not trying to make a box set, but I'm also _not not_ going to make a box set. Don't quote me on that! It will likely be a set of books for ease of use at the table. Either a series of smaller zines or a mix of hardback and zine formats.
 Here is the basic idea:
-- A set of books for ease of use at the table. Either a series of smaller zines or a mix of hardback and zine formats.
 - The **Adventure's Guide** would be for at-the-table character creation and rules reference
 - The **Warden's Manual** is more for general advice but would have tools for ease-of-use at the table as well.
+- The **Explorer's Compendium** should have setting generation and content for use at the table. I might do a series of these!
+- An adventure! For new players! See more below.
 
 #### The Adventurer's Guide
 - Game Rules (including default spells)
