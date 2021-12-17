@@ -96,6 +96,8 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Valley of the Five Fires](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-module-va1-valley-of-the-five-fires/paperback/product-1qnkwjyk.html)
 - [Secrets of the Wyrdwoode](https://www.lulu.com/en/us/shop/luigi-castellani/secrets-of-the-wyrwoode-softcover/paperback/product-1q5r6eyw.html)
 - [The Mortuary Temple of Esma](https://www.lulu.com/en/us/shop/anthony-huso/the-mortuary-temple-of-esma/paperback/product-1p74j569.html)
+- [Adventures on Dungeon Planet](https://www.lulu.com/en/us/shop/johnstone-metzger/adventures-on-dungeon-planet/paperback/product-125w7knr.html)
+- [Space Wurm vs. Moonicorn](https://www.lulu.com/en/us/shop/johnstone-metzger/space-wurm-vs-moonicorn/paperback/product-1dj8q5vw.html)
 
 ## Game Tools
 - [Old School Adventures Accessory CC1: Creature Compendium](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-accessory-cc1-creature-compendium/paperback/product-1v9dgwz8.html)
@@ -117,6 +119,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Story Games Names Project](https://www.lulu.com/en/us/shop/jason-morningstar/story-games-name-project/paperback/product-1qz67dg.html)
 - [Play Unsafe](https://www.lulu.com/en/us/shop/graham-walmsley/play-unsafe/ebook/product-1wzm6pkp.html)
 - [The Lazy Dungeon Master](https://www.lulu.com/en/us/shop/michael-shea/the-lazy-dungeon-master/paperback/product-179q2jw9.html)
+- [Class Warfare](https://www.lulu.com/en/us/shop/johnstone-metzger/class-warfare-condensed/hardcover/product-1ng2wwvv.html)
 
 ### RPG Periodicals/Zines
 - [Nod](https://www.lulu.com/search?adult_audience_rating=00&contributor=John+Stater&page=1&pageSize=100&project_type=PRINTED_BOOK&q=NOD&sortBy=PUBLICATION_DATE_ASC)
