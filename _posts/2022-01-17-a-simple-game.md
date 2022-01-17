@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Two Simple Games
+title: A Simple Game
 date: 2021-01-17
 tags: ['rpg', 'kids']
 published: false
 ---
 
-# Two Simple Games
+# A Simple Game
 My son is 5 this April. Like most kids he _loves_ games, particularly any that involve fantasy violence.
 
 ## What is a game?
@@ -34,54 +34,27 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
 - Add +1 to the roll if an Adventurer has an item or skill that can help them succeed. Otherwise, they automatically succeed.
 
-##### Spells & Magic
+#### Spells & Magic
 - Spellbooks contain a short list of spells. Reading a spellbook takes a single action.
 - Spells can be cast once per adventure and do not require a roll to succeed.
 - Common spells: Fireball, Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep.  
 - Scrolls are single-use spells not typically found in spellbooks.  
 
-##### Combat
+#### Combat
 - Initiative: at the start of combat both sides roll a d6, the higher goes first.
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
 
-##### Adventurers
+#### Adventurers
 - Fighter: 6 HP, Sword (makes two separate attacks)
 - Ranger: 5 HP, +1 Bow (ranged attacks), pet (owl, wolf, etc)
 - Thief: 4 HP, Throwing Daggers, lockpicks, quick (+1 to initiative roll)
 - Magic-User: 3 HP, Staff, Spellbook (4 spells)
 
-##### Monsters
+#### Monsters
 - Goblin: 2 HP, Sword, group (initiative bonus in groups of 3 or more)
 - Lizardkin: 3 HP, Sword & Shield, roar (calls other Lizardkin)
 - Ogre: 6 HP, Club (attack hit 2 targets)
 - Assassin: 4 HP, Poison Bow (+1 to ranged attacks)
 - Sorcerer: 3 HP, Spellbook (2 spells)
 - Shadow Monster: 1 HP, mimics an Adventurer and their abilities/weapons
-
-### Counterspell
-I co-wrote this with my son's friend (he's 11). There are no props or dice needed to play, though you can choose to write down your results as you play. We like to shout our spells at each other.
-
-#### Basic Rules
-- The goal is to create a unique spell name that (within the session) cannot be dispelled.
-- Each round has an Attacker and a Defender. Repeat until the Defender cannot successfully dispel or defend against the Attacker’s spell.
-
-The **Attacker** must create a spell with the following conditions:
-- Is two distinct words (compound is OK)
-- Is comprised of a noun + verb or verb + noun
-- Is unique to this session
-- Is offensive (e.g. would harm the **Defender**)
-
-The **Defender** must create a spell with the following conditions:
-- Is made up of two distinct words (compound is OK)
-- Is comprised of a noun + adjective or adjective + noun
-- Is unique to this session
-- Is defensive (e.g. would dispel or defend against the **Attacker**'s spell
-
-Advanced rules:
-- Alliterations only
-- Single word spell names
-- Vancian magic only
-- Extra points for defensive spells becoming attack spells in next round
-- Can’t use X word
-- Rhyming spells
