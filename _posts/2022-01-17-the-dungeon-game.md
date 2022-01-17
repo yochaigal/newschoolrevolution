@@ -53,7 +53,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Adventurers & Monsters have Health Points (HP) and bonuses. No other stats.
 - On their turn, an Adventurer can move _and_ take an action/attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
-- Add +1 to the roll if an Adventurer has an item or skill that can help them succeed. Otherwise, they automatically succeed.
+- Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed. 
 
 #### Spells & Magic
 - Spellbooks contain a short list of spells. Reading a spellbook takes a single action.
