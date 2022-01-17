@@ -7,7 +7,8 @@ published: true
 ---
 
 # The Dungeon Game
-My son is 5 this April. Like most kids he _loves_ games, particularly any that involve a high level of freedom along with a generous helping of pretend violence. Unsurprisingly, I've encouraged him to express his interests through the classic dungeon crawl, built from simple rules borrowed from indie RPGs. Together we build a dungeon, assemble a party, and fight monsters. Sometimes we give the monsters jelly beans. At the end we share in the spoils (for some reason, this was super important to my kid). If you want to read the rules, [skip ahead](#the-dungeon-game).
+My son is 5 this April. Like most kids he _loves_ games, particularly any that involve a high level of freedom along with a generous helping of pretend violence. Unsurprisingly, I've encouraged him to express his interests through the classic dungeon crawl, built from simple rules borrowed from indie RPGs. Together we build a dungeon, assemble a party, and fight monsters. Sometimes we give the monsters jelly beans. At the end we share in the spoils (for some reason, this was super important to my kid).  
+If you want to jump to the rules, [skip ahead](#the-dungeon-game).
 
 ## What is a game?
 Ha, what a title! OK so here's the deal: a game is a kind of play that has semi-consistent rules. Easy, and no one is left out. That said...
