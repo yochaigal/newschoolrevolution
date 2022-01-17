@@ -33,7 +33,7 @@ I am fortunate that my child quickly moved on from the agency-free games and int
 - _Parcheesi_
 
 ### The Dungeon Game
-My son and I wrote this game together. It's pretty simple, uses minis/game pieces and wooden blocks and can be played with or without a GM. Adventurers explore a dungeon or cool location, searching for treasure and fighting monsters.
+My son and I wrote this game together. It's pretty simple, uses minis/game pieces and wooden blocks and can be played with or without a GM. Adventurers explore a dungeon or cool location, searching for treasure and fighting monsters. I don't really like "suggested ages" or whatever, but 3 and up seems like a solid range.
 
 #### Setup
 Build a dungeon. You can use any blocks you like! [Ben Milton](https://www.youtube.com/watch?v=fQ-ccPthhDY) recently recommended [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do. Jenga blocks make good walls.
@@ -86,4 +86,4 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Scroll of Water-Walking
 - Pocket-Wall: A small tube of clay that spreads to cover any opening.
 - Magic Rope: A fifty-foot rope that follows the commands of its holder
-- Crystal Eyes: Goggles that allow for 360 degree view; the wearer always goes before monsters. 
+- Crystal Eyes: Goggles that allow for 360 degree view allowing the wearer to always go before monsters (even if the Adventurer's fail initiative)
