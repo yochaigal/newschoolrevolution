@@ -1,25 +1,23 @@
 ---
 layout: post
-title: A Simple Game
+title: Two Simple Games
 date: 2021-01-17
 tags: ['rpg', 'kids']
 published: false
 ---
 
-# A Simple Game
+# Two Simple Games
 My son is 5 this April. Like most kids he _loves_ games, particularly any that involve fantasy violence.
 
 ## What is a game?
 
 ## What makes a game _good_?
 
-## Two Simple Games
-
 ### [Game Name]
 My son and I have been wrote this game together. It's pretty simple, uses minis/game pieces, wooden blocks, and can be played with or without a GM. Adventurers explore a dungeon or cool location, searching for treasure and fighting monsters.
 
 #### Setup
-Build a dungeon. You can use any blocks you like! [Ben Milton](https://www.youtube.com/watch?v=fQ-ccPthhDY) recently recommended [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do. Jenga is a favorite.
+Build a dungeon. You can use any blocks you like! [Ben Milton](https://www.youtube.com/watch?v=fQ-ccPthhDY) recently recommended [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do. Jenga blocks make good walls.
 
 Populate the dungeon with monsters. We've used pieces from other board games for the monsters, treasure, and traps (if you like). If you have minis, now is your chance to use them!
 
