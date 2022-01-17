@@ -65,6 +65,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Initiative: at the start of combat both sides roll a d6, the higher goes first.
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
+- Normal attacks do 1 HP of damage unless otherwise indicated.
 
 #### Adventurers
 - Fighter: 6 HP, Sword (makes two separate attacks)
