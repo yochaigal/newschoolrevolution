@@ -53,7 +53,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Adventurers & Monsters have Health Points (HP) and bonuses. No other stats.
 - On their turn, an Adventurer can move _and_ take an action/attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
-- Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed. 
+- Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed.
 
 #### Spells & Magic
 - Spellbooks contain a short list of spells. Reading a spellbook takes a single action.
@@ -79,3 +79,11 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Assassin: 4 HP, Poison Bow (+1 to ranged attacks)
 - Sorcerer: 3 HP, Spellbook (2 spells)
 - Shadow Monster: 1 HP, mimics an Adventurer and their abilities/weapons
+
+#### Treasure
+- Golden Bow: +1 to ranged attacks, glows in the dark
+- Circlet of Seeing: Reveals invisible or hidden objects and creatures
+- Scroll of Water-Walking
+- Pocket-Wall: A small tube of clay that spreads to cover any opening.
+- Magic Rope: A fifty-foot rope that follows the commands of its holder
+- Crystal Eyes: Goggles that allow for 360 degree view; the wearer always goes before monsters. 
