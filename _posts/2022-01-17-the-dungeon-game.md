@@ -54,6 +54,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - On their turn, an Adventurer can move _and_ take an action/attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
 - Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed.
+- Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance).
 
 #### Spells & Magic
 - Spellbooks contain a short list of spells. Reading a spellbook takes a single action.
@@ -66,6 +67,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
 - Normal attacks do 1 HP of damage unless otherwise indicated.
+- Healing: Once per adventure adventurers can wait a turn in safety to regain d6 HP.
 
 #### Adventurers
 - Fighter: 6 HP, Sword (makes two separate attacks)
@@ -74,17 +76,18 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Magic-User: 3 HP, Staff, Spellbook (4 spells)
 
 #### Monsters
-- Goblin: 2 HP, Sword, group (initiative bonus in groups of 3 or more)
-- Lizardkin: 3 HP, Sword & Shield, roar (calls other Lizardkin)
-- Ogre: 6 HP, Club (attack hit 2 targets)
-- Assassin: 4 HP, Poison Bow (+1 to ranged attacks)
+- Shadow Monster: n HP, mimics an Adventurer and their HP/abilities/weapons
+- Goblin: 1 HP, Sword, group (initiative bonus in groups of 3 or more)
+- Lizardkin: 2 HP, Sword & Shield, roar (calls other Lizardkin)
 - Sorcerer: 3 HP, Spellbook (2 spells)
-- Shadow Monster: 1 HP, mimics an Adventurer and their abilities/weapons
+- Assassin: 4 HP, Poison Bow (+1 to ranged attacks)
+- Ogre: 5 HP, Club (attack hit 2 targets)
 
 #### Treasure
-- Golden Bow: +1 to ranged attacks, glows in the dark
-- Circlet of Seeing: Reveals invisible or hidden objects and creatures
-- Scroll of Water-Walking
+- Golden Bow: +1 to ranged attacks, glows in the dark.
+- Circlet of Seeing: Reveals invisible or hidden objects and creatures.
+- Globe of Water-Walking: Allows you to walk on water as long as you can hold your breath.
 - Pocket-Wall: A small tube of clay that spreads to cover any opening.
-- Magic Rope: A fifty-foot rope that follows the commands of its holder
+- Magic Rope: A fifty-foot rope that follows the commands of its holder.
 - Crystal Eyes: Goggles that allow for 360 degree view allowing the wearer to always go before monsters (even if the Adventurer's fail initiative)
+- Pocket Dimension: Sucks objects and creatures into a portal, then itself.
