@@ -42,15 +42,15 @@ Populate the dungeon with monsters. We've used pieces from other board games for
 
 _Most importantly_ get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it all in a cup or bowl and put it to one side, with instructions that it not be touched until the adventure is concluded.
 
-[![Alt text](/img/the-dungeon-game/the-dungeon-game-1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-1.jpg)
-
-[![Alt text](/img/the-dungeon-game/the-dungeon-game-2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-2.jpg)
-
-
 Finally, come up with a reason for the Adventurers to explore the dungeon. Here are a few I've used:
 - To find treasure (gold, items & scrolls)
 - To rescue a kidnapped friend
 - To explore a new place
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-1.jpg)
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-2.jpg)
+
 
 #### Basic Rules
 - Adventurers & Monsters have Health Points (HP) and bonuses. No other stats.
@@ -60,38 +60,38 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance).
 
 #### Spells & Magic
-- Spellbooks contain a short list of spells. Reading a spellbook takes a single action.
+- **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
 - Spells can be cast once per adventure and do not require a roll to succeed.
 - Common spells: Fireball, Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep.  
-- Scrolls are single-use spells not typically found in spellbooks.  
+- **Scrolls** are single-use spells not typically found in spellbooks.  
 
 #### Combat
-- Initiative: at the start of combat both sides roll a d6, the higher goes first.
+- **Initiative**: at the start of combat both sides roll a d6, the higher goes first.
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
 - Normal attacks do 1 HP of damage unless otherwise indicated.
-- Healing: Adventurers can wait a turn in safety and make a healing roll. On a 5-6 they regain 1 HP.
+- **Healing**: Adventurers can wait a turn in safety and make a healing roll. On a 5-6 they regain 1 HP.
 
 #### Adventurers
-- Knight: 8 HP, Long Sword (attacks two targets), Shield (+1 to defensive maneuvers)
-- Fighter: 6 HP, Dual Swords (+1 to attack rolls), quick (+1 to initiative roll)
-- Ranger: 5 HP, +1 Bow (ranged attacks), short sword, pet (owl, wolf, etc)
-- Thief: 4 HP, Dual Daggers (+1 when thrown), lockpicks, +1 to sneaking maneuvers
-- Magic-User: 3 HP, Staff, Spellbook (4 spells), +1 to magical defense
+- **Knight**: 8 HP, Long Sword (attacks two targets), Shield (+1 to defensive maneuvers)
+- **Fighter**: 6 HP, Dual Swords (+1 to attack rolls), quick (+1 to initiative roll)
+- **Ranger**: 5 HP, +1 Bow (ranged attacks), short sword, pet (owl, wolf, etc)
+- **Thief**: 4 HP, Dual Daggers (+1 when thrown), lockpicks, +1 to sneaking maneuvers
+- **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical defense
 
 #### Monsters
-- Shadow Monster: n HP, mimics an Adventurer and their HP/abilities/weapons
-- Goblin: 1 HP, Sword, group (initiative bonus in groups of 3 or more)
-- Lizardkin: 2 HP, Sword & Shield, roar (calls other Lizardkin)
-- Sorcerer: 3 HP, Spellbook (2 spells)
-- Assassin: 4 HP, Poison Bow (+1 to ranged attacks)
-- Ogre: 5 HP, Club (attack hit 2 targets)
+- **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons
+- **Goblin**: 1 HP, Sword, group (initiative bonus in groups of 3 or more)
+- **Lizardkin**: 2 HP, Sword & Shield, roar (calls other Lizardkin)
+- **Sorcerer**: 3 HP, Spellbook (2 spells)
+- **Assassin**: 4 HP, Poison Bow (+1 to ranged attacks)
+- **Ogre**: 5 HP, Club (attack hit 2 targets)
 
 #### Treasure
-- Golden Bow: +1 to ranged attacks, glows in the dark.
-- Circlet of Seeing: Reveals invisible or hidden objects and creatures.
-- Globe of Water-Walking: Allows you to walk on water as long as you can hold your breath.
-- Pocket-Wall: A small tube of clay that spreads to cover any opening.
-- Magic Rope: A fifty-foot rope that follows the commands of its holder.
-- Crystal Eyes: Goggles that allow for 360 degree view allowing the wearer to always go before monsters (even if the Adventurer's fail initiative)
-- Pocket Dimension: Sucks objects and creatures into a portal, then itself.
+- **Golden Bow**: +1 to ranged attacks, glows in the dark.
+- **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
+- **Globe of Water-Walking**: Allows you to walk on water as long as you can hold your breath.
+- **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
+- **Magic Rope**: A fifty-foot rope that follows the commands of its holder.
+- **Crystal Eyes**: Goggles that allow for 360 degree view allowing the wearer to always go before monsters (even if the Adventurer's fail initiative)
+- **Pocket Dimension**: Sucks objects and creatures into a portal, then itself.
