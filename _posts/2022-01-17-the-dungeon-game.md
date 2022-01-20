@@ -57,11 +57,12 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - On their turn, an Adventurer can move _and_ take an action/attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
 - Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed.
-- Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance).
+- Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance). Make a determination as a group whether a +1 should be added to the roll.
 
 #### Spells & Magic
 - **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
 - Spells can be cast once per adventure and do not require a roll to succeed.
+- Using a spell _beyond_ its basic description (e.g. Sleep on multiple targets) can require a roll.
 - Common spells: Fireball, Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep.  
 - **Scrolls** are single-use spells not typically found in spellbooks.  
 
@@ -70,14 +71,14 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
 - Normal attacks do 1 HP of damage unless otherwise indicated.
-- **Healing**: Adventurers can wait a turn in safety and make a healing roll. On a 5-6 they regain 1 HP.
+- **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 HP. Monsters may catch up to them during this time!
 
 #### Adventurers
-- **Knight**: 8 HP, Long Sword (attacks two targets), Shield (+1 to defensive maneuvers)
-- **Fighter**: 6 HP, Dual Swords (+1 to attack rolls), quick (+1 to initiative roll)
+- **Knight**: 8 HP, Broad Sword (+1 to attack rolls), Shield
+- **Fighter**: 6 HP, Dual Swords (attacks two targets), quick (+1 to party initiative roll)
 - **Ranger**: 5 HP, +1 Bow (ranged attacks), short sword, pet (owl, wolf, etc)
 - **Thief**: 4 HP, Dual Daggers (+1 when thrown), lockpicks, +1 to sneaking maneuvers
-- **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical defense
+- **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical rolls.
 
 #### Monsters
 - **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons
