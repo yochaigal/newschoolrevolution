@@ -42,7 +42,10 @@ Populate the dungeon with monsters. We've used pieces from other board games for
 
 _Most importantly_ get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it all in a cup or bowl and put it to one side, with instructions that it not be touched until the adventure is concluded.
 
-[![Alt text](/img/a-simple-game/a-simple-game-1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/a-simple-game/a-simple-game-1.jpg)
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-1.jpg)
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-2.jpg)
+
 
 Finally, come up with a reason for the Adventurers to explore the dungeon. Here are a few I've used:
 - To find treasure (gold, items & scrolls)
