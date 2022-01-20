@@ -63,7 +63,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
 - Spells can be cast once per adventure and do not require a roll to succeed.
 - Using a spell _beyond_ its basic description (e.g. Sleep on multiple targets) can require a roll.
-- Common spells: Fireball, Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep.  
+- Common spells: Fireball (2 damage), Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep.  
 - **Scrolls** are single-use spells not typically found in spellbooks.  
 
 #### Combat
@@ -89,6 +89,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - **Ogre**: 5 HP, Club (attack hit 2 targets)
 
 #### Treasure
+- **Poison Dagger**: 2 Damage on a roll of 6.
 - **Golden Bow**: +1 to ranged attacks, glows in the dark.
 - **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
 - **Globe of Water-Walking**: Allows you to walk on water as long as you can hold your breath.
