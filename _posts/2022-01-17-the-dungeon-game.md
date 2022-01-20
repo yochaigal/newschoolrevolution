@@ -67,13 +67,14 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
 - Normal attacks do 1 HP of damage unless otherwise indicated.
-- Healing: Once per adventure adventurers can wait a turn in safety to regain d6 HP.
+- Healing: Adventurers can wait a turn in safety and make a healing roll. On a 5-6 they regain 1 HP.
 
 #### Adventurers
-- Fighter: 6 HP, Sword (makes two separate attacks)
-- Ranger: 5 HP, +1 Bow (ranged attacks), pet (owl, wolf, etc)
-- Thief: 4 HP, Throwing Daggers, lockpicks, quick (+1 to initiative roll)
-- Magic-User: 3 HP, Staff, Spellbook (4 spells)
+- Knight: 8 HP, Long Sword (attacks two targets), Shield (+1 to defensive maneuvers)
+- Fighter: 6 HP, Dual Swords (+1 to attack rolls), quick (+1 to initiative roll)
+- Ranger: 5 HP, +1 Bow (ranged attacks), short sword, pet (owl, wolf, etc)
+- Thief: 4 HP, Dual Daggers (+1 when thrown), lockpicks, +1 to sneaking maneuvers
+- Magic-User: 3 HP, Staff, Spellbook (4 spells), +1 to magical defense
 
 #### Monsters
 - Shadow Monster: n HP, mimics an Adventurer and their HP/abilities/weapons
