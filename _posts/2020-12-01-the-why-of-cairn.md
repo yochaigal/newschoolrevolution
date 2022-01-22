@@ -6,7 +6,7 @@ tags: ['posts', 'rpg', 'theory','cairn']
 published: true
 ---
 
-In a recent Twitter thread, I spelled out some of my thinking behind designing [Cairn](https://yochaigal.itch.io/cairn), prompted by a misreading of a comment by [wereoctopus](https://twitter.com/wereoctopus/status/1333661093630152704). I decided to clean it up a bit and republish that diatribe here.
+In a recent Twitter thread, I spelled out some of my thinking behind designing [Cairn](https://cairnrpg.com), prompted by a misreading of a comment by [wereoctopus](https://twitter.com/wereoctopus/status/1333661093630152704). I decided to clean it up a bit and republish that diatribe here.
 
 ## In The Beginning
 
