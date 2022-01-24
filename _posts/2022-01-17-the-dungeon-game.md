@@ -51,6 +51,10 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 
 [![Alt text](/img/the-dungeon-game/the-dungeon-game-2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-2.jpg)
 
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-3.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-3.jpg)
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-4.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-4.jpg)
+
 
 #### Basic Rules
 - Adventurers & Monsters have Health Points (HP) and bonuses. No other stats.
@@ -76,7 +80,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 #### Adventurers
 - **Knight**: 8 HP, Broad Sword (+1 to attack rolls), Shield
 - **Fighter**: 6 HP, Dual Swords (attacks two targets), quick (+1 to party initiative roll)
-- **Ranger**: 5 HP, +1 Bow (ranged attacks), short sword, pet (owl, wolf, etc)
+- **Ranger**: 5 HP, +1 Bow, 3 poison arrows (2 damage), hand axe, pet (owl, wolf, etc)
 - **Thief**: 4 HP, Dual Daggers (+1 when thrown), lockpicks, +1 to sneaking maneuvers
 - **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical rolls.
 
