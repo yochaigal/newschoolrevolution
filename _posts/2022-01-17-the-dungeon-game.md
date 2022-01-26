@@ -57,17 +57,18 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 
 
 #### Basic Rules
-- Adventurers & Monsters have Health Points (HP) and bonuses. No other stats.
+- Adventurers & Monsters have Hit Protection (HP) and bonuses, but no other stats.
 - On their turn, an Adventurer can move _and_ take an action/attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
 - Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed.
 - Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance). Make a determination as a group whether a +1 should be added to the roll.
+- **Optional Rule**: If you want the game to be _easier_ or _faster_ change the result to a 4-6. This applies to both combat and risky actions.
 
 #### Spells & Magic
 - **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
 - Spells can be cast once per adventure and do not require a roll to succeed.
 - Using a spell _beyond_ its basic description (e.g. Sleep on multiple targets) can require a roll.
-- Common spells: Fireball (2 damage), Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep.  
+- Common spells: Fireball (damages multiple creatures), Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep, lightning (2 damage against metal armor).  
 - **Scrolls** are single-use spells not typically found in spellbooks.  
 
 #### Combat
@@ -78,23 +79,23 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 HP. Monsters may catch up to them during this time!
 
 #### Adventurers
-- **Knight**: 8 HP, Broad Sword (+1 to attack rolls), Shield
-- **Fighter**: 6 HP, Dual Swords (attacks two targets), quick (+1 to party initiative roll)
-- **Ranger**: 5 HP, +1 Bow, 3 poison arrows (2 damage), hand axe, pet (owl, wolf, etc)
-- **Thief**: 4 HP, Dual Daggers (+1 when thrown), lockpicks, +1 to sneaking maneuvers
-- **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical rolls.
+- **Knight**: 8 HP, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
+- **Fighter**: 6 HP, Dual Swords (roll d6 twice and keep highest), +1 to party initiative and dodging actions.
+- **Ranger**: 5 HP, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), short sword, pet (owl, wolf, etc), +1 to tracking actions.
+- **Thief**: 4 HP, Two Daggers (+1 when thrown), lockpicks, +1 to sneaking and thieving actions.
+- **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical actions.
 
 #### Monsters
-- **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons
-- **Goblin**: 1 HP, Sword, group (initiative bonus in groups of 3 or more)
-- **Lizardkin**: 2 HP, Sword & Shield, roar (calls other Lizardkin)
-- **Sorcerer**: 3 HP, Spellbook (2 spells)
-- **Assassin**: 4 HP, Poison Bow (+1 to ranged attacks)
-- **Ogre**: 5 HP, Club (attack hit 2 targets)
+- **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons.
+- **Goblin**: 1 HP, Sword, group (+1 to initiative in groups of 3 or more).
+- **Lizardkin**: 2 HP, Sword & Shield, roar (calls other Lizardkin).
+- **Sorcerer**: 3 HP, Spellbook (2 spells).
+- **Assassin**: 4 HP, Poison Bow (+1 to ranged attacks).
+- **Ogre**: 5 HP, Club (attack hit 2 targets).
 
 #### Treasure
-- **Poison Dagger**: 2 Damage on a roll of 6.
-- **Golden Bow**: +1 to ranged attacks, glows in the dark.
+- **Poison Dagger**: 2 Damage to target on a roll of 6.
+- **Golden Bow**: +1 to ranged attacks, glows when monsters are near.
 - **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
 - **Globe of Water-Walking**: Allows you to walk on water as long as you can hold your breath.
 - **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
