@@ -74,7 +74,7 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 #### Magic
 - **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
 - Spells can be cast once per adventure and do not require a roll to succeed.
-- Using a spell _beyond_ its basic description (e.g. Sleep on multiple targets) can require a roll.
+- Using a spell _beyond_ its basic description (e.g. **Fly** on multiple targets) can require a roll.
 - **Scrolls** are single-use spells not typically found in spellbooks.  
 
 ##### Common spells
