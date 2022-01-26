@@ -64,13 +64,6 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance). Make a determination as a group whether a +1 should be added to the roll.
 - **Optional Rule**: If you want the game to be _easier_ or _faster_ change the result to a 4-6. This applies to both combat and risky actions.
 
-#### Spells & Magic
-- **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
-- Spells can be cast once per adventure and do not require a roll to succeed.
-- Using a spell _beyond_ its basic description (e.g. Sleep on multiple targets) can require a roll.
-- Common spells: Fireball (damages multiple creatures), Fly, Fog Cloud, Freeze, Heal, Shapeshift, Sleep, lightning (2 damage against metal armor).  
-- **Scrolls** are single-use spells not typically found in spellbooks.  
-
 #### Combat
 - **Initiative**: at the start of combat both sides roll a d6, the higher goes first.
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
@@ -78,12 +71,32 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - Normal attacks do 1 HP of damage unless otherwise indicated.
 - **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 HP. Monsters may catch up to them during this time!
 
+#### Magic
+- **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
+- Spells can be cast once per adventure and do not require a roll to succeed.
+- Using a spell _beyond_ its basic description (e.g. Sleep on multiple targets) can require a roll.
+- **Scrolls** are single-use spells not typically found in spellbooks.  
+
+##### Common spells
+- **Cure Wounds**: Target recovers 1d6 HP.
+- **Elemental Mastery**: Control water, fire, earth, air.
+- **Fireball**: Ball of flam that targets multiple creatures.
+- **Fog Cloud**: A white vapor obscures your movements.
+- **Freeze**: Turns a target to ice. Very effective on liquid surfaces.
+- **Levitate**: Fly over any surface and as high as a tree.
+- **Lightning**: 3 damage against metal armor.
+- **Magic Tongue**: Speak any language.
+- **Shapeshift**: Turn into any creature until you take damage.
+- **Sleep**: 1d6 creatures fall asleep.
+
 #### Adventurers
 - **Knight**: 8 HP, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
 - **Fighter**: 6 HP, Dual Swords (roll d6 twice and keep highest), +1 to party initiative and dodging actions.
 - **Ranger**: 5 HP, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), short sword, pet (owl, wolf, etc), +1 to tracking actions.
 - **Thief**: 4 HP, Two Daggers (+1 when thrown), lockpicks, +1 to sneaking and thieving actions.
 - **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical actions.
+
+All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, rations.
 
 #### Monsters
 - **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons.
