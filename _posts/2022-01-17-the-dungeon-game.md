@@ -80,9 +80,10 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 ##### Common spells
 - **Cure Wounds**: Target recovers 1d6 HP.
 - **Elemental Mastery**: Control water, fire, earth, air.
-- **Fireball**: Ball of flam that targets multiple creatures.
+- **Fireball**: Ball of flame that targets multiple creatures.
 - **Fog Cloud**: A white vapor obscures your movements.
 - **Freeze**: Turns a target to ice. Very effective on liquid surfaces.
+- **Illusion**: An illusion of the caster's choice appears within eyesight.
 - **Levitate**: Fly over any surface and as high as a tree.
 - **Lightning**: 3 damage against metal armor.
 - **Magic Tongue**: Speak any language.
@@ -107,11 +108,12 @@ All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, ratio
 - **Ogre**: 5 HP, Club (attack hit 2 targets).
 
 #### Treasure
-- **Poison Dagger**: 2 Damage to target on a roll of 6.
-- **Golden Bow**: +1 to ranged attacks, glows when monsters are near.
-- **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
-- **Globe of Water-Walking**: Allows you to walk on water as long as you can hold your breath.
-- **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
-- **Magic Rope**: A fifty-foot rope that follows the commands of its holder.
-- **Crystal Eyes**: Goggles that allow for 360 degree view allowing the wearer to always go before monsters (even if the Adventurer's fail initiative)
-- **Pocket Dimension**: Sucks objects and creatures into a portal, then itself.
+* **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
+* **Crystal Eyes**: Goggles that allow for 360 degree view allowing the wearer to always go before monsters (even if the Adventurer's fail initiative)
+* **Globe of Water-Walking**: Allows you to walk on water as long as you can hold your breath.
+* **Golden Bow**: +1 to ranged attacks, glows when monsters are near.
+* **Magic Rope**: A fifty-foot rope that follows the commands of its holder.
+* **Pocket Dimension**: Sucks objects and creatures into a portal, then itself.
+* **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
+* **Poison Dagger**: 2 Damage to target on a roll of 6.
+* **Ring of the Beholder**: The bearer's changes their appearance to match the look of anyone who has previously worn the ring.
