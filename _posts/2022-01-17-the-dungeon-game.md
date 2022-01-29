@@ -40,37 +40,38 @@ Like everything I write, this game is released under a [CC BY-SA 4.0](https://cr
 #### Setup
 
 - Build a dungeon, forest, town, canyon, etc. You can use any blocks you like! I really like [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do.
-- Populate the dungeon with monsters. We've used pieces from other board games for the monsters, treasure, and traps (if you like). Minitaures are obviously a great choice.!
-- _Most importantly_, get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it put it to one side, with instructions that it not be touched until the adventure is concluded.
+Populate the dungeon with monster, traps and treasure.  Miniatures are obviously a great choice, but pieces from other board games work well too. 
+- _Most importantly_, get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it to one side, with instructions that it not be touched until the adventure is concluded.
 - Finally, come up with a reason for the Adventurers to explore the dungeon. Some examples:
   - To find treasure (gold, items & scrolls)
   - To rescue a kidnapped friend
   - To explore a new place
 
-#### Basic Rules
+## Basic Rules
 
-- Adventurers & Monsters have Hit Protection (HP) and bonuses, but no other stats.
+- Adventurers & Monsters have a **Defense** (a combination of health and armor), as well as an ability or weapon bonus, but no other stats.
 - On their turn, an Adventurer can move _and_ take an action/attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
 - Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed.
 - Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance). Make a determination as a group whether a +1 should be added to the roll.
 - *Optional Rule*: If you want the game to be _easier_ or _faster_ change the result to a 4-6. This applies to both combat and risky actions.
 
-#### Combat
+## Combat
 
-- **Initiative**: at the start of combat both sides roll a d6, the higher goes first.
-- Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
+- **Initiative**: At the start of combat both sides roll a d6, the higher goes first.
+- Each side takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
-- Normal attacks do 1 HP of damage unless otherwise indicated.
-- **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 HP. Monsters may catch up during this time!
+- Normal attacks do 1 damage unless otherwise indicated.
+- **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 Defense. Monsters may catch up during this time!
 
-#### Magic
-- Spells can be cast only once per adventure and _do not_ require a roll to succeed. Casting a spell takes an action.  
+## Magic
+- Spells can be cast only once per adventure.
+- Casting a spell takes an action and does not require a roll to succeed.
 - Using a spell _beyond_ its basic description (e.g. **Fly** on multiple targets) may require a roll.
-- **Scrolls** are single-use spells that anyone can cast.  
+- **Scrolls** are single-use spells not typically found in spellbooks.
 
-##### Common spells
-- **Cure Wounds**: Target recovers 1d6 HP.
+### Common spells
+- **Cure Wounds**: Target recovers 1d6 Defense.
 - **Elemental Mastery**: Control water, fire, earth, air.
 - **Fireball**: Ball of flame that targets multiple creatures.
 - **Fog Cloud**: A white vapor obscures your movements.
@@ -82,32 +83,30 @@ Like everything I write, this game is released under a [CC BY-SA 4.0](https://cr
 - **Shapeshift**: Turn into any creature until you take damage.
 - **Sleep**: 1d6 creatures fall asleep.
 
-#### Adventurers
-
-- **Knight**: 8 HP, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
-- **Fighter**: 6 HP, Dual Swords (roll d6 twice and keep highest), +1 to party initiative and dodging actions.
-- **Ranger**: 5 HP, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), short sword, pet (owl, wolf, etc), +1 to tracking actions.
-- **Thief**: 4 HP, Two Daggers (+1 when thrown), lockpicks, +1 to sneaking and thieving actions.
-- **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical actions.
+### Adventurers
+- **Knight**: 8 Defense, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
+- **Fighter**: 6 Defense, Dual Swords (roll d6 twice and keep highest), +1 to party Initiative and dodging actions.
+- **Ranger**: 5 Defense, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), short sword, pet (owl, wolf, etc), +1 to tracking actions.
+- **Thief**: 4 Defense, Two Daggers (+1 when thrown), backstab (2 damage if target is surprised), lockpicks, +1 to thieving actions.
+- **Magic-User**: 3 Defense, Staff, Spellbook (4 spells), +1 to magical actions.
 
 *All adventurers start with a rope, a torch, a bedroll, etc.*
 
-#### Monsters
+### Monsters
+- **Shadow Monster**: n Defense, mimics an Adventurer and their Defense/abilities/weapons.
+- **Goblin**: 1 Defense, Sword, +1 to Initiative in groups of 3 or more.
+- **Lizardkin**: 2 Defense, Sword & Shield, roar (calls other Lizardkin).
+- **Sorcerer**: 3 Defense, Spellbook (2 spells).
+- **Assassin**: 4 Defense, Poison Bow (+1 to ranged attacks).
+- **Ogre**: 5 Defense, Club (attack hit 2 targets).
 
-- **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons.
-- **Goblin**: 1 HP, Sword, group (+1 to initiative in groups of 3 or more).
-- **Lizardkin**: 2 HP, Sword & Shield, roar (calls other Lizardkin).
-- **Sorcerer**: 3 HP, Spellbook (2 spells).
-- **Assassin**: 4 HP, Poison Bow (+1 to ranged attacks).
-- **Ogre**: 5 HP, Club (attack hit 2 targets).
-
-#### Treasure
-* **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
-* **Crystal Eyes**: Goggles that allow for 360 degree view allowing the wearer to always go first.
-* **Globe of Water-Walking**: Allows you to walk on water as long as you can hold your breath.
-* **Golden Bow**: +1 to ranged attacks, glows when monsters are near.
-* **Magic Rope**: A fifty-foot rope that follows the commands of its holder.
-* **Pocket Dimension**: Sucks objects and creatures into a portal, then itself.
-* **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
-* **Poison Dagger**: 2 Damage to target on a roll of 6.
-* **Ring of the Beholder**: The wearer's appearance changes to that of whomever last wore the ring.
+### Treasure
+- **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
+- **Crystal Eyes**: Goggles that allow for 360 degree view allowing the wearer to always go first.
+- **Globe of Water Walking**: Allows you to walk on water as long as you can hold your breath.
+- **Golden Bow**: +1 to ranged attacks, glows when monsters are near.
+- **Magic Rope**: A fifty-foot rope that follows the commands of its holder.
+- **Pocket Dimension**: Sucks objects and creatures into a portal, then itself.
+- **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
+- **Poison Dagger**: 2 Damage to target on a roll of 6.
+- **Ring of the Beholder**: The wearer's appearance changes to match  whomever last wore the ring.
