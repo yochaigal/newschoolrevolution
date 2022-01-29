@@ -40,7 +40,7 @@ Like everything I write, this game is released under a [CC BY-SA 4.0](https://cr
 #### Setup
 
 - Build a dungeon, forest, town, canyon, etc. You can use any blocks you like! I really like [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do.
-Populate the dungeon with monster, traps and treasure.  Miniatures are obviously a great choice, but pieces from other board games work well too. 
+Populate the dungeon with monster, traps and treasure.  Miniatures are obviously a great choice, but pieces from other board games work well too.
 - _Most importantly_, get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it to one side, with instructions that it not be touched until the adventure is concluded.
 - Finally, come up with a reason for the Adventurers to explore the dungeon. Some examples:
   - To find treasure (gold, items & scrolls)
@@ -65,10 +65,10 @@ Populate the dungeon with monster, traps and treasure.  Miniatures are obviously
 - **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 Defense. Monsters may catch up during this time!
 
 ## Magic
-- Spells can be cast only once per adventure.
+- Spells can be found in spellbooks and can be cast only once per adventure.
 - Casting a spell takes an action and does not require a roll to succeed.
 - Using a spell _beyond_ its basic description (e.g. **Fly** on multiple targets) may require a roll.
-- **Scrolls** are single-use spells not typically found in spellbooks.
+- Scrolls are single-use spells not typically found in spellbooks.
 
 ### Common spells
 - **Cure Wounds**: Target recovers 1d6 Defense.
@@ -86,8 +86,8 @@ Populate the dungeon with monster, traps and treasure.  Miniatures are obviously
 ### Adventurers
 - **Knight**: 8 Defense, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
 - **Fighter**: 6 Defense, Dual Swords (roll d6 twice and keep highest), +1 to party Initiative and dodging actions.
-- **Ranger**: 5 Defense, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), short sword, pet (owl, wolf, etc), +1 to tracking actions.
-- **Thief**: 4 Defense, Two Daggers (+1 when thrown), backstab (2 damage if target is surprised), lockpicks, +1 to thieving actions.
+- **Ranger**: 5 Defense, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), Short Sword, Pet (owl, wolf, etc), +1 to tracking actions.
+- **Thief**: 4 Defense, Two Daggers (+1 when thrown), Backstab (2 damage if target is surprised), Lockpicks, +1 to thieving actions.
 - **Magic-User**: 3 Defense, Staff, Spellbook (4 spells), +1 to magical actions.
 
 *All adventurers start with a rope, a torch, a bedroll, etc.*
@@ -95,7 +95,7 @@ Populate the dungeon with monster, traps and treasure.  Miniatures are obviously
 ### Monsters
 - **Shadow Monster**: n Defense, mimics an Adventurer and their Defense/abilities/weapons.
 - **Goblin**: 1 Defense, Sword, +1 to Initiative in groups of 3 or more.
-- **Lizardkin**: 2 Defense, Sword & Shield, roar (calls other Lizardkin).
+- **Lizardkin**: 2 Defense, Sword & Shield, Roar (calls other Lizardkin).
 - **Sorcerer**: 3 Defense, Spellbook (2 spells).
 - **Assassin**: 4 Defense, Poison Bow (+1 to ranged attacks).
 - **Ogre**: 5 Defense, Club (attack hit 2 targets).
