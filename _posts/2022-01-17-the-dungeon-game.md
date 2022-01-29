@@ -84,21 +84,21 @@ Populate the dungeon with monster, traps and treasure.  Miniatures are obviously
 - **Sleep**: 1d6 creatures fall asleep.
 
 ### Adventurers
-- **Knight**: 8 Defense, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
-- **Fighter**: 6 Defense, Dual Swords (roll d6 twice and keep highest), +1 to party Initiative and dodging actions.
+- **Knight**: 8 Defense, Broad Sword (+1 to melee attacks), Shield, +1 to actions strength actions.
+- **Fighter**: 6 Defense, Dual Swords (roll twice and keep highest), +1 to  dodging actions.
 - **Ranger**: 5 Defense, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), Short Sword, Pet (owl, wolf, etc), +1 to tracking actions.
-- **Thief**: 4 Defense, Two Daggers (+1 when thrown), Backstab (2 damage if target is surprised), Lockpicks, +1 to thieving actions.
-- **Magic-User**: 3 Defense, Staff, Spellbook (4 spells), +1 to magical actions.
+- **Thief**: 4 Defense, Two Daggers (+1 when thrown), Backstab (2 damage to surprised targets), Lockpicks, +1 to thieving actions.
+- **Magic-User**: 3 Defense, Staff, Spellbook (5 spells), +1 to magical actions.
 
 *All adventurers start with a rope, a torch, a bedroll, etc.*
 
 ### Monsters
-- **Shadow Monster**: n Defense, mimics an Adventurer and their Defense/abilities/weapons.
+- **Assassin**: 4 Defense, Poison Bow (+1 to ranged attacks), dagger.
 - **Goblin**: 1 Defense, Sword, +1 to Initiative in groups of 3 or more.
 - **Lizardkin**: 2 Defense, Sword & Shield, Roar (calls other Lizardkin).
-- **Sorcerer**: 3 Defense, Spellbook (2 spells).
-- **Assassin**: 4 Defense, Poison Bow (+1 to ranged attacks).
-- **Ogre**: 5 Defense, Club (attack hit 2 targets).
+- **Ogre**: 5 Defense, Club ( hits 2 targets).
+- **Shadow Monster**: n Defense, mimics any creature and their Defense/abilities.
+- **Sorcerer**: 3 Defense, Staff, Spellbook (2 spells).
 
 ### Treasure
 - **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
