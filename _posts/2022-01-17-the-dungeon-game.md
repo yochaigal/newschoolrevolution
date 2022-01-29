@@ -38,43 +38,35 @@ My son and I wrote this game together. It's pretty simple, uses minis/game piece
 Like everything I write, this game is released under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 #### Setup
-- Build a dungeon. You can use any blocks you like! [Ben Milton](https://www.youtube.com/watch?v=fQ-ccPthhDY) recently recommended [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do. Jenga blocks make good walls.
-- Populate the dungeon with monsters. We've used pieces from other board games for the monsters, treasure, and traps (if you like). If you have minis, now is your chance to use them!
-- _Most importantly_ get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it all in a cup or bowl and put it to one side, with instructions that it not be touched until the adventure is concluded.
 
-Finally, come up with a reason for the Adventurers to explore the dungeon. Here are a few I've used:
-- To find treasure (gold, items & scrolls)
-- To rescue a kidnapped friend
-- To explore a new place
-
-[![Alt text](/img/the-dungeon-game/the-dungeon-game-1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-1.jpg)
-
-[![Alt text](/img/the-dungeon-game/the-dungeon-game-2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-2.jpg)
-
-[![Alt text](/img/the-dungeon-game/the-dungeon-game-3.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-3.jpg)
-
-[![Alt text](/img/the-dungeon-game/the-dungeon-game-4.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-4.jpg)
-
+- Build a dungeon, forest, town, canyon, etc. You can use any blocks you like! I really like [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do.
+- Populate the dungeon with monsters. We've used pieces from other board games for the monsters, treasure, and traps (if you like). Minitaures are obviously a great choice.!
+- _Most importantly_, get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it put it to one side, with instructions that it not be touched until the adventure is concluded.
+- Finally, come up with a reason for the Adventurers to explore the dungeon. Some examples:
+  - To find treasure (gold, items & scrolls)
+  - To rescue a kidnapped friend
+  - To explore a new place
 
 #### Basic Rules
+
 - Adventurers & Monsters have Hit Protection (HP) and bonuses, but no other stats.
 - On their turn, an Adventurer can move _and_ take an action/attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
 - Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed.
 - Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance). Make a determination as a group whether a +1 should be added to the roll.
-- **Optional Rule**: If you want the game to be _easier_ or _faster_ change the result to a 4-6. This applies to both combat and risky actions.
+- *Optional Rule*: If you want the game to be _easier_ or _faster_ change the result to a 4-6. This applies to both combat and risky actions.
 
 #### Combat
+
 - **Initiative**: at the start of combat both sides roll a d6, the higher goes first.
 - Each "side" takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
 - Normal attacks do 1 HP of damage unless otherwise indicated.
-- **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 HP. Monsters may catch up to them during this time!
+- **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 HP. Monsters may catch up during this time!
 
 #### Magic
-- **Spellbooks** contain a short list of spells. Reading a spellbook takes a single action.
-- Spells can be cast once per adventure and do not require a roll to succeed.
-- Using a spell _beyond_ its basic description (e.g. **Fly** on multiple targets) can require a roll.
+- Spells can be cast only once per adventure and _do not_ require a roll to succeed.
+- Casting a spell takes an action. - Using a spell _beyond_ its basic description (e.g. **Fly** on multiple targets) may require a roll.
 - **Scrolls** are single-use spells not typically found in spellbooks.  
 
 ##### Common spells
@@ -91,7 +83,6 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - **Sleep**: 1d6 creatures fall asleep.
 
 #### Adventurers
-All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, rations.
 
 - **Knight**: 8 HP, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
 - **Fighter**: 6 HP, Dual Swords (roll d6 twice and keep highest), +1 to party initiative and dodging actions.
@@ -99,7 +90,10 @@ All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, ratio
 - **Thief**: 4 HP, Two Daggers (+1 when thrown), lockpicks, +1 to sneaking and thieving actions.
 - **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical actions.
 
+*All adventurers start with a rope, a torch, a bedroll, etc.*
+
 #### Monsters
+
 - **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons.
 - **Goblin**: 1 HP, Sword, group (+1 to initiative in groups of 3 or more).
 - **Lizardkin**: 2 HP, Sword & Shield, roar (calls other Lizardkin).
