@@ -37,6 +37,16 @@ My son and I wrote this game together. It's pretty simple, uses minis/game piece
 
 Like everything I write, this game is released under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-1.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-1.jpg)
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-2.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-2.jpg)
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-3.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-3.jpg)
+
+[![Alt text](/img/the-dungeon-game/the-dungeon-game-4.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-dungeon-game/the-dungeon-game-4.jpg)
+
+
 ## Setup
 
 - You will need at least one d6 to play, as well as wooden or plastic blocks of any kind.
