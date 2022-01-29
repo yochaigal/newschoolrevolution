@@ -50,7 +50,7 @@ Populate the dungeon with monster, traps and treasure.  Miniatures are obviously
 ## Basic Rules
 
 - Adventurers & Monsters have a **Defense** (a combination of health and armor), as well as an ability or weapon bonus, but no other stats.
-- On their turn, an Adventurer can move _and_ take an action/attack.
+- On their turn, an Adventurer can move _and_ take an action or attack.
 - If an adventurer takes a risky action, they roll a d6. On a 5-6 they are successful.
 - Add a maximum of +1 to the roll if an Adventurer has an item or skill that can help them succeed.
 - Any action is possible, even during combat. The fancier the action, the greater the consequences of failure (explained in advance). Make a determination as a group whether a +1 should be added to the roll.
@@ -60,7 +60,7 @@ Populate the dungeon with monster, traps and treasure.  Miniatures are obviously
 
 - **Initiative**: At the start of combat both sides roll a d6, the higher goes first.
 - Each side takes turns. Adventurers and monsters go in whatever order they wish.
-- Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a single +1 bonus to the attack.
+- Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a +1 bonus to the attack.
 - Normal attacks do 1 damage unless otherwise indicated.
 - **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 Defense. Monsters may catch up during this time!
 
