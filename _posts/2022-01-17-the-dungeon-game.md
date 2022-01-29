@@ -116,4 +116,4 @@ All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, ratio
 * **Pocket Dimension**: Sucks objects and creatures into a portal, then itself.
 * **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
 * **Poison Dagger**: 2 Damage to target on a roll of 6.
-* **Ring of the Beholder**: The bearer's changes their appearance to that of whomever last wore the ring.
+* **Ring of the Beholder**: The wearer's appearance changes to that of whomever last wore the ring.
