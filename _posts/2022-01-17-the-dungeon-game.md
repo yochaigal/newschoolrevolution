@@ -38,11 +38,9 @@ My son and I wrote this game together. It's pretty simple, uses minis/game piece
 Like everything I write, this game is released under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 #### Setup
-Build a dungeon. You can use any blocks you like! [Ben Milton](https://www.youtube.com/watch?v=fQ-ccPthhDY) recently recommended [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do. Jenga blocks make good walls.
-
-Populate the dungeon with monsters. We've used pieces from other board games for the monsters, treasure, and traps (if you like). If you have minis, now is your chance to use them!
-
-_Most importantly_ get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it all in a cup or bowl and put it to one side, with instructions that it not be touched until the adventure is concluded.
+- Build a dungeon. You can use any blocks you like! [Ben Milton](https://www.youtube.com/watch?v=fQ-ccPthhDY) recently recommended [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do. Jenga blocks make good walls.
+- Populate the dungeon with monsters. We've used pieces from other board games for the monsters, treasure, and traps (if you like). If you have minis, now is your chance to use them!
+- _Most importantly_ get some real **treasure**. Licorice, fruit, chocolate coins, whatever. Put it all in a cup or bowl and put it to one side, with instructions that it not be touched until the adventure is concluded.
 
 Finally, come up with a reason for the Adventurers to explore the dungeon. Here are a few I've used:
 - To find treasure (gold, items & scrolls)
@@ -93,13 +91,13 @@ Finally, come up with a reason for the Adventurers to explore the dungeon. Here 
 - **Sleep**: 1d6 creatures fall asleep.
 
 #### Adventurers
+All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, rations.
+
 - **Knight**: 8 HP, Broad Sword (+1 to melee attacks), Shield, +1 to actions involving strength.
 - **Fighter**: 6 HP, Dual Swords (roll d6 twice and keep highest), +1 to party initiative and dodging actions.
 - **Ranger**: 5 HP, Bow (+1 to ranged attacks), 3 poison arrows (2 damage each), short sword, pet (owl, wolf, etc), +1 to tracking actions.
 - **Thief**: 4 HP, Two Daggers (+1 when thrown), lockpicks, +1 to sneaking and thieving actions.
 - **Magic-User**: 3 HP, Staff, Spellbook (4 spells), +1 to magical actions.
-
-All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, rations.
 
 #### Monsters
 - **Shadow Monster**: n HP, mimics an Adventurer and their HP/abilities/weapons.
@@ -111,11 +109,11 @@ All adventurers start with basic gear: ropes, picks, pitons, sleeping bag, ratio
 
 #### Treasure
 * **Circlet of Seeing**: Reveals invisible or hidden objects and creatures.
-* **Crystal Eyes**: Goggles that allow for 360 degree view allowing the wearer to always go before monsters (even if the Adventurer's fail initiative)
+* **Crystal Eyes**: Goggles that allow for 360 degree view allowing the wearer to always go first.
 * **Globe of Water-Walking**: Allows you to walk on water as long as you can hold your breath.
 * **Golden Bow**: +1 to ranged attacks, glows when monsters are near.
 * **Magic Rope**: A fifty-foot rope that follows the commands of its holder.
 * **Pocket Dimension**: Sucks objects and creatures into a portal, then itself.
 * **Pocket-Wall**: A small tube of clay that spreads to cover any opening.
 * **Poison Dagger**: 2 Damage to target on a roll of 6.
-* **Ring of the Beholder**: The bearer's changes their appearance to match the look of anyone who has previously worn the ring.
+* **Ring of the Beholder**: The bearer's changes their appearance to that of whomever last wore the ring.
