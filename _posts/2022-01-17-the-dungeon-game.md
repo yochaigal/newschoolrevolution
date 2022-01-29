@@ -35,6 +35,8 @@ I am fortunate that my child quickly moved on from the agency-free games and int
 ### The Dungeon Game
 My son and I wrote this game together. It's pretty simple, uses minis/game pieces and wooden blocks and can be played with or without a GM. Adventurers explore a dungeon or cool location, searching for treasure and fighting monsters. I don't really like "suggested ages" or whatever, but 3 and up seems like a solid range.
 
+Like everything I write, this game is released under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
 #### Setup
 Build a dungeon. You can use any blocks you like! [Ben Milton](https://www.youtube.com/watch?v=fQ-ccPthhDY) recently recommended [these](https://www.amazon.com/gp/product/B00XV13FQG), but any will do. Jenga blocks make good walls.
 
