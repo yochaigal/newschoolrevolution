@@ -65,9 +65,9 @@ Like everything I write, this game is released under a [CC BY-SA 4.0](https://cr
 - **Healing**: Adventurers can return to a place of safety and wait a turn to make a healing roll. On a 5-6 they regain 1 HP. Monsters may catch up during this time!
 
 #### Magic
-- Spells can be cast only once per adventure and _do not_ require a roll to succeed.
-- Casting a spell takes an action. - Using a spell _beyond_ its basic description (e.g. **Fly** on multiple targets) may require a roll.
-- **Scrolls** are single-use spells not typically found in spellbooks.  
+- Spells can be cast only once per adventure and _do not_ require a roll to succeed. Casting a spell takes an action.  
+- Using a spell _beyond_ its basic description (e.g. **Fly** on multiple targets) may require a roll.
+- **Scrolls** are single-use spells that anyone can cast.  
 
 ##### Common spells
 - **Cure Wounds**: Target recovers 1d6 HP.
