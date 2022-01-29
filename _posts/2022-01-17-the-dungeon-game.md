@@ -96,7 +96,7 @@ Populate the dungeon with monster, traps and treasure.  Miniatures are obviously
 - **Assassin**: 4 Defense, Poison Bow (+1 to ranged attacks), dagger.
 - **Goblin**: 1 Defense, Sword, +1 to Initiative in groups of 3 or more.
 - **Lizardkin**: 2 Defense, Sword & Shield, Roar (calls other Lizardkin).
-- **Ogre**: 5 Defense, Club ( hits 2 targets).
+- **Ogre**: 5 Defense, Club (hits 2 targets).
 - **Shadow Monster**: n Defense, mimics any creature and their Defense/abilities.
 - **Sorcerer**: 3 Defense, Staff, Spellbook (2 spells).
 
