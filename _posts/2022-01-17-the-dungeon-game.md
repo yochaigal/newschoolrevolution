@@ -33,6 +33,9 @@ I am fortunate that my child quickly moved on from the agency-free games and int
 - _Parcheesi_
 
 ### The Dungeon Game
+
+Edit: You can now download this game as a [PDF or Booklet](https://yochaigal.itch.io/the-dungeon-game).
+
 My son and I wrote this game together. It's pretty simple, uses minis/game pieces and wooden blocks and can be played with or without a GM. Adventurers explore a dungeon or cool location, searching for treasure and fighting monsters. I don't really like "suggested ages" or whatever, but 3 and up seems like a solid range.
 
 Like everything I write, this game is released under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
