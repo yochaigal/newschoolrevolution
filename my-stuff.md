@@ -19,7 +19,7 @@ A list of great public domain art sources, with a link to public domain art fold
 #### [Lulu Book Recommendations](/lulu-recommendations)
 A list of great print-on-demand books from Lulu.
 
-#### [The Dungeon Game](/_posts/2022-01-17-the-dungeon-game)
+#### [The Dungeon Game](https://yochaigal.itch.io/the-dungeon-game)
 A simple wargame/rpg to play with young children.
 
 ### RSS Feeds
