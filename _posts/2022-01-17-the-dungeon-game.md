@@ -51,7 +51,6 @@ Like everything I write, this game is released under a [CC BY-SA 4.0](https://cr
 
 
 ## Setup
-
 - You will need at least one d6 to play, as well as wooden or plastic blocks of any kind.
 - Together, build a dungeon, forest, town, canyon, etc. Improvise!
 - Populate your play setting with monster, traps and treasure.  Miniatures are obviously a great choice, but pieces from other board games work well too.
@@ -63,7 +62,6 @@ Like everything I write, this game is released under a [CC BY-SA 4.0](https://cr
   - To rid a locale of some dangerous foe
 
 ## Basic Rules
-
 - Creatures have a **Defense** (a combination of health and armor), as well as an ability or weapon bonus, but no other stats.
 - On their turn, an Adventurer can move _and_ take an action or attack.
 - When a creature takes a risky action, roll a d6. A roll of a 5-6 is a success.
@@ -73,7 +71,6 @@ Like everything I write, this game is released under a [CC BY-SA 4.0](https://cr
 *Optional Rule*: If you want the game to be _easier_ or _faster_ change the result to a 4-6. This applies to both combat and risky actions.
 
 ## Combat
-
 - **Initiative**: At the start of combat both sides roll a d6, the higher goes first.
 - Each side takes turns. Adventurers and monsters go in whatever order they wish.
 - Attackers roll a d6; on a 5-6 they are successful. Some weapons or abilities provide a +1 bonus to the attack.
