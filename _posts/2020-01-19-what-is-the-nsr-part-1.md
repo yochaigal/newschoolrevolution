@@ -6,7 +6,7 @@ tags: ['osr', 'nsr', 'rpg']
 published: true
 ---
 
-On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) published a short entry called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) on his blog [Bone Box Chant](https://boneboxchant.wordpress.com). I've reproduced a bit of it below.
+On December 21st, 2019 [Pandatheist](https://mobile.twitter.com/Pandatheist) published a short entry called ["New School Revolution."](https://boneboxchant.wordpress.com/2019/12/21/nsr/) on their blog [Bone Box Chant](https://boneboxchant.wordpress.com). I've reproduced a bit of it below.
 
 ---
 ### NSR games have:
