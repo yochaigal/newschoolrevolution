@@ -1,3 +1,7 @@
+---
+layout: post
+title: Recommended Modules
+---
 
 # Recommended Modules
 
