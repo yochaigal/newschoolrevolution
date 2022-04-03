@@ -90,6 +90,7 @@ title: Module Recommendations
 * [The Greydeep Marches](https://www.lulu.com/en/us/shop/peter-schweighofer/the-greydeep-marches/paperback/product-189med8m.html)
 * [The Halls of Arden Vul](https://www.drivethrurpg.com/product/307320/The-Halls-of-Arden-Vul-Complete)
 * [The Hole in the Oak](https://necroticgnome.com/collections/adventures/products/the-hole-in-the-oak)
+* [The House of the Hollow](https://www.drivethrurpg.com/product/348976/The-House-of-the-Hollow-compatible-with-MORK-BORG)
 * [The Hyqueous Vaults](https://www.lulu.com/en/us/shop/alex-zisch-and-matthew-riedel-and-jimm-johnson-and-allan-grohe/the-hyqueous-vaults/paperback/product-1z9zn5mg.html)
 * [The Isles of the Dead](https://goblinpunch.blogspot.com/2015/04/the-isles-of-dead.html)
 * [The Keep on the Borderlands](https://www.drivethrurpg.com/product/17158/B2-The-Keep-on-the-Borderlands-Basic)
