@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recommended Modules
+title: Module Recommendations
 ---
 
 # Recommended Modules
