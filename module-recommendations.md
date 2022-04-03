@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Module Recommendations
+date: 2022-04-03
 categories: ['rpg']
 published: true
+
 ---
 
 # Module Recommendations
@@ -17,6 +19,7 @@ published: true
 * [Behind Closed Doors](https://www.drivethrurpg.com/product/315491/Best-Left-Buried-Behind-Closed-Doors)
 * [Belly of the Fishy Beast](https://dreamingdragonslayer.itch.io/belly-of-the-fishy-beast-a-maze-rats-adventure)
 * [Beyond The Burning Teeth](https://hopefulweirdwonder.itch.io/burningteeth)
+* [Beyond the Borderlands](https://gnarledmonster.itch.io/beyond-the-borderlands-1)
 * [Blizzard Pass](https://www.drivethrurpg.com/product/282952/M1-Blizzard-Pass-Basic)
 * [Bone Marshes](https://www.drivethrurpg.com/product/275159/Bone-Marshes)
 * [Bonepicker's Tower](https://www.drivethrurpg.com/product/322457/Bonepickers-Tower)
@@ -28,6 +31,7 @@ published: true
 * [Deep Carbon Observatory](https://www.drivethrurpg.com/product/312481/Deep-Carbon-Observatory--Remastered)
 * [Demon Driven to the Maw](https://brad-kerr.itch.io/demon-driven-to-the-maw)
 * [Demonspore](https://www.lulu.com/content/e-book/demonspore/12181400) also see [print version](https://www.lulu.com/en/us/shop/matthew-finch/demonspore/ebook/product-1k8y45m2.html)
+* [Desert Moon of Karth](https://joelio1.itch.io/desert-moon-of-karth)
 * [Dungeon Full of Monsters](https://www.drivethrurpg.com/product/226083/Dungeon-Full-of-Monsters)
 * [Dwellers of the Forbidden City](https://www.drivethrurpg.com/product/17046/I1-Dwellers-of-the-Forbidden-City-1e)
 * [Elder Oak](https://www.drivethrurpg.com/product/348404/Elder-Oak)
@@ -63,6 +67,8 @@ published: true
 * [Planarch Codex: Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html)
 * [Planet Eris Gazeteer](https://www.lulu.com/en/us/shop/jimm-johnson/planet-eris-gazetteer/paperback/product-1vgrdwzj.html)
 * [Prison of the Hated Pretender](https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender)
+* [Puzzle Dungeon](https://directsun.itch.io/puzzle-dungeon-the-seers-sanctum)
+* [Rakehell](https://goatmansgoblet.itch.io/rakehell-1)
 * [Ruins of the Undercity](https://www.drivethrurpg.com/product/109821/Ruins-of-the-Undercity) also see [print version](https://www.lulu.com/en/us/shop/kabuki-kaiser/ruins-of-the-undercity/paperback/product-1e84vw2r.html)
 * [Scenic Dunsmouth](https://www.drivethrurpg.com/product/127039/Scenic-Dunnsmouth)
 * [Secrets of the Wyrdwoode](https://www.lulu.com/en/us/shop/luigi-castellani/secrets-of-the-wyrwoode-pdf/ebook/product-1g86ww9n.html) also see [print version](https://www.lulu.com/en/us/shop/luigi-castellani/secrets-of-the-wyrwoode-softcover/paperback/product-1q5r6eyw.html)
@@ -74,6 +80,7 @@ published: true
 * [Stonehell: Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html) also see [print version](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls-ebook/ebook/product-1nq5eywz.html)
 * [Stonehell: Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html) also see [print version](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
 * [Temple of the Moon Priests](https://www.drivethrurpg.com/product/310492/Temple-of-the-Moon-Priests)
+* [The Alchemist's Repose](https://questingbeast.itch.io/the-alchemists-repose)
 * [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/The-Black-Wyrm-of-Brandonsford)
 * [The Blackapple Brugh](https://www.lulu.com/en/us/shop/kyle-hettinger-and-vasily-ermolaev/the-blackapple-brugh/paperback/product-v7qm8y.html)
 * [The Blasphemous Roster Guilds of Infinigrad and their Machinations](https://www.drivethrurpg.com/product/249031/The-Blasphemous-Roster--Guilds-of-Infinigrad-and-their-Machinations) also see [print version](https://www.lulu.com/en/us/shop/michael-raston/the-blasphemous-roster-guilds-of-infinigrad-and-their-machinations/paperback/product-17enz57e.html)
@@ -97,17 +104,20 @@ published: true
 * [The Isles of the Dead](https://goblinpunch.blogspot.com/2015/04/the-isles-of-dead.html)
 * [The Keep on the Borderlands](https://www.drivethrurpg.com/product/17158/B2-The-Keep-on-the-Borderlands-Basic)
 * [The Lapis Observatory](https://shop.swordfishislands.com/the-lapis-observatory/)
+* [The Lair of the Gobbler](https://emielboven.itch.io/lotg)
 * [The Library Beneath the Sands](https://brick-road.itch.io/the-library-beneath-the-sands)
 * [The Lost City](https://www.drivethrurpg.com/product/17084/B4-The-Lost-City-Basic)
 * [The Misty Isle of the Eld](https://www.drivethrurpg.com/product/183439/Misty-Isles-of-the-Eld)
+* [The Moldy Unicorn](https://natetreme.itch.io/moldyunicorn)
 * [The Mortuary Temple of Esma](https://www.lulu.com/en/us/shop/anthony-huso/the-mortuary-temple-of-esma/paperback/product-1p74j569.html)
 * [The Nameless City](https://www.lulu.com/en/us/shop/alphonso-warden/the-nameless-city-whitebox-rules-softcover/paperback/product-19qwnk6r.html)
 * [The Necropolis of Nuroman](https://www.drivethrurpg.com/product/110292/BLUEHOLMETM-The-Necropolis-of-Nuromen)
 * [The Night Wolf Inn](https://www.lulu.com/en/us/shop/anthony-huso/the-night-wolf-inn/paperback/product-1jz4r2k8.html)
 * [The Oracle's Decree](https://trilemma.com/blog/adventures/19%20Oracle%27s%20Decree.pdf)
+* [The Rot King's Sanctum](https://emielboven.itch.io/rot-king)
 * [The Ruined Hamlet / Terror in the Gloaming](https://www.lulu.com/en/us/shop/barrataria-games/the-ruined-hamlet-terror-in-the-gloaming/paperback/product-1qep2eq.html)
 * [The Secret of Bone Hill](https://www.drivethrurpg.com/product/17059/L1-The-Secret-of-Bone-Hill-1e)
-* [The Sepulcher of the Seven](https://www.drivethrurpg.com/product/366868/The-Sepulchre-of-Seven)
+* [The Sepulchre of the Seven](https://www.drivethrurpg.com/product/366868/The-Sepulchre-of-Seven)
 * [The Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html)
 * [The Stygian Library](https://www.drivethrurpg.com/product/257113/The-Stygian-Library)
 * [The Temple of 1000 Swords](https://www.drivethrurpg.com/product/360211/Temple-of-1000-Swords)
