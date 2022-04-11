@@ -37,6 +37,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Relics & Ruins](https://www.lulu.com/en/us/shop/jon-aspeheim/relics-ruins/paperback/product-12q7k66g.html)
 - [Retropunk](https://www.lulu.com/en/us/shop/fraser-simons/retropunk/paperback/product-wkrj5e.html)
 - [Romance of the Perilous Land](https://www.lulu.com/en/us/shop/scott-malthouse/romance-of-the-perilous-land/paperback/product-1erg5vjm.html)
+- [Rovers & Riches](https://www.lulu.com/en/us/shop/-operant-game-lab/rovers-riches/paperback/product-72djwk.html)
 - [Solar Blades & Cosmic Spells](https://www.lulu.com/en/us/shop/diogo-nogueira/solar-blades-cosmic-spells/hardcover/product-r4dnv4.html)
 - Star Dogs [Referee's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-referees-handbook/paperback/product-1vgq94ve.html), [Player's Handbook](https://www.lulu.com/en/us/shop/michael-raston/star-dogs-players-handbook/paperback/product-1vgj6p8g.html)
 - [Stay Frosty](https://www.lulu.com/en/us/shop/casey-garske/stay-frosty/paperback/product-16y56dne.html)
