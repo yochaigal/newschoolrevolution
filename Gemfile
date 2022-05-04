@@ -5,4 +5,4 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 end
 gem 'webrick'
-gem "nokogiri", ">= 1.12.5"
+gem "nokogiri", ">= 1.13.4"

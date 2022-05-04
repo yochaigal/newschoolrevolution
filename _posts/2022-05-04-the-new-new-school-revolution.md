@@ -21,7 +21,7 @@ You can see **Pandatheist** take up the mantel [here](https://twitter.com/Pandat
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-1.jpg "click to embiggen")  
 
-### Finally, a Definition
+## Finally, a Definition
 As of Wednesday, May 4th 2022 you can read the "complete" definition of all the elements of an NSR-style game [here](https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr/) on **Pandatheist's** blog. This is wonderful on the one hand, as now I can point to this post and say, "here's a definition for design purposes! Now go make stuff."
 
 But I know that that won't be good enough, because the **NSR** is not simply a play style or game design philosophy. It is so much more than that. And I plan on explaining exactly what I mean... right now. Here it is, folks: I'm going to define what the word NSR means to _me_ so that Google & future historians can reference yet another blog in their endless pursuit to record and destroy the world's information!
