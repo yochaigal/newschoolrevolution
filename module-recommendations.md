@@ -91,6 +91,7 @@ published: true
 * [The Chaotic Caves](https://www.lulu.com/en/us/shop/jd-neal/the-chaotic-caves-saddle-stitch/paperback/product-1j9vv56d.html)
 * [The Coming of Sorg](http://blog.trilemma.com/2014/06/the-coming-of-sorg.html)
 * [The Dark of Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island)
+* [The Desiccated Temple of Locha](https://duvelmandice.itch.io/desiccated-temple-of-locha)
 * [The Evils of Illmire](https://www.spellswordstudios.com/posts/the-evils-of-illmire-mini-mega-hex-crawl-adventure)
 * [The Forest of the Treelords](https://www.lulu.com/en/us/shop/scott-malthouse/the-forest-of-the-treelords/ebook/product-1nq8vrpk.html)
 * [The Frozen Temple of Glacier Peak](https://ialath.itch.io/frozen-temple-of-glacier-peak)
