@@ -8,17 +8,17 @@ published: false
 
 # The New New School Revolution
 
-This is not one of those "look at how we've grown!" posts, I swear. Instead this is one of those "what does it all mean?" kinds of posts, and to do that I should probably cover a bit of the history of the NSR movement (or community, or playstyle... you get it).
+This is not one of those "look at how we've grown!" posts, I swear. Instead this is one of those "what does it all mean?" kinds of posts, and to do that I should probably cover a bit of the history of the NSR movement (or community, or play style... you get it).
 
 ## Who Knows How Words Are Formed?
 
 It's been over two years since the [first post](/2020/01/19/what-is-the-nsr-part-1) of this blog, and the "public" opening of the [NSR Discord](https://cairnrpg.com/discord-server/). We've also launched a [Discourse](https://discourse.rpgcauldron.com/) forum that I'm quite proud of, despite failing to post often enough.
 Most folks probably already know the term "NSR" owes its origin to a [Bone Box Chant](https://boneboxchant.wordpress.com/) post by [**Pandatheist**](https://twitter.com/Pandatheist), though on her blog she points to a slightly [earlier conversation](https://twitter.com/BrianBloodaxe/status/1191422690952990724) between **[Necropraxis](https://twitter.com/necropraxis)** and **[Brian Ashford](https://twitter.com/BrianBloodaxe)**:
 
-[![Alt text](/img/the-new-new-nsr/the-new-new-nsr-4.jpg "click to embiggen")](/img/the-new-new-nsr/the-new-new-nsr-4.jpg)
+![Alt text](/img/the-new-new-nsr/the-new-new-nsr-4.jpg "click to embiggen")
 
 You can see **Pandatheist** take up the mantel [here](https://twitter.com/Pandatheist/status/1191806991863296000):
-[![Alt text](/img/the-new-new-nsr/the-new-new-nsr-1.jpg "click to embiggen")](/img/the-new-new-nsr/the-new-new-nsr-1.jpg)
+![Alt text](/img/the-new-new-nsr/the-new-new-nsr-1.jpg "click to embiggen")
 
 ### Finally, a Definition
 As of Wednesday, May 4th 2022 you can read the "complete" definition of all the elements of an NSR-style game [here](https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr/) on **Pandatheist's** blog. This is wonderful on the one hand, as now I can point to this post and say, "here's a definition for design purposes! Now go make stuff."
