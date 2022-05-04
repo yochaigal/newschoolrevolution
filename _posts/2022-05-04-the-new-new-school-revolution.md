@@ -43,7 +43,7 @@ Here are a few examples, picked randomly from the NSR Discord search widget:
 
 [![Alt text](/img/the-new-new-nsr/the-new-new-nsr-10.jpg "click to embiggen"){:height="75%" width="75%"}](/img/the-new-new-nsr/the-new-new-nsr-10.jpg)
 
-
+Pretty nice, right?   
 And that's where this post takes a sharp turn...
 
 ## Fear is the Community Killer
@@ -54,5 +54,3 @@ Behind that initial NSR conversation on Twitter (see [above](#who-knows-how-word
 I understand where this fear comes from. It is the specter that [haunts](https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html) this hobby, and so many [other](https://lotbieth.blogspot.com/2021/04/productive-scab-picking-on-oppressive.html) places as well. And it raises a fine question, one I've been poring over for some time:
 
 _What do we do when something we love becomes overwhelmed by nazis, bigots, fascists, transphobes, and the like? How do we combat their influence, their power? And how well have we done so far?_
-
-Let's see how
