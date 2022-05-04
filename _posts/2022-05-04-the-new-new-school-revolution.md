@@ -54,9 +54,13 @@ Behind those first few tremblings, something else was [stirring](https://twitter
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-3.jpg "click to embiggen")  
 
-I get where this person is coming from. Their fear is all too real, a specter that [haunts](https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html) this hobby, as well as so many [other](https://lotbieth.blogspot.com/2021/04/productive-scab-picking-on-oppressive.html) others as well. And it raises a fine question, one I've been poring over for some time:
+I get where this person is coming from. Their fear is all too real, a specter that [haunts](https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html) this hobby, as well as so many [other](https://lotbieth.blogspot.com/2021/04/productive-scab-picking-on-oppressive.html) others as well. And it raises a few questions that I've been poring over for some time:
 
-### _What do we do when something we love becomes overwhelmed by nazis, bigots, fascists, transphobes, and the like? How do we combat their influence, their power? And how well have we done so far?_
+#### _How do we combat the influence, presence and power of nazis, bigots, fascists, transphobes, and the like? And how well have we done so far?_
+
+## Knowing Is Half The Battle...
+
+## ...But The Other Half Is Overwhelming Force
 
 ### Server Rules Rule
 
