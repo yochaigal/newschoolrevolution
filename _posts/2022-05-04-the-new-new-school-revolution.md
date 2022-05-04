@@ -33,13 +33,11 @@ Here are a few examples of what _regular_ NSR Discord members have said about th
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-10.jpg "click to embiggen")  
 
-It feels like the NSR "community" is known for being open, creative, supportive... Pretty nice, right? There are 64 game tagged "NSR" on [Itch.io Physical Games](https://itch.io/physical-games/tag-nsr), and about 8 in their "Games" section. I reckon quite a few of us have likely forgotten to include it as a tag as well (ahem).
-
-So... How did we get here? Where are we going? Who is this "we" I'm talking about, anyhow?
+It feels like the NSR "community" is known for being open, creative, supportive... Pretty nice, right? So... How did we get here? How are we doing?
 
 ## Who Knows How Words Are Formed?
 
-It's been over two years since the [first post](/2020/01/19/what-is-the-nsr-part-1) of this blog, and the "public" opening of the [NSR Discord](https://cairnrpg.com/discord-server/). We've also launched a [Discourse](https://discourse.rpgcauldron.com/) forum that I'm quite proud of, despite failing to post there as often as I'd like.
+It's been over two years since the [first post](/2020/01/19/what-is-the-nsr-part-1) of this blog, and the "public" opening of the [NSR Discord](https://cairnrpg.com/discord-server/) (currently at 1,260 members). We've also launched a [Discourse](https://discourse.rpgcauldron.com/) forum that I'm quite proud of, despite failing to post there as often as I'd like. There are 64 game tagged "NSR" on [Itch.io Physical Games](https://itch.io/physical-games/tag-nsr), and about 8 in their "Games" section. I reckon quite a few of us have likely forgotten to include it as a tag as well (ahem).
 
 Most folks probably already know the term "NSR" owes its origin to a [Bone Box Chant](https://boneboxchant.wordpress.com/) post by [**Pandatheist**](https://twitter.com/Pandatheist), though on her blog she points to a slightly [earlier conversation](https://twitter.com/BrianBloodaxe/status/1191422690952990724) between **[Necropraxis](https://twitter.com/necropraxis)** and **[Brian Ashford](https://twitter.com/BrianBloodaxe)**:
 
@@ -60,11 +58,36 @@ I get where this person is coming from. Their fear is all too real, a specter th
 
 _What do we do when something we love becomes overwhelmed by nazis, bigots, fascists, transphobes, and the like? How do we combat their influence, their power? And how well have we done so far?_
 
+### Server Rules Rule
+
+#### Community Rules
+
+**The following are verbatim the Discord server rules, released as CC-BY-SA 4.0**  
+1. _Treat everyone with respect. Respect includes acknowledging other people’s boundaries and acknowledging your own behavior. If anyone asks for the conversation to stop, change the topic. If you feel heated, say so, and walk away. If you mess up, own it and apologize if needed. Ask for clarification; assume good faith. Communication is a two-way street._
+
+2. _Hateful ideologies and/or behaviors are not welcome in our community. This includes abuse, harassment, frivolous and false accusations, and discrimination (particularly on the basis of race, creed, sex, sexual orientation, gender expression, or physical or mental ability). We do not support or engage in Twitter drama, vague posting, or incitement to mob._
+
+3. _Promotions have a place. Put your own promotional stuff in self-promote, cool links in cool-links. If someone asks you for a link to something you've created, feel free to share it in conversation then. Note: twitter hot-takes will probably be summarily deleted._
+
+4. _This server is for talking about RPGs. We support the ability to talk about history and current events, the effects on the marginalized, and the various issues facing our hobby, and to encourage the hobby to move forward to better places. However, this must happen within the framework of the rules, especially rule 1. Please try to respect the channel purposes._
+
+_Just as you are free to choose who to play with, other people are free to read your words and judge if they wish to play with you._
+
+#### Personal Rules
+As one of the heavier online users in the NSR Community, I follow these guidelines for interacting with others.
+1. _Act in good faith. Assume the same for others._
+2. _If there is no positive aspect to a critique or response, it isn't worth it._
+3. _Encourage the work of others. Sometimes that means you have to poke them a little._
+4. _Avoid bystander syndrome, but also make space for others to speak._
+5. _Try to create a community that you want to be a part of._
+6. _Call-outs are OK, but try to do it nicely. See 1-5._
+
+### Culture Eats Policy For Second Breakfast
 
 ### Stand For Something
 
+#### Be Nice, Even If That Means Being Mean
 
-### Server Rules Rule
-
+#### Platforming: The Silent Killer
 
 ### The Double-edged Sword
