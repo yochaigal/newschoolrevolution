@@ -59,9 +59,13 @@ I get where this person is coming from. Their fear is all too real, a specter th
 ##### _How do we combat the influence, presence and power of nazis, bigots, fascists, transphobes, and the like? And how well have we done so far?_
 
 ### Knowing Is Half The Battle...
+The OSR/Indie TTRPG community is full of bad actors. Generally they fall into three categories: **Racists/Bigots/Transphobes**, **Simply Problematic**, **Enablers & Platformers**. We maintain a private list for reference.
 
-#### A Shit List
+#### Racists, Bigots & Transphobes
 
+#### Simply Problematic
+
+#### Enabler & Platformers
 
 ### ...But The Other Half Is Overwhelming Force
 
@@ -89,7 +93,7 @@ As one of the heavier online users in the NSR Community, I follow these guidelin
 5. _Try to create a community that you want to be a part of._
 6. _Call-outs are OK, but try to do it nicely. See 1-5._
 
-##### Mod Rules
+##### Mod Rules For Healthy Discourse
 
 There are generally three types of problematic users (other than SPAM accounts of course):
 - Simple rule violators (on this server or on others, if there is evidence or first-hand experience).
