@@ -56,7 +56,7 @@ Behind those first few tremblings, something else was [stirring](https://twitter
 
 I get where this person is coming from. Their fear is all too real, a specter that [haunts](https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html) this hobby, as well as so many [other](https://lotbieth.blogspot.com/2021/04/productive-scab-picking-on-oppressive.html) others as well. And it raises a fine question, one I've been poring over for some time:
 
-_What do we do when something we love becomes overwhelmed by nazis, bigots, fascists, transphobes, and the like? How do we combat their influence, their power? And how well have we done so far?_
+### _What do we do when something we love becomes overwhelmed by nazis, bigots, fascists, transphobes, and the like? How do we combat their influence, their power? And how well have we done so far?_
 
 ### Server Rules Rule
 
@@ -82,12 +82,12 @@ As one of the heavier online users in the NSR Community, I follow these guidelin
 5. _Try to create a community that you want to be a part of._
 6. _Call-outs are OK, but try to do it nicely. See 1-5._
 
-### Culture Eats Policy For Second Breakfast
+#### Culture Eats Policy For Second Breakfast
 
-### Stand For Something
+#### Stand For Something
 
 #### Be Nice, Even If That Means Being Mean
 
 #### Platforming: The Silent Killer
 
-### The Double-edged Sword
+#### The Double-edged Sword
