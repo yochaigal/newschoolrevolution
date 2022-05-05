@@ -73,7 +73,8 @@ I think anyone reading this knows who these people are. I won't list them here a
 
 #### Enabler & Platformers
 This bit is a little more complicated but in some ways is more important than the first, so I'm actually going to offer an example in this case.   
-There exists a well-known reviewer of RPG products. They lean towards mean-spirited, as do many of their fans. To my knowledge they have _never_ espoused views that would place them in the first category, but they _actively_ and unabashedly platform some of them. They do this by allowing these bad actors to fill their comment section with vitriol and hyperbole, and even occasionally reviewing these bad actor's products. If a user on the Discord/Discourse server was to link to this particular website, it would not result in a ban, nor would the link be taken down.
+
+Bryce Lynch is a well-known reviewer of RPG products, posting under the blog Ten Foot Pole. His reviews lean towards the mean-spirited, as do many of his fans. To my knowledge he has never espoused views that would place him in the first category, but he _actively_ and unabashedly platforms some of those same people. He does this by allowing these bad actors to fill his comment section with vitriol and hyperbole, and even occasionally by reviewing these bad actor's products. If a user on the Discord/Discourse server was to link to this particular website, it would not result in a ban, nor would the link be taken down.
 
 **HOWEVER**
 
