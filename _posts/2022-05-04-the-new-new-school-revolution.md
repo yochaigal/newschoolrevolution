@@ -61,15 +61,19 @@ I get where this person is coming from. Their fear is all too real, a specter th
 ### Knowing Is Half The Battle...
 The OSR/Indie TTRPG community is full of bad actors. Identifying and tracking these folks so that they and their followers do not gain an active presence in our communities is pivotal. For one of my favorite examples of this, read [this](https://twitter.com/IamRageSparkle/status/1280891537451343873?s=20&t=R4KPmPlkSD0U_wHbbZiS_w) (anecdotal) story from Twitter about a bartender in Baltimore.
 
-Generally they fall into two categories: **Racists/Bigots/Transphobes** and **Enablers & Platformers**. The Discord/Discourse mods maintain a private list for reference, though much of it is fairly well-understood without needing to reference anything.
+There are generally three types of problematic users (other than SPAM accounts of course):
+- Simple rules violators. This can be on this server or on others, if there is evidence or first-hand experience from a trusted user or mod.
+- A known problem without clear violations. Farming the community for pure financial interests, creating drama to stir up fake Internet points, etc.
+- A known bigot or abuser. "Known" here can mean a lot of things, but "previously banned by one or more communities for comments/actions" is a good indicator.
+
+Within that last category, these types generally they fall into two categories: **Racists/Bigots/Transphobes** and **Enablers & Platformers**. The Discord/Discourse mods may maintain a private list of these for reference.
 
 #### Racists, Bigots & Transphobes
-I think anyone reading this knows who these people are. I won't list them here as it simply fans attention their way. A link to their blogs/products results in a _public_ conversation with the person(s) involved, and (usually) an immediate ban. Not everyone knows the truth behind some of the more popular OSR blogs, so we do take it on a case by case basis as.
+I think anyone reading this knows who these people are. I won't list them here as it simply fans attention their way. Any user linking to their blogs/products results in a _public_ conversation with the person(s) involved, and (usually) an immediate ban. Not everyone knows the truth behind some of the more popular OSR blogs, so we do take it on a case by case basis as.
 
 #### Enabler & Platformers
-This bit is a little more complicated but in some ways is more important than the first. I'm going to offer an example. There exists a well-known reviewer of RPG products. They lean towards mean-spirited, as do many of their fans. To my knowledge they have _never_ espoused views that would place them in the first category, but they _actively_ and unabashedly platform some of them. They do this by allowing these bad actors to fill their comment section with vitriol and hyperbole, and even occasionally reviewing these bad actor's products.
-
-If a user on the Discord/Discourse server was to link to this particular website, it would not result in a ban, nor would the link be taken down.
+This bit is a little more complicated but in some ways is more important than the first, so I'm actually going to offer an example in this case.   
+There exists a well-known reviewer of RPG products. They lean towards mean-spirited, as do many of their fans. To my knowledge they have _never_ espoused views that would place them in the first category, but they _actively_ and unabashedly platform some of them. They do this by allowing these bad actors to fill their comment section with vitriol and hyperbole, and even occasionally reviewing these bad actor's products. If a user on the Discord/Discourse server was to link to this particular website, it would not result in a ban, nor would the link be taken down.
 
 **HOWEVER**
 
@@ -99,13 +103,6 @@ As one of the heavier online users in the NSR Community, I follow these guidelin
 4. _Avoid bystander syndrome, but also make space for others to speak._
 5. _Try to create a community that you want to be a part of._
 6. _Call-outs are OK, but try to do it nicely. See 1-5._
-
-##### Mod Rules For Healthy Discourse
-
-There are generally three types of problematic users (other than SPAM accounts of course):
-- Simple rule violators (on this server or on others, if there is evidence or first-hand experience).
-- A known bigot or abuser. "Known" here can mean a lot of things, but "previously banned by one or more communities for comments/actions" is a good indicator
-- A known problem without clear violations. Farming the community for pure financial interests, creating drama to stir up fake Internet points, etc.
 
 #### Culture Eats Policy For Second Breakfast
 
