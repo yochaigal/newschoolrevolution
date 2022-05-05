@@ -59,7 +59,9 @@ I get where this person is coming from. Their fear is all too real, a specter th
 ##### _How do we combat the influence, presence and power of nazis, bigots, fascists, transphobes, and the like? And how well have we done so far?_
 
 ### Knowing Is Half The Battle...
-The OSR/Indie TTRPG community is full of bad actors. Generally they fall into two categories: **Racists/Bigots/Transphobes** and **Enablers & Platformers**. The Discord/Discourse mods maintain a private list for reference, though much of it is fairly well-understood without needing to reference anything.
+The OSR/Indie TTRPG community is full of bad actors. Identifying and tracking these folks so that they and their followers do not gain an active presence in our communities is pivotal. For one of my favorite examples of this, read [this](https://twitter.com/IamRageSparkle/status/1280891537451343873?s=20&t=R4KPmPlkSD0U_wHbbZiS_w) (anecdotal) story from Twitter about a bartender in Baltimore.
+
+Generally they fall into two categories: **Racists/Bigots/Transphobes** and **Enablers & Platformers**. The Discord/Discourse mods maintain a private list for reference, though much of it is fairly well-understood without needing to reference anything.
 
 #### Racists, Bigots & Transphobes
 I think anyone reading this knows who these people are. I won't list them here as it simply fans attention their way. A link to their blogs/products results in a _public_ conversation with the person(s) involved, and (usually) an immediate ban. Not everyone knows the truth behind some of the more popular OSR blogs, so we do take it on a case by case basis as.
@@ -71,15 +73,14 @@ If a user on the Discord/Discourse server was to link to this particular website
 
 **HOWEVER**
 
-There would be an immediate and public comment from the mods/other community members informing the person linking to their site of this person's particular preference for platforming (PPPP). I made that acronym up, but it's a thing now. This typically results in a debate with the person linking to the page, or with them saying "I didn't know, thanks!" and moving on. The former almost always results in a voluntary withdrawal from the server(s).
+There _would_ be an immediate and public comment from the mods/other community members informing the link poster of the link owner's status as a platformer. This typically results in a debate with the person linking to the page, or with them saying "I didn't know, thanks!" and moving on. The former almost always results in a voluntary withdrawal from the server(s).
 
-### ...But The Other Half Is Overwhelming Force
+### ...And the Other Half is Overwhelming Force
+Identifying problematic folks outside the community is one thing, but how do we combat dangerous trends among our own? Let me introduce you to my two best friends, **active moderators** and **empowered community members**. Both forces work with unceasing vigilance to create a default "standard" of allowable discourse, continuing to reinforce existing acceptable norms, as well as adapting to the shifting landscape of an ever-growing and highly engaged userbase.
 
-#### Server Rules Rule
+#### Community Rules Rule
+The following are verbatim the Discord server rules, released as CC-BY-SA 4.0.
 
-##### Community Rules
-
-**The following are verbatim the Discord server rules, released as CC-BY-SA 4.0**  
 1. _Treat everyone with respect. Respect includes acknowledging other people’s boundaries and acknowledging your own behavior. If anyone asks for the conversation to stop, change the topic. If you feel heated, say so, and walk away. If you mess up, own it and apologize if needed. Ask for clarification; assume good faith. Communication is a two-way street._
 
 2. _Hateful ideologies and/or behaviors are not welcome in our community. This includes abuse, harassment, frivolous and false accusations, and discrimination (particularly on the basis of race, creed, sex, sexual orientation, gender expression, or physical or mental ability). We do not support or engage in Twitter drama, vague posting, or incitement to mob._
@@ -111,7 +112,3 @@ There are generally three types of problematic users (other than SPAM accounts o
 #### Stand For Something
 
 #### Be Nice, Even If That Means Being Mean
-
-#### Platforming: The Silent Killer
-
-#### The Double-edged Sword
