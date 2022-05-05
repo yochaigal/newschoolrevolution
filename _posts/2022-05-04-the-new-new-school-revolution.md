@@ -79,11 +79,15 @@ There exists a well-known reviewer of RPG products. They lean towards mean-spiri
 
 There _would_ be an immediate and public comment from the mods/other community members informing the link poster of the link owner's status as a platformer. This typically results in a debate with the person linking to the page, or with them saying "I didn't know, thanks!" and moving on. The former almost always results in a voluntary withdrawal from the server(s).
 
+There are also warning signs from the followers of the above two groups. People that say things like, "I don't want politics in games" or decry "emotions" in games. I personally tend to be wary of the grognard varieties, especially if they insist on what D&D _is_ or _was_ on a semi-frequent basis. As I elaborate on below, we must be ever vigilant around specific trends away from _our_ status quo.
+
 ### ...And the Other Half is Overwhelming Force
 Identifying problematic folks outside the community is one thing, but how do we combat dangerous trends among our own? Let me introduce you to my two best friends, **active moderators** and **empowered community members**. Both forces work with unceasing vigilance to create a default "standard" of allowable discourse, continuing to reinforce existing acceptable norms, as well as adapting to the shifting landscape of an ever-growing and highly engaged userbase.
 
 #### Community Rules Rule
-The following are verbatim the Discord server rules, released as CC-BY-SA 4.0.
+Moderators are trusted users empowered with the authority to enforce our community rules, guidelines and culture. To be effective they must be both active in the community _and_ ever vigilant. The latter can be exhausting, which is why extant policies that stand against pernicious behavior are an absolute must.
+
+For reference, the following are verbatim the Discord server rules, released as CC-BY-SA 4.0.
 
 1. _Treat everyone with respect. Respect includes acknowledging other people’s boundaries and acknowledging your own behavior. If anyone asks for the conversation to stop, change the topic. If you feel heated, say so, and walk away. If you mess up, own it and apologize if needed. Ask for clarification; assume good faith. Communication is a two-way street._
 
@@ -96,7 +100,7 @@ The following are verbatim the Discord server rules, released as CC-BY-SA 4.0.
 _Just as you are free to choose who to play with, other people are free to read your words and judge if they wish to play with you._
 
 ##### Personal Rules
-As one of the heavier online users in the NSR Community, I follow these guidelines for interacting with others.
+As one of the heavier online users in the NSR Community, I follow these guidelines for interacting with others. I think it helps create the kind of community I want to be a part of, and I've seen others adopt it as well.
 1. _Act in good faith. Assume the same for others._
 2. _If there is no positive aspect to a critique or response, it isn't worth it._
 3. _Encourage the work of others. Sometimes that means you have to poke them a little._
