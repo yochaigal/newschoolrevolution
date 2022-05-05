@@ -59,13 +59,19 @@ I get where this person is coming from. Their fear is all too real, a specter th
 ##### _How do we combat the influence, presence and power of nazis, bigots, fascists, transphobes, and the like? And how well have we done so far?_
 
 ### Knowing Is Half The Battle...
-The OSR/Indie TTRPG community is full of bad actors. Generally they fall into three categories: **Racists/Bigots/Transphobes**, **Simply Problematic**, **Enablers & Platformers**. We maintain a private list for reference.
+The OSR/Indie TTRPG community is full of bad actors. Generally they fall into two categories: **Racists/Bigots/Transphobes** and **Enablers & Platformers**. The Discord/Discourse mods maintain a private list for reference, though much of it is fairly well-understood without needing to reference anything.
 
 #### Racists, Bigots & Transphobes
-
-#### Simply Problematic
+I think anyone reading this knows who these people are. I won't list them here as it simply fans attention their way. A link to their blogs/products results in a _public_ conversation with the person(s) involved, and (usually) an immediate ban. Not everyone knows the truth behind some of the more popular OSR blogs, so we do take it on a case by case basis as.
 
 #### Enabler & Platformers
+This bit is a little more complicated but in some ways is more important than the first. I'm going to offer an example. There exists a well-known reviewer of RPG products. They lean towards mean-spirited, as do many of their fans. To my knowledge they have _never_ espoused views that would place them in the first category, but they _actively_ and unabashedly platform some of them. They do this by allowing these bad actors to fill their comment section with vitriol and hyperbole, and even occasionally reviewing these bad actor's products.
+
+If a user on the Discord/Discourse server was to link to this particular website, it would not result in a ban, nor would the link be taken down.
+
+**HOWEVER**
+
+There would be an immediate and public comment from the mods/other community members informing the person linking to their site of this person's particular preference for platforming (PPPP). I made that acronym up, but it's a thing now. This typically results in a debate with the person linking to the page, or with them saying "I didn't know, thanks!" and moving on. The former almost always results in a voluntary withdrawal from the server(s).
 
 ### ...But The Other Half Is Overwhelming Force
 
