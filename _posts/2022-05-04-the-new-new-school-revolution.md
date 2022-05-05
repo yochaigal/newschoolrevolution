@@ -111,7 +111,7 @@ As one of the heavier online users in the NSR Community, I follow these guidelin
 5. _Try to create a community that you want to be a part of._
 6. _Call-outs are OK, but try to do it nicely. See 1-5._
 
-#### Double-edged Sword
+#### The Double-edged Sword
 The RPG hobby is heavily White, American, Male, Straight, and (some would even say) _midwestern_. This means that anyone _not_ one or all of those things interested in joining an online RPG community is treated as an outsider pretty much immediately. More than that these folks are actively treated as if _they do not belong here_. Oh, I should also say: If you don't think this is a problem, fuck off, because it is _you_ who are not welcome in my spaces.
 
 While there are many philosophies on the best approach to handling this problem, I don't believe that marginalized folks are responsible for doing it. I don't think that they should have to explain or defend themselves in any way, because that shit is _exhausting_. What I do think is that those of who have the benefits of colonial privilege, those of us that find it _easy_ to have these conversations, we are the ones that must stand and do the work: that's the double-edged sword of privilege. Feeling guilty about it? USE IT.
