@@ -82,9 +82,9 @@ There _would_ be an immediate and public comment from the mods/other community m
 There are also warning signs from the followers of the above two groups. People that say things like, "I don't want politics in games" or decry "emotions" in games. I personally tend to be wary of the grognard varieties, especially if they insist on what D&D _is_ or _was_ on a semi-frequent basis. As I elaborate on below, we must be ever vigilant around specific trends away from _our_ status quo.
 
 ### ...And the Other Half is Overwhelming Force
-Identifying problematic folks outside the community is one thing, but how do we combat dangerous trends among our own? Let me introduce you to my two best friends, **active moderators** and **empowered community members**. Both forces work with unceasing vigilance to create a default "standard" of allowable discourse, continuing to reinforce existing acceptable norms, as well as adapting to the shifting landscape of an ever-growing and highly engaged userbase.
+Identifying problematic folks outside the community is one thing, but how do we combat dangerous trends among our own? Let me introduce you to my two best friends, **active moderators** and **empowered community members**. Both forces work with unceasing vigilance to create a default "standard" of allowable discourse in our space, which must be constantly reinforced.
 
-#### Community Rules Rule
+#### Culture Eats Policy For Second Breakfast
 Moderators are trusted users empowered with the authority to enforce our community rules, guidelines and culture. To be effective they must be both active in the community _and_ ever vigilant. The latter can be exhausting, which is why extant policies that stand against pernicious behavior are an absolute must.
 
 For reference, the following are verbatim the Discord server rules, released as CC-BY-SA 4.0.
@@ -99,8 +99,11 @@ For reference, the following are verbatim the Discord server rules, released as 
 
 _Just as you are free to choose who to play with, other people are free to read your words and judge if they wish to play with you._
 
-##### Personal Rules
+#### Be Nice, Even If That Means Being Mean
+We've worked very hard to develop a culture that works to outwardly negate not only the usual bad actors, but also to dissuade some of the less savory aspects of the hobby as well. We have pushed back against sincere attempts to "define" what is and is not "NSR" (see [above](#a-definition-no-one-will-argue-with)), in favor of tongue-in-cheek descriptions and inclusive definitions. We try to assume _good faith_ and when we encounter someone who isn't doing so, or is generally not being very nice, we call them out (publicly or privately, as it happens). Mods are not the only folks who do this, many of our more active users also engage in this sort of discussion management, and I think it makes a huge difference. Similarly we try to slow down the mob mentality/pitchforks that seep into this hobby from time to time.
+
 As one of the heavier online users in the NSR Community, I follow these guidelines for interacting with others. I think it helps create the kind of community I want to be a part of, and I've seen others adopt it as well.
+
 1. _Act in good faith. Assume the same for others._
 2. _If there is no positive aspect to a critique or response, it isn't worth it._
 3. _Encourage the work of others. Sometimes that means you have to poke them a little._
@@ -108,8 +111,5 @@ As one of the heavier online users in the NSR Community, I follow these guidelin
 5. _Try to create a community that you want to be a part of._
 6. _Call-outs are OK, but try to do it nicely. See 1-5._
 
-#### Culture Eats Policy For Second Breakfast
 
 #### Stand For Something
-
-#### Be Nice, Even If That Means Being Mean
