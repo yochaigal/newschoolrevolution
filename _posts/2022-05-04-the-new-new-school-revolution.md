@@ -39,7 +39,7 @@ It feels like the NSR "community" is known for being open, creative, supportive.
 
 ### Who Knows How Words Are Formed?
 
-It's been over two years since the [first post](/2020/01/19/what-is-the-nsr-part-1) of this blog, and the "public" opening of the [NSR Discord](https://cairnrpg.com/discord-server/) (currently at 1,260 members). We've also launched a [Discourse](https://discourse.rpgcauldron.com/) forum that I'm quite proud of, despite failing to post there as often as I'd like. There are 64 game tagged "NSR" on [Itch.io Physical Games](https://itch.io/physical-games/tag-nsr), and about 8 in their "Games" section. I reckon quite a few of us have likely forgotten to include it as a tag as well (ahem).
+It's been over two years since the [first post](/2020/01/19/what-is-the-nsr-part-1) of this blog, and the "public" opening of the [NSR Discord](https://cairnrpg.com/discord-server/) (currently at 1,260 members). We've also launched a [Discourse](https://discourse.rpgcauldron.com/) forum that I'm quite proud of, despite failing to post there as often as I'd like. There are 64 games tagged "NSR" on [Itch.io Physical Games](https://itch.io/physical-games/tag-nsr), and about 8 in their "Games" section. I reckon quite a few of us have likely forgotten to include it as a tag as well (ahem).
 
 Most folks probably already know the term "NSR" owes its origin to a [Bone Box Chant](https://boneboxchant.wordpress.com/) post by [**Pandatheist**](https://twitter.com/Pandatheist), though on her blog she points to a slightly [earlier conversation](https://twitter.com/BrianBloodaxe/status/1191422690952990724) between **[Necropraxis](https://twitter.com/necropraxis)** and **[Brian Ashford](https://twitter.com/BrianBloodaxe)**:
 
@@ -56,7 +56,7 @@ Behind those first few tremblings, something else was [stirring](https://twitter
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-3.jpg "click to embiggen")  
 
-I get where this person is coming from. Their fear is all too real, a specter that [haunts](https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html) this hobby, as well as so many [other](https://lotbieth.blogspot.com/2021/04/productive-scab-picking-on-oppressive.html) others as well. And it raises a few questions that I've been poring over for some time:  
+I get where this person is coming from. Their fear is all too real, a specter that [haunts](https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html) this hobby, and many [others](https://lotbieth.blogspot.com/2021/04/productive-scab-picking-on-oppressive.html) as well. And it raises a few questions that I've been poring over for some time:  
 
 **How do we keep our communities safe from the influence, presence and power of nazis, bigots, fascists, transphobes, and the like?**
 
