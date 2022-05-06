@@ -45,7 +45,7 @@ Most folks probably already know the term "NSR" owes its origin to a [Bone Box C
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-4.jpg "click to embiggen")  
 
-You can see **Pandatheist** take up the mantel [here](https://twitter.com/Pandatheist/status/1191806991863296000):  
+You can see **Pandatheist** take up the mantle [here](https://twitter.com/Pandatheist/status/1191806991863296000):  
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-1.jpg "click to embiggen")  
 
