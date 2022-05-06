@@ -3,7 +3,7 @@ layout: post
 title: The New New School Revolution
 date: 2022-05-04
 tags: ['rpg', 'nsr']
-published: false
+published: true
 ---
 
 # The New New School Revolution
@@ -31,7 +31,9 @@ Here are a few examples of what _regular_ NSR Discord members have said about th
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-9.jpg "click to embiggen")  
 
-![Alt text](/img/the-new-new-nsr/the-new-new-nsr-10.jpg "click to embiggen")  
+![Alt text](/img/the-new-new-nsr/the-new-new-nsr-10.jpg "click to embiggen")
+
+![Alt text](/img/the-new-new-nsr/the-new-new-nsr-13.jpg "click to embiggen") 
 
 It feels like the NSR "community" is known for being open, creative, supportive... Pretty nice, right? So... How did we get here? How are we doing?
 
@@ -103,7 +105,7 @@ For reference, the following are verbatim the Discord server rules, released as 
 _Just as you are free to choose who to play with, other people are free to read your words and judge if they wish to play with you._
 
 #### Be Nice, Even If That Means Being Mean
-We've worked very hard to develop a culture that works to outwardly negate not only the usual bad actors, but also to dissuade some of the less savory aspects of the hobby as well. We have pushed back against sincere attempts to "define" what is and is not "NSR" (see [above](#a-definition-no-one-will-argue-with)), in favor of tongue-in-cheek descriptions and inclusive definitions. We try to assume _good faith_ and when we encounter someone who isn't doing so, or is generally not being very nice, we call them out (publicly or privately, as it happens). Mods are not the only folks who do this, many of our more active users also engage in this sort of discussion management, and I think it makes a huge difference. Similarly we try to slow down the mob mentality/pitchforks that seep into this hobby from time to time.
+We have worked very hard to develop a culture that outwardly negates not _only_ the usual bad actors, but also dissuades some of the "bad behaviors" common to this hobby as well. We have pushed back against sincere attempts to "define" what is and is not "NSR" (see [above](#a-definition-no-one-will-argue-with)), in favor of tongue-in-cheek descriptions and inclusive definitions. We try to assume _good faith_ and when we encounter someone who isn't doing so, or is generally not being very nice, we call them out (publicly or privately, as it happens). Mods are not the only folks who do this, many of our more active users also engage in this sort of discussion management, and I think it makes a huge difference. Similarly we try to slow down the mob mentality/pitchforks that seep into this hobby from time to time.
 
 As one of the heavier online users in the NSR Community, I follow these guidelines for interacting with others. I think it helps create the kind of community I want to be a part of, and I've seen others adopt it as well.
 
