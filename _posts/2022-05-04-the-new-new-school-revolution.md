@@ -51,14 +51,14 @@ You can see **Pandatheist** take up the mantel [here](https://twitter.com/Pandat
 
 But that is not the _whole_ story. Because even at our community's earliest stages, something sinister loomed.
 
-### Fear is the Community Killer
+#### Fear is the Community Killer
 Behind those first few tremblings, something else was [stirring](https://twitter.com/vagrant_dwarf/status/1191842212218314753):
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-3.jpg "click to embiggen")  
 
 I get where this person is coming from. Their fear is all too real, a specter that [haunts](https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html) this hobby, as well as so many [other](https://lotbieth.blogspot.com/2021/04/productive-scab-picking-on-oppressive.html) others as well. And it raises a few questions that I've been poring over for some time:
 
-##### _How do we combat the influence, presence and power of nazis, bigots, fascists, transphobes, and the like? And how well have we done so far?_
+### _How do we combat the influence, presence and power of nazis, bigots, fascists, transphobes, and the like? And how well have we done so far?_
 
 ### Knowing Is Half The Battle...
 The OSR/Indie TTRPG community is full of bad actors. Identifying and tracking these folks so that they and their followers do not gain an active presence in our communities is pivotal. For one of my favorite examples of this, read [this](https://twitter.com/IamRageSparkle/status/1280891537451343873?s=20&t=R4KPmPlkSD0U_wHbbZiS_w) (anecdotal) story from Twitter about a bartender in Baltimore.
