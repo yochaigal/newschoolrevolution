@@ -8,7 +8,7 @@ published: true
 
 # The New New School Revolution
 
-This is not one of those "look at how we've grown!" posts, I swear. Instead this is one of those "how did we get here?" kinds of posts, which I swear is totally different! To do that, I'll talk a bit about the definition of the term NSR, as well as some of its associated history and impact.
+This is not one of those "look at how we've grown!" posts. Instead this is one of those "how did we get here?" kinds of posts, which I swear is totally different! To do that, I'll talk a bit about the definition of the term NSR, as well as some of its associated history and impact.
 
 ### A Definition No One Will Argue With
 As of Wednesday, May 4th 2022 you can read the "complete" definition of all the elements of an NSR-style game [here](https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr/) on **Pandatheist's** blog. This is wonderful on the one hand, as now I can point to this post and say, "here's a definition for design purposes! Now go make stuff."
@@ -122,6 +122,6 @@ As one of the heavier online users in the NSR Community, I follow these guidelin
 #### The Double-edged Sword
 The RPG hobby is heavily White, American, Male, Straight, and (some would even say) _midwestern_. This means that anyone _not_ one or all of those things interested in joining an online RPG community is treated as an outsider pretty much immediately. More than that these folks are actively treated as if _they do not belong here_. Oh, I should also say: If you don't think this is a problem, fuck off, because it is _you_ who are not welcome in my spaces.
 
-While there are many philosophies on the best approach to handling this problem, I don't believe that marginalized folks are responsible for doing it. I don't think that they should have to explain or defend themselves in any way, because that shit is _exhausting_. What I do think is that those of who have the benefits of colonial privilege, those of us that find it _easy_ to have these conversations, we are the ones that must stand and do the work: that's the double-edged sword of privilege. Feeling guilty about it your privilege? Then USE IT.
+While there are many philosophies on the best approach to handling this problem, I don't believe that marginalized folks are responsible for doing it. I don't think that they should have to explain or defend themselves in any way, because that shit is _exhausting_. What I do think is that those of who have the benefits of colonial privilege, those of us that find it _easy_ to have these conversations, we are the ones that must stand and do the work: that's the double-edged sword of privilege. Feeling guilty about your privilege? Then DO SOMETHING GOOD WITH IT.
 
 Also if you are like me and seemingly have no problem with conflict (perhaps you even _enjoy it_), maybe you can do the right thing, too.
