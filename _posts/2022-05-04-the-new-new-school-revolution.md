@@ -66,7 +66,7 @@ There are generally three types of problematic users (other than SPAM accounts o
 - A known problem without clear violations. Farming the community for pure financial interests, creating drama to stir up fake Internet points, etc.
 - A known bigot or abuser. "Known" here can mean a lot of things, but "previously banned by one or more communities for comments/actions" is a good indicator.
 
-Within that last category, these types generally they fall into two categories: **Racists/Bigots/Transphobes** and **Enablers & Platformers**. The Discord/Discourse mods may maintain a private list of these for reference.
+Within that last category, these types generally they fall into two categories: **Racists, Bigots & Transphobes** and **Enablers & Platformers**. The Discord/Discourse mods may maintain a private list of these for reference.
 
 #### Racists, Bigots & Transphobes
 I think anyone reading this knows who these people are. I won't list them here as it simply fans attention their way. Any user linking to their blogs/products results in a _public_ conversation with the person(s) involved, and (usually) an immediate ban. Not everyone knows the truth behind some of the more popular OSR blogs, so we do take it on a case by case basis as.
@@ -74,7 +74,9 @@ I think anyone reading this knows who these people are. I won't list them here a
 #### Enabler & Platformers
 This bit is a little more complicated but in some ways is more important than the first, so I'm actually going to offer an example in this case.   
 
-Bryce Lynch is a well-known reviewer of RPG products, posting under the blog Ten Foot Pole. His reviews lean towards the mean-spirited, as do many of his fans. To my knowledge he has never espoused views that would place him in the first category, but he _actively_ and unabashedly platforms some of those same people. He does this by allowing these bad actors to fill his comment section with vitriol and hyperbole, and even occasionally by reviewing these bad actor's products. If a user on the Discord/Discourse server was to link to this particular website, it would not result in a ban, nor would the link be taken down.
+I'm confident that the majority of folks reading this blog are familiar with the review website tenfootpole.org. I doubt anyone would disagree that the reviews there lean towards the mean-spirited, as do many of the comments below each review. To my knowledge, the website or its owner have never espoused views that would place it in the first category. However, the website _actively_ and unabashedly platforms many, many deplorable people by allowing these bad actors to fill up the site's comment section with their vitriol and hyperbole and by reviewing these bad actor's products. That place is a den of snakes.
+
+If a user on the Discord/Discourse server was to link to this particular website, it would not result in a ban, nor would the link be taken down.
 
 **HOWEVER**
 
