@@ -93,7 +93,7 @@ There are also warning signs from the followers of the above two groups. People 
 Identifying problematic folks outside the community is one thing, but how do we combat dangerous trends among our own? Let me introduce you to my two best friends, **active moderators** and **empowered community members**. Both forces work with unceasing vigilance to create a default "standard" of allowable discourse in our space, which must be constantly reinforced.
 
 #### Culture Eats Policy For Second Breakfast
-Moderators are trusted users empowered with the authority to enforce our community rules, guidelines and culture. To be effective they must be both active in the community _and_ ever vigilant. The latter can be exhausting, which is why extant policies that stand against pernicious behavior are an absolute must.
+Moderators are trusted users empowered with the authority to enforce our community rules, guidelines, and culture. To be effective they must be both active in the community _and_ ever vigilant. The latter can be exhausting, which is why extant policies that stand against pernicious behavior are an absolute must.
 
 For reference, the following are verbatim the Discord server rules, released as CC-BY-SA 4.0.
 
@@ -122,6 +122,6 @@ As one of the heavier online users in the NSR Community, I follow these guidelin
 #### The Double-edged Sword
 The RPG hobby is heavily White, American, Male, Straight, and (some would even say) _midwestern_. This means that anyone _not_ one or all of those things interested in joining an online RPG community is treated as an outsider pretty much immediately. More than that these folks are actively treated as if _they do not belong here_. Oh, I should also say: If you don't think this is a problem, fuck off, because it is _you_ who are not welcome in my spaces.
 
-While there are many philosophies on the best approach to handling this problem, I don't believe that marginalized folks are responsible for doing it. I don't think that they should have to explain or defend themselves in any way, because that shit is _exhausting_. What I do think is that those of who have the benefits of colonial privilege, those of us that find it _easy_ to have these conversations, we are the ones that must stand and do the work: that's the double-edged sword of privilege. Feeling guilty about your privilege? Then DO SOMETHING GOOD WITH IT.
+While there are many philosophies on the best approach to handling this problem, I don't believe that marginalized folks are responsible for doing it. I don't think that they should have to explain or defend themselves in any way, because that shit is _exhausting_. What I do think is that those who have the benefits of colonial privilege, those of us that find it _easy_ to have these conversations, we are the ones that must stand and do the work: that's the double-edged sword of privilege. Feeling guilty about your privilege? Then DO SOMETHING GOOD WITH IT.
 
 Also if you are like me and seemingly have no problem with conflict (perhaps you even _enjoy it_), maybe you can do the right thing, too.
