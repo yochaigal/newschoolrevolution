@@ -33,7 +33,7 @@ Here are a few examples of what _regular_ NSR Discord members have said about th
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-10.jpg "click to embiggen")
 
-![Alt text](/img/the-new-new-nsr/the-new-new-nsr-11.jpg "click to embiggen") 
+![Alt text](/img/the-new-new-nsr/the-new-new-nsr-11.jpg "click to embiggen")
 
 It feels like the NSR "community" is known for being open, creative, supportive... Pretty nice, right? So... How did we get here? How are we doing?
 
@@ -121,4 +121,4 @@ The RPG hobby is heavily White, American, Male, Straight, and (some would even s
 
 While there are many philosophies on the best approach to handling this problem, I don't believe that marginalized folks are responsible for doing it. I don't think that they should have to explain or defend themselves in any way, because that shit is _exhausting_. What I do think is that those of who have the benefits of colonial privilege, those of us that find it _easy_ to have these conversations, we are the ones that must stand and do the work: that's the double-edged sword of privilege. Feeling guilty about it your privilege? Then USE IT.
 
-Also if you have like, no problem with conflict and seem to enjoy it *cough*, maybe you can do the right thing, too.
+Also if you are like me and seemingly have no problem with conflict (perhaps you even _enjoy it_), maybe you can do the right thing, too.
