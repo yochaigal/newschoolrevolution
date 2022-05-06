@@ -33,7 +33,7 @@ Here are a few examples of what _regular_ NSR Discord members have said about th
 
 ![Alt text](/img/the-new-new-nsr/the-new-new-nsr-10.jpg "click to embiggen")
 
-![Alt text](/img/the-new-new-nsr/the-new-new-nsr-13.jpg "click to embiggen") 
+![Alt text](/img/the-new-new-nsr/the-new-new-nsr-11.jpg "click to embiggen") 
 
 It feels like the NSR "community" is known for being open, creative, supportive... Pretty nice, right? So... How did we get here? How are we doing?
 
