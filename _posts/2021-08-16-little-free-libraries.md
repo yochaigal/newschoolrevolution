@@ -39,3 +39,5 @@ Thus far, I've given away about 14 "deluxe" copies of Cairn, along with 5 genero
 I highly recommend anyone give this sort of thing a shot, it's quite rewarding and interesting. And nothing beats that feeling of sneakily checking to see if someone has picked your game out of all the books! I mean, who wouldn't be drawn to a bag of dice, right?
 
 If you do happen to try this out, please let me know! With pics!
+
+Finally, anyone reading this has my _full permission_ to distribute any of my products in this fashion. You didn't actually need it, of course. But there it is. Have fun!
