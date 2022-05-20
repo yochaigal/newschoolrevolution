@@ -7,7 +7,7 @@ published: true
 ---
 
 # Inspirational Sources
-The following books directly influenced the writing of Cairn, as well as my upcoming setting/adventure _Beyond The Pale_.
+By request, I put together a list of reading material that directly influenced the writing and design of [Cairn](https://cairnrpg.com), as well as my upcoming setting/adventure _Beyond The Pale_.
 
 ## Fiction
 - [A Wizard of Earthsea](https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea) by [Ursula K. Le Guin](https://www.ursulakleguin.com/)
