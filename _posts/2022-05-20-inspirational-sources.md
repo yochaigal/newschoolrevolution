@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inspirational Sources
-date: 2022-05-22
+date: 2022-05-20
 tags: ['rpg', 'nsr', 'books']
 published: true
 ---
