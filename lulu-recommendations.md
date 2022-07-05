@@ -49,6 +49,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Veil 2020](https://www.lulu.com/en/us/shop/fraser-simons/veil-2020/paperback/product-rjg6q9.html)
 - [Vieja Escuela](https://www.lulu.com/en/us/shop/javier-garc%C3%ADa/vieja-escuela-the-role-playing-game/paperback/product-19e4gznp.html)
 - [Warrior, Rogue, Mage](https://www.lulu.com/en/us/shop/michael-wolf/warrior-rogue-mage/paperback/product-1dnzr77j.html)
+- [Weird North](https://www.lulu.com/shop/jim-parkin/weird-north/paperback/product-wdr6gq.html)
 - [White Box](https://www.lulu.com/en/us/shop/charlie-mason/white-box-fantastic-medieval-adventure-game/paperback/product-1g2jrv7v.html)
 - [Whitehack](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html)
 - [Yokai Hunter's Society](https://www.lulu.com/en/us/shop/chema-gonz%C3%A1lez/yokai-hunters-society/paperback/product-yr799y.html)
