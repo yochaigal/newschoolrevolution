@@ -101,6 +101,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Tomb of the Sea Kings](https://www.lulu.com/en/us/shop/lawson-bennett-and-jimm-johnson/tomb-of-the-sea-kings/ebook/product-14mep7pn.html)
 - [Towers of Krshal](https://www.lulu.com/en/us/shop/albert-rakowski/towers-of-krshal/paperback/product-15ggzdyr.html)
 - [Valley of the Five Fires](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-module-va1-valley-of-the-five-fires/paperback/product-1qnkwjyk.html)
+- [Wyvern Songs](https://www.lulu.com/shop/brad-kerr-and-will-perkins-and-tyler-smith-owings-and-amanda-lee-franck/wyvern-songs/hardcover/product-6zeew2.html)
 
 ## Game Tools
 - [A Guide to Thieves' Guilds](https://www.lulu.com/en/us/shop/todd-leback/a-guide-to-thieves-guilds/paperback/product-n54n8r.html)
