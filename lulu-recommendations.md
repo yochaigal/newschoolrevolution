@@ -86,7 +86,6 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - Stonehell: [Down Night-Haunted Halls](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-down-night-haunted-halls/paperback/product-1v8vy2zz.html) & [Into The Heart of Hell](https://www.lulu.com/en/us/shop/michael-curtis/stonehell-dungeon-into-the-heart-of-hell/ebook/product-1yj5yj72.html)
 - [The Blackapple Brugh](https://www.lulu.com/en/us/shop/kyle-hettinger-and-vasily-ermolaev/the-blackapple-brugh/paperback/product-v7qm8y.html)
 - [The Blasphemous Roster Guilds of Infinigrad and their Machinations](https://www.lulu.com/en/us/shop/michael-raston/the-blasphemous-roster-guilds-of-infinigrad-and-their-machinations/paperback/product-17enz57e.html)
-- [The Castle that Fell from the Sky](https://www.lulu.com/en/us/shop/jimm-johnson-and-steve-robertson/the-castle-that-fell-from-the-sky/paperback/product-1wr8567n.html)
 - [The Chaotic Caves](https://www.lulu.com/en/us/shop/jd-neal/the-chaotic-caves-saddle-stitch/paperback/product-1j9vv56d.html)
 - [The Forest of the Treelords](https://www.lulu.com/en/us/shop/scott-malthouse/the-forest-of-the-treelords/ebook/product-1nq8vrpk.html)
 - [The Greydeep Marches](https://www.lulu.com/en/us/shop/peter-schweighofer/the-greydeep-marches/paperback/product-189med8m.html)
