@@ -36,7 +36,7 @@ A simple wargame/rpg to play with young children.
 
 ## OSR
 #### [Between Two Cairns](https://www.buzzsprout.com/2042709/)
-- An OSR review podcast, hosted by me (Yochai Gal) and [Brad Kerr](https://brad-kerr.itch.io/)
+An OSR review podcast, hosted by me (Yochai Gal) and [Brad Kerr](https://brad-kerr.itch.io/)
 
 #### [Cairn](https://cairnrpg.com)
 A mash-up of Knave and Into the Odd-style games for play in fantastical forests. Designed in such a way to plug-and-play B/X materials (as much as I liked, anyway) while relying on a simpler mechanical system without difficulty in conversion.
@@ -51,10 +51,8 @@ A simple adventure site for [Into The Odd: Electric Bastionland](https://chrismc
 When I started running Into The Odd, I again found a system with a veritable bouquet of excellent tools, hacks, tips & resources, but no single place to keep all of the relevant links! And thus the Syllabus was born.  
 
 #### [Into The Odd Content](https://yochaigal.github.io/intotheodd/)
-A massive list of oddities, careers, monsters and hacks for Into The Odd.
+A massive list of oddities, careers, monsters and hacks for Into The Odd. I don't keep it up to date, as there are better [Itch collections](https://itch.io/c/865525/into-the-odd).
 
-#### [The Arcanist](https://docs.google.com/document/d/14Bz9I5HEY8l34YQn_DA0NdqePcJqtL2HuPPA0aVp9WY/edit?usp=sharing) ([Into The Dungeon: Revived](https://github.com/Vladar4/itdr))
-An overpowered alternative magic user.
 <br>
 
 ## PbtA
