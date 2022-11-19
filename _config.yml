@@ -18,6 +18,10 @@ post_limit: 10
 twitter_username: yochaigal1
 github_username: yochaigal
 reddit_username: yochaigal
+mastodon: 
+  - username: yochaigal
+    instance: dice.camp
+
 markdown: kramdown
 kramdown:
   input: GFM
