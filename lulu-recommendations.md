@@ -45,17 +45,14 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [The Deep Dark](https://www.lulu.com/en/us/shop/s-john-bateman/the-deep-dark/paperback/product-1dz7k5wg.html)
 - [The Nightmares Underneath](https://www.lulu.com/en/us/shop/johnstone-metzger/the-nightmares-underneath/hardcover/product-ejejy6.html)
 - [The Shadow of Yesterday](https://www.lulu.com/en/us/shop/clinton-r-nixon/the-shadow-of-yesterday/hardcover/product-18e5v6.html)
-- [Untold Adventures](https://www.lulu.com/en/us/shop/james-spahn/untold-adventures-minimalist-fantasy-roleplaying/paperback/product-23703714.html)
 - [Veil 2020](https://www.lulu.com/en/us/shop/fraser-simons/veil-2020/paperback/product-rjg6q9.html)
 - [Vieja Escuela](https://www.lulu.com/en/us/shop/javier-garc%C3%ADa/vieja-escuela-the-role-playing-game/paperback/product-19e4gznp.html)
 - [Warrior, Rogue, Mage](https://www.lulu.com/en/us/shop/michael-wolf/warrior-rogue-mage/paperback/product-1dnzr77j.html)
-- [Weird North](https://www.lulu.com/shop/jim-parkin/weird-north/paperback/product-wdr6gq.html)
 - [White Box](https://www.lulu.com/en/us/shop/charlie-mason/white-box-fantastic-medieval-adventure-game/paperback/product-1g2jrv7v.html)
 - [Whitehack](https://www.lulu.com/en/us/shop/christian-mehrstam/whitehack-third-edition/hardcover/product-d85wej.html)
 - [Yokai Hunter's Society](https://www.lulu.com/en/us/shop/chema-gonz%C3%A1lez/yokai-hunters-society/paperback/product-yr799y.html)
 
 ## Adventures & Settings
-- [A Blaze in the Northern Sky](https://www.lulu.com/en/us/shop/scott-myers/a-blaze-in-the-northern-sky/paperback/product-q88zzj.html)
 - [Advanced Adventures Compendium 1](https://www.lulu.com/en/us/shop/suzi-yee-and-joseph-browning-and-andrew-hind-and-alphonso-warden/advanced-adventures-compendium-1/hardcover/product-16qmkykj.html)
 - [Adventure Anthology 1](https://www.lulu.com/en/us/shop/chris-gonnerman/adventure-anthology-1-perfect-bound/paperback/product-1k925r9e.html) & [2](https://www.lulu.com/en/us/shop/chris-gonnerman-and-james-lemon/adventure-anthology-2-perfect-bound/paperback/product-196zem6p.html)
 - [Adventures on Dungeon Planet](https://www.lulu.com/en/us/shop/johnstone-metzger/adventures-on-dungeon-planet/paperback/product-125w7knr.html)
