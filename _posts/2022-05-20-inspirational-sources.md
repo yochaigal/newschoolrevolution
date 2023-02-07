@@ -28,6 +28,7 @@ By request, I put together a list of reading material that directly influenced t
 - [The Lost Shtetl](https://www.goodreads.com/en/boo/show/50496905-the-lost-shtetl) by [Max Gross](https://twitter.com/SchlubGross)
 - [The Owl Service](https://www.goodreads.com/book/show/83829.The_Owl_Service) by [Alan Garner](https://en.wikipedia.org/wiki/Alan_Garner)
 - [The Witness for the Dead](https://www.goodreads.com/en/book/show/41302953-the-witness-for-the-dead) by [Katherine Addison](https://www.katherineaddison.com/)
+- [Ancient Lights](https://americanliterature.com/author/algernon-blackwood/short-story/ancient-lights) by [Algernon Blackwood](https://americanliterature.com/author/algernon-blackwood)
 
 # Folktales from The British Isles & More
 - [Boggarts, Trolls and Tylwyth Teg: Folk Tales of Hidden People Lost Lands](https://www.goodreads.com/book/show/59485749-boggarts-trolls-and-tylwyth-teg) by [Peter Stevenson](https://www.peterstevensonarts.co.uk/illustration)
