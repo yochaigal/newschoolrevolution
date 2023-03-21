@@ -42,7 +42,7 @@ Maybe one day.
 - [Cleveland Museum of Art Open Access](https://www.clevelandart.org/open-access)
 - [HatI Trust Digital Library](https://catalog.hathitrust.org/)
 - [Library of Congress](https://www.loc.gov/books/)
-
+- [Wikimedia Commons: Pearson Scott Foresman](https://commons.m.wikimedia.org/wiki/Commons:Pearson_Scott_Foresman)
 
 ## Miscellaneous Links
 - [Wikipedia:Public Domain](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
