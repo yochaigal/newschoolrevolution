@@ -15,6 +15,8 @@ At long last, the first playtest for Cairn 2e Player's Guide is available! But W
 If you're ready to dive in, HERE IT IS: [Cairn 2e Player's Guide July Playtest](https://drive.google.com/file/d/1Km4LQliCbn-sAH2nzT6WhLTnGKZyijLx/view?usp=sharing).  
 Send your letters to the [Cairn discord](https://cairnrpg.com/discord-server/) please, I'll have a channel there for feedback. Also, I plan to continue updating the PDF via Google Drive as random fixes get added. 
 
+The layout is by [Adam Hensley](https://twitter.com/AdamHensley), and the editing is by Naeolin.
+
 Read on to find out what's different, what to expect in future versions, and more! 
 
 ## Overview
