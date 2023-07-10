@@ -12,15 +12,16 @@ published: true
 
 At long last, the first playtest for Cairn 2e Player's Guide is available! But WAIT: Please sign up for my [newsletter](https://sendy.cairnrpg.com/subscription?f=n9G27jGVbvmrWkgZuvOkFn892EkYVBfVWczcGLSEHF7GuqB6wWDEuh2ocHRD7iuLl1). I host the software on my own server, so you can be sure I won't share your info with anyone else. I promise I'll only use it to tell you about Cairn related stuff. Or don't, whatever. 
 
-If you're ready to dive in, HERE IT IS: [Cairn 2e Player's Guide July Playtest](https://drive.google.com/file/d/1Km4LQliCbn-sAH2nzT6WhLTnGKZyijLx/view?usp=sharing). Send your letters to the [Cairn discord](https://cairnrpg.com/discord-server/) please, I'll have a channel there for feedback. I'll keep updating the PDF via Google Drive as random fixes get added. 
+If you're ready to dive in, HERE IT IS: [Cairn 2e Player's Guide July Playtest](https://drive.google.com/file/d/1Km4LQliCbn-sAH2nzT6WhLTnGKZyijLx/view?usp=sharing).  
+Send your letters to the [Cairn discord](https://cairnrpg.com/discord-server/) please, I'll have a channel there for feedback. Also, I plan to continue updating the PDF via Google Drive as random fixes get added. 
 
 Read on to find out what's different, what to expect in future versions, and more! 
 
-## Overview
+### Overview
 
 The Player's Guide is just that: a manual for all players, including the Warden. It contains the core rules and procedures, and can be played _right now_! But let's get to important part: What's different?
 
-## Rules
+### Rules
 
 The core rules are 100% compatible with Cairn 1e. Of course, there are some significant changes in store. Let's talk about it. 
 
@@ -46,7 +47,7 @@ Let's get this out of the way first: a Procedures are rules that provide an orde
 
 I've been working on a setting for Cairn. There is only a single page at the moment (at least.... in the Player's Guide) but it should provide a decent framework for setting up a game. It splits the world in two: The Woods, and The Roots. Adventures happen in the The Woods, and dungeons are (usually) accessed in The Roots. Gates are spread throughout the world, and act as portals to The Roots (and make travel fast!). 
 
-## The Future
+### The Future
 
 The Player's Guide is ready to play, _now_. However, there is still a lot I plan to add:  
 - Rules FAQs
@@ -55,7 +56,7 @@ The Player's Guide is ready to play, _now_. However, there is still a lot I plan
 - Procedures for Downtime (including foreground growth!)
 - Expanded setting, including an adventure!
 
-### That's it?
+#### That's it?
 
 No! We haven't even _talked_ about the Warden's Guide. A companion to the Player's Guide, this book will be PACKED with tools to help run a successful game, including:
 
@@ -69,10 +70,10 @@ No! We haven't even _talked_ about the Warden's Guide. A companion to the Player
 
 I'm sure there's more I've forgotten. Deal with it.
 
-### Wait what about the box set?
+#### Wait what about the box set?
 
 Yeah this is still happening. Kickstarter in September, I hope. I'm just trying to write the damn thing _first_, you know? 
 
-### What about that weird Jewish thing you were making?
+#### What about that weird Jewish thing you were making?
 
 That's still happening! The adventure is officially called Beyond The Pale. The writing and art has been finished for about six months, but I took... kind of a long time to get it done, and fell out of sync with the layout person. But fear not! It is actively being worked on. Lost Pages is publishing it, so it should look AMAZING in print, people. 
