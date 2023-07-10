@@ -3,7 +3,7 @@ layout: post
 title: Cairn 2e Playtest
 date: 2022-07-10
 tags: ['rpg', 'osr', 'cairn']
-published: false
+published: true
 ---
 
 # Cairn 2e Playtest
