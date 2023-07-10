@@ -19,7 +19,9 @@ Read on to find out what's different, what to expect in future versions, and mor
 
 ## Overview
 
-The Player's Guide is just that: a manual for all players, including the Warden. It contains the core rules and procedures, and can be played _right now_! But let's get to important part: What's different?
+The Player's Guide is just that: a manual for all players, including the Warden. It contains the core rules and procedures, and can be played _right now_! Also, did you see that sick cover art by [Bruno Prosaiko](https://www.instagram.com/prosaiko/?hl=en)? Expect more of that. 
+
+But let's get to important part: What's different?
 
 ## Rules
 
@@ -32,6 +34,8 @@ Over the years I've heard a lot of the same questions over and over again, despi
 ## Backgrounds
 
 This is a big one. Character generation hasn't been _changed_ exactly, but _expanded_. Instead of simply rolling on a table of generic backgrounds, I've written 20 bespoke Backgrounds, each with unique tables (Electric Bastionland style!). The tables help determine both character starting gear _and_ implicit (or explicit) abilities unique to each. These take up the bulk of the book (around 60 pages).
+
+A note: none of the Backgrounds presently have any art. Fear not! That's happening. I've hired the illustrious [Keny Widjaja](http://www.kenywid.com/illus.php) to do all of them!
 
 ## Bonds & Omens
 
@@ -55,6 +59,7 @@ The Player's Guide is ready to play, _now_. However, there is still a lot I plan
 - Spellbook personalities: this is actually almost finished, but I kept it out of the playtest for "reasons"
 - Procedures for Downtime (including foreground growth!)
 - Expanded setting, including an adventure!
+- Adding a TON of art (obviously to the Backgrounds, but also elsewhere)
 
 ## That's it?
 
@@ -65,7 +70,7 @@ No! We haven't even _talked_ about the Warden's Guide. A companion to the Player
 - How to design a forestcrawl (also complete!)
 - A guide to worldbuilding in general, including how to write Backgrounds like you'd find in the Player's Guide
 - Lots of Relics
-- A Bestiary
+- A Bestiary (with art by [Tony Tran](https://www.instagram.com/tonytrandesign/?hl=en))
 - General advice to running OSR games, to the tune of Yochai
 
 I'm sure there's more I've forgotten. Deal with it.
