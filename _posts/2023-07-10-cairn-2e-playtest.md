@@ -8,6 +8,8 @@ published: false
 
 # Cairn 2e Playtest
 
+[![Alt text](/img/cairn/playtest_image.png) "click to embiggen"){:height="75%" width="75%"}](/img/cairn/playtest_image.png)
+
 At long last, the first playtest for Cairn 2e Player's Guide is available! But WAIT: Please sign up for my [newsletter](https://sendy.cairnrpg.com/subscription?f=n9G27jGVbvmrWkgZuvOkFn892EkYVBfVWczcGLSEHF7GuqB6wWDEuh2ocHRD7iuLl1). I host the software on my own server, so you can be sure I won't share your info with anyone else. I promise I'll only use it to tell you about Cairn related stuff. Or don't, whatever. 
 
 If you're ready to dive in, HERE IT IS: [Cairn 2e Player's Guide July Playtest](https://drive.google.com/file/d/1Km4LQliCbn-sAH2nzT6WhLTnGKZyijLx/view?usp=sharing).  
