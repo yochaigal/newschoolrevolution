@@ -75,6 +75,7 @@ No! We haven't even _talked_ about the Warden's Guide. A companion to the Player
 - A Bestiary (with art by [Tony Tran](https://www.instagram.com/tonytrandesign/?hl=en))
 - General advice to running OSR games, to the tune of Yochai
 
+You can actually see some of this stuff on the Cairn website _right now_. Click [here](https://cairnrpg.com/wip/). 
 I'm sure there's more I've forgotten. Deal with it.
 
 ## Wait what about the box set?
