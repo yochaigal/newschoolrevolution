@@ -69,3 +69,7 @@ I'm sure there's more I've forgotten. Deal with it.
 ### Wait what about the box set?
 
 Yeah this is still happening. Kickstarter in September, I hope. I'm just trying to write the damn thing _first_, you know? 
+
+### What about that weird Jewish thing you were making?
+
+That's still happening! The adventure is officially called Beyond The Pale. The writing and art has been finished for about six months, but I took... kind of a long time to get it done, and fell out of sync with the layout person. But fear not! It is actively being worked on. Lost Pages is publishing it, so it should look AMAZING in print, people. 
