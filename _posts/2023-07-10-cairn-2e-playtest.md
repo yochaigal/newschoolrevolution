@@ -31,7 +31,7 @@ The core rules are 100% compatible with Cairn 1e. Of course, there are some sign
 
 ## Clarifications, decisions
 
-Over the years I've heard a lot of the same questions over and over again, despite the existence of the Cairn FAQ. Obviously, clarity is the enemy of minimalism here. Fortunately I've had a lot of time to think things over, rephrase some things, and (finally) hire an editor. The rules are fine-tuned and less "vague" while (hopefully) still allowing for the kinds of flexibility Cairn was known for.  
+Over the years I've heard a lot of the same questions over and over again, despite the existence of the Cairn FAQ. Obviously, clarity is the enemy of minimalism here. Fortunately I've had a lot of time to think things over, rephrase some things, and (finally) hire an editor. The rules are fine-tuned and less "vague" while (hopefully) still allowing for the kinds of flexibility Cairn is known for.  
 
 ## Backgrounds
 
@@ -41,7 +41,7 @@ A note: none of the Backgrounds presently have any art. Fear not! That's happeni
 
 ## Bonds & Omens
 
-Each character will know roll on a global Bonds table. Each entry is fine-tuned to deliver a modicum of backstory and connection with the game world. This is a bit like Debt in other games, but mixed a bit with Bonds and Flags from Dungeon World (though a bit less prescriptive). Gotta love comparing one game to another to explain a mechanic, eh?
+Characters now roll on a global Bonds table. Each entry is fine-tuned to deliver a modicum of backstory and connection with the game world. This is a bit like Debt in other games, but mixed a bit with Bonds and Flags from Dungeon World (though a bit less prescriptive). Gotta love comparing one game to another to explain a mechanic, eh?
 
 Omens on the other hand are (usually) only rolled _once_ by the a single party member. They point to a darkness or aberration on the horizon. This is honestly more for the Warden than anyone else. 
 
@@ -75,7 +75,8 @@ No! We haven't even _talked_ about the Warden's Guide. A companion to the Player
 - A Bestiary (with art by [Tony Tran](https://www.instagram.com/tonytrandesign/?hl=en))
 - General advice to running OSR games, to the tune of Yochai
 
-You can actually see some of this stuff on the Cairn website _right now_. Click [here](https://cairnrpg.com/wip/). 
+You can actually see some of this stuff on the Cairn website _right now_. Click [here](https://cairnrpg.com/wip/).  
+
 I'm sure there's more I've forgotten. Deal with it.
 
 ## Wait what about the box set?
