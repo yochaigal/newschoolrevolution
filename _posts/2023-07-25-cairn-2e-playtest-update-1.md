@@ -52,5 +52,5 @@ This time around I've created a more formal feedback intake process. Here is wha
 
 Additionally, we are asking that feedback is only submitted in one of two ways:  
 - By filling out [this form](https://tinyurl.com/2e-feedback) (given the format, this is the best way to submit typos or rules clarifications).
-- As a post or comment in the [Cairn Discord’s](https://discord.io/newschoolrevolution) dedicated 2e-feedback forum (this is the ideal place for play reports). 
+- As a post or comment in the [Cairn Discord’s](https://discord.io/cairn) dedicated 2e-feedback forum (this is the ideal place for play reports). 
 
