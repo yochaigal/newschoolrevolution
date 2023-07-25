@@ -32,7 +32,7 @@ Here is an incomplete list of what to expect:
 - Rewrote Hirelings creation process
 - Rewrote character creation intro, changed subheadings
 - Renamed Ability Scores to Attributes... everywhere?
-- Rewrote Marketplace! Collapsed common items into groups for maximum flexibility
+- Collapsed marketplace items into groups for maximum flexibility
 - Clarified weirdness with carts/donkeys
 - Lots of little things
 
