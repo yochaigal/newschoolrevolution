@@ -10,13 +10,17 @@ published: false
 
 [![Alt text](/img/cairn/playtest-update-one-resized.png "Click to make bigger"){:height="100%" width="100%"}](/img/cairn/playtest-update-one-resized.png)
 
-A [few weeks ago](/_posts/2023-07-10-cairn-2e-playtest.md) I released the Player's Guide playtest, an 80+ page rulebook for the upcoming Cairn 2nd edition. Since that time, I've received a _flood_ of positive (and occasionally negative) feedback, including typos, questions about some of the new rules and procedures, play reports, and so on. This has all been _extremely_ helpful to say the least, and as such we are ready to release the first updated PDF, incorporating much of what we've learned from the community. Once again, [sign-up here](https://tinyurl.com/cairn2e-news) if you’d like to get notified about future releases, the Kickstarter, and so on.
+## Summary
 
-## The PDF
+A [few weeks ago](/_posts/2023-07-10-cairn-2e-playtest.md) I released the Player's Guide playtest, an 80+ page rulebook for the upcoming Cairn 2nd edition. Since that time, I've received a _flood_ of positive (and occasionally negative) feedback, including typos, questions about some of the new rules and procedures, play reports, and so on. 
+
+This has all been _extremely_ helpful to say the least, and as such we are ready to release the first updated PDF, incorporating much of what we've learned from the community. Once again, [sign-up here](https://tinyurl.com/cairn2e-news) if you’d like to get notified about future releases, the Kickstarter, and so on.
+
+## Get The PDF
 
 The URL is actually [the same](https://tinyurl.com/cairn-2e-player) as the old playtest! Have at it.
 
-## The Changes
+## Changes
 
 Here is an incomplete list of what to expect:
 
@@ -47,6 +51,7 @@ Here is an incomplete list of what to expect:
 - Clarified Difficulty in Wilderness Exploration
 - Removed references to Surprise
 - Removed extraneous Panic from Wilderness Exploration
+- Rewrote/simplified wilderness exploration cycle
 - Clarified "Getting Lost" in Wilderness Exploration (e.g. 1-in-6, 2-in-6)
 
 ## Feedback
