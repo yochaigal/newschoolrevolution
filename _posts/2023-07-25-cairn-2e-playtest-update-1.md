@@ -12,7 +12,7 @@ published: true
 
 ## Summary
 
-A [few weeks ago](/_posts/2023-07-10-cairn-2e-playtest.md) I released the Player's Guide playtest, an 80+ page rulebook for the upcoming Cairn 2nd edition. Since that time, I've received a _flood_ of positive (and occasionally negative) feedback, including typos, questions about some of the new rules and procedures, play reports, and so on. 
+A [few weeks ago](https://newschoolrevolution.com/2023/07/10/cairn-2e-playtest) I released the Player's Guide playtest, an 80+ page rulebook for the upcoming Cairn 2nd edition. Since that time, I've received a _flood_ of positive (and occasionally negative) feedback, including typos, questions about some of the new rules and procedures, play reports, and so on. 
 
 This has all been _extremely_ helpful to say the least, and as such we are ready to release the first updated PDF, incorporating much of what we've learned from the community. Once again, [sign-up here](https://tinyurl.com/cairn2e-news) if you’d like to get notified about future releases, the Kickstarter, and so on.
 

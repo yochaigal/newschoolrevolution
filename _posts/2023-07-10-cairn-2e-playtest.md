@@ -43,7 +43,7 @@ A note: none of the Backgrounds presently have any art. Fear not! That's happeni
 
 Characters now roll on a global Bonds table. Each entry is fine-tuned to deliver a modicum of backstory and connection with the game world. This is a bit like Debt in other games, but mixed a bit with Bonds and Flags from Dungeon World (though a bit less prescriptive). Gotta love comparing one game to another to explain a mechanic, eh?
 
-Omens on the other hand are (usually) only rolled _once_ by the a single party member. They point to a darkness or aberration on the horizon. This is honestly more for the Warden than anyone else. 
+Omens on the other hand are (usually) only rolled _once_ by a single party member. They point to a darkness or aberration on the horizon. This is honestly more for the Warden than anyone else. 
 
 ## Procedures!
 
