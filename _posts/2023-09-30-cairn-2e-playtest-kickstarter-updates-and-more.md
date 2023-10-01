@@ -84,11 +84,11 @@ And finally: my Cairn adventure _Beyond The Pale_ has a [Kickstarter](https://ww
 
 Please click that "notify on launch" button to if you want to get... notified on launch!
 
-## One More Thing
+### One More Thing
 
 I HAVE A NEWSLETTER IF THAT INTERESTS YOU!  
 Click [here](https://tinyurl.com/cairn2e-news) to sign up! 
 
-## The End
+#### The End
 
 That's all for now - thanks for reading. I'll leave you all for now, as I have promises to keep, and miles to go before I sleep...
