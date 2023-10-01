@@ -42,7 +42,6 @@ The contents of the box set have not changed, but I am happy to provide some mor
 - Art for backgrounds is expected in early November
 - Writing for the Warden's Guide is in full swing
 
-
 ## Playtest Status
 
 [Earlier this year](https://newschoolrevolution.com/2023/07/10/cairn-2e-playtest) we released the first update to our Player's Guide, an 80+ page rulebook for the upcoming Cairn 2nd edition. Since that time, we've been very busy [playtesting](https://widdershinswanderings.bearblog.dev/blog/?q=Cairn%202e%20playtest), fixing typos, testing new procedures, and working on the Warden's Guide. 
@@ -85,4 +84,11 @@ And finally: my Cairn adventure _Beyond The Pale_ has a [Kickstarter](https://ww
 
 Please click that "notify on launch" button to if you want to get... notified on launch!
 
-That's all the news - thanks for reading. I'll leave you all for now, as I have promises to keep, and miles to go before I sleep...
+## One More Thing
+
+I HAVE A NEWSLETTER IF THAT INTERESTS YOU!  
+Click [here](https://tinyurl.com/cairn2e-news) to sign up! 
+
+## The End
+
+That's all for now - thanks for reading. I'll leave you all for now, as I have promises to keep, and miles to go before I sleep...
