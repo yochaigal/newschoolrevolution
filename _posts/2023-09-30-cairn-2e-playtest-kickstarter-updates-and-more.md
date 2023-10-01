@@ -81,4 +81,8 @@ Additionally, we are asking that feedback is only submitted in one of two ways:
 
 [![Alt text](/img/cairn/btp-ks-banner.png "Click to make bigger"){:height="60%" width="60%"}](/img/cairn/btp-ks-banner.png)
 
-And finally: my Cairn adventure _Beyond The Pale_ has a [Kickstarter](https://www.kickstarter.com/projects/lost-pages/beyond-the-pale-a-folktale-adventure) project page! Published by [Lost Pages](https://www.lostpages.co.uk/), _Beyond The Pale_ is an old school adventure inspired by Jewish folklore and mysticism. I first started writiing it two years ago, and I am so very excited to share it with the world. The writing, art, and layout are complete, we are just shuffling a few things around in prepartion for print. The PDF will be available as soon as the 15-day Kickstarter ends.
+And finally: my Cairn adventure _Beyond The Pale_ has a [Kickstarter](https://www.kickstarter.com/projects/lost-pages/beyond-the-pale-a-folktale-adventure) project page! Published by [Lost Pages](https://www.lostpages.co.uk/), _Beyond The Pale_ is an old school adventure inspired by Jewish folklore and mysticism. I first started writiing it two years ago, and I am so very excited to share it with the world. The writing, art, and layout are complete, we are just shuffling a few things around in prepartion for print. The PDF will be available as soon as the 15-day Kickstarter ends. 
+
+Please click that "notify on launch" button to if you want to get... notified on launch!
+
+That's all the news - thanks for reading. I'll leave you all for now, as I have promises to keep, and miles to go before I sleep...
