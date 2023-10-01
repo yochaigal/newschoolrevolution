@@ -16,12 +16,7 @@ First, the good news: Cairn 2e has a new publisher! Earlier this year, we were v
 
 SHOCKING!
 
-I know, I know. Honestly, pushing it forward (or is it back... I always forget?) will ensure that the box set is everything we want it to be — and more. A few more updates:
-
-- Amanda Lee Franck has been hired to do some interior art & a bestiary for the Warden's Guide
-- The online character generator/Keeper is nearing beta
-- Art for backgrounds is expected in early November
-- Writing for the Warden's Guide is in full swing
+I know, I know. Honestly, pushing it forward (or is it back... I always forget?) will ensure that the box set is everything we want it to be — and more.
 
 ### Basic Box Set
 
@@ -39,6 +34,14 @@ The contents of the box set have not changed, but I am happy to provide some mor
 - Online Setting generator (like that [cool one](https://anodyneprintware.com/planets/) for Mothership)
 - Arts-n-craft tokens! Really! Maybe.
 - Localization (as many languages as we can)
+
+### A few more updates:
+
+- Amanda Lee Franck has been hired to do some interior art & a bestiary for the Warden's Guide
+- The online character generator/Keeper is nearing beta
+- Art for backgrounds is expected in early November
+- Writing for the Warden's Guide is in full swing
+
 
 ## Playtest Status
 
