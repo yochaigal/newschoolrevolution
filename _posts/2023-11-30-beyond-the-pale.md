@@ -8,7 +8,7 @@ published: true
 
 # Beyond The Pale
 
-I'm very excited to announce that tomorrow, Friday Dec 1st the Kickstarter for Beyond the Pale is finally launching!
+I'm very excited to announce that tomorrow, Friday Dec 1st, the Kickstarter for **Beyond the Pale** is finally launching!
 
 [![Alt text](/img/beyond-the-pale/btp-on-ks.jpg "Click to make bigger"){:height="60%" width="60%"}](/img/beyond-the-pale/btp-on-ks.jpg)
 
@@ -30,7 +30,7 @@ The village (and the surrounding countryside) is populated with all manner of fo
 
 As the PCs explore the town, the forest, and the dungeons of the Pale, they will encounter beasts unfamiliar and wild: an unrelenting dybbuk, a vengeful mazzik, the malicious Alukah, and many more.
 
-[![Alt text](/img/beyond-the-pale/dazzler.resized.png "Click to make bigger"){:height="60%" width="60%"}](/img/beyond-the-pale/dazzler.resized.png)
+[![Alt text](/img/beyond-the-pale/dazzler.resized.png "Click to make bigger"){:height="40%" width="40%"}](/img/beyond-the-pale/dazzler.resized.png)
 
 The events of this module take place during a week-long celebration, the Days of Remembrance, during which the PCs will need to gather information, solve mysteries, and overcome threats to prevent a great cataclysm. 
 
@@ -51,7 +51,7 @@ The book will be printed by Lost Pages, an esteemed publisher of multiple award-
 
 The print copy also gets you a PDF, while the hardcover gets made (delivery in July of 2024). The PDF is fully complete, and will be sent to backers by e-mail upon the success of the Kickstarter.
 
-[![Alt text](/img/beyond-the-pale/rifka.resized.jpg "Click to make bigger"){:height="60%" width="60%"}](/img/beyond-the-pale/rifka.resized.jpg)
+[![Alt text](/img/beyond-the-pale/rifka.resized.jpg "Click to make bigger"){:height="40%" width="40%"}](/img/beyond-the-pale/rifka.resized.jpg)
 
 ## Back it, please!
 
