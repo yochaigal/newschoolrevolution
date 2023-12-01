@@ -42,16 +42,15 @@ I am immensely fortunate to have found some incredibly talented people to help m
 
 The core development team (writing, art, layout) identify as Jewish, and members of the religious Jewish were brought in as sensitivity consultants. Great care was taken to ensure that the themes and images represented in the text were not offensive.
 
-
-[![Alt text](/img/beyond-the-pale/mockup_cover.jpg "Click to make bigger"){:height="60%" width="60%"}](/img/beyond-the-pale/mockup_cover.jpg)
+[![Alt text](/img/beyond-the-pale/rifka.resized.jpg "Click to make bigger"){:height="40%" width="40%"}](/img/beyond-the-pale/rifka.resized.jpg)
 
 ## The Book
+
+[![Alt text](/img/beyond-the-pale/mockup_cover.jpg "Click to make bigger"){:height="60%" width="60%"}](/img/beyond-the-pale/mockup_cover.jpg)
 
 The book will be printed by Lost Pages, an esteemed publisher of multiple award-winning supplements such as The Book of Gaub, Wonder & Wickedness, Wulfwald, and more. The book will be printed in Estonia on thick Swedish cream paper, cased in hardcover, clad in black bookcloth, and given an embossed cover with white lettering.  
 
 The print copy also gets you a PDF, while the hardcover gets made (delivery in July of 2024). The PDF is fully complete, and will be sent to backers by e-mail upon the success of the Kickstarter.
-
-[![Alt text](/img/beyond-the-pale/rifka.resized.jpg "Click to make bigger"){:height="40%" width="40%"}](/img/beyond-the-pale/rifka.resized.jpg)
 
 ## Back it, please!
 
