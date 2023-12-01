@@ -2,7 +2,7 @@
 layout: post
 title: Beyond the Pale
 date: 2023-11-100
-tags: ['rpg', 'osr', 'cairn']
+tags: ['rpg', 'osr', 'cairn', 'adventures']
 published: true
 ---
 
