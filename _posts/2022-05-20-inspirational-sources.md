@@ -55,4 +55,4 @@ By request, I put together a list of reading material that directly influenced t
 - [The Fool and Forest Spirit](https://www.yiddishbookcenter.org/language-literature-culture/pakn-treger/2021-pakn-treger-digital-translation-issue/fool-and-forest) by [Der Nister](https://yivoencyclopedia.org/article.aspx/der_nister)
 - [The Owl](https://www.yiddishbookcenter.org/language-literature-culture/pakn-treger/2021-pakn-treger-digital-translation-issue/owl) by [Rachel Korn](https://en.wikipedia.org/wiki/Rachel_Korn)
 - [The Witches of Escazú](https://www.goodreads.com/en/book/show/59495358-the-witches-of-escaz) by [Roots Metals](https://www.rootsmetals.com/)
-- [Yiddish Folktales](https://www.goodreads.com/book/show/1426531.Yiddish_Folktales) by [Beatrice Silverman Weinreich ](https://www.goodreads.com/author/list/5624208.Beatrice_Silverman_Weinreich)
+- [Yiddish Folktales](https://www.goodreads.com/book/show/1426531.Yiddish_Folktales) by [Beatrice Silverman Weinreich](https://www.goodreads.com/author/list/5624208.Beatrice_Silverman_Weinreich)
