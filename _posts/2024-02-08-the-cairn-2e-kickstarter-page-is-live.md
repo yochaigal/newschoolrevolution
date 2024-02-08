@@ -12,7 +12,8 @@ published: true
 
 ## What Is?
 
-The Kickstarter for the Cairn 2e Box Set will "go live" for backers sometime in late March.  Click [here](https://www.kickstarter.com/projects/1557907976/cairn-2e-boxed-set) to "follow" it!
+The Kickstarter for the Cairn 2e Box Set will "go live" for backers sometime in late March.  
+Click [here](https://www.kickstarter.com/projects/1557907976/cairn-2e-boxed-set) to "follow" it!
 
 ## WHAT IS IN THE BOX?
 
@@ -47,6 +48,8 @@ A list of topics covered include:
 - Factions
 
 ### Starting Adventure
+
+[![Alt text](/img/cairn/Swallowed_Whole.jpg "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Swallowed_Whole.jpg)
 
 Written by me, and illustrated by Ari-Matti Toivonen and Adam Hensley. This is the first "official" Cairn adventure, and part of an ongoing series with lots more to come. It's long! It's got lots going on! It's got dungeons!
 
