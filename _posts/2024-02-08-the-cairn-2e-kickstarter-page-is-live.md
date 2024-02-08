@@ -12,7 +12,7 @@ published: true
 
 ## What Is?
 
-The Kickstarter for the Cairn 2e Box Set will "go live" for backers sometime in late March.  Click here to "follow" it!
+The Kickstarter for the Cairn 2e Box Set will "go live" for backers sometime in late March.  Click [here](https://www.kickstarter.com/projects/1557907976/cairn-2e-boxed-set) to "follow" it!
 
 ## WHAT IS IN THE BOX?
 
@@ -58,7 +58,7 @@ Written by me, and illustrated by Ari-Matti Toivonen and Adam Hensley. This is t
 
 Unfortunately I'm not ready to give away the image to this just yet. But I can tell you it'll have five panels and folds up real nice...
 
-Enough, go [follow]() this thing. 
+Enough, go [follow](https://www.kickstarter.com/projects/1557907976/cairn-2e-boxed-set) this thing. 
 
 Thanks!
 
