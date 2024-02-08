@@ -61,6 +61,10 @@ Written by me, and illustrated by Ari-Matti Toivonen and Adam Hensley. This is t
 
 Unfortunately I'm not ready to give away the image to this just yet. But I can tell you it'll have five panels and folds up real nice...
 
+
+### Newsletter
+
+If you'd like to keep up to date with Cairn news, check out my [newsletter](https://news.cairnrpg.com)!
 Enough, go [follow](https://www.kickstarter.com/projects/1557907976/cairn-2e-boxed-set) this thing. 
 
 Thanks!
