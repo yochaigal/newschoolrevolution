@@ -8,7 +8,7 @@ published: true
     
 # The Cairn 2e Kickstarter Page is Live!
 
-[![Alt text](/img/cairn/rules.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/rules.png)
+[![Alt text](/img/cairn/rules.png "click to embiggen"){:height="50%" width="50%"}](/img/cairn/rules.png)
 
 ## What Is?
 
@@ -19,14 +19,14 @@ Click [here](https://www.kickstarter.com/projects/1557907976/cairn-2e-boxed-set)
 
 ### The Player's Guide
 
-[![Alt text](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png)
+[![Alt text](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png "click to embiggen"){:height="50%" width="50%"}](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png)
 
 Featuring the same rules you already know but with some minor tweaks and clarifications, three new procedures for play, and 20 boutique backgrounds for generating interesting and weird characters. Also, a ton of really beautiful art from Keny Widjaja and Amanda Lee Franck!
 This is available right now and is entering its final editing stages. This book will be available at cost as an add-on and in the future. And yes the text will still be CC-BY-SA 4.0!
 
 ### The Warden's Guide
 
-[![Alt text](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png)
+[![Alt text](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png "click to embiggen"){:height="50%" width="50%"}](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png)
 
 Packed to the brim with advice, resources and procedures for running Cairn (and other old school games). And yes the text will still be CC-BY-SA 4.0!
 
@@ -49,13 +49,13 @@ A list of topics covered include:
 
 ### Starting Adventure
 
-[![Alt text](/img/cairn/Swallowed_Whole.jpg "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Swallowed_Whole.jpg)
+[![Alt text](/img/cairn/Swallowed_Whole.jpg "click to embiggen"){:height="50%" width="50%"}](/img/cairn/Swallowed_Whole.jpg)
 
 Written by me, and illustrated by Ari-Matti Toivonen and Adam Hensley. This is the first "official" Cairn adventure, and part of an ongoing series with lots more to come. It's long! It's got lots going on! It's got dungeons!
 
 ### Tear-off Character Sheets!
 
-[![Alt text](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png)
+[![Alt text](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png "click to embiggen"){:height="50%" width="50%"}](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png)
 
 ### A GM Screen!
 
