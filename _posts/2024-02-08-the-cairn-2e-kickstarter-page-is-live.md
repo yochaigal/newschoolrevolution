@@ -8,6 +8,8 @@ published: true
     
 # The Cairn 2e Kickstarter Page is Live!
 
+[![Alt text](/img/cairn/rules.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/rules.png)
+
 ## What Is?
 
 The Kickstarter for the Cairn 2e Box Set will "go live" for backers sometime in late March.  Click here to "follow" it!
@@ -16,14 +18,14 @@ The Kickstarter for the Cairn 2e Box Set will "go live" for backers sometime in 
 
 ### The Player's Guide
 
-[![Alt text](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png "click to embiggen"){:height="100%" width="100%"}](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png)
+[![Alt text](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Cairn_2e_Players_Guide_Playtest.resized.png)
 
 Featuring the same rules you already know but with some minor tweaks and clarifications, three new procedures for play, and 20 boutique backgrounds for generating interesting and weird characters. Also, a ton of really beautiful art from Keny Widjaja and Amanda Lee Franck!
 This is available right now and is entering its final editing stages. This book will be available at cost as an add-on and in the future. And yes the text will still be CC-BY-SA 4.0!
 
 ### The Warden's Guide
 
-[![Alt text](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png "click to embiggen"){:height="100%" width="100%"}](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png)
+[![Alt text](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Cairn_2e_Wardens_Guide_Playtest.resized.png)
 
 Packed to the brim with advice, resources and procedures for running Cairn (and other old school games). And yes the text will still be CC-BY-SA 4.0!
 
@@ -50,7 +52,7 @@ Written by me, and illustrated by Ari-Matti Toivonen and Adam Hensley. This is t
 
 ### Tear-off Character Sheets!
 
-[![Alt text](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png "click to embiggen"){:height="100%" width="100%"}](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png)
+[![Alt text](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png "click to embiggen"){:height="25%" width="25%"}](/img/cairn/Cairn-2e-Character-Sheet-Portrait.resized.png)
 
 ### A GM Screen!
 
