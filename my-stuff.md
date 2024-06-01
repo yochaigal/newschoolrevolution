@@ -25,9 +25,8 @@ Some adventures & settings that I love!
 #### [The Dungeon Game](https://yochaigal.itch.io/the-dungeon-game)
 A simple wargame/rpg to play with young children.
 
-## My Feeds
-- [My Inoreader Profile](https://www.inoreader.com/u/yochaigal)
-- [My RPG Folder RSS](https://www.inoreader.com/stream/user/1006254761/tag/RPGs) & [JSON](https://www.inoreader.com/stream/user/1006254761/tag/RPGs/view/json)
+## My Feed
+- [OPML file of all my RPG blogs](/files/feeds_2024-05-08.opml) (Last Updated 05-23-2024)
 
 ### Communities I'm Part Of
 - [The Cauldron Discord](https://discord.io/newschoolrevolution) (NSR Chat)
