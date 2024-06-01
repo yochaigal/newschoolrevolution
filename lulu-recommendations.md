@@ -83,6 +83,7 @@ I'll try to keep it up-to-date going forward, but please let me know if I've mis
 - [Old School Adventures Module TM1: The Ogress of Anubis](https://www.lulu.com/en/us/shop/richard-leblanc/old-school-adventurestm-module-tm1-the-ogress-of-anubis/paperback/product-1629ekpr.html)
 - Planarch Codex: [Wintry Plane](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-wintry-plane/paperback/product-19znm5zj.html) & [Dark Heart](https://www.lulu.com/en/us/shop/j-walton/planarch-codex-dark-heart/paperback/product-1ynm4jve.html)
 - [Planet Eris Gazeteer](https://www.lulu.com/en/us/shop/jimm-johnson/planet-eris-gazetteer/paperback/product-1vgrdwzj.html)
+- [Rise of the Blood Olms](https://www.lulu.com/shop/yochai-gal/rise-of-the-blood-olms/paperback/product-nvwqz8v.html)
 - [Ruins of the Undercity](https://www.lulu.com/en/us/shop/kabuki-kaiser/ruins-of-the-undercity/paperback/product-1e84vw2r.html)
 - [Saga of the Giants](https://www.lulu.com/en/us/shop/jd-neal/saga-of-the-giants/paperback/product-1yjke6wd.html)
 - [Secrets of the Wyrdwoode](https://www.lulu.com/en/us/shop/luigi-castellani/secrets-of-the-wyrwoode-softcover/paperback/product-1q5r6eyw.html)
