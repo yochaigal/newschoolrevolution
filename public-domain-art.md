@@ -11,6 +11,7 @@ I've collected a lot of public domain art links in my time.
 Maybe one day.
 
 ## Sources
+- [Chaoclypse](https://chaoclypse.itch.io/)'s Dropbox Hoard of [Getty Scans](https://www.dropbox.com/scl/fo/zyj0trj7hvc5rrhhzihan/ANW9p0d8pDFzvVs_pN2S7B8?rlkey=4ryu4w0mmzygb7vth04o6ug5p&dl=0) & [Zipped](https://www.dropbox.com/scl/fi/hixdct7wh2072i5obgn3a/Getty.zip?rlkey=ezno83qrrlakgsqgo3h7t4rm4&e=1&dl=0)
 - [British Public Library](https://www.bl.uk/collection-guides?subject=Visual%20arts)
 - [Public Domain Review](https://publicdomainreview.org/collections/)
 - [Old Book Illustrations](https://www.oldbookillustrations.com/)
@@ -61,7 +62,7 @@ Maybe one day.
 - [Old Books for Children](https://www.flickr.com/photos/slavomiravladimirova/galleries/72157676407471851/?rb=1)
 - [Open Source Illustration](https://www.flickr.com/photos/8542318@N07/galleries/72157716015091097/)
 - [Portraits from the british library](https://www.flickr.com/search/?user_id=12403504%40N02&view_all=1&text=portrait)
-- [SCRAP PRINCESS CURATION](https://www.flickr.com/photos/182996516@N07/galleries/72157717249528072/)
+- [SCRAP PRINCESS CURATION](https### ://www.flickr.com/photos/182996516@N07/galleries/72157717249528072/)
 - [Fuck Yeah Vintage Illustrations](https://fuckyeahvintageillustration.tumblr.com/)
 - [1 Million Free Pictures](https://www.1millionfreepictures.com/2015/08/gallery-of-downloadable-1-million-free.html)
 - [Libreshot](https://libreshot.com/)
