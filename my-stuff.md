@@ -34,7 +34,7 @@ A simple wargame/rpg to play with young children.
 - [The Cairn Discord](https://discord.io/cairn)
 
 ## OSR
-#### [Between Two Cairns](https://www.buzzsprout.com/2042709/)
+#### [Between Two Cairns](https://www.patreon.com/betweentwocairns)
 An OSR review podcast, hosted by me (Yochai Gal) and [Brad Kerr](https://brad-kerr.itch.io/)
 
 #### [Cairn](https://cairnrpg.com)
