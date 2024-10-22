@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Thu, 30 May 2024 08:25:30 -0400</dateCreated>
+    <dateCreated>Tue, 22 Oct 2024 11:43:02 -0400</dateCreated>
   </head>
   <body>
     <outline text="RPGs">
@@ -15,7 +15,7 @@
       <outline text="A Blood-Red Rubric" type="rss" xmlUrl="https://www.blogger.com/feeds/8488365328947931106/posts/default" htmlUrl="https://ablood-redrubric.blogspot.com/"/>
       <outline text="Aboleth Overlords" type="rss" xmlUrl="https://aboleth-overlords.com/feed/" htmlUrl="https://aboleth-overlords.com/"/>
       <outline text="Academy of Doors" type="rss" xmlUrl="https://academyofdoors.blogspot.com/feeds/posts/default" htmlUrl="https://academyofdoors.blogspot.com/"/>
-      <outline text="Advanced Xerox Lord" type="rss" xmlUrl="https://xeroxlord.blogspot.com/feeds/posts/default" htmlUrl="https://xeroxlord.blogspot.com/"/>
+      <outline text="Advanced Xerox Lord" type="rss" xmlUrl="https://www.blogger.com/feeds/75119273193302714/posts/default" htmlUrl="https://xeroxlord.blogspot.com/"/>
       <outline text="Adventures Buffo" type="rss" xmlUrl="https://www.blogger.com/feeds/7669800939246643082/posts/default" htmlUrl="https://adventuresbuffo.blogspot.com/"/>
       <outline text="Adventures in the Autumn Court" type="rss" xmlUrl="https://www.blogger.com/feeds/3591549558723747744/posts/default" htmlUrl="https://autumncourtadventures.blogspot.com/"/>
       <outline text="Against The Wicked City" type="rss" xmlUrl="https://www.blogger.com/feeds/392427526916288536/posts/default" htmlUrl="http://udan-adan.blogspot.com/"/>
@@ -60,7 +60,8 @@
       <outline text="BASTIONLAND" type="rss" xmlUrl="https://www.bastionland.com/feeds/posts/default?alt=rss" htmlUrl="http://www.bastionland.com/"/>
       <outline text="Bat in the Attic" type="rss" xmlUrl="https://batintheattic.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://batintheattic.blogspot.com/"/>
       <outline text="BEARDED DEVIL" type="rss" xmlUrl="https://bearded-devil.com/feed/" htmlUrl="http://bearded-devil.com/"/>
-      <outline text="Beholder Pie" type="rss" xmlUrl="https://beholderpie.blogspot.com/feeds/posts/default" htmlUrl="http://beholderpie.blogspot.com/"/>
+      <outline text="Behind the Helm" type="rss" xmlUrl="https://behindthehelm.bearblog.dev/feed/" htmlUrl="https://behindthehelm.bearblog.dev/"/>
+      <outline text="Beholder Pie" type="rss" xmlUrl="https://www.blogger.com/feeds/682746068845868752/posts/default" htmlUrl="http://beholderpie.blogspot.com/"/>
       <outline text="Below the Rusty Lantern" type="rss" xmlUrl="https://www.blogger.com/feeds/7783663517900258415/posts/default" htmlUrl="http://belowtherustylantern.blogspot.com/"/>
       <outline text="Benign Brown Beast" type="rss" xmlUrl="https://beast.blot.im/feed.rss" htmlUrl="https://beast.blot.im"/>
       <outline text="Bent bookshelf" type="rss" xmlUrl="https://www.blogger.com/feeds/1615162404043477580/posts/default" htmlUrl="https://bentbookshelf.blogspot.com/"/>
@@ -93,7 +94,7 @@
       <outline text="Captain Ahab's Leg" type="rss" xmlUrl="https://captainahabsleg.blogspot.com/feeds/posts/default" htmlUrl="https://captainahabsleg.blogspot.com/"/>
       <outline text="Caput Caprae" type="rss" xmlUrl="https://www.blogger.com/feeds/7774574497467197899/posts/default" htmlUrl="https://caput-caprae.blogspot.com/"/>
       <outline text="Castle Grief" type="rss" xmlUrl="https://castlegrief.substack.com/feed" htmlUrl="https://castlegrief.substack.com/"/>
-      <outline text="Catabythisis" type="rss" xmlUrl="https://www.blogger.com/feeds/8746692932587218423/posts/default" htmlUrl="https://catabythisis.blogspot.com/"/>
+      <outline text="Catabythisis" type="rss" xmlUrl="https://catabythisis.blogspot.com/feeds/posts/default" htmlUrl="https://catabythisis.blogspot.com/"/>
       <outline text="Cats Have No Lord" type="rss" xmlUrl="https://blog.catshavenolord.page/feed/?type=rss" htmlUrl="https://blog.catshavenolord.page/"/>
       <outline text="Cats Have No Lord: System-Ambivalent Tabletop Roleplaying Content" type="rss" xmlUrl="https://catshavenolord.wordpress.com/feed/" htmlUrl="https://catshavenolord.wordpress.com/"/>
       <outline text="Cavegirl's Game Stuff" type="rss" xmlUrl="https://www.blogger.com/feeds/2556965477270279581/posts/default" htmlUrl="https://cavegirlgames.blogspot.com/"/>
@@ -104,7 +105,7 @@
       <outline text="ChicagoWiz's Games" type="rss" xmlUrl="https://www.blogger.com/feeds/229820060378216711/posts/default" htmlUrl="http://chgowiz-games.blogspot.com/"/>
       <outline text="chocolate hammer" type="rss" xmlUrl="https://www.chocolatehammer.org/?feed=rss2" htmlUrl="https://www.chocolatehammer.org/"/>
       <outline text="Chronicle of a Sundered Era" type="rss" xmlUrl="http://sunderedera.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://sunderedera.blogspot.com/"/>
-      <outline text="Chronicles of Wyddrit" type="rss" xmlUrl="https://www.blogger.com/feeds/4402221874089412886/posts/default" htmlUrl="https://wyddrit.blogspot.com/"/>
+      <outline text="Chronicles of Wyddrit" type="rss" xmlUrl="https://wyddrit.blogspot.com/feeds/posts/default" htmlUrl="https://wyddrit.blogspot.com/"/>
       <outline text="Chthonstone Games" type="rss" xmlUrl="https://www.blogger.com/feeds/333956818325196458/posts/default" htmlUrl="https://chthonstone.blogspot.com/"/>
       <outline text="Cige Engine" type="rss" xmlUrl="https://www.blogger.com/feeds/4104183593062631914/posts/default" htmlUrl="https://cigeengine.blogspot.com/"/>
       <outline text="Clerics Wear Ringmail" type="rss" xmlUrl="https://www.blogger.com/feeds/2979619314039432370/posts/default" htmlUrl="https://clericswearringmail.blogspot.com/"/>
@@ -113,6 +114,8 @@
       <outline text="Coins and Scrolls" type="rss" xmlUrl="https://coinsandscrolls.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://coinsandscrolls.blogspot.com/"/>
       <outline text="Coppers and Boars" type="rss" xmlUrl="https://coppersandboars.com/feed/" htmlUrl="https://coppersandboars.com/"/>
       <outline text="Correspondence is about Diligence" type="rss" xmlUrl="https://www.arkenstonepublishing.net/isabout/feed/" htmlUrl="https://www.arkenstonepublishing.net/isabout"/>
+      <outline text="Crab Dungeon" type="rss" xmlUrl="https://www.blogger.com/feeds/454896713765429591/posts/default" htmlUrl="https://crabdungeon.blogspot.com/"/>
+      <outline text="Crab Dungeon" type="rss" xmlUrl="https://www.blogger.com/feeds/454896713765429591/posts/default" htmlUrl="https://crabdungeon.blogspot.com/"/>
       <outline text="Creative Mountain Games" type="rss" xmlUrl="https://www.blogger.com/feeds/5114039334464312553/posts/default" htmlUrl="http://www.creativemountaingames.com/"/>
       <outline text="Crypt Of The Rambling Dead" type="rss" xmlUrl="https://cryptoftheramblingdead.wordpress.com/feed/" htmlUrl="https://cryptoftheramblingdead.wordpress.com/"/>
       <outline text="Cyborgs and Sorcerers" type="rss" xmlUrl="https://www.blogger.com/feeds/3329751241384641619/posts/default" htmlUrl="https://cyborgsandsorcerers.blogspot.com/"/>
@@ -141,9 +144,9 @@
       <outline text="DESKS &amp; DRAGONS" type="rss" xmlUrl="http://dragons.ie/feed/" htmlUrl="http://dragons.ie/"/>
       <outline text="Detect Magic" type="rss" xmlUrl="https://detectmagic.wordpress.com/feed/" htmlUrl="https://detectmagic.wordpress.com/"/>
       <outline text="Diaghilev's Dice" type="rss" xmlUrl="https://www.blogger.com/feeds/1052274371050438045/posts/default" htmlUrl="https://diaghilevsdice.blogspot.com/"/>
-      <outline text="Dice and Decisions" type="rss" xmlUrl="https://rpg-maths.blogspot.com/feeds/posts/default" htmlUrl="https://rpg-maths.blogspot.com/"/>
+      <outline text="Dice and Decisions" type="rss" xmlUrl="https://www.blogger.com/feeds/8928248678923962310/posts/default" htmlUrl="https://rpg-maths.blogspot.com/"/>
       <outline text="Dice Goblin" type="rss" xmlUrl="https://dicegoblin.blog/feed/" htmlUrl="https://dicegoblin.blog/"/>
-      <outline text="Dice in the North" type="rss" xmlUrl="https://diceinthenorth.blogspot.com/feeds/posts/default" htmlUrl="https://diceinthenorth.blogspot.com/"/>
+      <outline text="Dice in the North" type="rss" xmlUrl="https://www.blogger.com/feeds/2926658730501221712/posts/default" htmlUrl="https://diceinthenorth.blogspot.com/"/>
       <outline text="diegesis" type="rss" xmlUrl="https://rpgdiegesis.wordpress.com/feed/" htmlUrl="https://rpgdiegesis.wordpress.com/"/>
       <outline text="dieheart" type="rss" xmlUrl="https://www.dieheart.net/index.xml" htmlUrl="https://www.dieheart.net/"/>
       <outline text="Digital Rodeo" type="rss" xmlUrl="https://www.blogger.com/feeds/7716723324189603084/posts/default" htmlUrl="https://thedigitalrodeo.blogspot.com/"/>
@@ -179,7 +182,7 @@
       <outline text="english - Orkpiraten" type="rss" xmlUrl="https://www.orkpiraten.de/blog/tag/english/feed" htmlUrl="https://www.orkpiraten.de/blog"/>
       <outline text="English – Teylen's RPG Corner" type="rss" xmlUrl="https://teylen.blog/category/english/feed/" htmlUrl="https://teylen.blog/"/>
       <outline text="En los Gorgoten" type="rss" xmlUrl="http://dunions.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://dunions.blogspot.com/"/>
-      <outline text="Enthusiastic Skeleton Boys" type="rss" xmlUrl="https://www.blogger.com/feeds/3820809921508480440/posts/default" htmlUrl="https://enthusiasticskeletonboys.blogspot.com/"/>
+      <outline text="Enthusiastic Skeleton Boys" type="rss" xmlUrl="https://enthusiasticskeletonboys.blogspot.com/feeds/posts/default" htmlUrl="https://enthusiasticskeletonboys.blogspot.com/"/>
       <outline text="ephemeral palimpsest" type="rss" xmlUrl="https://www.blogger.com/feeds/1013878240950569960/posts/default" htmlUrl="https://ephemeralpalimpsest.blogspot.com/"/>
       <outline text="Espharel" type="rss" xmlUrl="https://www.blogger.com/feeds/8866367177615979788/posts/default" htmlUrl="https://espharel.blogspot.com/"/>
       <outline text="EUCATASTROPHIC" type="rss" xmlUrl="https://eucatastrophic.bearblog.dev/feed/?type=rss" htmlUrl="https://eucatastrophic.bearblog.dev/feed/?type=rss"/>
@@ -193,7 +196,7 @@
       <outline text="Falling From Orbit" type="rss" xmlUrl="https://fallingfromorbit.blot.im/feed.rss" htmlUrl="https://fallingfromorbit.blot.im/"/>
       <outline text="False Machine" type="rss" xmlUrl="http://falsemachine.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://falsemachine.blogspot.com/"/>
       <outline text="Familiar Waves" type="rss" xmlUrl="https://familiarwaves.substack.com/feed" htmlUrl="https://familiarwaves.substack.com/"/>
-      <outline text="Fantasy Heartbreak Workshop" type="rss" xmlUrl="https://www.blogger.com/feeds/1376575367892366667/posts/default" htmlUrl="https://fantasyheartbreak.blogspot.com/"/>
+      <outline text="Fantasy Heartbreak Workshop" type="rss" xmlUrl="https://fantasyheartbreak.blogspot.com/feeds/posts/default" htmlUrl="https://fantasyheartbreak.blogspot.com/"/>
       <outline text="Flumph Philosopher" type="rss" xmlUrl="https://flumph-philosopher.github.io/feed.xml" htmlUrl="https://flumph-philosopher.github.io/"/>
       <outline text="Foreign Planets" type="rss" xmlUrl="https://www.blogger.com/feeds/4155163594221139385/posts/default" htmlUrl="http://foreignplanets.blogspot.com/"/>
       <outline text="Forest Critter" type="rss" xmlUrl="https://www.blogger.com/feeds/6998437533216610146/posts/default" htmlUrl="https://forestcritter.blogspot.com/"/>
@@ -221,6 +224,7 @@
       <outline text="Goblin Stomper" type="rss" xmlUrl="http://goblinstomper.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://goblinstomper.blogspot.com"/>
       <outline text="Goobernuts' Blog" type="rss" xmlUrl="https://goobernutsblog.wordpress.com/feed/" htmlUrl="https://goobernutsblog.wordpress.com/"/>
       <outline text="Goodberry Monthly" type="rss" xmlUrl="https://goodberrymonthly.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://goodberrymonthly.blogspot.com/"/>
+      <outline text="Gordian Blade" type="rss" xmlUrl="https://gordianblade.substack.com/feed" htmlUrl="https://gordianblade.substack.com/"/>
       <outline text="Gorgon Bones" type="rss" xmlUrl="https://www.blogger.com/feeds/2548165050793803366/posts/default" htmlUrl="https://gorgonbones.blogspot.com/"/>
       <outline text="Gothridge Manor" type="rss" xmlUrl="https://www.blogger.com/feeds/1954394848487110923/posts/default" htmlUrl="http://gothridgemanor.blogspot.com/"/>
       <outline text="grammatica" type="rss" xmlUrl="https://grammatica.blot.im/feed.rss" htmlUrl="https://grammatica.blot.im/"/>
@@ -245,6 +249,8 @@
       <outline text="HOUSE of the MAGUS" type="rss" xmlUrl="https://blog.houseofthemagus.com/rss/" htmlUrl="https://blog.houseofthemagus.com/"/>
       <outline text="How to Succeed in RPGs or Die Trying" type="rss" xmlUrl="https://www.blogger.com/feeds/2101220466181178382/posts/default" htmlUrl="http://psychicmayhem.blogspot.com/"/>
       <outline text="https://chthonstone.blogspot.com" type="rss" xmlUrl="https://chthonstone.blogspot.com/" htmlUrl="https://chthonstone.blogspot.com/"/>
+      <outline text="https://gordianblade.substack.com/" type="rss" xmlUrl="https://gordianblade.substack.com/" htmlUrl="https://gordianblade.substack.com/"/>
+      <outline text="https://uncannyramblings.blot.im" type="rss" xmlUrl="https://uncannyramblings.blot.im/" htmlUrl="https://uncannyramblings.blot.im/"/>
       <outline text="hypertextfish" type="rss" xmlUrl="https://www.hypertextfish.org/feed.rss" htmlUrl="https://www.hypertextfish.org/"/>
       <outline text="I'll See It When I Believe It" type="rss" xmlUrl="http://blog.trilemma.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.trilemma.com/"/>
       <outline text="Ialath - A tabletop RPG blog by Robin Fjärem" type="rss" xmlUrl="https://ialath.com/blog.rss" htmlUrl="https://ialath.com/blog"/>
@@ -271,7 +277,7 @@
       <outline text="Jacob Marks Has A Blog Now" type="rss" xmlUrl="https://jacobmarkshasablognow.blot.im/feed.rss" htmlUrl="https://jacobmarkshasablognow.blot.im/"/>
       <outline text="James M. Spahn's RPG Musings" type="rss" xmlUrl="https://jamesmspahn.substack.com/feed" htmlUrl="https://jamesmspahn.substack.com/"/>
       <outline text="JARED" type="rss" xmlUrl="https://jared.blot.im/feed.rss" htmlUrl="https://jared.blot.im/"/>
-      <outline text="Jellysaw Games" type="rss" xmlUrl="https://www.blogger.com/feeds/5621791612260026164/posts/default" htmlUrl="http://jellysawgames.blogspot.com/"/>
+      <outline text="Jellysaw Games" type="rss" xmlUrl="https://jellysawgames.blogspot.com/feeds/posts/default" htmlUrl="http://jellysawgames.blogspot.com/"/>
       <outline text="Jeremy Hart Illos" type="rss" xmlUrl="http://jeremyhartillos.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://jeremyhartillos.blogspot.com/"/>
       <outline text="Joe Banner" type="rss" xmlUrl="https://joebanner.co.uk/feed/" htmlUrl="https://joebanner.co.uk/"/>
       <outline text="Journey Into the Weird" type="rss" xmlUrl="https://journeyintotheweird.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://journeyintotheweird.blogspot.com/"/>
@@ -335,6 +341,7 @@
       <outline text="mushrevolutionary" type="rss" xmlUrl="https://mush.bearblog.dev/feed/" htmlUrl="https://mush.bearblog.dev/"/>
       <outline text="MUTANTS AND MAGIC" type="rss" xmlUrl="http://mutantsmagic.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://mutantsmagic.blogspot.com/"/>
       <outline text="My Terrible Sorcery Is Without Equal In The West" type="rss" xmlUrl="http://terriblesorcery.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://terriblesorcery.blogspot.ca"/>
+      <outline text="Mythlands: The Setting to End All Settings" type="rss" xmlUrl="https://www.blogger.com/feeds/6669191050679589351/posts/default" htmlUrl="https://mythlands-erce.blogspot.com/"/>
       <outline text="Namirrha's Lair" type="rss" xmlUrl="https://namirrhaslair.com/feed/" htmlUrl="https://namirrhaslair.com/"/>
       <outline text="Necropraxis" type="rss" xmlUrl="https://www.necropraxis.com/feed/" htmlUrl="http://www.necropraxis.com/"/>
       <outline text="NecroRomance" type="rss" xmlUrl="https://www.blogger.com/feeds/1216586484394435986/posts/default" htmlUrl="https://necroromance.blogspot.com/"/>
@@ -342,6 +349,7 @@
       <outline text="Neepkite" type="rss" xmlUrl="https://www.blogger.com/feeds/5816780197418247893/posts/default" htmlUrl="https://neepkite.blogspot.com/"/>
       <outline text="Neradia" type="rss" xmlUrl="https://neradia.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://neradia.blogspot.com/"/>
       <outline text="Nerd-O-Mancer of Dork" type="rss" xmlUrl="https://nerdomancerofdork.wordpress.com/feed/" htmlUrl="https://nerdomancerofdork.wordpress.com"/>
+      <outline text="Nerdtropolis" type="rss" xmlUrl="https://nerdtropolis.home.blog/feed/" htmlUrl="https://nerdtropolis.home.blog/"/>
       <outline text="nerdwerds" type="rss" xmlUrl="https://nerdwerds.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://nerdwerds.blogspot.com/"/>
       <outline text="Neural Archive" type="rss" xmlUrl="https://www.blogger.com/feeds/4409005792396116162/posts/default" htmlUrl="http://neuralarchive.blogspot.com/"/>
       <outline text="New School Revolution" type="rss" xmlUrl="https://newschoolrevolution.com/feed.xml" htmlUrl="https://newschoolrevolution.com/"/>
@@ -354,8 +362,8 @@
       <outline text="Numbers Aren't Real" type="rss" xmlUrl="https://www.blogger.com/feeds/4732712959114181705/posts/default" htmlUrl="https://as-they-must.blogspot.com/"/>
       <outline text="Observations of the Fox" type="rss" xmlUrl="https://www.blogger.com/feeds/2482451413021840738/posts/default" htmlUrl="http://vulpinoid.blogspot.com/"/>
       <outline text="Occultesque" type="rss" xmlUrl="http://www.occultesque.com/feeds/posts/default?alt=rss" htmlUrl="https://www.occultesque.com/"/>
-      <outline text="Occultronics" type="rss" xmlUrl="https://occultronics.blogspot.com/feeds/posts/default" htmlUrl="https://occultronics.blogspot.com/"/>
-      <outline text="Of Slugs and Silver" type="rss" xmlUrl="https://www.blogger.com/feeds/7584465046053664401/posts/default" htmlUrl="https://slugsandsilver.blogspot.com/"/>
+      <outline text="Occultronics" type="rss" xmlUrl="https://www.blogger.com/feeds/6377085597972659563/posts/default" htmlUrl="https://occultronics.blogspot.com/"/>
+      <outline text="Of Slugs and Silver" type="rss" xmlUrl="https://slugsandsilver.blogspot.com/feeds/posts/default" htmlUrl="https://slugsandsilver.blogspot.com/"/>
       <outline text="Old School Armory" type="rss" xmlUrl="https://osarmory.com/feed/" htmlUrl="https://osarmory.com/"/>
       <outline text="Old School FRP" type="rss" xmlUrl="https://oldschoolfrp.tumblr.com/rss" htmlUrl="https://oldschoolfrp.tumblr.com/"/>
       <outline text="Old Scouser Roleplaying" type="rss" xmlUrl="https://oldscouserroleplaying.com/feed/" htmlUrl="https://oldscouserroleplaying.com/"/>
@@ -378,6 +386,7 @@
       <outline text="Paul's Gameblog" type="rss" xmlUrl="https://www.paulsgameblog.com/feed/" htmlUrl="https://www.paulsgameblog.com/"/>
       <outline text="Peakrill Press" type="rss" xmlUrl="https://blog.peakrill.com/feeds/posts/default" htmlUrl="https://blog.peakrill.com/"/>
       <outline text="Penny Ventures" type="rss" xmlUrl="https://www.blogger.com/feeds/2897137462661840167/posts/default" htmlUrl="https://pennyventures.blogspot.com/"/>
+      <outline text="Periapt Games Design Blog" type="rss" xmlUrl="https://www.blogger.com/feeds/3954533897440704535/posts/default" htmlUrl="https://periaptgames.blogspot.com/"/>
       <outline text="Peril and Plunder" type="rss" xmlUrl="https://perilandplunder.wordpress.com/feed/" htmlUrl="https://perilandplunder.wordpress.com/"/>
       <outline text="Perils &amp; Wonders" type="rss" xmlUrl="https://blog.perilsandwonders.com/feed.rss" htmlUrl="https://blog.perilsandwonders.com/"/>
       <outline text="Permanent Cranial Damage" type="rss" xmlUrl="https://www.blogger.com/feeds/8875231391362950285/posts/default" htmlUrl="https://permacrandam.blogspot.com/"/>
@@ -390,18 +399,19 @@
       <outline text="Playful Void" type="rss" xmlUrl="https://playfulvoid.game.blog/feed/" htmlUrl="https://playfulvoid.game.blog/"/>
       <outline text="Playing at the World" type="rss" xmlUrl="https://www.blogger.com/feeds/2688079707543352822/posts/default" htmlUrl="https://playingattheworld.blogspot.com/"/>
       <outline text="Playing Dice with the Universe" type="rss" xmlUrl="http://dice-universe.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://dice-universe.blogspot.com/"/>
-      <outline text="Playing with Electrons to Make Stories" type="rss" xmlUrl="https://www.blogger.com/feeds/1465200572686840170/posts/default" htmlUrl="http://ianchagan.blogspot.com/"/>
+      <outline text="Playing with Electrons to Make Stories" type="rss" xmlUrl="https://ianchagan.blogspot.com/feeds/posts/default" htmlUrl="http://ianchagan.blogspot.com/"/>
       <outline text="Pointless Monument" type="rss" xmlUrl="https://pointlessmonument.blot.im/feed.rss" htmlUrl="https://pointlessmonument.blot.im/"/>
       <outline text="poisonous cloak" type="rss" xmlUrl="https://poisonouscloak.blogspot.com/feeds/posts/default" htmlUrl="https://poisonouscloak.blogspot.com/"/>
       <outline text="Polyhedral Nonsense" type="rss" xmlUrl="https://polyhedralnonsense.com/feed/" htmlUrl="https://polyhedralnonsense.wordpress.com/"/>
       <outline text="Ponderings on Games" type="rss" xmlUrl="https://ponderingsongames.com/feed/" htmlUrl="https://ponderingsongames.com/"/>
       <outline text="Portcullis - Fanzine" type="rss" xmlUrl="https://www.blogger.com/feeds/8612950373032339237/posts/default" htmlUrl="http://portcullis-rpg.blogspot.com/"/>
+      <outline text="Post-Mortem" type="rss" xmlUrl="https://paradisebunny.bearblog.dev/feed/" htmlUrl="https://paradisebunny.bearblog.dev/"/>
       <outline text="postdungeon.games" type="rss" xmlUrl="https://www.postdungeon.games/feed.xml" htmlUrl="https://www.postdungeon.games/"/>
       <outline text="Posts on B3L7" type="rss" xmlUrl="https://b3l7.com/posts/index.xml" htmlUrl="https://b3l7.com/posts/"/>
       <outline text="Pretendo" type="rss" xmlUrl="https://pretendo.games/feed/" htmlUrl="https://pretendo.games/"/>
       <outline text="Prismatic Wasteland" type="rss" xmlUrl="https://www.prismaticwasteland.com/blog?format=rss" htmlUrl="https://www.prismaticwasteland.com/"/>
       <outline text="Profane Ape" type="rss" xmlUrl="https://profaneape.com/feed/" htmlUrl="https://profaneape.com/"/>
-      <outline text="Project Almagest" type="rss" xmlUrl="https://www.blogger.com/feeds/4856575331443030183/posts/default" htmlUrl="https://projectalmagest.blogspot.com/"/>
+      <outline text="Project Almagest" type="rss" xmlUrl="https://projectalmagest.blogspot.com/feeds/posts/default" htmlUrl="https://projectalmagest.blogspot.com/"/>
       <outline text="Quantum Ogre" type="rss" xmlUrl="https://quantumogre.blot.im/feed.rss" htmlUrl="https://quantumogre.blot.im/"/>
       <outline text="Quarterling’s Corner" type="rss" xmlUrl="https://www.blogger.com/feeds/4906505834964508261/posts/default" htmlUrl="https://quarterlingscorner.blogspot.com/"/>
       <outline text="QuasiWizard" type="rss" xmlUrl="https://www.blogger.com/feeds/7564662000959139522/posts/default" htmlUrl="https://quajzen.blogspot.com/"/>
@@ -409,17 +419,19 @@
       <outline text="Rakehell: a perfidious zine" type="rss" xmlUrl="https://www.rakehellzine.com/feeds/posts/default" htmlUrl="https://www.rakehellzine.com/"/>
       <outline text="Random Average" type="rss" xmlUrl="http://randomaverage.com/index.php/feed/" htmlUrl="http://randomaverage.com/"/>
       <outline text="Random table of the week" type="rss" xmlUrl="https://randomtableoftheweek.wordpress.com/feed/" htmlUrl="https://randomtableoftheweek.wordpress.com/"/>
+      <outline text="Raphael’s Substack" type="rss" xmlUrl="https://thegamesgardener.substack.com/feed" htmlUrl="https://thegamesgardener.substack.com/"/>
       <outline text="Ratcatcher" type="rss" xmlUrl="https://www.ratcatcher.org/feed.rss" htmlUrl="https://www.ratcatcher.org/"/>
       <outline text="Raven's Shire - Fairies and Fairy Tales" type="rss" xmlUrl="https://www.blogger.com/feeds/4506693061066226676/posts/default?redirect=false" htmlUrl="http://fairies.zeluna.net/"/>
       <outline text="Raven Crowking's Nest" type="rss" xmlUrl="https://www.blogger.com/feeds/1801483473113363785/posts/default" htmlUrl="http://ravencrowking.blogspot.com/"/>
       <outline text="Raven God Games" type="rss" xmlUrl="https://ravengodgames.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://ravengodgames.blogspot.com/"/>
       <outline text="Ready To Role" type="rss" xmlUrl="https://readytorole.com/feed/" htmlUrl="https://readytorole.com/"/>
       <outline text="REALM BUILDER GUY" type="rss" xmlUrl="https://www.blogger.com/feeds/8883542749111793560/posts/default" htmlUrl="https://www.realmbuilderguy.com/"/>
-      <outline text="Red Berries for the Red Planet" type="rss" xmlUrl="https://www.blogger.com/feeds/2629649164612104723/posts/default" htmlUrl="https://redberryplanet.blogspot.com/"/>
+      <outline text="Red Berries for the Red Planet" type="rss" xmlUrl="https://redberryplanet.blogspot.com/feeds/posts/default" htmlUrl="https://redberryplanet.blogspot.com/"/>
       <outline text="Refereeing and Reflection" type="rss" xmlUrl="https://refereeingandreflection.wordpress.com/feed/" htmlUrl="https://refereeingandreflection.wordpress.com/"/>
       <outline text="Remixes and Revelations" type="rss" xmlUrl="https://www.blogger.com/feeds/7473866157250794633/posts/default" htmlUrl="https://www.remixesandrevelations.com/"/>
       <outline text="Renaissance Gamer" type="rss" xmlUrl="https://dorklordcanada.ca/feed/" htmlUrl="https://renaissancegamer.ca/"/>
       <outline text="ResourceFULL, a sort of RPG." type="rss" xmlUrl="https://resourcefullrpg.wordpress.com/feed/" htmlUrl="https://resourcefullrpg.wordpress.com/"/>
+      <outline text="Retroclone" type="rss" xmlUrl="https://retroclone.substack.com/feed" htmlUrl="https://retroclone.substack.com/"/>
       <outline text="Return of the Dungeon Master" type="rss" xmlUrl="https://returnofthedm.wordpress.com/feed/" htmlUrl="https://returnofthedm.com/"/>
       <outline text="Revenant's Quill" type="rss" xmlUrl="https://www.blogger.com/feeds/5387099509847629173/posts/default" htmlUrl="https://www.revenant-quill.com/"/>
       <outline text="Revenant Rogue Games" type="rss" xmlUrl="https://www.blogger.com/feeds/5811888764795411419/posts/default" htmlUrl="https://revenantrogue.blogspot.com/"/>
@@ -431,7 +443,7 @@
       <outline text="Rolling Boxcars" type="rss" xmlUrl="https://rollingboxcars.com/feed/" htmlUrl="https://rollingboxcars.com/"/>
       <outline text="Roll Plus Hot" type="rss" xmlUrl="https://michaelduxbury.com/feed/" htmlUrl="https://michaelduxbury.com/"/>
       <outline text="Roll to Doubt" type="rss" xmlUrl="https://rolltodoubt.wordpress.com/feed/" htmlUrl="https://rolltodoubt.wordpress.com/"/>
-      <outline text="Rolltop Indigo" type="rss" xmlUrl="https://www.blogger.com/feeds/8352325119608729850/posts/default" htmlUrl="https://rolltop-indigo.blogspot.com/"/>
+      <outline text="Rolltop Indigo" type="rss" xmlUrl="https://rolltop-indigo.blogspot.com/feeds/posts/default" htmlUrl="https://rolltop-indigo.blogspot.com/"/>
       <outline text="Rose &amp; Kingfisher" type="rss" xmlUrl="https://www.blogger.com/feeds/5758057333660224874/posts/default" htmlUrl="https://roseandkingfisher.blogspot.com/"/>
       <outline text="Rotten Pulp" type="rss" xmlUrl="https://www.blogger.com/feeds/5198965507306079094/posts/default" htmlUrl="https://rottenpulp.blogspot.com/"/>
       <outline text="RPGnet News &amp; Updates" type="rss" xmlUrl="https://www.rpg.net/index.xml" htmlUrl="https://www.rpg.net/"/>
@@ -454,6 +466,7 @@
       <outline text="Semper Initiativus Unum" type="rss" xmlUrl="https://www.blogger.com/feeds/5377543525075660166/posts/default" htmlUrl="http://initiativeone.blogspot.com/"/>
       <outline text="Session Zero" type="rss" xmlUrl="https://blog.symbolic.city/feed/" htmlUrl="https://blog.symbolic.city/"/>
       <outline text="Sexually Transmitted Centipedes" type="rss" xmlUrl="https://www.blogger.com/feeds/8887935954959413432/posts/default" htmlUrl="https://sexuallytransmittedcentipedes.blogspot.com/"/>
+      <outline text="Shadow &amp;amp; Fae" type="rss" xmlUrl="https://www.blogger.com/feeds/6128352641718516309/posts/default" htmlUrl="https://shadowandfae.blogspot.com/"/>
       <outline text="Sheep and Sorcery" type="rss" xmlUrl="https://www.blogger.com/feeds/7167443754563041237/posts/default" htmlUrl="https://sheepandsorcery.blogspot.com/"/>
       <outline text="Shoalmont Games" type="rss" xmlUrl="https://shoalmontgames.com/feed/" htmlUrl="https://shoalmontgames.wordpress.com/"/>
       <outline text="Shotguns and Sorcery" type="rss" xmlUrl="https://www.blogger.com/feeds/9073709086309447285/posts/default" htmlUrl="https://shotgunsandsorcery.blogspot.com/"/>
@@ -485,7 +498,7 @@
       <outline text="Spooky action at a distance" type="rss" xmlUrl="https://spooky.blot.im/feed.rss" htmlUrl="https://spooky.blot.im/"/>
       <outline text="Spooky Rusty" type="rss" xmlUrl="https://www.blogger.com/feeds/7109916485055114080/posts/default" htmlUrl="http://www.spookyrusty.com/"/>
       <outline text="Spooky Spaceships" type="rss" xmlUrl="https://www.spookyspaceships.com/atom.xml" htmlUrl="https://www.spookyspaceships.com//"/>
-      <outline text="Spot Hidden" type="rss" xmlUrl="https://www.blogger.com/feeds/5714654744774216765/posts/default" htmlUrl="http://spothidden.blogspot.com/"/>
+      <outline text="Spot Hidden" type="rss" xmlUrl="https://spothidden.blogspot.com/feeds/posts/default" htmlUrl="http://spothidden.blogspot.com/"/>
       <outline text="Spouting Lore" type="rss" xmlUrl="https://www.blogger.com/feeds/4388201247937029815/posts/default" htmlUrl="https://spoutinglore.blogspot.com/"/>
       <outline text="Spriggan's Den" type="rss" xmlUrl="http://spriggans-den.com/feed/" htmlUrl="http://spriggans-den.com/"/>
       <outline text="Spriggan's Den" type="rss" xmlUrl="https://spriggans-den.com/feed/" htmlUrl="https://spriggans-den.com/"/>
@@ -495,7 +508,7 @@
       <outline text="Stories &amp; Dice" type="rss" xmlUrl="https://sndrpg.home.blog/feed/" htmlUrl="https://sndrpg.home.blog/"/>
       <outline text="Stories by sean f. smith / he, him on Medium" type="rss" xmlUrl="https://medium.com/@sean-f-smith/feed" htmlUrl="https://medium.com/@sean-f-smith?source=rss-49c0a5ebe109------2"/>
       <outline text="Straits of Anián" type="rss" xmlUrl="https://www.blogger.com/feeds/4684706459804289214/posts/default" htmlUrl="https://straitsofanian.blogspot.com/"/>
-      <outline text="Strange Celestial Roads" type="rss" xmlUrl="https://www.blogger.com/feeds/8433011107102184291/posts/default" htmlUrl="https://strangecelestialroads.blogspot.com/"/>
+      <outline text="Strange Celestial Roads" type="rss" xmlUrl="https://strangecelestialroads.blogspot.com/feeds/posts/default" htmlUrl="https://strangecelestialroads.blogspot.com/"/>
       <outline text="Strange Vistas" type="rss" xmlUrl="https://strangevistas.org/feed/" htmlUrl="https://strangevistas.org"/>
       <outline text="Streebor's Grove" type="rss" xmlUrl="https://streebor.wordpress.com/feed/" htmlUrl="https://streebor.wordpress.com/"/>
       <outline text="Stuffed Crocodile" type="rss" xmlUrl="https://gmkeros.wordpress.com/feed/" htmlUrl="https://gmkeros.wordpress.com/"/>
@@ -525,18 +538,20 @@
       <outline text="Tearless Retina" type="rss" xmlUrl="https://tearlessretina.blogspot.com/feeds/posts/default" htmlUrl="https://tearlessretina.blogspot.com/"/>
       <outline text="Technical Grimoire" type="rss" xmlUrl="https://www.technicalgrimoire.com/feed.xml" htmlUrl="https://technicalgrimoire.com/"/>
       <outline text="Technoskald's Forge" type="rss" xmlUrl="https://technoskald.me/feed/" htmlUrl="https://technoskald.me/"/>
-      <outline text="Telesthesia" type="rss" xmlUrl="https://www.blogger.com/feeds/6582552934894833162/posts/default" htmlUrl="https://key-of-geo.blogspot.com/"/>
+      <outline text="Telesthesia" type="rss" xmlUrl="https://key-of-geo.blogspot.com/feeds/posts/default" htmlUrl="https://key-of-geo.blogspot.com/"/>
       <outline text="Ten Foot Polemic" type="rss" xmlUrl="http://tenfootpolemic.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://tenfootpolemic.blogspot.com/"/>
       <outline text="textgolem" type="rss" xmlUrl="https://www.blogger.com/feeds/8672191513666548464/posts/default" htmlUrl="https://textgolem.blogspot.com/"/>
-      <outline text="ThacO Blog" type="rss" xmlUrl="https://www.blogger.com/feeds/4294540734219357499/posts/default" htmlUrl="https://thac0rpg.blogspot.com/"/>
+      <outline text="ThacO Blog" type="rss" xmlUrl="https://thac0rpg.blogspot.com/feeds/posts/default" htmlUrl="https://thac0rpg.blogspot.com/"/>
       <outline text="the-other-hack" type="rss" xmlUrl="https://robotgames.github.io/the-other-hack/feed.xml" htmlUrl="https://robotgames.github.io/the-other-hack/"/>
       <outline text="The Acorn Afloat" type="rss" xmlUrl="https://acornafloat.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://acornafloat.blogspot.com/"/>
+      <outline text="The Adventure Gaming Periodical" type="rss" xmlUrl="https://newsletter.rvgames.company/feed" htmlUrl="https://newsletter.rvgames.company/"/>
       <outline text="The Alexandrian" type="rss" xmlUrl="http://thealexandrian.net/feed" htmlUrl="http://thealexandrian.net/"/>
       <outline text="The Amateur Dungeoneers" type="rss" xmlUrl="https://theamateurdungeoneers.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://theamateurdungeoneers.blogspot.com/"/>
+      <outline text="The Ash, the Elder, and the Hen Elm" type="rss" xmlUrl="https://www.blogger.com/feeds/8956025612262657264/posts/default" htmlUrl="https://aehelm.blogspot.com/"/>
       <outline text="The Bayfield Dragon" type="rss" xmlUrl="https://bayfielddragon.bearblog.dev/feed/?type=rss" htmlUrl="https://bayfielddragon.bearblog.dev/"/>
       <outline text="The Bearded Belgian's Playground" type="rss" xmlUrl="https://thebeardedbelgiansplayground.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://thebeardedbelgiansplayground.blogspot.com/"/>
       <outline text="The Benign Brown Beast" type="rss" xmlUrl="https://www.blogger.com/feeds/6918914166814499989/posts/default" htmlUrl="https://benignbrownbeast.blogspot.com/"/>
-      <outline text="The Bogeyman's Cave" type="rss" xmlUrl="https://www.blogger.com/feeds/7060884878909931969/posts/default" htmlUrl="https://bogeymanscave.blogspot.com/"/>
+      <outline text="The Bogeyman's Cave" type="rss" xmlUrl="https://bogeymanscave.blogspot.com/feeds/posts/default" htmlUrl="https://bogeymanscave.blogspot.com/"/>
       <outline text="The Bone Box Chant" type="rss" xmlUrl="https://boneboxchant.wordpress.com/feed/" htmlUrl="https://boneboxchant.wordpress.com/"/>
       <outline text="The Borderlands" type="rss" xmlUrl="https://www.blogger.com/feeds/3085201365636163813/posts/default" htmlUrl="https://dndborderlands.blogspot.com/"/>
       <outline text="The Bottomless Sarcophagus" type="rss" xmlUrl="https://www.blogger.com/feeds/2914475350049709889/posts/default" htmlUrl="https://bottomlesssarcophagus.blogspot.com/"/>
@@ -574,7 +589,7 @@
       <outline text="The Indie Game Reading Club" type="rss" xmlUrl="https://www.indiegamereadingclub.com/feed/" htmlUrl="https://www.indiegamereadingclub.com/"/>
       <outline text="The Lady and Tiger" type="rss" xmlUrl="https://theladyandtiger.com/feed/" htmlUrl="https://theladyandtiger.com/"/>
       <outline text="The Last Redoubt" type="rss" xmlUrl="https://www.blogger.com/feeds/6896774043904174108/posts/default" htmlUrl="https://the-last-redoubt.blogspot.com/"/>
-      <outline text="The Latest Enemy" type="rss" xmlUrl="https://thelatestenemy.blogspot.com/feeds/posts/default" htmlUrl="https://thelatestenemy.blogspot.com/"/>
+      <outline text="The Latest Enemy" type="rss" xmlUrl="https://www.blogger.com/feeds/8314482976520526936/posts/default" htmlUrl="https://thelatestenemy.blogspot.com/"/>
       <outline text="The Lizard Man Diaries" type="rss" xmlUrl="http://lizardmandiaries.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://lizardmandiaries.blogspot.com/"/>
       <outline text="The lost bay" type="rss" xmlUrl="https://www.blogger.com/feeds/183251272897961228/posts/default" htmlUrl="https://thelostbayrpg.blogspot.com/"/>
       <outline text="The Lovely Dark" type="rss" xmlUrl="https://www.blogger.com/feeds/8833361808633288434/posts/default" htmlUrl="https://thelovelydark.blogspot.com/"/>
@@ -586,7 +601,7 @@
       <outline text="The Manse" type="rss" xmlUrl="https://www.blogger.com/feeds/7206213008887812033/posts/default" htmlUrl="http://themansegaming.blogspot.com/"/>
       <outline text="The Man With A Hammer" type="rss" xmlUrl="https://www.blogger.com/feeds/7787804057498152931/posts/default" htmlUrl="https://themanwithahammer.blogspot.com/"/>
       <outline text="The Marquisat" type="rss" xmlUrl="https://www.blogger.com/feeds/5542736009709777215/posts/default" htmlUrl="http://themarquisat.blogspot.com/"/>
-      <outline text="The Maze Controller" type="rss" xmlUrl="https://www.blogger.com/feeds/7417577650092521165/posts/default" htmlUrl="https://mazecontrol.blogspot.com/"/>
+      <outline text="The Maze Controller" type="rss" xmlUrl="https://www.mazecontrol.com/feeds/posts/default" htmlUrl="https://mazecontrol.blogspot.com/"/>
       <outline text="The Merry Mushmen" type="rss" xmlUrl="http://merrymushmen.canalblog.com/rss.xml" htmlUrl="http://merrymushmen.canalblog.com/"/>
       <outline text="The Metal Bard" type="rss" xmlUrl="https://www.blogger.com/feeds/145485771088576261/posts/default" htmlUrl="https://themetalbard.blogspot.com/"/>
       <outline text="The Midding-lands" type="rss" xmlUrl="https://www.blogger.com/feeds/4485737527873370005/posts/default" htmlUrl="https://themidding-lands.blogspot.com/"/>
@@ -597,22 +612,23 @@
       <outline text="The Nine and Thirty Kingdoms" type="rss" xmlUrl="http://9and30kingdoms.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://9and30kingdoms.blogspot.com/"/>
       <outline text="The Nothic's Eye" type="rss" xmlUrl="https://www.blogger.com/feeds/1292440504915122926/posts/default" htmlUrl="https://nothicseye.blogspot.com/"/>
       <outline text="The Oblidisideryptch" type="rss" xmlUrl="https://www.blogger.com/feeds/6518342402088928054/posts/default" htmlUrl="https://oblidisideryptch.blogspot.com/"/>
+      <outline text="The Pastel Dungeon" type="rss" xmlUrl="https://www.blogger.com/feeds/7652221727289651040/posts/default" htmlUrl="https://thepasteldungeon.blogspot.com/"/>
       <outline text="The Ramblings of a Muppet" type="rss" xmlUrl="https://www.blogger.com/feeds/4596572538641768141/posts/default" htmlUrl="https://soulmuppet.blogspot.com/"/>
       <outline text="The Realm of Zhu" type="rss" xmlUrl="https://www.blogger.com/feeds/2385336331396124855/posts/default?redirect=false" htmlUrl="http://realmofzhu.blogspot.com/"/>
       <outline text="There Could Have Been Snakes" type="rss" xmlUrl="https://therecouldhavebeensnakes.wordpress.com/feed/" htmlUrl="https://therecouldhavebeensnakes.wordpress.com/"/>
       <outline text="The Renaissance Woodsman" type="rss" xmlUrl="https://renaissancewoodsman.wordpress.com/feed/" htmlUrl="https://renaissancewoodsman.wordpress.com/"/>
       <outline text="The Retired Adventurer" type="rss" xmlUrl="https://www.blogger.com/feeds/323276912086013429/posts/default?redirect=false" htmlUrl="http://retiredadventurer.blogspot.com/"/>
       <outline text="The Roleplay Rescue Blog" type="rss" xmlUrl="https://roleplayrescue.com/feed/" htmlUrl="https://roleplayrescue.com/"/>
-      <outline text="The Sage DM" type="rss" xmlUrl="https://thesagedm.blogspot.com/feeds/posts/default" htmlUrl="https://thesagedm.blogspot.com/"/>
+      <outline text="The Sage DM" type="rss" xmlUrl="https://www.blogger.com/feeds/1932658081663089067/posts/default" htmlUrl="https://thesagedm.blogspot.com/"/>
       <outline text="The Scones Alone" type="rss" xmlUrl="https://blog.thesconesalone.com/feeds/posts/default?alt=rss" htmlUrl="https://blog.thesconesalone.com/"/>
       <outline text="The Secret DM" type="rss" xmlUrl="https://www.blogger.com/feeds/2754616967629768635/posts/default?redirect=false" htmlUrl="http://www.thesecretdm.com/"/>
-      <outline text="The Secret Game - Il Gioco Segreto" type="rss" xmlUrl="https://www.blogger.com/feeds/2464025561115503525/posts/default" htmlUrl="https://scrtgm.blogspot.com/"/>
+      <outline text="The Secret Game - Il Gioco Segreto" type="rss" xmlUrl="https://scrtgm.blogspot.com/feeds/posts/default" htmlUrl="https://scrtgm.blogspot.com/"/>
       <outline text="The Seven Deadly Dungeons" type="rss" xmlUrl="https://www.blogger.com/feeds/6986284846029388360/posts/default" htmlUrl="https://sevendeadlydungeons.blogspot.com/"/>
-      <outline text="The Space Cockroach's Hideout" type="rss" xmlUrl="https://spacecockroach.blogspot.com/feeds/posts/default" htmlUrl="http://spacecockroach.blogspot.com/"/>
-      <outline text="The Sword of Sorcery" type="rss" xmlUrl="https://hexelis.blogspot.com/feeds/posts/default" htmlUrl="https://hexelis.blogspot.com/"/>
+      <outline text="The Space Cockroach's Hideout" type="rss" xmlUrl="https://www.blogger.com/feeds/1014248690808215206/posts/default" htmlUrl="http://spacecockroach.blogspot.com/"/>
+      <outline text="The Sword of Sorcery" type="rss" xmlUrl="https://www.blogger.com/feeds/8202297806268449156/posts/default" htmlUrl="https://hexelis.blogspot.com/"/>
       <outline text="The Things We Do for XP" type="rss" xmlUrl="https://thethingswedoforxp.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://thethingswedoforxp.blogspot.com/"/>
       <outline text="The Tome of Lost Lore" type="rss" xmlUrl="https://tomeoflostlore.wordpress.com/feed/" htmlUrl="https://tomeoflostlore.wordpress.com/"/>
-      <outline text="The Viridian Scroll" type="rss" xmlUrl="https://www.blogger.com/feeds/4867870897235502399/posts/default" htmlUrl="https://viridianscroll.blogspot.com/"/>
+      <outline text="The Viridian Scroll" type="rss" xmlUrl="https://viridianscroll.blogspot.com/feeds/posts/default" htmlUrl="https://viridianscroll.blogspot.com/"/>
       <outline text="The Walking Mind" type="rss" xmlUrl="http://walkingmind.evilhat.com/feed/" htmlUrl="http://walkingmind.evilhat.com/"/>
       <outline text="The Wasted Lands" type="rss" xmlUrl="https://www.blogger.com/feeds/7552783300752163646/posts/default" htmlUrl="https://wastedlandsfantasy.blogspot.com/"/>
       <outline text="The Weird Hoard" type="rss" xmlUrl="https://www.blogger.com/feeds/2000155500543202242/posts/default" htmlUrl="https://theweirdhoard.blogspot.com/"/>
@@ -633,7 +649,7 @@
       <outline text="Tomes of Tomes" type="rss" xmlUrl="http://www.supernovembergames.com/tomes-of-tomes?format=RSS" htmlUrl="http://www.supernovembergames.com/tomes-of-tomes/"/>
       <outline text="Too Many Swords" type="rss" xmlUrl="https://toomanyswords.com/feed/" htmlUrl="https://toomanyswords.com/"/>
       <outline text="Tower of the Archmage" type="rss" xmlUrl="http://towerofthearchmage.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://towerofthearchmage.blogspot.com/"/>
-      <outline text="TP's RPG blog" type="rss" xmlUrl="https://tpsrpg.blogspot.com/feeds/posts/default" htmlUrl="http://tpsrpg.blogspot.com/"/>
+      <outline text="TP's RPG blog" type="rss" xmlUrl="https://www.blogger.com/feeds/5528104651924327648/posts/default" htmlUrl="http://tpsrpg.blogspot.com/"/>
       <outline text="TRAIPSE" type="rss" xmlUrl="https://www.blogger.com/feeds/4830254151832782965/posts/default" htmlUrl="https://traipse.hexarcana.com/"/>
       <outline text="Traveler's Rest" type="rss" xmlUrl="https://rest.blot.im/feed.rss" htmlUrl="https://rest.blot.im/"/>
       <outline text="TRAVELING MAILSMAN" type="rss" xmlUrl="https://www.blogger.com/feeds/7971555521703978024/posts/default" htmlUrl="https://travelingmailsman.blogspot.com/"/>
@@ -645,7 +661,7 @@
       <outline text="Turpentine Mouthwash" type="rss" xmlUrl="http://jonwake.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://jonwake.blogspot.com/"/>
       <outline text="Twisted Cities" type="rss" xmlUrl="https://twistedcities.wordpress.com/feed/" htmlUrl="https://twistedcities.wordpress.com/"/>
       <outline text="Two Goblins in a Trenchcoat" type="rss" xmlUrl="https://www.blogger.com/feeds/63511494251157946/posts/default" htmlUrl="https://twogoblinsinatrenchcoat.blogspot.com/"/>
-      <outline text="Tír na nÓg" type="rss" xmlUrl="https://tirnanoggames.blogspot.com/feeds/posts/default" htmlUrl="https://tirnanoggames.blogspot.com/"/>
+      <outline text="Tír na nÓg" type="rss" xmlUrl="https://www.blogger.com/feeds/2536113511936382064/posts/default" htmlUrl="https://tirnanoggames.blogspot.com/"/>
       <outline text="UbiquitousRat.net" type="rss" xmlUrl="http://ubiquitousrat.net/?feed=rss2" htmlUrl="http://ubiquitousrat.net/"/>
       <outline text="Uncanny Ramblings" type="rss" xmlUrl="https://uncannyramblings.blot.im/feed.rss" htmlUrl="https://uncannyramblings.blot.im/"/>
       <outline text="Uncanny Spheres" type="rss" xmlUrl="https://www.blogger.com/feeds/2705927879272567688/posts/default" htmlUrl="https://uncannyspheres.blogspot.com/"/>
@@ -661,11 +677,12 @@
       <outline text="vaulting skies and emerald swords" type="rss" xmlUrl="https://www.blogger.com/feeds/6756316794723230892/posts/default" htmlUrl="https://vaultingskies.blogspot.com/"/>
       <outline text="VAULTS /OF/ VAARN" type="rss" xmlUrl="https://vaultsofvaarn.com/feed/" htmlUrl="https://vaultsofvaarn.wordpress.com/"/>
       <outline text="VDONNUT VALLEY" type="rss" xmlUrl="https://vdonnutvalley.wordpress.com/feed/" htmlUrl="https://vdonnutvalley.wordpress.com/"/>
+      <outline text="VDonnut Valley" type="rss" xmlUrl="https://vdonnutvalley.bearblog.dev/feed/" htmlUrl="https://vdonnutvalley.bearblog.dev/"/>
       <outline text="Victory Fish" type="rss" xmlUrl="https://www.blogger.com/feeds/7928919613200999678/posts/default" htmlUrl="https://victoryfish.blogspot.com/"/>
       <outline text="VILE CULT OF SHAPES" type="rss" xmlUrl="https://www.blogger.com/feeds/8912219856277926711/posts/default" htmlUrl="http://vilecultofshapes.blogspot.com/"/>
       <outline text="Vladar's Blog" type="rss" xmlUrl="https://vladar.bearblog.dev/feed/?type=rss" htmlUrl="https://vladar.bearblog.dev/feed/?type=rss"/>
       <outline text="Void Legend" type="rss" xmlUrl="https://voidlegend.bearblog.dev/feed/?type=rss" htmlUrl="https://voidlegend.bearblog.dev/"/>
-      <outline text="Wampus Country" type="rss" xmlUrl="https://www.blogger.com/feeds/6935484436602082601/posts/default?redirect=false" htmlUrl="http://wampuscountry.blogspot.com/"/>
+      <outline text="Wampus Country" type="rss" xmlUrl="https://wampuscountry.blogspot.com/feeds/posts/default?redirect=false" htmlUrl="http://wampuscountry.blogspot.com/"/>
       <outline text="Wanderer Bills Journal" type="rss" xmlUrl="https://betola.de/wandererbill/feed/" htmlUrl="https://betola.de/wandererbill"/>
       <outline text="Wandering Amid the Fields" type="rss" xmlUrl="https://josephkrausz.substack.com/feed" htmlUrl="https://josephkrausz.substack.com/"/>
       <outline text="Wandering Boundless and Free" type="rss" xmlUrl="https://www.blogger.com/feeds/4021837309909314979/posts/default" htmlUrl="https://wanderingboundlessandfree.blogspot.com/"/>
@@ -678,7 +695,7 @@
       <outline text="Weirdward Ways" type="rss" xmlUrl="https://www.blogger.com/feeds/5628025111246881632/posts/default" htmlUrl="https://weirdwardways.blogspot.com/"/>
       <outline text="Weird Wonder - Amanda P.'s blog" type="rss" xmlUrl="https://weirdwonder.bearblog.dev/feed/?type=rss" htmlUrl="https://weirdwonder.bearblog.dev/"/>
       <outline text="werdna world" type="rss" xmlUrl="https://acodispo.net/rpg/posts/index.xml" htmlUrl="https://acodispo.net/rpg/posts/"/>
-      <outline text="What Would Conan Do?" type="rss" xmlUrl="https://www.blogger.com/feeds/8643238919407181018/posts/default" htmlUrl="http://whatwouldconando.blogspot.com/"/>
+      <outline text="What Would Conan Do?" type="rss" xmlUrl="https://whatwouldconando.blogspot.com/feeds/posts/default" htmlUrl="http://whatwouldconando.blogspot.com/"/>
       <outline text="Whispers from the Sky-Spire" type="rss" xmlUrl="https://sky-spire.bearblog.dev/feed/?type=rss" htmlUrl="https://sky-spire.bearblog.dev/"/>
       <outline text="White Box" type="rss" xmlUrl="http://whiteboxgame.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://whiteboxgame.blogspot.com/"/>
       <outline text="Whose Measure God Could Not Take" type="rss" xmlUrl="https://www.blogger.com/feeds/4553366133423006997/posts/default" htmlUrl="https://whosemeasure.blogspot.com/"/>
@@ -686,8 +703,8 @@
       <outline text="Willfully and Persistently" type="rss" xmlUrl="https://www.blogger.com/feeds/28300119/posts/default" htmlUrl="http://www.christinalea.com/"/>
       <outline text="Witch's Lair" type="rss" xmlUrl="https://youonlyneed6es.blogspot.com/feeds/posts/default" htmlUrl="https://youonlyneed6es.blogspot.com/"/>
       <outline text="Within the Dungeon" type="rss" xmlUrl="https://www.blogger.com/feeds/6910659094535980389/posts/default" htmlUrl="https://withinthedungeon.blogspot.com/"/>
-      <outline text="Wizard Fight Club" type="rss" xmlUrl="https://www.blogger.com/feeds/431666771602037176/posts/default" htmlUrl="https://wizardfightclub.blogspot.com/"/>
-      <outline text="wizard in the lighthouse" type="rss" xmlUrl="https://newtwizard.github.io/feed.xml" htmlUrl="https://newtwizard.github.io//"/>
+      <outline text="Wizard Fight Club" type="rss" xmlUrl="https://wizardfightclub.blogspot.com/feeds/posts/default" htmlUrl="https://wizardfightclub.blogspot.com/"/>
+      <outline text="wizard in the lighthouse" type="rss" xmlUrl="http://newtyoung.com/feed.xml" htmlUrl="https://newtwizard.github.io//"/>
       <outline text="Wizard Thief Fighter" type="rss" xmlUrl="https://www.wizardthieffighter.com/feed/" htmlUrl="http://www.wizardthieffighter.com/"/>
       <outline text="Wodan Gaming" type="rss" xmlUrl="https://wodangaming.blogspot.com/feeds/posts/default" htmlUrl="https://wodangaming.blogspot.com/"/>
       <outline text="Wondering Monsters?" type="rss" xmlUrl="https://www.blogger.com/feeds/7349399522106585708/posts/default" htmlUrl="https://wulfwaldrpg.blogspot.com/"/>
@@ -697,7 +714,7 @@
       <outline text="Wrathofzombie's Blog" type="rss" xmlUrl="https://wrathofzombie.wordpress.com/feed/" htmlUrl="https://wrathofzombie.wordpress.com/"/>
       <outline text="Wyrdspeak" type="rss" xmlUrl="https://www.blogger.com/feeds/7707669594261863817/posts/default" htmlUrl="https://wyrdspeak.blogspot.com/"/>
       <outline text="Xenio in a Bottle" type="rss" xmlUrl="https://xenio.bearblog.dev/feed/" htmlUrl="https://xenio.bearblog.dev/"/>
-      <outline text="Yak-Hack" type="rss" xmlUrl="https://www.blogger.com/feeds/7755923447244300404/posts/default" htmlUrl="https://yak-hack.blogspot.com/"/>
+      <outline text="Yak-Hack" type="rss" xmlUrl="https://yak-hack.blogspot.com/feeds/posts/default" htmlUrl="https://yak-hack.blogspot.com/"/>
       <outline text="Ynas Midgard's RPG Blog" type="rss" xmlUrl="https://ynasmidgard.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://ynasmidgard.blogspot.com/"/>
       <outline text="YUM/DM" type="rss" xmlUrl="https://yumdm.com/feed/" htmlUrl="https://yumdm.com/"/>
       <outline text="Zedeck Siew's Writing Hours" type="rss" xmlUrl="https://slowlorispress.com/rss" htmlUrl="http://zedecksiew.tumblr.com/"/>

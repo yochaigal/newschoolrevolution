@@ -26,7 +26,7 @@ Some adventures & settings that I love!
 A simple wargame/rpg to play with young children.
 
 ## My Feed
-- [OPML file of all my RPG blogs](/files/feeds_2024-05-08.opml) (Last Updated 05-23-2024)
+- [OPML file of all my RPG blogs](/files/feeds.opml) (Last Updated 10-22-2024)
 
 ### Communities I'm Part Of
 - [The Cauldron Discord](https://discord.io/newschoolrevolution) (NSR Chat)
